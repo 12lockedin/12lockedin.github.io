@@ -2,6 +2,8 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
+include: ['_pages']
+
 # Información del sitio
 title: Mi Blog Personal
 description: Un espacio minimalista para compartir ideas
