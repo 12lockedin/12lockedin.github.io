@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    
+    <!-- Estilos -->
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    
+    <!-- SEO Tags -->
+    {% seo %}
+</head>
+<body>
+    <!-- Header -->
+    {% include header.html %}
+    
+    <!-- Navegación -->
+    {% include navigation.html %}
+    
+    <!-- Contenido Principal -->
+    <main class="content">
+        {{ content }}
+    </main>
+    
+    <!-- Footer -->
+    {% include footer.html %}
+    
+    <!-- Scripts -->
+    <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+</body>
+</html>
