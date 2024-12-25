@@ -1,0 +1,48 @@
+# Información del sitio
+title: Mi Blog Personal
+description: Un espacio minimalista para compartir ideas
+author: Tu Nombre
+
+# Configuración del sitio
+url: "https://12lockedin.github.io"  # URL del sitio
+baseurl: ""
+permalink: /posts/:title/
+
+# Configuración visual
+theme_settings:
+  # Paleta de colores
+  colors:
+    primary: "#ffffff"     # Blanco dominante
+    secondary: "#f8f9fa"   # Gris muy claro
+    accent: "#007AFF"      # Azul suave similar a Apple
+    text: "#333333"        # Gris oscuro para texto
+    
+  # Tipografía
+  fonts:
+    heading: "-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif"
+    body: "-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
+    
+  # Espaciado y márgenes
+  spacing:
+    content_width: "800px"  # Ancho máximo del contenido
+    padding: "2rem"         # Espaciado general
+
+# Configuración de imágenes
+images:
+  quality: 85              # Calidad de compresión de imágenes
+  lazy_loading: true       # Carga diferida de imágenes
+
+# Configuración de animaciones
+animations:
+  enable: true
+  duration: "0.3s"        # Duración de transiciones
+
+# Plugins
+plugins:
+  - jekyll-seo-tag        # Para optimización SEO
+  - jekyll-sitemap        # Genera sitemap automático
+  - jekyll-paginate       # Para paginación de posts
+
+# Paginación
+paginate: 6               # Posts por página
+paginate_path: "/page:num/"
