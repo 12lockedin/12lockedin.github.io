@@ -169,6 +169,60 @@
     transition: all 0.3s ease;
   }
   
+  /* Posts en página principal */
+  .post-preview {
+    margin-bottom: 3rem;
+    padding-bottom: 3rem;
+    border-bottom: 1px solid var(--color-secondary);
+  }
+  
+  .post-preview:last-child {
+    border-bottom: none;
+  }
+  
+  .post-excerpt {
+    margin: 1rem 0;
+  }
+  
+  .read-more {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: var(--color-accent);
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .read-more:hover {
+    text-decoration: underline;
+  }
+  
+  /* Paginación */
+  .pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0;
+    border-top: 1px solid var(--color-secondary);
+  }
+  
+  .pagination a {
+    color: var(--color-accent);
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--color-accent);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+  }
+  
+  .pagination a:hover {
+    background-color: var(--color-accent);
+    color: var(--color-primary);
+  }
+  
+  .page-number {
+    color: #666;
+  }
+  
   /* Media queries intermedios */
   @media (min-width: 768px) and (max-width: 1024px) {
     :root {
