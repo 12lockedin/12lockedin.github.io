@@ -26,9 +26,13 @@
   
   /* Header */
   .site-header {
-    padding: var(--spacing);
-    background-color: var(--color-primary);
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  /* Comentamos los estilos del header pero los mantenemos para futura referencia */
+  /*
+  padding: var(--spacing);
+  background-color: var(--color-primary);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  */
+  display: none; /* Añadimos esta línea para ocultar el header */
   }
   
   .header-container {
