@@ -58,10 +58,11 @@
     top: 0;
     left: 0;
     right: 0;
-    z-index: 900;
+    z-index: 1100;
     backdrop-filter: blur(10px);
-    background-color: rgba(248, 249, 250, 0.95);
+    background-color: var(--color-secondary);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
   }
   
   .nav-container {
@@ -310,8 +311,8 @@
   transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   overflow-y: auto;
   box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
-  z-index: 1100;
-  margin-top: 4rem;
+  z-index: 900;
+  margin-top: 0;
 }
 
 .sidebar.hidden {
