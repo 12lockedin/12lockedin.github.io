@@ -42,8 +42,23 @@ document.addEventListener('DOMContentLoaded', function() {
     // Configurar eventos del sidebar
     if (sidebarToggle && sidebar && content) {
         // Click en el botón de toggle
-        sidebarToggle.addEventListener('click', () => {
+        sidebarToggle.addEventListener('click', (e) => {
+            e.stopPropagation();
             toggleSidebar();
+        });
+        
+        // Click fuera del sidebar
+        document.addEventListener('click', (e) => {
+            if (!sidebar.classList.contains('hidden') && 
+                !sidebar.contains(e.target) && 
+                !sidebarToggle.contains(e.target)) {
+                toggleSidebar(true);
+            }
+        });
+        
+        // Prevenir que los clicks dentro del sidebar lo cierren
+        sidebar.addEventListener('click', (e) => {
+            e.stopPropagation();
         });
         
         // Tecla Escape
