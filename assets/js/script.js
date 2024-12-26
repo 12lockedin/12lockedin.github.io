@@ -18,30 +18,55 @@ document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.querySelector('.search-input');
     const postsListItems = document.querySelectorAll('.posts-list-item');
     const anchors = document.querySelectorAll('a[href^="#"]');
-            sidebar.classList.toggle('hidden');
-            sidebarToggle.classList.toggle('active');
+    
+    // Función para manejar el estado del sidebar
+    function toggleSidebar(isHidden) {
+        sidebar.classList.toggle('hidden', isHidden);
+        sidebarToggle.classList.toggle('active', !isHidden);
+        content.classList.toggle('content--with-sidebar', !isHidden);
+        
+        // Actualizar ARIA y título
+        sidebarToggle.setAttribute('aria-expanded', !isHidden);
+        sidebarToggle.setAttribute('title', isHidden ? 'Mostrar barra lateral' : 'Ocultar barra lateral');
+        
+        // Guardar estado
+        localStorage.setItem(SIDEBAR_HIDDEN_KEY, isHidden);
+        
+        // Disparar evento de resize para manejar posibles cambios en el layout
+        window.dispatchEvent(new Event('resize'));
+    }
+
+    // Evento click del botón
     if (sidebarToggle && sidebar && content) {
         sidebarToggle.addEventListener('click', () => {
-            const isHidden = sidebar.classList.toggle('hidden');
-            sidebarToggle.classList.toggle('active');
-            sidebarToggle.setAttribute('aria-expanded', !isHidden);
-            content.classList.toggle('with-sidebar');
-            
-            // Actualizar el título del botón según el estado
-            sidebarToggle.title = isHidden ? 'Mostrar barra lateral' : 'Ocultar barra lateral';
-            
-            // Guardar el estado en localStorage
-            localStorage.setItem(SIDEBAR_HIDDEN_KEY, isHidden);
+            const isCurrentlyHidden = sidebar.classList.contains('hidden');
+            toggleSidebar(!isCurrentlyHidden);
         });
-
-        // Recuperar el estado guardado
-        const isSidebarHidden = localStorage.getItem(SIDEBAR_HIDDEN_KEY) === 'true';
-        if (isSidebarHidden) {
-            sidebar.classList.add('hidden');
-            sidebarToggle.classList.add('hidden');
-            content.classList.remove('with-sidebar');
+        
+        // Manejar tecla Escape para cerrar el sidebar
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && !sidebar.classList.contains('hidden')) {
+                toggleSidebar(true);
+            }
+        });
+        
+        // Restaurar estado guardado
+        const savedState = localStorage.getItem(SIDEBAR_HIDDEN_KEY);
+        if (savedState === 'true') {
+            toggleSidebar(true);
         }
     }
+    
+    // Manejar cambios de tamaño de ventana
+    let timeout;
+    window.addEventListener('resize', () => {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => {
+            if (window.innerWidth <= 768 && !sidebar.classList.contains('hidden')) {
+                toggleSidebar(true);
+            }
+        }, 250);
+    });
 
     // Funcionalidad de búsqueda
     if (searchInput && postsListItems.length) {
