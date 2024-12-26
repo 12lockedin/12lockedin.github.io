@@ -250,3 +250,109 @@
       gap: 1rem;
     }
   }
+
+/* ... (resto de estilos anteriores) ... */
+
+/* Barra lateral */
+.sidebar {
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  width: var(--sidebar-width);
+  background-color: var(--color-primary);
+  border-left: 1px solid var(--color-secondary);
+  padding: var(--spacing);
+  transform: translateX(0);
+  transition: transform 0.3s ease;
+  overflow-y: auto;
+  box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.sidebar.hidden {
+  transform: translateX(100%);
+}
+
+.sidebar-toggle {
+  position: fixed;
+  right: var(--sidebar-width);
+  top: 20px;
+  background-color: var(--color-primary);
+  border: 1px solid var(--color-secondary);
+  padding: 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 1001;
+  transition: right 0.3s ease;
+}
+
+.sidebar-toggle.hidden {
+  right: 20px;
+}
+
+.sidebar-toggle:hover {
+  background-color: var(--color-secondary);
+}
+
+/* Barra de búsqueda */
+.search-container {
+  margin-bottom: var(--spacing);
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.8rem;
+  border: 1px solid var(--color-secondary);
+  border-radius: 4px;
+  font-family: var(--font-body);
+  font-size: 1rem;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 2px rgba(0, 122, 255, 0.1);
+}
+
+/* Lista de posts en la barra lateral */
+.posts-list {
+  list-style: none;
+  padding: 0;
+}
+
+.posts-list-item {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--color-secondary);
+}
+
+.posts-list-item:last-child {
+  border-bottom: none;
+}
+
+.posts-list-link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.posts-list-link:hover {
+  color: var(--color-accent);
+}
+
+.posts-list-date {
+  display: block;
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 0.3rem;
+}
+
+/* Ajuste del contenido principal cuando la barra lateral está visible */
+.content {
+  transition: margin-right 0.3s ease;
+}
+
+.content.with-sidebar {
+  margin-right: var(--sidebar-width);
+}
