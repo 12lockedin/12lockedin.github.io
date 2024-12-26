@@ -22,15 +22,16 @@ document.addEventListener('DOMContentLoaded', function() {
             sidebarToggle.classList.toggle('active');
     if (sidebarToggle && sidebar && content) {
         sidebarToggle.addEventListener('click', () => {
-            sidebar.classList.toggle('hidden');
+            const isHidden = sidebar.classList.toggle('hidden');
             sidebarToggle.classList.toggle('active');
+            sidebarToggle.setAttribute('aria-expanded', !isHidden);
             content.classList.toggle('with-sidebar');
             
-            // Get current state and update button position
-            const isSidebarHidden = sidebar.classList.contains('hidden');
+            // Actualizar el título del botón según el estado
+            sidebarToggle.title = isHidden ? 'Mostrar barra lateral' : 'Ocultar barra lateral';
             
             // Guardar el estado en localStorage
-            localStorage.setItem(SIDEBAR_HIDDEN_KEY, isSidebarHidden);
+            localStorage.setItem(SIDEBAR_HIDDEN_KEY, isHidden);
         });
 
         // Recuperar el estado guardado
