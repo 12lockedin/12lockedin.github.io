@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     const SIDEBAR_HIDDEN_KEY = 'sidebarHidden';
+    
     // Lazy loading fallback para navegadores que no lo soportan
     if (!('loading' in HTMLImageElement.prototype)) {
         const images = document.querySelectorAll('img[loading="lazy"]');
-        // Aquí podrías implementar un IntersectionObserver o tu propia lógica de lazy loading
         images.forEach(img => {
             if (img.dataset.src) {
                 img.src = img.dataset.src;
@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.querySelector('.search-input');
     const postsListItems = document.querySelectorAll('.posts-list-item');
     const anchors = document.querySelectorAll('a[href^="#"]');
+    let initialWidth = window.innerWidth;
     
     // Función para manejar el estado del sidebar
     function toggleSidebar(isHidden) {
@@ -31,9 +32,6 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Guardar estado
         localStorage.setItem(SIDEBAR_HIDDEN_KEY, isHidden);
-        
-        // Disparar evento de resize para manejar posibles cambios en el layout
-        window.dispatchEvent(new Event('resize'));
     }
 
     // Evento click del botón
@@ -62,9 +60,19 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('resize', () => {
         clearTimeout(timeout);
         timeout = setTimeout(() => {
-            if (window.innerWidth <= 768 && !sidebar.classList.contains('hidden')) {
+            const currentWidth = window.innerWidth;
+            // Solo cerrar automáticamente si:
+            // 1. Cambiamos de desktop a móvil
+            // 2. La diferencia en el ancho es significativa (más de 100px)
+            if (
+                initialWidth > 768 && 
+                currentWidth <= 768 && 
+                Math.abs(currentWidth - initialWidth) > 100 &&
+                !sidebar.classList.contains('hidden')
+            ) {
                 toggleSidebar(true);
             }
+            initialWidth = currentWidth;
         }, 250);
     });
 
