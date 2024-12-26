@@ -401,6 +401,7 @@
 .content {
   transition: margin-left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   margin-left: 0;
+  padding-top: calc(var(--spacing) + 4rem)
 }
 
 .content--with-sidebar {
