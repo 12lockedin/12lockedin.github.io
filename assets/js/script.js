@@ -11,37 +11,42 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Cache elements that do not change
+    // Cache elements
     const sidebar = document.querySelector('.sidebar');
     const sidebarToggle = document.querySelector('.sidebar-toggle');
     const content = document.querySelector('.content');
     const searchInput = document.querySelector('.search-input');
     const postsListItems = document.querySelectorAll('.posts-list-item');
     const anchors = document.querySelectorAll('a[href^="#"]');
-    let initialWidth = window.innerWidth;
     
-    // Función para manejar el estado del sidebar
+    // Función simplificada para manejar el estado del sidebar
     function toggleSidebar(isHidden) {
+        if (isHidden === undefined) {
+            isHidden = !sidebar.classList.contains('hidden');
+        }
+        
         sidebar.classList.toggle('hidden', isHidden);
         sidebarToggle.classList.toggle('active', !isHidden);
         content.classList.toggle('content--with-sidebar', !isHidden);
         
         // Actualizar ARIA y título
         sidebarToggle.setAttribute('aria-expanded', !isHidden);
-        sidebarToggle.setAttribute('title', isHidden ? 'Mostrar barra lateral' : 'Ocultar barra lateral');
+        sidebarToggle.setAttribute('title', 
+            isHidden ? 'Mostrar barra lateral' : 'Ocultar barra lateral'
+        );
         
         // Guardar estado
         localStorage.setItem(SIDEBAR_HIDDEN_KEY, isHidden);
     }
 
-    // Evento click del botón
+    // Configurar eventos del sidebar
     if (sidebarToggle && sidebar && content) {
+        // Click en el botón de toggle
         sidebarToggle.addEventListener('click', () => {
-            const isCurrentlyHidden = sidebar.classList.contains('hidden');
-            toggleSidebar(!isCurrentlyHidden);
+            toggleSidebar();
         });
         
-        // Manejar tecla Escape para cerrar el sidebar
+        // Tecla Escape
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape' && !sidebar.classList.contains('hidden')) {
                 toggleSidebar(true);
@@ -54,33 +59,11 @@ document.addEventListener('DOMContentLoaded', function() {
             toggleSidebar(true);
         }
     }
-    
-    // Manejar cambios de tamaño de ventana
-    let timeout;
-    window.addEventListener('resize', () => {
-        clearTimeout(timeout);
-        timeout = setTimeout(() => {
-            const currentWidth = window.innerWidth;
-            // Solo cerrar automáticamente si:
-            // 1. Cambiamos de desktop a móvil
-            // 2. La diferencia en el ancho es significativa (más de 100px)
-            if (
-                initialWidth > 768 && 
-                currentWidth <= 768 && 
-                Math.abs(currentWidth - initialWidth) > 100 &&
-                !sidebar.classList.contains('hidden')
-            ) {
-                toggleSidebar(true);
-            }
-            initialWidth = currentWidth;
-        }, 250);
-    });
 
     // Funcionalidad de búsqueda
     if (searchInput && postsListItems.length) {
         searchInput.addEventListener('input', (e) => {
             const searchTerm = e.target.value.toLowerCase();
-
             postsListItems.forEach(item => {
                 const title = item.querySelector('.posts-list-link').textContent.toLowerCase();
                 const isVisible = title.includes(searchTerm);
@@ -94,7 +77,6 @@ document.addEventListener('DOMContentLoaded', function() {
         anchor.addEventListener('click', function(e) {
             const targetId = this.getAttribute('href');
             const targetElement = document.querySelector(targetId);
-
             if (targetElement) {
                 e.preventDefault();
                 targetElement.scrollIntoView({

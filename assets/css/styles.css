@@ -251,16 +251,22 @@
     }
 
     .sidebar {
-      width: 100%;
+      width: 85%;
       max-width: 300px;
-  }
+    }
   
     .content--with-sidebar {
         margin-left: 0;
     }
   
     .sidebar-toggle.active {
-        left: calc(300px - 1rem);
+      left: calc(85% - 1rem);
+      max-left: calc(300px - 1rem);
+    }
+
+    /* Asegurarse de que el contenido no se desplace cuando el sidebar está abierto */
+    body {
+      overflow-x: hidden;
     }
   }
 
