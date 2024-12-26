@@ -58,7 +58,7 @@
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1000;
+    z-index: 900;
     backdrop-filter: blur(10px);
     background-color: rgba(248, 249, 250, 0.95);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -310,7 +310,8 @@
   transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   overflow-y: auto;
   box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
-  z-index: 1000;
+  z-index: 1100;
+  margin-top: 4rem;
 }
 
 .sidebar.hidden {
