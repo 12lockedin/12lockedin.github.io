@@ -18,6 +18,27 @@ document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.querySelector('.search-input');
     const postsListItems = document.querySelectorAll('.posts-list-item');
     const anchors = document.querySelectorAll('a[href^="#"]');
+
+    // Función para ajustar el sidebar según la altura del nav
+    function adjustSidebarPosition() {
+        const nav = document.querySelector('.site-nav');
+        const sidebar = document.querySelector('.sidebar');
+        
+        if (nav && sidebar) {
+            const navHeight = nav.offsetHeight;
+            sidebar.style.top = `${navHeight}px`;
+            sidebar.style.height = `calc(100vh - ${navHeight}px)`;
+        }
+    }
+
+    // Ajustar el sidebar inicialmente
+    adjustSidebarPosition();
+
+    // Ajustar el sidebar cuando cambie el tamaño de la ventana
+    window.addEventListener('resize', adjustSidebarPosition);
+
+    // Ajustar después de que las fuentes se hayan cargado (puede afectar al tamaño del nav)
+    document.fonts.ready.then(adjustSidebarPosition);
     
     // Función simplificada para manejar el estado del sidebar
     function toggleSidebar(isHidden) {

@@ -300,8 +300,8 @@
 .sidebar {
   position: fixed;
   left: 0;
-  top: var(--nav-height, 4rem); /* Usar variable para la altura del nav */
-  height: calc(100vh - var(--nav-height, 4rem)); /* Ajustar altura total */
+  top: 0; /* Se ajustará con JavaScript */
+  height: 100vh; /* Se ajustará con JavaScript */
   width: var(--sidebar-width);
   background-color: var(--color-primary);
   border-right: 1px solid var(--color-secondary);
