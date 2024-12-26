@@ -261,7 +261,7 @@
   
     .sidebar-toggle.active {
       left: calc(85% - 1rem);
-      max-left: calc(300px - 1rem);
+      max-width: calc(300px - 1rem);
     }
 
     /* Asegurarse de que el contenido no se desplace cuando el sidebar está abierto */
