@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
+    const SIDEBAR_HIDDEN_KEY = 'sidebarHidden';
     // Lazy loading fallback para navegadores que no lo soportan
     if (!('loading' in HTMLImageElement.prototype)) {
         const images = document.querySelectorAll('img[loading="lazy"]');
@@ -10,11 +11,15 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Funcionalidad de la barra lateral
+    // Cache elements that do not change
     const sidebar = document.querySelector('.sidebar');
     const sidebarToggle = document.querySelector('.sidebar-toggle');
     const content = document.querySelector('.content');
-
+    const searchInput = document.querySelector('.search-input');
+    const postsListItems = document.querySelectorAll('.posts-list-item');
+    const anchors = document.querySelectorAll('a[href^="#"]');
+            sidebar.classList.toggle('hidden');
+            sidebarToggle.classList.toggle('active');
     if (sidebarToggle && sidebar && content) {
         sidebarToggle.addEventListener('click', () => {
             sidebar.classList.toggle('hidden');
@@ -22,12 +27,12 @@ document.addEventListener('DOMContentLoaded', function() {
             content.classList.toggle('with-sidebar');
             
             // Guardar el estado en localStorage
-            const isSidebarHidden = sidebar.classList.contains('hidden');
-            localStorage.setItem('sidebarHidden', isSidebarHidden);
+            localStorage.setItem('sidebarHidden', isSidebarHidden.toString().toLowerCase());
+            localStorage.setItem(SIDEBAR_HIDDEN_KEY, isSidebarHidden);
         });
 
         // Recuperar el estado guardado
-        const isSidebarHidden = localStorage.getItem('sidebarHidden') === 'true';
+        const isSidebarHidden = localStorage.getItem(SIDEBAR_HIDDEN_KEY) === 'true';
         if (isSidebarHidden) {
             sidebar.classList.add('hidden');
             sidebarToggle.classList.add('hidden');
@@ -36,9 +41,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Funcionalidad de búsqueda
-    const searchInput = document.querySelector('.search-input');
-    const postsListItems = document.querySelectorAll('.posts-list-item');
-
     if (searchInput && postsListItems.length) {
         searchInput.addEventListener('input', (e) => {
             const searchTerm = e.target.value.toLowerCase();
@@ -52,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Suavizar el scroll al hacer clic en links internos
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchors.forEach(anchor => {
         anchor.addEventListener('click', function(e) {
             const targetId = this.getAttribute('href');
             const targetElement = document.querySelector(targetId);
