@@ -101,6 +101,7 @@
     max-width: var(--content-width);
     margin: 0 auto;
     padding: var(--spacing);
+    padding-top: 0; /* El espaciado superior se maneja con JavaScript */
   }
   
   /* Posts */

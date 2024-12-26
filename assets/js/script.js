@@ -19,26 +19,36 @@ document.addEventListener('DOMContentLoaded', function() {
     const postsListItems = document.querySelectorAll('.posts-list-item');
     const anchors = document.querySelectorAll('a[href^="#"]');
 
-    // Función para ajustar el sidebar según la altura del nav
-    function adjustSidebarPosition() {
+    // Función para ajustar las posiciones según la altura del nav
+    function adjustPositions() {
         const nav = document.querySelector('.site-nav');
         const sidebar = document.querySelector('.sidebar');
+        const content = document.querySelector('.content');
         
-        if (nav && sidebar) {
+        if (nav) {
             const navHeight = nav.offsetHeight;
-            sidebar.style.top = `${navHeight}px`;
-            sidebar.style.height = `calc(100vh - ${navHeight}px)`;
+            
+            // Ajustar sidebar si existe
+            if (sidebar) {
+                sidebar.style.top = `${navHeight}px`;
+                sidebar.style.height = `calc(100vh - ${navHeight}px)`;
+            }
+            
+            // Ajustar contenido
+            if (content) {
+                content.style.marginTop = `${navHeight}px`;
+            }
         }
     }
 
-    // Ajustar el sidebar inicialmente
-    adjustSidebarPosition();
+    // Ajustar posiciones inicialmente
+    adjustPositions();
 
-    // Ajustar el sidebar cuando cambie el tamaño de la ventana
-    window.addEventListener('resize', adjustSidebarPosition);
+    // Ajustar cuando cambie el tamaño de la ventana
+    window.addEventListener('resize', adjustPositions);
 
-    // Ajustar después de que las fuentes se hayan cargado (puede afectar al tamaño del nav)
-    document.fonts.ready.then(adjustSidebarPosition);
+    // Ajustar después de que las fuentes se hayan cargado
+    document.fonts.ready.then(adjustPositions);
     
     // Función simplificada para manejar el estado del sidebar
     function toggleSidebar(isHidden) {
