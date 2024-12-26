@@ -268,6 +268,15 @@
     .sidebar {
       width: 85%;
       max-width: 300px;
+      transform: translateX(-100%);
+    }
+
+    .sidebar:not(.hidden) {
+      transform: translateX(0);
+    }
+
+    .content {
+      margin-left: 0 !important;
     }
   
     .content--with-sidebar {
