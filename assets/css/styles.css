@@ -274,7 +274,7 @@
   transform: translateX(-100%);
 }
 
-.sidebar-toggle {
+.sidebar__toggle {
   position: fixed;
   top: 1rem;
   left: 1rem;
@@ -287,7 +287,7 @@
   transition: left 0.3s ease;
 }
 
-.sidebar-toggle.active {
+.sidebar__toggle.active {
   left: calc(var(--sidebar-width) - 3rem);
 }
 
