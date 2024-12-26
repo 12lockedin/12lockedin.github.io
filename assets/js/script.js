@@ -18,14 +18,15 @@ document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.querySelector('.search-input');
     const postsListItems = document.querySelectorAll('.posts-list-item');
     const anchors = document.querySelectorAll('a[href^="#"]');
-
+            sidebar.classList.toggle('hidden');
+            sidebarToggle.classList.toggle('active');
     if (sidebarToggle && sidebar && content) {
         sidebarToggle.addEventListener('click', () => {
             sidebar.classList.toggle('hidden');
-            sidebarToggle.classList.toggle('active'); // Changed from 'hidden' to 'active'
+            sidebarToggle.classList.toggle('active');
             content.classList.toggle('with-sidebar');
             
-            // Get current state
+            // Get current state and update button position
             const isSidebarHidden = sidebar.classList.contains('hidden');
             
             // Guardar el estado en localStorage
@@ -36,6 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const isSidebarHidden = localStorage.getItem(SIDEBAR_HIDDEN_KEY) === 'true';
         if (isSidebarHidden) {
             sidebar.classList.add('hidden');
+            sidebarToggle.classList.add('hidden');
             content.classList.remove('with-sidebar');
         }
     }
