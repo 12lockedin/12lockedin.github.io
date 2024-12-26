@@ -256,27 +256,27 @@
 /* Barra lateral */
 .sidebar {
   position: fixed;
-  right: 0;
+  left: 0;
   top: 0;
   height: 100vh;
   width: var(--sidebar-width);
   background-color: var(--color-primary);
-  border-left: 1px solid var(--color-secondary);
+  border-right: 1px solid var(--color-secondary);
   padding: var(--spacing);
   transform: translateX(0);
   transition: transform 0.3s ease;
   overflow-y: auto;
-  box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
   z-index: 1000;
 }
 
 .sidebar.hidden {
-  transform: translateX(100%);
+  transform: translateX(-100%);
 }
 
 .sidebar-toggle {
   position: fixed;
-  right: var(--sidebar-width);
+  left: var(--sidebar-width);
   top: 20px;
   background-color: var(--color-primary);
   border: 1px solid var(--color-secondary);
@@ -284,11 +284,11 @@
   border-radius: 4px;
   cursor: pointer;
   z-index: 1001;
-  transition: right 0.3s ease;
+  transition: left 0.3s ease;
 }
 
 .sidebar-toggle.hidden {
-  right: 20px;
+  left: 20px;
 }
 
 .sidebar-toggle:hover {
@@ -350,9 +350,9 @@
 
 /* Ajuste del contenido principal cuando la barra lateral está visible */
 .content {
-  transition: margin-right 0.3s ease;
+  transition: margin-left 0.3s ease;
 }
 
 .content.with-sidebar {
-  margin-right: var(--sidebar-width);
+  margin-left: var(--sidebar-width);
 }
