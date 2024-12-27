@@ -197,10 +197,22 @@
   }
   
   /* Para modificar los títulos de los preview de los posts */
+  .post-preview .post-header {
+    margin-bottom: 0.35rem;
+    margin-top: 1.2rem;
+  }
+
   .post-preview .post-title {
     font-size: 1rem;
     line-height: 1.4;
     margin-bottom: 0.5rem;
+  }
+
+  .post-preview .post-date {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    display: block;
   }
 
   .post-preview:last-child {
