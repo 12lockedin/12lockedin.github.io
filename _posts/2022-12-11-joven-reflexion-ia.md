@@ -6,11 +6,8 @@ tags: [harari, IA, SuperIA]
 ---
 
 *El siguiente texto es una reflexión que escribí para mí hace 2 años. Cuando escribí la nueva reflexión este año (post que subiré más adelante), no me acordaba de haber escrito esto.*
-
 *Debo mencionar que los pensamientos reflejados en este post están fuertemente influenciados por Yuval Noah Harari, en ese momento estaba leyendo **21 Lecciones para el siblo XXI***
-
 *Es mi primer post, sé que es muy simplón, pero tenía que empezar por algo.*
----
 
 Hoy he imaginado un mundo en el que la IA ya estaba avanzada.
 * La IA será demasiado inteligente, y llegará a sustituir a las personas que estén realizando tareas intelectuales.
