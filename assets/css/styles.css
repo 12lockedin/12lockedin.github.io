@@ -123,11 +123,21 @@
     color: #666;
     font-size: 0.9rem;
   }
-  
+ 
+  /*Tamaño fuente contenido*/
   .post-content {
     font-size: 1.1rem;
   }
-  
+
+  /*Margen de espaciado entre párrafos*/
+  .post-content p {
+    margin-bottom: 1.5rem;
+  }
+
+  .post-content p:last-child {
+    margin-bottom: 0;
+  }
+
   .post-tags {
     margin-top: 2rem;
   }
