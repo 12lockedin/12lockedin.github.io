@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Ajustar contenido
             if (content) {
-                content.style.marginTop = `${navHeight}px + 1rem`;
+                content.style.marginTop = `calc(${navHeight}px + 1rem)`;
             }
         }
     }
