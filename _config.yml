@@ -5,9 +5,9 @@ plugins:
 include: ['_pages']
 
 # Información del sitio
-title: Mi Blog Personal
-description: Un espacio minimalista para compartir ideas
-author: Tu Nombre
+title: Cloudless Everyday
+description: Thoughts and ramblings
+author: Felipe Agustín
 
 # Configuración del sitio
 url: "https://12lockedin.github.io"  # URL del sitio
