@@ -197,11 +197,12 @@
   }
   
   /* Para modificar los títulos de los preview de los posts */
+  /*
   .post-preview .post-header {
     margin-bottom: 0.35rem;
     margin-top: 1.2rem;
   }
-
+  */
   .post-preview .post-title {
     font-size: 10rem;
     line-height: 1.4;
