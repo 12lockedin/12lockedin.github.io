@@ -24,7 +24,8 @@ To narrow down:
 
 
 ## Purpose
-The main reason for this blog is to put out thoughts I think some people might agree with. And some people might find helpful.
+The main reason for this blog express thoughts some people might agree with and might find helpful.
+I do not intend to be the "cleverest", just putting out the things I write for myself to the world, to see what people thinks.
 
 ## Lo que encontrarás aquí
 
