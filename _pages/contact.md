@@ -4,23 +4,11 @@ title: Contacto
 permalink: /contact/
 ---
 
-Me encantaría escuchar tus ideas, preguntas o propuestas de colaboración.
+I'd love to hear about your ideas and/or collaboration proposals.
 
 ## Email
-[tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
+[felipeagustin003@gmail.com](mailto:felipeagustin003@gmail.com)
 
-## GitHub
-[@12lockedin](https://github.com/12lockedin)
-
-## Redes profesionales
-- [LinkedIn](https://linkedin.com/in/tuUsuario)
-- [Twitter](https://twitter.com/tuUsuario)
-
-O si prefieres, déjame un mensaje directo:
-
-<form class="contact-form">
-    <input type="text" name="name" placeholder="Nombre" required>
-    <input type="email" name="email" placeholder="Email" required>
-    <textarea name="message" placeholder="Tu mensaje" required></textarea>
-    <button type="submit">Enviar</button>
-</form>
+## Networks
+- [X (Twitter)](https://x.com/felipeagustin0)
+- [LinkedIn](https://www.linkedin.com/in/felipeagcg/)
