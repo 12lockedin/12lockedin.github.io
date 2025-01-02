@@ -38,4 +38,4 @@ En este espacio comparto:
 
 ## Contacto
 
-Si compartes intereses similares o tienes alguna idea para colaborar, no dudes en contactarme. Puedes encontrarme en [GitHub](https://github.com/12lockedin) o usar el [formulario de contacto](/contact).
+Si compartes intereses similares o tienes alguna idea para colaborar, no dudes en contactarme. Puedes encontrarme en [GitHub](https://github.com/12lockedin) o en X (Twitter) [@felipeagustin0](https://x.com/felipeagustin0).
