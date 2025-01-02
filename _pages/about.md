@@ -25,17 +25,7 @@ To narrow down:
 
 ## Purpose
 The main reason for this blog express thoughts some people might agree with and might find helpful.
-I do not intend to be the "cleverest", just putting out the things I write for myself to the world, to see what people thinks.
+I just want to write things that I find helpful.
 
-## Lo que encontrarás aquí
-
-En este espacio comparto:
-
-* Insights sobre desarrollo web y tecnología
-* Experiencias y aprendizajes de proyectos
-* Reflexiones sobre tendencias tech
-* Recursos y herramientas que uso diariamente
-
-## Contacto
-
-Si compartes intereses similares o tienes alguna idea para colaborar, no dudes en contactarme. Puedes encontrarme en [GitHub](https://github.com/12lockedin) o en X (Twitter) [@felipeagustin0](https://x.com/felipeagustin0).
+## Contact
+Contact me! Find me at X (Twitter) [@felipeagustin0](https://x.com/felipeagustin0).
