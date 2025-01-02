@@ -27,5 +27,5 @@ To narrow down:
 The main reason for this blog express thoughts some people might agree with and might find helpful.
 I just want to write things that I find helpful.
 
-## Contact
-Contact me! Find me at X (Twitter) [@felipeagustin0](https://x.com/felipeagustin0).
+## Contact me!
+Find me at X (Twitter) [@felipeagustin0](https://x.com/felipeagustin0).
