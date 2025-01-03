@@ -138,6 +138,7 @@
     margin-bottom: 0;
   }
 
+  /* Ya no quiero las tags en la parte inferior de los posts
   .post-tags {
     margin-top: 2rem;
   }
@@ -150,7 +151,8 @@
     margin-right: 0.5rem;
     font-size: 0.9rem;
   }
-  
+  cierro comentario quitar tags*/
+
   /* Footer */
   .site-footer {
     background-color: var(--color-secondary);
@@ -193,12 +195,14 @@
     outline-offset: 4px;
   }
   
+  /*Quitar tags
   .tag:hover {
     background-color: var(--color-accent);
     color: var(--color-primary);
     transition: all 0.3s ease;
   }
-  
+  */
+
   /* Posts en página principal */
   .post-preview {
     margin-bottom: 3rem;
