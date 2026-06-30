@@ -1,0 +1,495 @@
+{
+ "plan": 274,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Mecánica Industrial",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:33:20Z",
+ "subjects": [
+  {
+   "code": "16158",
+   "name": "Aspectos avanzados en Mecánica de Fluidos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "23.oct-18.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16160",
+   "name": "El Método de los Elementos Finitos en Mecánica de Sólidos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16159",
+   "name": "Estabilidad e Integridad Estructural",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16162",
+   "name": "Fabricación en Sistemas Integrados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "16.oct-18.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16157",
+   "name": "Técnicas Computacionales en Ingeniería Térmica y de Fluidos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16161",
+   "name": "Técnicas Especializadas en Ensayo y Cálculo de Máquinas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16163",
+   "name": "Técnicas experimentales en Metrología Industrial",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-25.nov",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "09.dic-16.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16165",
+   "name": "Análisis de Estructuras de Materiales Compuestos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16170",
+   "name": "Conceptos Avanzados de Construcciones Industriales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula INF 4.S.D.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula INF 4.S.D.02"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula INF 4.S.D.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16169",
+   "name": "Métodos y técnicas de optimización",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 2.2.C.04 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.feb",
+         "room": "Aula INF 2.2.C.04 DUAL"
+        },
+        {
+         "dates": "18.feb",
+         "room": "Aula INF 4.S.D.02"
+        },
+        {
+         "dates": "25.feb",
+         "room": "Aula INF 2.2.C.04 DUAL"
+        },
+        {
+         "dates": "04.mar",
+         "room": "Aula INF 4.S.D.01"
+        },
+        {
+         "dates": "11.mar-18.mar",
+         "room": "Aula INF 2.2.C.04 DUAL"
+        },
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula INF 2.2.C.04 DUAL"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16164",
+   "name": "Nuevas Tecnologías de Centrales Térmicas de Energías Renovables",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16168",
+   "name": "Técnicas experimentales en ingeniería térmica",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "16167",
+   "name": "Técnicas experimentales en mecánica de fluidos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16166",
+   "name": "Tecnologías Avanzadas de Diagnóstico de Máquinas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

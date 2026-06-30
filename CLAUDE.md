@@ -78,6 +78,13 @@ El HTML es antiguo y algo malformado. Tres trampas ya resueltas en `parse.py`
    construye desde la fila de cabecera (`_build_col_to_day`) y el cuerpo respeta
    `rowspan` y `colspan`. Saltarse esto provoca días desplazados (p. ej. una
    clase de viernes apareciendo en sábado).
+4. **Encoding.** Las páginas declaran `utf-8` en el meta pero mandan un
+   `Content-Type` latin-1 engañoso. Se **fuerza utf-8** en `fetch()` (si no,
+   "Administración" → "AdministraciÃ³n"). `chardet` aquí acierta poco.
+5. **Horarios “en construcción”.** En junio la mayoría de planes 2026/2027 aún
+   no están publicados (la página dice “… aún no están disponibles”). El scraper
+   **omite** los planes sin ninguna sesión (`_finish_plan`): no se versiona un
+   plan vacío. La cobertura crece según se vayan publicando.
 
 Comprobación rápida tras tocar el parser: re-scrapea el plan de ejemplo y
 verifica que no aparezcan sesiones espurias en sábado (`day==5`) ni grupos vacíos.
@@ -95,15 +102,31 @@ python scrape.py refresh                    # catálogo + re-scrapea lo presente
 python scrape.py all [--only grado|master] [--limit N]
 ```
 
-## Limitaciones conocidas
+## Grados: capacidad presente, no conectada a la UI (importante)
 
-- Modelo “una asignatura → varios grupos, cada grupo = sus sesiones”. Encaja
-  perfecto en másteres. En algunos **grados** existe el desdoble
-  magistral + reducido con numeraciones enlazadas; aquí cada `grp.N` se trata
-  como grupo independiente. Revisar si se priorizan grados.
+El modelo de la app es **“una asignatura → varios grupos, cada grupo = sus
+sesiones”** y encaja perfecto en **másteres** (cada `grp.N` es un grupo de
+matrícula completo). Los **grados** funcionan distinto:
+
+- La página de plan de grado **no lista asignaturas**: se organiza por *grupo de
+  matrícula* (curso+grupo → `porCentroPlanCursoGrupo.tt`). El scraper de grados
+  (`_scrape_grado` + `parse_matricula_groups`) recorre esos horarios y
+  reconstruye el modelo asignatura→grupos. **Funciona y extrae datos.**
+- **Pero** en grados hay desdoble **magistral (grupos 31/32/38…) + reducido
+  (10xx)**: el alumno elige *un* grupo de teoría **y** *un* reducido, no uno
+  solo. En la UI actual aparecerían como muchos grupos alternativos mezclados →
+  confuso/incorrecto. Por eso **no se versiona data de grado todavía**: requiere
+  una iteración de UX (elegir teoría + reducido) antes de conectarlo.
+
+Datos enviados = **solo másteres** publicados. El código de grado se conserva
+como base para esa futura iteración (`scrape.py plan <plan> <centro> --kind grado`).
+
+## Otras limitaciones
+
 - Solo se importan sesiones con rango horario explícito; exámenes/reservas
   puntuales sin hora se ignoran.
-- Cobertura de datos = lo que se haya scrapeado (ver `data/plans/index.json`).
+- Cobertura de datos = planes **publicados** y scrapeados (ver
+  `data/plans/index.json`). Crece según se publiquen los horarios 2026/2027.
 
 ## Convenciones
 

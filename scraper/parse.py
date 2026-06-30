@@ -284,6 +284,33 @@ def parse_programme(html: str) -> dict:
     return {"name": name, "subjects": subjects}
 
 
+# --- Programme page: enrolment groups (grados) ------------------------------
+def parse_matricula_groups(html: str) -> list[dict]:
+    """For a grado plan page, list its enrolment-group timetables.
+
+    Grado pages don't expose a per-subject list; they are organised by
+    *grupo de matrícula* (course + group), each linking to a full weekly
+    timetable. Returns ``[{course, group, term}, ...]`` deduplicated.
+    """
+    soup = _soup(html)
+    out: list[dict] = []
+    seen: set[tuple[int, str, int]] = set()
+    for a in soup.find_all("a", href=True):
+        href = _unmangle_href(a["href"])
+        if "porCentroPlanCursoGrupo" not in href:
+            continue
+        m = re.search(r"curso=(\d+).*?grupo=([0-9A-Za-z]+).*?valorPer=(\d+)", href)
+        if not m:
+            continue
+        course, group, term = int(m.group(1)), m.group(2), int(m.group(3))
+        key = (course, group, term)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append({"course": course, "group": group, "term": term})
+    return out
+
+
 # --- Catalogue index (list of programmes) -----------------------------------
 def parse_catalog_index(html: str, kind: str) -> list[dict]:
     """Parse ``principal.page`` (grados) or ``postgrado.page`` (masters).

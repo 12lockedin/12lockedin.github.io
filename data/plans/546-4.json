@@ -1,0 +1,636 @@
+{
+ "plan": 546,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Ingeniería de Diseño Microelectrónico",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:30:48Z",
+ "subjects": [
+  {
+   "code": "20087",
+   "name": "Arquitectura de sistemas digitales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20092",
+   "name": "Arquitecturas digitales de procesado de señal",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20093",
+   "name": "Circuitos integrados fotónicos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "* SIN AULA *"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20090",
+   "name": "Implementación de circuitos integrados I",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20091",
+   "name": "Implementación de Circuitos Integrados II",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20086",
+   "name": "Introducción a la microelectrónica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20088",
+   "name": "Microelectrónica analógica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20089",
+   "name": "Microelectrónica digital",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "16.oct-18.dic",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20094",
+   "name": "Circuitos integrados analógicos y de señal mixta",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20100",
+   "name": "Circuitos microelectrónicos para inteligencia artificial",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-19.mar",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "02.abr-14.may",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20101",
+   "name": "Diseño de circuitos integrados de alta seguridad",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20098",
+   "name": "Diseño de circuitos integrados para comunicación de datos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20099",
+   "name": "Diseño de sistemas de gestión de potencia para circuitos integrados",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20096",
+   "name": "Sensores integrados e interfaces",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20095",
+   "name": "Sistemas empotrados",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-19.mar",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "02.abr-14.may",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20097",
+   "name": "Validación y test de circuitos integrados",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

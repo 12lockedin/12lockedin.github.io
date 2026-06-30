@@ -1,0 +1,395 @@
+{
+ "plan": 326,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Gestión y Desarrollo de Tecnologías Biomédicas",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:29:46Z",
+ "subjects": [
+  {
+   "code": "12408",
+   "name": "Dirección y Gestión de las Organizaciones Innovadoras",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "18:45",
+       "room": "Aula 7.2.J08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "16.oct-18.dic",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12407",
+   "name": "Economía, Política y Gestión de la Investigación Biomédica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "20:30",
+       "room": "Aula 7.2.J08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12406",
+   "name": "Innovación en la industria farmacéutica: Medicamentos avanzados y Biotecnología",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "18:45",
+       "room": "Aula 7.2.J08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12405",
+   "name": "Tecnologías Emergentes",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "20:30",
+       "room": "Aula 7.2.J08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12403",
+   "name": "Tecnologías ómicas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12404",
+   "name": "Tecnologías Terapéuticas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "18:45",
+       "room": "Aula 7.2.J08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12409",
+   "name": "Aplicación de las tecnologías ómicas al diagnóstico de enfermedades complejas y al desarrollo de nuevos medicamentos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "20:30",
+       "room": "Aula 7.2.J08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12411",
+   "name": "Creación y desarrollo de Nuevas Empresas de Base Tecnológica (NEBTs)",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "18:45",
+       "room": "Aula 7.2.J08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12412",
+   "name": "Laboratorio de ingeniería genética y de bioingeniería celular y tisular",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:00",
+       "end": "21:00",
+       "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.mar",
+         "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "21:00",
+       "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.mar",
+         "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)"
+        },
+        {
+         "dates": "30.mar",
+         "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "21:00",
+       "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.mar",
+         "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)"
+        },
+        {
+         "dates": "31.mar",
+         "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "21:00",
+       "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.mar",
+         "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)"
+        },
+        {
+         "dates": "01.abr",
+         "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "21:00",
+       "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.mar",
+         "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)"
+        },
+        {
+         "dates": "02.abr",
+         "room": "Aulas LAB 1.0.G10 (Bioingeniería) y LAB 1.0.G12 (Bioingeniería)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12410",
+   "name": "Procesos de calidad en la Industria Biomédica y sus bases regulatorias",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "20:30",
+       "room": "Aula 7.2.J08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

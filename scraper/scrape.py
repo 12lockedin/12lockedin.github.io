@@ -66,8 +66,10 @@ def fetch(url: str, retries: int = 3) -> str:
         try:
             resp = _session.get(url, timeout=TIMEOUT)
             resp.raise_for_status()
-            # The pages declare utf-8 in a meta tag; trust that over the header.
-            resp.encoding = resp.apparent_encoding or "utf-8"
+            # The pages declare utf-8 in their meta tag but send a misleading
+            # latin-1 Content-Type header; forcing utf-8 avoids mojibake (e.g.
+            # "Administración" → "AdministraciÃ³n"). Chardet guesses unreliably here.
+            resp.encoding = "utf-8"
             time.sleep(REQUEST_DELAY)
             return resp.text
         except requests.RequestException as exc:  # network / HTTP error
@@ -122,9 +124,22 @@ def _subject_url(plan: int, centro: int, code: str, term) -> str:
     )
 
 
+def _cursogrupo_url(plan: int, centro: int, course: int, group: str, term: int) -> str:
+    return (
+        f"{BASE}/{YEAR}/porCentroPlanCursoGrupo.tt?"
+        f"plan={plan}&centro={centro}&curso={course}&grupo={group}&tipoPer=C&valorPer={term}"
+    )
+
+
 def scrape_plan(plan: int, centro: int, kind: str = "master", name: str | None = None) -> dict:
-    print(f"· plan {plan} centro {centro} ({kind})", flush=True)
-    programme = P.parse_programme(fetch(_programme_url(plan, centro, kind)))
+    """Scrape one programme. Masters and grados use different source pages."""
+    return _scrape_grado(plan, centro, name) if kind == "grado" else _scrape_master(plan, centro, name)
+
+
+def _scrape_master(plan: int, centro: int, name: str | None) -> dict:
+    """Masters expose a per-subject list; each subject page holds all its groups."""
+    print(f"· plan {plan} centro {centro} (master)", flush=True)
+    programme = P.parse_programme(fetch(_programme_url(plan, centro, "master")))
     prog_name = name or programme["name"]
     subjects_out = []
     for subj in programme["subjects"]:
@@ -146,15 +161,72 @@ def scrape_plan(plan: int, centro: int, kind: str = "master", name: str | None =
         )
         print(f"  · {subj['code']} {subj['name'][:42]:42} {len(groups)} grupos")
 
+    return _finish_plan(plan, centro, "master", prog_name, subjects_out)
+
+
+def _scrape_grado(plan: int, centro: int, name: str | None) -> dict:
+    """Grados are organised by enrolment group; we aggregate every group's
+    timetable back into the same subject -> groups -> sessions shape."""
+    print(f"· plan {plan} centro {centro} (grado)", flush=True)
+    html = fetch(_programme_url(plan, centro, "grado"))
+    prog_name = name or P.parse_programme(html)["name"]
+    mgroups = P.parse_matricula_groups(html)
+    print(f"  {len(mgroups)} grupos de matrícula a recorrer")
+
+    subjects: dict[str, dict] = {}
+    for mg in mgroups:
+        url = _cursogrupo_url(plan, centro, mg["course"], mg["group"], mg["term"])
+        try:
+            sessions = P.parse_timetable(fetch(url))
+        except RuntimeError as exc:
+            print(f"  ! curso{mg['course']} grupo{mg['group']} c{mg['term']}: {exc}")
+            continue
+        for s in sessions:
+            code = s["code"]
+            if not code:
+                continue
+            subj = subjects.setdefault(
+                code,
+                {"code": code, "name": s["name"] or code, "course": mg["course"], "term": mg["term"], "_g": {}},
+            )
+            if (not subj["name"] or subj["name"] == code) and s["name"]:
+                subj["name"] = s["name"]
+            bucket = subj["_g"].setdefault(s["group"], [])
+            item = {k: s[k] for k in ("day", "start", "end", "room", "type", "slots")}
+            if not any(e["day"] == item["day"] and e["start"] == item["start"]
+                       and e["end"] == item["end"] and e["room"] == item["room"] for e in bucket):
+                bucket.append(item)
+
+    subjects_out = []
+    for subj in subjects.values():
+        groups = []
+        for gid, items in subj["_g"].items():
+            items.sort(key=lambda x: (x["day"], x["start"]))
+            groups.append({"id": gid, "sessions": items})
+        groups.sort(key=lambda g: P._group_sort_key(g["id"]))
+        subjects_out.append({"code": subj["code"], "name": subj["name"], "course": subj["course"], "term": subj["term"], "groups": groups})
+    subjects_out.sort(key=lambda s: (s["course"] or 0, s["term"] or 0, s["name"]))
+    print(f"  → {len(subjects_out)} asignaturas reconstruidas")
+    return _finish_plan(plan, centro, "grado", prog_name, subjects_out)
+
+
+def _finish_plan(plan: int, centro: int, kind: str, name: str, subjects_out: list[dict]) -> dict:
     payload = {
         "plan": plan,
         "centro": centro,
         "type": kind,
-        "name": prog_name,
+        "name": name,
         "year": YEAR,
         "generatedAt": _now(),
         "subjects": subjects_out,
     }
+    # Most 2026/2027 schedules are still "en construcción": the programme lists
+    # subjects but no timetables. Don't pollute data/ with empty plans — leave
+    # them as "sin datos aún" until they publish.
+    total_groups = sum(len(s["groups"]) for s in subjects_out)
+    if total_groups == 0:
+        print(f"  ∅ plan {plan}-{centro}: sin horarios publicados todavía, se omite")
+        return payload
     _write_json(PLANS_DIR / f"{plan}-{centro}.json", payload)
     _rebuild_plans_index()
     print(f"✓ data/plans/{plan}-{centro}.json ({len(subjects_out)} asignaturas)")

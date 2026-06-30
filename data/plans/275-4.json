@@ -1,0 +1,258 @@
+{
+ "plan": 275,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Ingeniería de Máquinas y Transportes",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:30:52Z",
+ "subjects": [
+  {
+   "code": "16091",
+   "name": "Cinemática y dinámica avanzada de máquinas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-18.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-18.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16092",
+   "name": "Ingeniería del Transporte",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "* SIN AULA *"
+        },
+        {
+         "dates": "15.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "* SIN AULA *"
+        },
+        {
+         "dates": "15.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16097",
+   "name": "Ingeniería de Vehículos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "* SIN AULA *"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "* SIN AULA *"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "* SIN AULA *"
+        },
+        {
+         "dates": "14.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "* SIN AULA *"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "* SIN AULA *"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "* SIN AULA *"
+        },
+        {
+         "dates": "14.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16093",
+   "name": "Técnicas avanzadas de diseño en ingeniería mecánica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 2.2.C.03 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula INF 2.2.C.03 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula INF 2.2.C.03 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula INF 2.2.C.03 DUAL"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16094",
+   "name": "Tecnologías Avanzadas de Fabricación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16096",
+   "name": "Acústica y vibraciones",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "16095",
+   "name": "Mantenimiento y Seguridad en Máquinas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "16098",
+   "name": "Técnicas virtuales y experimentales de ensayo de máquinas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

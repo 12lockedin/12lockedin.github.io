@@ -1,0 +1,662 @@
+{
+ "plan": 449,
+ "centro": 28,
+ "type": "master",
+ "name": "Máster Universitario en Ingeniería Informática",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:32:07Z",
+ "subjects": [
+  {
+   "code": "18647",
+   "name": "Aspectos Legales y Éticos de la Ingeniería Informática",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.0.B01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 1.0.B01"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 1.0.B01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18644",
+   "name": "Computación de Altas Prestaciones",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.1.E04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.1.E04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.0.E06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.0.E06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18646",
+   "name": "Datos Masivos y Encadenados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.0.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 1.0.B01"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 1.0.B01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18645",
+   "name": "Dirección de Proyectos de Ingeniería Informática",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.0.E05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.0.E05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.0.E05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.0.E05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.0.E06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.0.E06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18648",
+   "name": "Diseño y Gestión de Redes Informáticas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.0.E04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.0.E04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.0.E05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.0.E05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18656",
+   "name": "Gestión de Empresas Industriales",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "4",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.0.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.B01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.0.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19411",
+   "name": "Proceso Lean Startup",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.1.G03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.1.G03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.1.G03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.1.G03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18655",
+   "name": "Robótica",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.0.C01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.0.C01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.0.C01"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.0.C01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.0.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.0.B01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19412",
+   "name": "Seminarios Tecnológicos",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.1.D03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.1.D03"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.1.D03"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.1.D03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.C02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 2.3.C02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18643",
+   "name": "Sistemas de Ciberseguridad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.0.E04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.0.E04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.0.E04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.0.E04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.0.E06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.0.E06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18649",
+   "name": "Análisis Inteligente de Datos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.D01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 4.1.D01"
+        },
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula 4.1.D01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18651",
+   "name": "Aplicaciones Avanzadas de la Inteligencia Artificial",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.ene-19.mar",
+         "room": "Aula 4.1.D03"
+        },
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula 4.1.D03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20911",
+   "name": "Calidad de Software y Sistemas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.1.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 4.1.D01"
+        },
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula 4.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.0.E05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 4.0.E05"
+        },
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula 4.0.E05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18653",
+   "name": "Planificación Estratégica de Sistemas de Información",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.E06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.feb-15.mar",
+         "room": "Aula 4.1.E06"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 4.1.E06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18652",
+   "name": "Sistemas Interactivos e Inmersivos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.E05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 4.1.E05"
+        },
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 4.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.1.D01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 4.1.D01"
+        },
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula 4.1.D01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18654",
+   "name": "Software para Internet de las cosas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.feb-15.mar",
+         "room": "Aula 2.3.D01"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 2.3.D01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.1.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.ene-19.mar",
+         "room": "Aula 4.1.D03"
+        },
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula 4.1.D03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

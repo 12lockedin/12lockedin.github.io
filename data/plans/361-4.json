@@ -1,0 +1,401 @@
+{
+ "plan": 361,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Ciencia e Ingeniería de Materiales",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:25:06Z",
+ "subjects": [
+  {
+   "code": "17153",
+   "name": "Ensayos de corrosión y técnicas electroquímicas de caracterización de materiales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17144",
+   "name": "Materiales Cerámicos Avanzados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17145",
+   "name": "Materiales Compuestos Avanzados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17142",
+   "name": "Materiales Metálicos Avanzados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17143",
+   "name": "Materiales Poliméricos Avanzados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17149",
+   "name": "Técnicas de caracterización térmica, mecánica y termomecánica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17146",
+   "name": "Tecnología Aplicada a Nanomateriales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.ene",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17152",
+   "name": "Comportamiento de Materiales en Condiciones Extremas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17157",
+   "name": "Materiales Funcionales para la Energía",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17155",
+   "name": "Materiales para Aplicaciones Biomédicas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17156",
+   "name": "Materiales para el Transporte",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17151",
+   "name": "Técnicas de análisis de superficies y caracterización de la estructura",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17150",
+   "name": "Técnicas de Microscopía",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17148",
+   "name": "Tecnología de Polvos",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17147",
+   "name": "Tecnología de Recubrimientos y Tratamientos Superficiales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

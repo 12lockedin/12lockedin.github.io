@@ -1,0 +1,237 @@
+{
+ "plan": 460,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario Erasmus Mundus en Física de Plasmas y Fusión Nuclear",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:34:51Z",
+ "subjects": [
+  {
+   "code": "18800",
+   "name": "Lenguaje y Cultura I",
+   "course": 1,
+   "term": 0,
+   "groups": []
+  },
+  {
+   "code": "18798",
+   "name": "Dinámica de Fluidos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18799",
+   "name": "Electrodinámica Clásica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18796",
+   "name": "Física de Plasmas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18811",
+   "name": "Física de Reactores de Fusión",
+   "course": 2,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "18822",
+   "name": "Interacción plasma-pared en plasmas de Fusión",
+   "course": 2,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "18797",
+   "name": "Introducción a la Física Atómica y Molecular",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "18808",
+   "name": "Joint Experimentation and Analysis Session",
+   "course": 2,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "18807",
+   "name": "Lenguaje y Cultura II",
+   "course": 2,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "18813",
+   "name": "Turbulencia en Plasmas",
+   "course": 2,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "18809",
+   "name": "Escuela de Fusión",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18806",
+   "name": "Física Atómica y Molecular Avanzada",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18801",
+   "name": "Física Computacional",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18804",
+   "name": "Física de Materiales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18805",
+   "name": "Física Estadística",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18803",
+   "name": "Proyecto de laboratorio: Técnicas experimentales en plasmas, física nuclear y materiales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18802",
+   "name": "Técnicas experimentales en plasmas, física nuclear y materiales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

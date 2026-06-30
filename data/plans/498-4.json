@@ -1,0 +1,810 @@
+{
+ "plan": 498,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Ingeniería del Diseño Industrial",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:31:29Z",
+ "subjects": [
+  {
+   "code": "19541",
+   "name": "Análisis y Validación mecánicas del Diseño",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19545",
+   "name": "Diseño ecoeficiente",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19544",
+   "name": "Diseño Orientado a la Fabricación y Prototipado",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 4.2.E03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19539",
+   "name": "Expresión artística y diseño gráfico",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19548",
+   "name": "Innovación y propiedad industrial",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.2.E03"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.2.E03"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19546",
+   "name": "Negocios e industrias sostenibles",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.2.E03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.2.E03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19542",
+   "name": "Selección de Materiales Ecoeficientes",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "03.nov",
+         "room": "Aula 4.2.E03"
+        },
+        {
+         "dates": "10.nov-01.dic",
+         "room": "Aulas 2.3.B01 y 4.2.E03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aulas 2.3.B01 y 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aulas 4.1.E04 y 4.2.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aulas 4.1.E04 y 4.2.E03"
+        },
+        {
+         "dates": "11.nov-18.nov",
+         "room": "Aulas 4.2.E03 y 7.1.J06"
+        },
+        {
+         "dates": "25.nov-16.dic",
+         "room": "Aulas 4.2.E03 y 2.3.A06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19547",
+   "name": "Sistemas Interactivos e Inmersivos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 4.2.E03"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19543",
+   "name": "Sistemas y procesos de fabricación avanzados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19540",
+   "name": "Técnicas y herramientas de creatividad y diseño",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 4.2.E03"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19558",
+   "name": "Biomecánica para la salud y el bienestar",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19549",
+   "name": "Creatividad y Emprendimiento",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19551",
+   "name": "Digitalización de sistemas y procesos productivos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19557",
+   "name": "Diseño de dispositivos biomédicos y clínicos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19553",
+   "name": "Diseño de productos digitales y disruptivos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19552",
+   "name": "Diseño digitalizado y conectado",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19559",
+   "name": "Diseño en biomecánica y ergonomía.",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19554",
+   "name": "Diseño en ingeniería de vehículos terrestres",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.2.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19556",
+   "name": "Materiales para la producción y almacenamiento de energía limpia en el transporte",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19550",
+   "name": "Técnicas de optimización en diseño",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula INF 1.2.G.03 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 1.2.G.03 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-28.abr",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        },
+        {
+         "dates": "05.may",
+         "room": "Aula INF 2.2.C.03 DUAL"
+        },
+        {
+         "dates": "12.may",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

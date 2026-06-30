@@ -1,0 +1,1262 @@
+{
+ "plan": 479,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Ingeniería Espacial",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:31:42Z",
+ "subjects": [
+  {
+   "code": "19239",
+   "name": "Antenas y Propagación Radio",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-18.nov",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "02.dic-16.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.nov",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19244",
+   "name": "Complementos de Ingeniería de la Telecomunicación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19242",
+   "name": "Dinámica Orbital",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-30.sep",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "14.oct-21.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19238",
+   "name": "Entorno Espacial",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19247",
+   "name": "Estructuras de Vehículo Espacial",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-25.nov",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "09.dic-16.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19240",
+   "name": "Gestión de Proyectos Espaciales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep-06.oct",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "20:30",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19271",
+   "name": "Ingeniería espacial con uso de datos",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "20:30",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19260",
+   "name": "Lanzadores y Reentrada",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "* SIN AULA *",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.nov-30.nov",
+         "room": "* SIN AULA *"
+        },
+        {
+         "dates": "14.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "* SIN AULA *",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19265",
+   "name": "Procesado de datos de observación de la Tierra",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.E02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.1.E02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19245",
+   "name": "Propulsión Espacial",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 7.0.H04 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "LAB 7.0.H04 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "LAB 7.0.H04 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "LAB 7.0.H04 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 7.0.H04 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.nov",
+         "room": "LAB 7.0.H04 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19270",
+   "name": "Proyecto Integral",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:00",
+       "end": "21:00",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "15.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "21:00",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula 7.2.H01"
+        },
+        {
+         "dates": "06.oct-01.dic",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19259",
+   "name": "Seminarios en Materias Avanzadas",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "13:00",
+       "end": "15:00",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "13:00",
+       "end": "17:00",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 7.2.H01"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "13:00",
+       "end": "15:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "Aula 7.2.H01"
+        },
+        {
+         "dates": "02.dic-09.dic",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "13:00",
+       "end": "15:00",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19246",
+   "name": "Software Espacial Embarcado",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19248",
+   "name": "Subsistema de Potencia",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "20.nov-18.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19241",
+   "name": "Subsistema Térmico",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19243",
+   "name": "Telecomunicaciones y Procesado de Señal",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19254",
+   "name": "Dinámica de actitud y guiado, navegación y control",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19252",
+   "name": "Electrónica Espacial",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19250",
+   "name": "Gestión de datos a bordo y telemetría",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "21:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-03.may",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "21:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "21:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19249",
+   "name": "Ingeniería de Sistemas Espaciales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19251",
+   "name": "Prediseño de Vehículos Espaciales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-19.mar",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "02.abr-14.may",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19253",
+   "name": "Segmento Terreno y Operaciones",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "21:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19257",
+   "name": "Seguridad Espacial",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19255",
+   "name": "Sistemas globales de navegación por satélite y sistemas de telecomunicaciones",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-03.may",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19256",
+   "name": "Teledetección y Misiones Científicas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "13:00",
+       "end": "17:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.abr",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "21:00",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

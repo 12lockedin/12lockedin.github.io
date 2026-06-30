@@ -1,0 +1,494 @@
+{
+ "plan": 458,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Matemática Aplicada y Computacional",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:33:13Z",
+ "subjects": [
+  {
+   "code": "18768",
+   "name": "Álgebra Lineal Aplicada y Computacional",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "16.oct-18.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18773",
+   "name": "Aprendizaje Automático",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18775",
+   "name": "Datos Masivos y Encadenados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.0.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 1.0.B01"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 1.0.B01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19403",
+   "name": "Inteligencia Artificial de Inspiración Biológica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 7.2.J08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18770",
+   "name": "Métodos Avanzados en Análisis Aplicado",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18771",
+   "name": "Modelización y Análisis No Lineal",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18776",
+   "name": "Perspectivas en Matemática Aplicada y Computacional",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "16.oct-18.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19402",
+   "name": "Sistemas Paralelos y Distribuidos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.1.G03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.1.G03"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.1.G03"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.1.G03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18769",
+   "name": "Técnicas Computacionales para Ecuaciones Diferenciales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19404",
+   "name": "Tratamiento Estadístico de Señales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 2.0.C05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-23.sep",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "30.sep",
+         "room": "LAB 4.0.B01A (Tª Señal)"
+        },
+        {
+         "dates": "07.oct-09.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 2.0.C05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-24.sep",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula 7.1.J08"
+        },
+        {
+         "dates": "08.oct-10.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18779",
+   "name": "Ecuaciones Estocásticas para Finanzas y Biología",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18780",
+   "name": "Funciones Especiales y Polinomios Ortogonales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18782",
+   "name": "Introducción a la Computación Cuántica",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18778",
+   "name": "Matemática Discreta Aplicada",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18781",
+   "name": "Métodos avanzados para ecuaciones diferenciales no lineales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18777",
+   "name": "Optimización",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18783",
+   "name": "Sistemas Complejos Biológicos y Socioeconómicos",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

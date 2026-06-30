@@ -54,9 +54,9 @@ python -m http.server 8000
 
 ## Datos: generarlos y ampliarlos
 
-El catálogo (200+ titulaciones) viene incluido. De momento solo está descargado
-el horario completo de un plan de ejemplo; el resto muestran la etiqueta
-*“sin datos aún”* hasta que los scrapees.
+El catálogo (200+ titulaciones) viene incluido, junto con los horarios de los
+**másteres ya publicados**. El resto muestran *“sin datos aún”*: muchos planes
+2026/2027 aún están **en construcción** y se irán añadiendo según se publiquen.
 
 ```bash
 cd scraper
@@ -65,12 +65,17 @@ pip install -r requirements.txt
 python scrape.py catalog                 # solo el índice de titulaciones
 python scrape.py plan 170 28 --kind master   # un plan concreto (plan, centro)
 python scrape.py refresh                 # catálogo + re-scrapea lo ya presente
-python scrape.py all --only master       # todo (lento; muchas peticiones)
+python scrape.py all --only master       # todos los másteres publicados
 ```
 
 Los códigos `plan` y `centro` salen de la URL de cada titulación en el catálogo
 (`data/catalog.json`). El scraper es **deliberadamente lento** (pausa entre
-peticiones) para no saturar la fuente.
+peticiones) para no saturar la fuente, y **omite los planes sin horario
+publicado**.
+
+> **Grados:** el scraper sabe leerlos (`--kind grado`), pero su modelo de
+> matrícula (teoría + reducido) aún no encaja en la interfaz; por eso de momento
+> solo se publican datos de **másteres**. Ver [`docs/SCRAPER.md`](docs/SCRAPER.md).
 
 El host de origen es configurable por variable de entorno (`HORARIOS_HOST`,
 `HORARIOS_YEAR`, `HORARIOS_DELAY`).

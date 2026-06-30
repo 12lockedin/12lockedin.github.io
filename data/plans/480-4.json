@@ -1,0 +1,411 @@
+{
+ "plan": 480,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Aprendizaje Automático para la Salud",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:24:24Z",
+ "subjects": [
+  {
+   "code": "19276",
+   "name": "Aprendizaje Automático",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19277",
+   "name": "Aprendizaje Profundo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19275",
+   "name": "Bioseñales y Bioimágenes",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19279",
+   "name": "Optimización",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19278",
+   "name": "Tratamiento de Imágenes Biomédicas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19274",
+   "name": "Tratamiento Estadístico de Señales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 2.0.C05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-23.sep",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "30.sep",
+         "room": "LAB 4.0.B01A (Tª Señal)"
+        },
+        {
+         "dates": "07.oct-09.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 2.0.C05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-24.sep",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula 7.1.J08"
+        },
+        {
+         "dates": "08.oct-10.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20249",
+   "name": "Aprendizaje Automático Probabilístico y Generativo",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19284",
+   "name": "Imágenes y Navegación Quirúrgica",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19289",
+   "name": "Inteligencia Artificial en radiología y microscopía",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19292",
+   "name": "Medicina Personalizada",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19283",
+   "name": "Metodologías de Investigación",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19285",
+   "name": "Neuroimagen",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "20646",
+   "name": "Procesado del Lenguaje Natural",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19282",
+   "name": "Reconstrucción de Imágenes Médicas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19293",
+   "name": "Tecnologías del habla para salud",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19288",
+   "name": "Teoría de la información para el aprendizaje automático",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19286",
+   "name": "Visión por Ordenador",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

@@ -1,0 +1,468 @@
+{
+ "plan": 296,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Robótica y Automatización",
+ "year": "2026",
+ "generatedAt": "2026-06-30T21:34:08Z",
+ "subjects": [
+  {
+   "code": "14922",
+   "name": "Control Inteligente",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17840",
+   "name": "Introducción a la Planificación de Robots",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17843",
+   "name": "Introducción al Aprendizaje de Robots",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17842",
+   "name": "Modelización y Simulación de Sistemas Dinámicos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14926",
+   "name": "Procesamiento de Imágenes por Computador",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-24.nov",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14927",
+   "name": "Robótica Industrial",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14925",
+   "name": "Robots Autónomos Inteligentes",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17841",
+   "name": "Sistemas Operativos de Robots",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14928",
+   "name": "Automatización de Sistemas Industriales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17846",
+   "name": "Manipulación",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17848",
+   "name": "Percepción 3D",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17850",
+   "name": "Robótica Industrial Avanzada",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17851",
+   "name": "Robótica Médica y Asistencial",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "14930",
+   "name": "Robótica y Automatización en la Construcción",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17849",
+   "name": "Robots de Campo",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "14936",
+   "name": "Robots Humanoides",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17847",
+   "name": "Robots Móviles",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17852",
+   "name": "Robóts Sociales y Domésticos",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17844",
+   "name": "Simuladores de Robots",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "14934",
+   "name": "Sistemas Inteligentes de Transporte",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17845",
+   "name": "Teleoperación y Telepresencia Robótica",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "14937",
+   "name": "Vehículos Aéreos no Tripulados",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}
