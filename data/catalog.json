@@ -1,0 +1,1407 @@
+{
+ "year": "2026",
+ "generatedAt": "2026-06-30T18:46:07Z",
+ "count": 200,
+ "programmes": [
+  {
+   "type": "grado",
+   "plan": 580,
+   "centro": 2,
+   "name": "Doble Grado Ciencia e Ingeniería de Datos - Ingeniería en Tecnologías de Telecomunicación",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 456,
+   "centro": 2,
+   "name": "Doble Grado Ciencia e Ingeniería de Datos - Ingeniería en Tecnologías de Telecomunicación",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 579,
+   "centro": 1,
+   "name": "Doble Grado en Ciencias Políticas y Sociología",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 406,
+   "centro": 1,
+   "name": "Doble Grado en Ciencias Políticas y Sociología",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 575,
+   "centro": 1,
+   "name": "Doble Grado en Derecho y Administración de Empresas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 575,
+   "centro": 6,
+   "name": "Doble Grado en Derecho y Administración de Empresas",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 410,
+   "centro": 1,
+   "name": "Doble Grado en Derecho y Administración de Empresas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 410,
+   "centro": 6,
+   "name": "Doble Grado en Derecho y Administración de Empresas",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 574,
+   "centro": 1,
+   "name": "Doble Grado en Derecho y Ciencias Políticas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 413,
+   "centro": 1,
+   "name": "Doble Grado en Derecho y Ciencias Políticas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 576,
+   "centro": 1,
+   "name": "Doble Grado en Derecho y Economía",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 416,
+   "centro": 1,
+   "name": "Doble Grado en Derecho y Economía",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 505,
+   "centro": 1,
+   "name": "Doble Grado en Estudios Internacionales y Administración de Empresas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 409,
+   "centro": 1,
+   "name": "Doble Grado en Estudios Internacionales y Administración de Empresas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 506,
+   "centro": 1,
+   "name": "Doble Grado en Estudios Internacionales y Ciencias Políticas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 411,
+   "centro": 1,
+   "name": "Doble Grado en Estudios Internacionales y Ciencias Políticas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 507,
+   "centro": 1,
+   "name": "Doble Grado en Estudios Internacionales y Derecho",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 412,
+   "centro": 1,
+   "name": "Doble Grado en Estudios Internacionales y Derecho",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 594,
+   "centro": 1,
+   "name": "Doble Grado en Estudios Internacionales y Economía",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 417,
+   "centro": 1,
+   "name": "Doble Grado en Estudios Internacionales y Economía",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 508,
+   "centro": 1,
+   "name": "Doble Grado en Estudios Internacionales y Economía",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 455,
+   "centro": 2,
+   "name": "Doble Grado en Ingeniería Física e Ingeniería en Tecnologías Industriales",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 581,
+   "centro": 2,
+   "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 581,
+   "centro": 8,
+   "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 437,
+   "centro": 2,
+   "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 437,
+   "centro": 8,
+   "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 578,
+   "centro": 3,
+   "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 384,
+   "centro": 3,
+   "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 414,
+   "centro": 3,
+   "name": "Doble Grado en Periodismo y Humanidades",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 577,
+   "centro": 3,
+   "name": "Doble Grado en Periodismo y Humanidades Digitales",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 565,
+   "centro": 1,
+   "name": "Grado en Administración de Empresas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 565,
+   "centro": 6,
+   "name": "Grado en Administración de Empresas",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 395,
+   "centro": 1,
+   "name": "Grado en Administración de Empresas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 395,
+   "centro": 6,
+   "name": "Grado en Administración de Empresas",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 560,
+   "centro": 1,
+   "name": "Grado en Análisis de Datos para la Empresa",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 566,
+   "centro": 2,
+   "name": "Grado en Ciencia e Ingeniería de Datos",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 392,
+   "centro": 2,
+   "name": "Grado en Ciencia e Ingeniería de Datos",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 470,
+   "centro": 3,
+   "name": "Grado en Ciencia, Tecnología y Humanidades",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 453,
+   "centro": 2,
+   "name": "Grado en Ciencias",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 558,
+   "centro": 1,
+   "name": "Grado en Ciencias Políticas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 558,
+   "centro": 20,
+   "name": "Grado en Ciencias Políticas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 396,
+   "centro": 1,
+   "name": "Grado en Ciencias Políticas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 564,
+   "centro": 3,
+   "name": "Grado en Comunicación Audiovisual",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 382,
+   "centro": 3,
+   "name": "Grado en Comunicación Audiovisual",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 557,
+   "centro": 1,
+   "name": "Grado en Derecho",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 557,
+   "centro": 6,
+   "name": "Grado en Derecho",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 397,
+   "centro": 1,
+   "name": "Grado en Derecho",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 397,
+   "centro": 6,
+   "name": "Grado en Derecho",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 571,
+   "centro": 1,
+   "name": "Grado en Economía",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 398,
+   "centro": 1,
+   "name": "Grado en Economía",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 596,
+   "centro": 3,
+   "name": "Grado en Educación Primaria",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 486,
+   "centro": 1,
+   "name": "Grado en Empresa y Tecnología",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 393,
+   "centro": 1,
+   "name": "Grado en Empresa y Tecnología",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 400,
+   "centro": 1,
+   "name": "Grado en Estadística y Empresa",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 573,
+   "centro": 3,
+   "name": "Grado en Estudios Culturales",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 435,
+   "centro": 3,
+   "name": "Grado en Estudios Culturales",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 504,
+   "centro": 1,
+   "name": "Grado en Estudios Internacionales",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 408,
+   "centro": 1,
+   "name": "Grado en Estudios Internacionales",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 415,
+   "centro": 1,
+   "name": "Grado en Filosofía, Política y Economía",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 520,
+   "centro": 1,
+   "name": "Grado en Finanzas y Contabilidad",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 399,
+   "centro": 1,
+   "name": "Grado en Finanzas y Contabilidad",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 572,
+   "centro": 3,
+   "name": "Grado en Gestión de la Información y Contenidos Digitales",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 569,
+   "centro": 3,
+   "name": "Grado en Historia y Política",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 394,
+   "centro": 3,
+   "name": "Grado en Historia y Política",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 407,
+   "centro": 3,
+   "name": "Grado en Humanidades",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 559,
+   "centro": 3,
+   "name": "Grado en Humanidades Digitales",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 421,
+   "centro": 2,
+   "name": "Grado en Ingeniería Aeroespacial",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 522,
+   "centro": 2,
+   "name": "Grado en Ingeniería Biomédica",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 419,
+   "centro": 2,
+   "name": "Grado en Ingeniería Biomédica",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 562,
+   "centro": 2,
+   "name": "Grado en Ingeniería de Comunicaciones Móviles y Espaciales",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 442,
+   "centro": 2,
+   "name": "Grado en Ingeniería de Comunicaciones Móviles y Espaciales",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 584,
+   "centro": 2,
+   "name": "Grado en Ingeniería de Internet",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 452,
+   "centro": 2,
+   "name": "Grado en Ingeniería de la Energía",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 585,
+   "centro": 2,
+   "name": "Grado en Ingeniería de Sonido e Imagen",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 441,
+   "centro": 2,
+   "name": "Grado en Ingeniería de Sonido e Imagen",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 444,
+   "centro": 2,
+   "name": "Grado en Ingeniería Electrónica Industrial y Automática",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 598,
+   "centro": 2,
+   "name": "Grado en Ingeniería Eléctrica",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 443,
+   "centro": 2,
+   "name": "Grado en Ingeniería Eléctrica",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 595,
+   "centro": 8,
+   "name": "Grado en Ingeniería en Tecnologías Cuánticas",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 568,
+   "centro": 2,
+   "name": "Grado en Ingeniería en Tecnologías de Telecomunicación",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 238,
+   "centro": 2,
+   "name": "Grado en Ingeniería en Tecnologías de Telecomunicación",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 445,
+   "centro": 2,
+   "name": "Grado en Ingeniería en Tecnologías de Telecomunicación",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 418,
+   "centro": 2,
+   "name": "Grado en Ingeniería en Tecnologías Industriales",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 434,
+   "centro": 2,
+   "name": "Grado en Ingeniería Física",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 570,
+   "centro": 2,
+   "name": "Grado en Ingeniería Informática",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 570,
+   "centro": 8,
+   "name": "Grado en Ingeniería Informática",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 489,
+   "centro": 2,
+   "name": "Grado en Ingeniería Informática",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 489,
+   "centro": 8,
+   "name": "Grado en Ingeniería Informática",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 446,
+   "centro": 2,
+   "name": "Grado en Ingeniería Mecánica",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 597,
+   "centro": 2,
+   "name": "Grado en Ingeniería Robótica",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 255,
+   "centro": 2,
+   "name": "Grado en Ingeniería Telemática",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 447,
+   "centro": 2,
+   "name": "Grado en Ingeniería Telemática",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 555,
+   "centro": 2,
+   "name": "Grado en Inteligencia Artificial",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 555,
+   "centro": 8,
+   "name": "Grado en Inteligencia Artificial",
+   "campus": "Colmenarejo"
+  },
+  {
+   "type": "grado",
+   "plan": 554,
+   "centro": 2,
+   "name": "Grado en Matemática Aplicada",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 567,
+   "centro": 2,
+   "name": "Grado en Matemáticas y Computación",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 517,
+   "centro": 16,
+   "name": "Grado en Neurociencia",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 561,
+   "centro": 3,
+   "name": "Grado en Periodismo",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 383,
+   "centro": 3,
+   "name": "Grado en Periodismo",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 521,
+   "centro": 1,
+   "name": "Grado en Relaciones Laborales y Empleo",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 556,
+   "centro": 1,
+   "name": "Grado en Sociología",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 402,
+   "centro": 1,
+   "name": "Grado en Sociología",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 552,
+   "centro": 1,
+   "name": "Grado en Sostenibilidad Urbana",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 563,
+   "centro": 1,
+   "name": "Grado en Turismo",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 381,
+   "centro": 1,
+   "name": "Grado en Turismo",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 583,
+   "centro": 2,
+   "name": "Programa Académico de Ingeniería de Telecomunicación vía Grado en Ingeniería en Tecnologías de Telecomunicación",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 511,
+   "centro": 2,
+   "name": "Programa Académico de Ingeniería de Telecomunicación vía Grado en Ingeniería en Tecnologías de Telecomunicación",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 510,
+   "centro": 2,
+   "name": "Programa Académico de Ingeniería Industrial vía Grado en Ingeniería en Tecnologías Industriales",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 582,
+   "centro": 2,
+   "name": "Programa Académico de Ingeniería Informática vía Grado en Ingeniería Informática",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
+   "plan": 509,
+   "centro": 2,
+   "name": "Programa Académico de Ingeniería Informática vía Grado en Ingeniería Informática",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 534,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería de Telecomunicación y Internet de las Cosas: Tecnologías Aplicadas",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 534,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería de Telecomunicación y Internet de las Cosas: Tecnologías Aplicadas",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 538,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería Informática / e Internet de las Cosas: Tecnologías Aplicadas",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 466,
+   "centro": 4,
+   "name": "Master in Business Administration (MBA)",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 318,
+   "centro": 4,
+   "name": "Master in Economic",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 330,
+   "centro": 4,
+   "name": "Máster Interuniversitario en Matemática Industrial",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 370,
+   "centro": 4,
+   "name": "Máster Universitario en Abogacía Internacional - Presencial",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 513,
+   "centro": 4,
+   "name": "Máster Universitario en Acceso a las Profesiones de Abogacía y Procura - Edición Marzo",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 512,
+   "centro": 4,
+   "name": "Máster Universitario en Acceso a las Profesiones de Abogacía y Procura - Edición Septiembre",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 405,
+   "centro": 4,
+   "name": "Máster Universitario en Análisis Económico/ Master in Economic Analysis",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 385,
+   "centro": 4,
+   "name": "Máster Universitario en Análisis Político y Electoral",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 480,
+   "centro": 4,
+   "name": "Máster Universitario en Aprendizaje Automático para la Salud",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 432,
+   "centro": 4,
+   "name": "Máster Universitario en Asesoramiento y Consultoría Jurídico Laboral",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 344,
+   "centro": 4,
+   "name": "Máster Universitario en Asesoría Jurídica de Empresas",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 500,
+   "centro": 4,
+   "name": "Máster Universitario en Bibliotecas, Archivos y Continuidad Digital Online",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 325,
+   "centro": 4,
+   "name": "Máster Universitario en Ciberseguridad",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 361,
+   "centro": 4,
+   "name": "Máster Universitario en Ciencia e Ingeniería de Materiales",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 589,
+   "centro": 4,
+   "name": "Máster Universitario en Ciencia y Tecnología Aeroespaciales",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 462,
+   "centro": 4,
+   "name": "Máster Universitario en Ciencia y Tecnología Informática",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 168,
+   "centro": 4,
+   "name": "Máster Universitario en Ciencias Actuariales y Financieras",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 380,
+   "centro": 4,
+   "name": "Máster Universitario en Ciencias de las Religiones: Historia y Sociedad",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 472,
+   "centro": 4,
+   "name": "Máster Universitario en Ciencias Sociales Computacionales/ Computational Social Science",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 481,
+   "centro": 4,
+   "name": "Máster Universitario en Ciencias Sociales/ Master in Social Sciences",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 515,
+   "centro": 4,
+   "name": "Máster Universitario en Ciencias y Tecnologías Analíticas y Bioanalíticas",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 320,
+   "centro": 4,
+   "name": "Máster Universitario en Cine y Televisión",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 359,
+   "centro": 4,
+   "name": "Máster Universitario en Comunicación Publicitaria",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 316,
+   "centro": 4,
+   "name": "Máster Universitario en Derecho de La Unión Europea",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 314,
+   "centro": 4,
+   "name": "Máster Universitario en Derecho de las Telecomunicaciones, Protección de Datos, Audiovisual y Sociedad de la Información",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 311,
+   "centro": 4,
+   "name": "Máster Universitario en Derecho de los Sectores Regulados",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 450,
+   "centro": 4,
+   "name": "Máster Universitario en Derecho Penal y Procesal Penal - Presencial",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 501,
+   "centro": 4,
+   "name": "Máster Universitario en Derecho Penal y Procesal Penal Online",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 473,
+   "centro": 4,
+   "name": "Máster Universitario en Desarrollo Sostenible y Gobernanza Global/ Global Sustainable Development and Global Governance",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 242,
+   "centro": 4,
+   "name": "Máster Universitario en Desarrollo y Crecimiento Económico/Master in Economic Development and Growth",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 404,
+   "centro": 4,
+   "name": "Máster Universitario en Dirección de Empresas- Master in Management",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 553,
+   "centro": 4,
+   "name": "Máster Universitario en Dirección de Recursos Humanos - Master in Human Resources Management",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 321,
+   "centro": 4,
+   "name": "Máster Universitario en Documental y Reportaje Periodístico Transmedia",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 591,
+   "centro": 4,
+   "name": "Máster Universitario en Documental y Reportaje Transmedia",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 586,
+   "centro": 4,
+   "name": "Máster Universitario en Economía de la Competencia, Regulación y Mercados",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 362,
+   "centro": 4,
+   "name": "Máster Universitario en Economía de la Empresa y Finanzas/ Master in Business and Finance",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 378,
+   "centro": 4,
+   "name": "Máster Universitario en Economía Industrial y Mercados / Master in Industrial Economics and Markets",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 588,
+   "centro": 4,
+   "name": "Máster Universitario en Electrificación del Transporte",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 276,
+   "centro": 4,
+   "name": "Máster Universitario en Energías Renovables en Sistemas Eléctricos",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 544,
+   "centro": 4,
+   "name": "Máster Universitario en Energías Renovables en Sistemas Térmicos",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 386,
+   "centro": 4,
+   "name": "Máster Universitario en Estadística para la Ciencia de Datos",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 430,
+   "centro": 4,
+   "name": "Máster Universitario en Estudios Avanzados de Derecho Público",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 290,
+   "centro": 4,
+   "name": "Máster Universitario en Estudios Avanzados en Derechos Humanos",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 543,
+   "centro": 4,
+   "name": "Máster Universitario en Experiencia de Usuario y Análisis de Información Digital",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 483,
+   "centro": 4,
+   "name": "Máster Universitario en Finanzas / Master in Finance",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 606,
+   "centro": 4,
+   "name": "Máster Universitario en Formación del Profesorado. Especialidad Tecnología",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 387,
+   "centro": 4,
+   "name": "Máster Universitario en Geopolítica y Estudios Estratégicos",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 323,
+   "centro": 4,
+   "name": "Máster Universitario en Gestión Turística de Recursos Culturales y Naturales",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 326,
+   "centro": 4,
+   "name": "Máster Universitario en Gestión y Desarrollo de Tecnologías Biomédicas",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 474,
+   "centro": 4,
+   "name": "Máster Universitario en Gobernanza Económica Europea: Derecho, Política y Economía/ European Economic Governance",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 357,
+   "centro": 4,
+   "name": "Máster Universitario en Herencia Cultural Hispánica",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 426,
+   "centro": 4,
+   "name": "Máster Universitario en Industria Conectada 4.0",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 328,
+   "centro": 28,
+   "name": "Máster Universitario en Ingeniería Aeronáutica / Master in Aeronautical Engineering",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 545,
+   "centro": 4,
+   "name": "Máster Universitario en Ingeniería Biomecánica y Dispositivos Médicos",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 497,
+   "centro": 4,
+   "name": "Máster Universitario en Ingeniería Circular",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 388,
+   "centro": 4,
+   "name": "Máster Universitario en Ingeniería Clínica",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 546,
+   "centro": 4,
+   "name": "Máster Universitario en Ingeniería de Diseño Microelectrónico",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 275,
+   "centro": 4,
+   "name": "Máster Universitario en Ingeniería de Máquinas y Transportes",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 327,
+   "centro": 4,
+   "name": "Máster Universitario en Ingeniería de Sistemas Electrónicos y Aplicaciones",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 171,
+   "centro": 28,
+   "name": "Máster Universitario en Ingeniería de Telecomunicación",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 171,
+   "centro": 28,
+   "name": "Máster Universitario en Ingeniería de Telecomunicación",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 498,
+   "centro": 4,
+   "name": "Máster Universitario en Ingeniería del Diseño Industrial",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 479,
+   "centro": 4,
+   "name": "Máster Universitario en Ingeniería Espacial",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 170,
+   "centro": 28,
+   "name": "Máster Universitario en Ingeniería Industrial",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 607,
+   "centro": 28,
+   "name": "Máster Universitario en Ingeniería Informática",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 449,
+   "centro": 28,
+   "name": "Máster Universitario en Ingeniería Informática",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 277,
+   "centro": 4,
+   "name": "Máster Universitario en Iniciativa Emprendedora y Creación de Empresas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 475,
+   "centro": 4,
+   "name": "Máster Universitario en Inteligencia Artificial Aplicada",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 428,
+   "centro": 4,
+   "name": "Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 516,
+   "centro": 4,
+   "name": "Máster Universitario en Investigación en Comunicación",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 310,
+   "centro": 4,
+   "name": "Máster Universitario en Investigación en Derecho de la Cultura",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 322,
+   "centro": 4,
+   "name": "Máster Universitario en Lengua y Literatura Españolas Actuales",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 279,
+   "centro": 4,
+   "name": "Máster Universitario en Marketing - Presencial",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 458,
+   "centro": 4,
+   "name": "Máster Universitario en Matemática Aplicada y Computacional",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 274,
+   "centro": 4,
+   "name": "Máster Universitario en Mecánica Industrial",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 345,
+   "centro": 4,
+   "name": "Máster Universitario en Mediación, Negociación y Resolución de Conflictos - Presencial",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 502,
+   "centro": 4,
+   "name": "Máster Universitario en Mediación, Negociación y Resolución de Conflictos Online",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 352,
+   "centro": 4,
+   "name": "Máster Universitario en Métodos Analíticos para Datos Masivos: Big Data / Master in Big Data Analytics",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 247,
+   "centro": 4,
+   "name": "Máster Universitario en Prevención de Riesgos Laborales",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 313,
+   "centro": 4,
+   "name": "Máster Universitario en Propiedad Intelectual",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 375,
+   "centro": 4,
+   "name": "Máster Universitario en Responsabilidad Civil",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 296,
+   "centro": 4,
+   "name": "Máster Universitario en Robótica y Automatización",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 461,
+   "centro": 4,
+   "name": "Máster Universitario en Tecnologías del Sector Financiero: FinTech",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 476,
+   "centro": 4,
+   "name": "Máster Universitario en Tecnologías e Ingeniería Cuánticas",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 356,
+   "centro": 4,
+   "name": "Máster Universitario en Teoría y Crítica de la Cultura",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 389,
+   "centro": 4,
+   "name": "Máster Universitario en Tributación",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 460,
+   "centro": 4,
+   "name": "Máster Universitario Erasmus Mundus en Física de Plasmas y Fusión Nuclear",
+   "campus": "Leganés"
+  }
+ ]
+}

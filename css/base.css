@@ -1,0 +1,146 @@
+/* =============================================================================
+   Base — reset, paper texture, typography, shared components
+   ============================================================================= */
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-body);
+  font-size: var(--fs-md);
+  line-height: 1.5;
+  color: var(--text);
+  background-color: var(--bg);
+  /* Layered naturalist paper: warm radial light + faint fibre weave. */
+  background-image:
+    radial-gradient(120% 80% at 18% -10%, rgba(255, 250, 235, 0.7), transparent 60%),
+    radial-gradient(90% 70% at 110% 0%, rgba(216, 162, 60, 0.10), transparent 55%),
+    repeating-linear-gradient(90deg, rgba(120, 96, 50, 0.020) 0 2px, transparent 2px 4px),
+    repeating-linear-gradient(0deg,  rgba(120, 96, 50, 0.020) 0 2px, transparent 2px 4px);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Speckled paper grain — a fixed, non-interactive turbulence overlay. */
+.grain {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0.5;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.045'/%3E%3C/svg%3E");
+}
+
+/* --- Typography ------------------------------------------------------------ */
+h1, h2, h3 { font-family: var(--font-display); font-weight: 560; line-height: 1.08; margin: 0 0 0.4em; letter-spacing: -0.01em; }
+h1 { font-size: var(--fs-2xl); }
+h2 { font-size: var(--fs-xl); }
+h3 { font-size: var(--fs-lg); }
+p  { margin: 0 0 1em; }
+a  { color: var(--link); text-underline-offset: 2px; }
+
+.display { font-family: var(--font-display); }
+.hand { font-family: var(--font-hand); color: var(--ochre-deep); }
+.mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+.muted { color: var(--ink-soft); }
+.faint { color: var(--ink-faint); }
+.eyebrow {
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: var(--fs-xs);
+  color: var(--ochre-deep);
+}
+.hidden { display: none !important; }
+.center { text-align: center; }
+
+/* --- Layout ---------------------------------------------------------------- */
+.wrap { width: min(100% - 2.4rem, var(--maxw)); margin-inline: auto; }
+
+/* --- Buttons --------------------------------------------------------------- */
+.btn {
+  --bg-btn: var(--paper-2);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: var(--fs-sm);
+  line-height: 1;
+  padding: 0.7em 1.1em;
+  color: var(--ink);
+  background: var(--bg-btn);
+  border: 1px solid rgba(60, 45, 25, 0.28);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-sm), var(--shadow-press);
+  cursor: pointer;
+  transition: transform 0.12s var(--ease), box-shadow 0.12s var(--ease), background 0.12s var(--ease);
+}
+.btn:hover { transform: translateY(-1px); box-shadow: var(--shadow-md), var(--shadow-press); }
+.btn:active { transform: translateY(0); box-shadow: var(--shadow-sm); }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+.btn--primary { --bg-btn: linear-gradient(180deg, #c2723a, var(--ochre)); color: #fdf6e7; border-color: var(--ochre-deep); }
+.btn--primary:hover { --bg-btn: linear-gradient(180deg, #cb7d44, var(--ochre)); }
+.btn--ghost { --bg-btn: transparent; box-shadow: none; }
+.btn--ghost:hover { --bg-btn: rgba(120, 96, 50, 0.08); box-shadow: none; }
+.btn--lg { font-size: var(--fs-md); padding: 0.85em 1.4em; }
+
+/* --- Inputs ---------------------------------------------------------------- */
+.field {
+  width: 100%;
+  font-family: var(--font-body);
+  font-size: var(--fs-md);
+  padding: 0.75em 0.9em 0.75em 2.4em;
+  color: var(--ink);
+  background: var(--paper-3);
+  border: 1px solid var(--paper-edge);
+  border-radius: var(--radius);
+  box-shadow: inset 0 1px 3px rgba(60, 45, 25, 0.10);
+}
+.field:focus { outline: 2px solid var(--amber); outline-offset: 1px; border-color: var(--amber); }
+.search { position: relative; }
+.search svg { position: absolute; left: 0.8em; top: 50%; transform: translateY(-50%); color: var(--ink-faint); }
+
+/* --- Cards & wells --------------------------------------------------------- */
+.card {
+  background: var(--paper-2);
+  border: 1px solid var(--paper-edge);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+}
+
+/* --- Badges / chips -------------------------------------------------------- */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  font-family: var(--font-mono);
+  font-size: var(--fs-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.25em 0.6em;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  color: var(--navy);
+}
+.badge--grado  { color: var(--sage); }
+.badge--master { color: var(--ochre-deep); }
+.badge--soft { border-style: dashed; color: var(--ink-faint); }
+
+/* Pressed botanical divider */
+.rule-leaf { display: flex; align-items: center; gap: 0.8rem; color: var(--paper-edge); margin: 1.4rem 0; }
+.rule-leaf::before, .rule-leaf::after { content: ""; height: 1px; background: var(--paper-edge); flex: 1; }
+
+/* Scrollbars in keeping with the paper */
+* { scrollbar-color: var(--paper-edge) transparent; }
+*::-webkit-scrollbar { width: 10px; height: 10px; }
+*::-webkit-scrollbar-thumb { background: var(--paper-edge); border-radius: 999px; border: 2px solid var(--paper); }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}

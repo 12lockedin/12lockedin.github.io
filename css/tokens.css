@@ -1,0 +1,76 @@
+/* =============================================================================
+   Design tokens — "Cuaderno de Campo"
+   A naturalist field-journal system: warm paper, ink, and pressed-pigment
+   accents in institutional warm-ochre / navy tones. No external brand is named.
+   ============================================================================= */
+
+:root {
+  /* --- Paper & ink ------------------------------------------------------- */
+  --paper:        #f2e9d6;   /* warm cream, the page itself          */
+  --paper-2:      #ece1c9;   /* raised panels / cards                */
+  --paper-3:      #e3d6ba;   /* sunken wells, table fills            */
+  --paper-edge:   #d8c8a6;   /* hairline rules on paper              */
+  --ink:          #2a2620;   /* near-black, warm                     */
+  --ink-soft:     #5c5343;   /* secondary text                       */
+  --ink-faint:    #8a7e68;   /* captions, hints                      */
+
+  /* --- Pressed-pigment accents (institutional warm tones) ---------------- */
+  --ochre:        #b5642a;   /* primary — terracotta / teja          */
+  --ochre-deep:   #8a4a1e;   /* pressed darker                       */
+  --amber:        #d8a23c;   /* highlight / selection wash           */
+  --navy:         #2e4257;   /* cool counterpoint, links & headers   */
+  --navy-deep:    #213040;
+  --sage:         #76815a;   /* botanical green                      */
+  --moss:         #4f5d39;
+  --brick:        #a23627;   /* conflict / error                     */
+  --brick-soft:   #c66a4f;
+
+  /* --- Functional -------------------------------------------------------- */
+  --bg:           var(--paper);
+  --text:         var(--ink);
+  --accent:       var(--ochre);
+  --link:         var(--navy);
+  --selection:    #f3d9a8;
+
+  /* --- Botanical pigment set for subject blocks (muted, earthy) ---------- */
+  --pig-1:  #c57b4e;  /* terracotta */
+  --pig-2:  #cf9f49;  /* ochre      */
+  --pig-3:  #8a9a6b;  /* sage       */
+  --pig-4:  #7c93a6;  /* slate blue */
+  --pig-5:  #b5705a;  /* clay       */
+  --pig-6:  #5f8a7d;  /* viridian   */
+  --pig-7:  #a07c93;  /* mauve      */
+  --pig-8:  #9a8f4f;  /* olive      */
+  --pig-9:  #b85c44;  /* rust       */
+  --pig-10: #6e7f58;  /* moss       */
+  --pig-11: #c0a36a;  /* sand       */
+  --pig-12: #8a6e86;  /* plum       */
+
+  /* --- Typography -------------------------------------------------------- */
+  --font-display: "Fraunces", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  --font-body:    "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-hand:    "Caveat", "Segoe Script", cursive;
+  --font-mono:    "Spline Sans Mono", ui-monospace, "Cascadia Code", "Consolas", monospace;
+
+  --fs-xs:  0.72rem;
+  --fs-sm:  0.84rem;
+  --fs-md:  1rem;
+  --fs-lg:  1.25rem;
+  --fs-xl:  1.7rem;
+  --fs-2xl: 2.6rem;
+  --fs-3xl: 3.4rem;
+
+  /* --- Geometry & depth -------------------------------------------------- */
+  --radius:    10px;
+  --radius-sm: 6px;
+  --radius-lg: 16px;
+  --rule:      1px solid var(--paper-edge);
+
+  --shadow-sm: 0 1px 2px rgba(60, 45, 25, 0.14);
+  --shadow-md: 0 6px 18px rgba(60, 45, 25, 0.16), 0 1px 2px rgba(60, 45, 25, 0.12);
+  --shadow-lg: 0 18px 50px rgba(50, 38, 20, 0.22), 0 3px 8px rgba(60, 45, 25, 0.14);
+  --shadow-press: inset 0 1px 0 rgba(255, 250, 235, 0.5);
+
+  --maxw: 1180px;
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+}

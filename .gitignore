@@ -1,0 +1,19 @@
+# Inspiration / scratch material — kept local, never published
+00-INSPO/
+
+# Local tooling & editor state
+.claude/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
