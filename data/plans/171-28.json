@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-06-30T21:31:18Z",
+ "generatedAt": "2026-07-06T08:41:01Z",
  "subjects": [
   {
    "code": "17053",
@@ -444,12 +444,12 @@
        "day": 3,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 4.1.E02",
+       "room": "* SIN AULA *",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-22.oct",
-         "room": "Aula 4.1.E02"
+         "room": "* SIN AULA *"
         }
        ]
       },
@@ -457,12 +457,12 @@
        "day": 3,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 4.1.E02",
+       "room": "* SIN AULA *",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-22.oct",
-         "room": "Aula 4.1.E02"
+         "room": "* SIN AULA *"
         }
        ]
       }

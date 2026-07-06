@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Espacial",
  "year": "2026",
- "generatedAt": "2026-06-30T21:31:42Z",
+ "generatedAt": "2026-07-06T08:43:21Z",
  "subjects": [
   {
    "code": "19239",
@@ -292,6 +292,19 @@
       {
        "day": 1,
        "start": "17:15",
+       "end": "20:30",
+       "room": "Aula 2.0.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
        "end": "18:45",
        "room": "Aula 2.0.C03",
        "type": "Máster oficial",
@@ -302,19 +315,6 @@
         },
         {
          "dates": "20.oct",
-         "room": "Aula 2.0.C03"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "17:15",
-       "end": "20:30",
-       "room": "Aula 2.0.C03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "27.oct",
          "room": "Aula 2.0.C03"
         }
        ]
@@ -379,12 +379,12 @@
        "day": 2,
        "start": "17:15",
        "end": "20:30",
-       "room": "Aula 4.1.E02",
+       "room": "* SIN AULA *",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.sep-21.oct",
-         "room": "Aula 4.1.E02"
+         "room": "* SIN AULA *"
         }
        ]
       }
@@ -448,12 +448,12 @@
        "day": 3,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 4.1.E02",
+       "room": "* SIN AULA *",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-22.oct",
-         "room": "Aula 4.1.E02"
+         "room": "* SIN AULA *"
         }
        ]
       },
@@ -461,12 +461,12 @@
        "day": 3,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 4.1.E02",
+       "room": "* SIN AULA *",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-22.oct",
-         "room": "Aula 4.1.E02"
+         "room": "* SIN AULA *"
         }
        ]
       }
@@ -567,14 +567,14 @@
      "sessions": [
       {
        "day": 1,
-       "start": "17:00",
-       "end": "21:00",
-       "room": "Aula 4.1.E02",
+       "start": "17:15",
+       "end": "20:30",
+       "room": "* SIN AULA *",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "08.sep",
-         "room": "Aula 4.1.E02"
+         "room": "* SIN AULA *"
         },
         {
          "dates": "15.sep",
@@ -585,25 +585,17 @@
       {
        "day": 1,
        "start": "19:00",
-       "end": "21:00",
-       "room": "Aula 4.1.E02",
+       "end": "20:30",
+       "room": "* SIN AULA *",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "22.sep",
-         "room": "Aula 4.1.E02"
-        },
-        {
-         "dates": "29.sep",
-         "room": "Aula 7.2.H01"
-        },
-        {
-         "dates": "06.oct-01.dic",
-         "room": "Aula 4.1.E02"
+         "dates": "22.sep-01.dic",
+         "room": "* SIN AULA *"
         },
         {
          "dates": "15.dic",
-         "room": "Aula 4.1.E02"
+         "room": "* SIN AULA *"
         }
        ]
       }
@@ -623,6 +615,19 @@
       {
        "day": 0,
        "start": "13:00",
+       "end": "17:00",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "13:00",
        "end": "15:00",
        "room": "Aula 4.1.E02",
        "type": "Máster oficial",
@@ -633,19 +638,6 @@
         },
         {
          "dates": "16.nov",
-         "room": "Aula 4.1.E02"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "13:00",
-       "end": "17:00",
-       "room": "Aula 4.1.E02",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "19.oct",
          "room": "Aula 4.1.E02"
         }
        ]

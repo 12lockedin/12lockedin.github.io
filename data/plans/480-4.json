@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Aprendizaje Automático para la Salud",
  "year": "2026",
- "generatedAt": "2026-06-30T21:24:24Z",
+ "generatedAt": "2026-07-06T08:43:30Z",
  "subjects": [
   {
    "code": "19276",
@@ -315,10 +315,6 @@
         {
          "dates": "10.sep-24.sep",
          "room": "Aula 2.0.C05"
-        },
-        {
-         "dates": "01.oct",
-         "room": "Aula 7.1.J08"
         },
         {
          "dates": "08.oct-10.dic",

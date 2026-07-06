@@ -1,7 +1,7 @@
 {
  "year": "2026",
- "generatedAt": "2026-06-30T21:22:37Z",
- "count": 200,
+ "generatedAt": "2026-07-06T08:40:35Z",
+ "count": 208,
  "programmes": [
   {
    "type": "grado",
@@ -516,6 +516,13 @@
   },
   {
    "type": "grado",
+   "plan": 253,
+   "centro": 2,
+   "name": "Grado en Ingeniería de Sistemas Audiovisuales",
+   "campus": "Leganés"
+  },
+  {
+   "type": "grado",
    "plan": 585,
    "centro": 2,
    "name": "Grado en Ingeniería de Sonido e Imagen",
@@ -775,6 +782,20 @@
   },
   {
    "type": "master",
+   "plan": 535,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería de Telecomunicación y Ciberseguridad",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 535,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería de Telecomunicación y Ciberseguridad",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
    "plan": 534,
    "centro": 28,
    "name": "Doble Máster en Ingeniería de Telecomunicación y Internet de las Cosas: Tecnologías Aplicadas",
@@ -789,9 +810,44 @@
   },
   {
    "type": "master",
+   "plan": 536,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería de Telecomunicación y Métodos Analíticos para Datos Masivos: Big Data",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 536,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería de Telecomunicación y Métodos Analíticos para Datos Masivos: Big Data",
+   "campus": "Puerta de Toledo"
+  },
+  {
+   "type": "master",
+   "plan": 537,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería Informática / e Inteligencia Artificial Aplicada",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
    "plan": 538,
    "centro": 28,
    "name": "Doble Máster en Ingeniería Informática / e Internet de las Cosas: Tecnologías Aplicadas",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 539,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería Informática y Ciberseguridad",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 541,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería Informática y Ciencia y Métodos Analíticos para Datos Masivos: Big Data",
    "campus": "Leganés"
   },
   {
