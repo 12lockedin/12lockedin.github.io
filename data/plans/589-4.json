@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencia y Tecnología Aeroespaciales",
  "year": "2026",
- "generatedAt": "2026-07-06T08:44:30Z",
+ "generatedAt": "2026-07-09T10:21:08Z",
  "subjects": [
   {
    "code": "12435",
@@ -33,12 +33,12 @@
        "day": 0,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 2.0.C03",
+       "room": "Aula 7.2.H01",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         }
        ]
       },
@@ -46,12 +46,12 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.0.C03",
+       "room": "Aula 7.2.H01",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-30.sep",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         },
         {
          "dates": "07.oct",
@@ -59,7 +59,7 @@
         },
         {
          "dates": "14.oct-21.oct",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         }
        ]
       },
@@ -67,16 +67,16 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.0.C03",
+       "room": "Aula 7.2.H01",
        "type": null,
        "slots": [
         {
          "dates": "11.sep",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         },
         {
          "dates": "25.sep",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         },
         {
          "dates": "02.oct",
@@ -152,16 +152,16 @@
        "day": 0,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.0.C03",
+       "room": "Aula 7.2.H01",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         },
         {
          "dates": "19.oct",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         }
        ]
       },
@@ -169,12 +169,12 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.0.C03",
+       "room": "Aula 7.2.H01",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-21.oct",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         }
        ]
       }
@@ -195,16 +195,16 @@
        "day": 0,
        "start": "17:15",
        "end": "18:45",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.J04",
        "type": null,
        "slots": [
         {
          "dates": "09.nov-30.nov",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J04"
         },
         {
          "dates": "14.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J04"
         }
        ]
       },
@@ -212,12 +212,12 @@
        "day": 4,
        "start": "17:15",
        "end": "18:45",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.J02",
        "type": null,
        "slots": [
         {
          "dates": "06.nov-18.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J02"
         }
        ]
       }
@@ -439,24 +439,24 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.H03",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.H03"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.H03"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.H03"
         },
         {
          "dates": "14.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.H03"
         }
        ]
       },
@@ -464,12 +464,12 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.H03",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "30.nov",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.H03"
         }
        ]
       },
@@ -477,12 +477,12 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.H03",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "30.nov",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.H03"
         }
        ]
       },
@@ -490,20 +490,20 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.H03",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "16.sep-23.sep",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.H03"
         },
         {
          "dates": "14.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.H03"
         },
         {
          "dates": "28.oct-04.nov",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.H03"
         }
        ]
       }
@@ -566,12 +566,12 @@
        "day": 0,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.0.C03",
+       "room": "Aula 7.2.H01",
        "type": null,
        "slots": [
         {
          "dates": "25.ene-08.mar",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         }
        ]
       },
@@ -579,12 +579,12 @@
        "day": 4,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.0.C03",
+       "room": "Aula 7.2.H01",
        "type": null,
        "slots": [
         {
          "dates": "29.ene-12.mar",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         }
        ]
       }
@@ -800,12 +800,12 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.0.C03",
+       "room": "Aula 7.2.H01",
        "type": null,
        "slots": [
         {
          "dates": "27.ene-10.mar",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         }
        ]
       },
@@ -813,12 +813,12 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.0.C03",
+       "room": "Aula 7.2.H01",
        "type": null,
        "slots": [
         {
          "dates": "27.ene-10.mar",
-         "room": "Aula 2.0.C03"
+         "room": "Aula 7.2.H01"
         }
        ]
       }

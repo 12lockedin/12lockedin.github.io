@@ -1,0 +1,617 @@
+{
+ "plan": 553,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Dirección de Recursos Humanos - Master in Human Resources Management",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:26:57Z",
+ "subjects": [
+  {
+   "code": "17869",
+   "name": "Dirección Comercial y de la Producción",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "11845",
+   "name": "Dirección Estratégica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "28.sep",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "06.oct-13.oct",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep-25.sep",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "09.oct-16.oct",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "11848",
+   "name": "Dirección Financiera",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep-02.oct",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "11884",
+   "name": "Dirección Internacional de Empresas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "09.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-13.nov",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "27.nov-04.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "11854",
+   "name": "Gestionando actitudes laborales y comportamiento",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov-30.nov",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-11.nov",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "25.nov-02.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "11844",
+   "name": "Gestión y Liderazgo de Personas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-10.nov",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-10.nov",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.oct-16.oct",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17871",
+   "name": "Métodos y temas de investigación en recursos humanos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic-17.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.sep",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "01.oct-22.oct",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "11853",
+   "name": "Selección y Desarrollo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov-30.nov",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17870",
+   "name": "Auditoría y Administración de Recursos Humanos",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "11846",
+   "name": "Comportamiento Organizativo",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "11856",
+   "name": "Derecho del trabajo y legislación laboral",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "11858",
+   "name": "Dirección Global de Personas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "11859",
+   "name": "Habilidades Directivas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "11847",
+   "name": "Recursos Humanos Comparados",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "11852",
+   "name": "Seminarios Profesionales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17877",
+   "name": "Sistemas de información para directivos de recursos humanos",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "20057",
+   "name": "Taller para el Trabajo Fin de Máster",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

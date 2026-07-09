@@ -1,0 +1,1142 @@
+{
+ "plan": 386,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Estadística para la Ciencia de Datos",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:28:01Z",
+ "subjects": [
+  {
+   "code": "17756",
+   "name": "Análisis Multivariante",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.dic",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17755",
+   "name": "Inferencia Estadística",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17752",
+   "name": "Matemáticas para Data Science",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17758",
+   "name": "Modelos de Regresión",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19376",
+   "name": "Optimización y Analítica de Decisiones",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:30",
+       "end": "13:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "13:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17773",
+   "name": "Perspectivas en Estadística",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "11.ene",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "11.ene",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "11.ene",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17753",
+   "name": "Probabilidad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17754",
+   "name": "Procesos Estocásticos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17761",
+   "name": "Programación Avanzada",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17759",
+   "name": "Programación en R",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "15:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-28.sep",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17768",
+   "name": "Análisis de Redes",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17767",
+   "name": "Análisis de Series Temporales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "14:15",
+       "end": "14:45",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17770",
+   "name": "Análisis Funcional de Datos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17757",
+   "name": "Aprendizaje Estadístico",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17766",
+   "name": "Bioestadística",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19377",
+   "name": "Computación de Altas Prestaciones para la Ciencia de Datos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:15",
+       "end": "15:45",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17774",
+   "name": "Depuración de Datos y Generación de Informes",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-11.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-11.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17764",
+   "name": "Estadística No Paramétrica",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17763",
+   "name": "Inferencia Bayesiana",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17769",
+   "name": "Modelos Gráficos y de Markov Ocultos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19378",
+   "name": "Optimización y Analítica de Decisiones Avanzada",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-11.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "14:15",
+       "end": "15:45",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-11.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:15",
+       "end": "15:45",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17765",
+   "name": "Regresión Avanzada y Predicción",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.may-12.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-12.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-12.may",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17762",
+   "name": "Simulación y Métodos de Remuestreo",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

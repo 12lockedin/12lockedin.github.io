@@ -1,0 +1,440 @@
+{
+ "plan": 277,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Iniciativa Emprendedora y Creación de Empresas",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:29:46Z",
+ "subjects": [
+  {
+   "code": "16186",
+   "name": "Contabilidad y finanzas para nuevos proyectos empresariales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16183",
+   "name": "Estrategia para emprendedores",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:30",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16185",
+   "name": "Gestión de la nueva actividad empresarial",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 18.0.A14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 18.0.A14"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 18.0.A14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 18.0.A14"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 18.0.A14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 18.0.A14"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep-05.nov",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "19.nov-10.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep-15.oct",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "29.oct-05.nov",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "26.nov-10.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16187",
+   "name": "Marketing y técnicas comerciales para empresas de nueva creación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16184",
+   "name": "Régimen jurídico de la creación de empresas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep-28.sep",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "22.sep-01.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "23.sep-11.nov",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "25.nov-09.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.nov",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16200",
+   "name": "Análisis de datos para la toma de decisiones",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "16191",
+   "name": "Creación y desarrollo de Empresas de Base Tecnológica",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "16197",
+   "name": "Empresas Familiares",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17510",
+   "name": "Gestión de la Innovación",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "16188",
+   "name": "Gestión de personas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "16196",
+   "name": "Habilidades de gestión para emprendedores",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "16194",
+   "name": "Instrumentos de financiación para empresas de nueva creación",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "16193",
+   "name": "Protección jurídica de la innovación",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "16201",
+   "name": "Seminarios profesionales: la experiencia del emprendedor",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18997",
+   "name": "Tecnologías de la información y negocios digitales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

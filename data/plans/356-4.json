@@ -1,0 +1,1187 @@
+{
+ "plan": 356,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Teoría y Crítica de la Cultura",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:31:40Z",
+ "subjects": [
+  {
+   "code": "20292",
+   "name": "Construir la sociedad: retórica y discurso",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "13:00",
+       "end": "15:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17518",
+   "name": "Creación cultural e imaginarios sociales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16602",
+   "name": "La Modernidad: Identidad, Memoria, Expectativas y Experiencia",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15417",
+   "name": "Lenguaje: Mente y Cultura",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15411",
+   "name": "Narrativas de la Identidad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15425",
+   "name": "Palabra e Imagen: la Representación en la Cultura Contemporánea",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-28.oct",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "11.nov-09.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15415",
+   "name": "Políticas de la Mirada",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "13:00",
+       "end": "15:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "12:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.nov",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15414",
+   "name": "Teorías de la Crisis Cultural",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "13:00",
+       "end": "15:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19372",
+   "name": "Teorías del género: de la metafísica a la política",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17517",
+   "name": "Culturas postcoloniales y crítica del canon",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.abr",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15421",
+   "name": "Cultura y Poder",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.feb",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14665",
+   "name": "Geopolíticas del Audiovisual",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:00",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "13:45",
+       "room": "Aula 18.0.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16603",
+   "name": "Lenguajes y teoría del discurso",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "13:00",
+       "end": "15:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.abr",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20293",
+   "name": "Política y performance",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "01.abr-29.abr",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.mar",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15419",
+   "name": "Retórica de la Imagen",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "13:00",
+       "end": "15:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.mar",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15423",
+   "name": "Seminario de Investigación",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "13:00",
+       "end": "15:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "01.abr-29.abr",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.abr",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19373",
+   "name": "Técnica y Cultura",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.feb",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15409",
+   "name": "Teorías del Sujeto",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 18.0.A09"
+        },
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:30",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.feb",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.may",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

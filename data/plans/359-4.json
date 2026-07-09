@@ -1,0 +1,909 @@
+{
+ "plan": 359,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Comunicación Publicitaria",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:25:36Z",
+ "subjects": [
+  {
+   "code": "17118",
+   "name": "Comportamiento del Consumidor Avanzado",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-01.dic",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-01.dic",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-01.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17122",
+   "name": "Comunicación Corporativa",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep-05.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep-05.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep-05.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17115",
+   "name": "Creatividad I: del concepto a la campaña",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep-29.sep",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep-30.sep",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct-22.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct-22.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct-22.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17116",
+   "name": "Creatividad II: tendencias y nuevos medios",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-10.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-10.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-03.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17119",
+   "name": "Derecho de la Publicidad y de la Propiedad Intelectual",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep-09.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep-09.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep-09.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17113",
+   "name": "Fundamentos de Comunicación y Publicidad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.oct-21.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep-21.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep-07.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17114",
+   "name": "Gestión de marcas en medios tradicionales y digitales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov-09.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov-09.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov-02.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17121",
+   "name": "Marketing de Contenidos y Nuevas Tendencias",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17120",
+   "name": "Metodologías de la Investigación en Comunicación y Publicidad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct-13.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep-20.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep-20.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17124",
+   "name": "Planificación de Medios",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov-11.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov-11.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov-04.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17123",
+   "name": "Creatividad Cultural",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-22.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-22.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-22.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17117",
+   "name": "Dirección de Producción de Proyectos Publicitarios",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-25.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-25.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17126",
+   "name": "Dirección de Redacción Publicitaria y Dirección de Arte",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-24.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-24.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17125",
+   "name": "Eficacia Publicitaria: Pretest y Postest",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-23.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-23.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17128",
+   "name": "Gestión de Proyectos Transmedia",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17127",
+   "name": "Inteligencia de Marketing: métricas de marca y monitoreo",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-26.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-26.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-26.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17129",
+   "name": "Prácticas Laboratorio-Agencia Publicidad",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

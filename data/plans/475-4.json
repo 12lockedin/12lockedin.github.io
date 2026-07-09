@@ -1,0 +1,1116 @@
+{
+ "plan": 475,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Inteligencia Artificial Aplicada",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:29:59Z",
+ "subjects": [
+  {
+   "code": "19205",
+   "name": "Agentes y Sistemas Multiagente",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.08"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19204",
+   "name": "Aprendizaje Automático",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.08"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19199",
+   "name": "Aprendizaje Automático en Series Temporales y Flujos de Datos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19209",
+   "name": "Aprendizaje por Refuerzo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.08"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19206",
+   "name": "Aprendizaje Profundo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 0.A.08"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19200",
+   "name": "Búsqueda y Optimización",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 0.A.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.sep",
+         "room": "Aula 0.A.07"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "17.sep-22.oct",
+         "room": "Aula 0.A.07"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 0.A.07"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19202",
+   "name": "Computación Evolutiva",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19197",
+   "name": "Implicaciones Éticas y Legales de la IA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19224",
+   "name": "Inteligencia Ambiental",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:30",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.08"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:30",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19201",
+   "name": "Métodos Probabilísticos en IA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.08"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19207",
+   "name": "Planificación Automática",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 0.A.08"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19211",
+   "name": "Procesamiento de Lenguaje Natural",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19208",
+   "name": "Razonamiento con Incertidumbre",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.08"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19203",
+   "name": "Redes de Neuronas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19198",
+   "name": "Representación del Conocimiento y Razonamiento",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.07"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.07"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 0.A.07"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19212",
+   "name": "Vehículos Autónomos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 0.A.08"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19210",
+   "name": "Analítica de Negocio",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19223",
+   "name": "Ciudades Inteligentes",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19225",
+   "name": "Emprendimiento en IA",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19222",
+   "name": "Fábricas Inteligentes",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19218",
+   "name": "IA & Desarrollo Sostenible",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19214",
+   "name": "IA en Educación",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19215",
+   "name": "IA en Finanzas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19216",
+   "name": "IA en Salud",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19219",
+   "name": "Robótica Inteligente",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19217",
+   "name": "Visión Artificial",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19213",
+   "name": "Web Semántica y Buscadores",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 0.A.08"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.06 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

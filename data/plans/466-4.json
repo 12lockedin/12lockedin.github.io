@@ -1,0 +1,649 @@
+{
+ "plan": 466,
+ "centro": 4,
+ "type": "master",
+ "name": "Master in Business Administration (MBA)",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:22:50Z",
+ "subjects": [
+  {
+   "code": "18933",
+   "name": "Administración de Marketing para una Ventaja Competitiva",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-13.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-13.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18930",
+   "name": "Análisis de Mercado",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "13:45",
+       "end": "15:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.sep-20.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "27.oct-03.nov",
+         "room": "Aula -1.A.08 INF"
+        },
+        {
+         "dates": "17.nov-01.dic",
+         "room": "Aula -1.A.08 INF"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.A.07 INF"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.sep-20.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "27.oct-03.nov",
+         "room": "Aula -1.A.08 INF"
+        },
+        {
+         "dates": "17.nov-01.dic",
+         "room": "Aula -1.A.08 INF"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.A.06 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18934",
+   "name": "Análisis y Visualización de Datos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-06.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "20.oct-03.nov",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-06.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "20.oct-03.nov",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18926",
+   "name": "Comportamiento Organizativo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "13:45",
+       "end": "15:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-11.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-11.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18928",
+   "name": "Contabilidad Financiera",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "13:45",
+       "end": "15:00",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-18.sep",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-18.sep",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18936",
+   "name": "Dirección de Operaciones",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-11.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-11.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18929",
+   "name": "Dirección Estratégica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "13:45",
+       "end": "15:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct-03.dic",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 2.A.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct-03.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "18:30",
+       "room": "Aula 2.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic",
+         "room": "Aula 2.A.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18927",
+   "name": "Economía para la Gestión",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-12.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-12.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18939",
+   "name": "Gestión de Personas en las Organizaciones",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "13:45",
+       "end": "15:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct-23.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "06.nov-11.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct-23.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "06.nov-11.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19563",
+   "name": "Analítica de Negocios",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19565",
+   "name": "Comercio y Marketing Internacional",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18945",
+   "name": "Comportamiento del Consumidor",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18937",
+   "name": "Contabilidad de Gestión",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18949",
+   "name": "Creación y Comunicación de valor",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18938",
+   "name": "Desarrollo Personal y Profesional",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18935",
+   "name": "Economía Financiera",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18932",
+   "name": "Emprendimiento",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18947",
+   "name": "Entorno Económico Internacional",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18931",
+   "name": "Finanzas Corporativas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18950",
+   "name": "Finanzas Corporativas Avanzadas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18942",
+   "name": "Finanzas Internacionales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18940",
+   "name": "Finanzas para el emprendimiento",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18946",
+   "name": "Gestión de la Cadena de Suministros",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18943",
+   "name": "Gestión de la Tecnología",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18944",
+   "name": "Internacionalización de la Empresa",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18925",
+   "name": "Liderazgo",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19564",
+   "name": "Marketing Digital",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18948",
+   "name": "Métodos de Valoración",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18941",
+   "name": "Sostenibilidad",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18951",
+   "name": "Tendencias Tecnológicas Emergentes",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

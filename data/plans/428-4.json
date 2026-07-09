@@ -1,0 +1,595 @@
+{
+ "plan": 428,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:30:10Z",
+ "subjects": [
+  {
+   "code": "18113",
+   "name": "Análisis y Diseño de Sistemas de Control",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18112",
+   "name": "Aplicaciones y Sectores",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "19:15",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18109",
+   "name": "Arquitecturas de Redes IoT",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-19.nov",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "03.dic-17.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18106",
+   "name": "Estándares y Protocolos de Comunicación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18108",
+   "name": "Internet de la Energía",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18110",
+   "name": "Sensores Electrónicos para IoT",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-18.nov",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "02.dic-16.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18114",
+   "name": "Servicios Energéticos Basados en IoT",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18111",
+   "name": "Sistemas Digitales Embebidos para IoT",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-14.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "28.oct-16.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18107",
+   "name": "Sistemas Digitales y Aplicaciones",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18105",
+   "name": "Sistemas Informáticos en IoT",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18117",
+   "name": "Análisis de Datos Avanzado",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18120",
+   "name": "Aspectos Legales y de Negocio",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18115",
+   "name": "Dispositivos Inalámbricos en IoT",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18121",
+   "name": "Edificios Conectados",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-19.mar",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "02.abr-23.abr",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "07.may",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18122",
+   "name": "Encapsulado y ensamblaje de sistemas electrónicos para IoT",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "18123",
+   "name": "Procesado de Datos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18118",
+   "name": "Protocolos de Transporte de Datos en IoT",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18119",
+   "name": "Seguridad en IoT",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18116",
+   "name": "Sistemas de Comunicaciones en IoT",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18124",
+   "name": "Sistemas de Percepción Avanzados",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,735 @@
+{
+ "plan": 316,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Derecho de La Unión Europea",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:25:43Z",
+ "subjects": [
+  {
+   "code": "12233",
+   "name": "Procedimientos Administrativos y Judiciales de la UE",
+   "course": 1,
+   "term": 0,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "04.nov-25.nov",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "04.nov-18.nov",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "19.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12238",
+   "name": "Cooperación Judicial Civil y Penal Europea",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct-21.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct-21.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct-22.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12232",
+   "name": "Derechos Fundamentales y Ciudadanía de la UE",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep-30.sep",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep-30.sep",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep-02.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep-02.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12231",
+   "name": "Ordenamiento Jurídico de la UE",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "08.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20886",
+   "name": "Regulación y gobernanza de la Inteligencia Artificial en la UE: Derecho de la IA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12244",
+   "name": "Derecho Europeo de Daños y de la Responsabilidad",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12237",
+   "name": "Derecho Europeo de la Libre Competencia",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "20887",
+   "name": "Derecho Europeo del deporte",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12243",
+   "name": "Derecho Europeo del Medio Ambiente",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12242",
+   "name": "Derecho Europeo de los Mercados Financieros",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12236",
+   "name": "Derecho Europeo de los Negocios",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12241",
+   "name": "Derecho Laboral de la UE",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12234",
+   "name": "Fiscalidad y Presupuesto de la UE",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12235",
+   "name": "Mercado Interior y Libertades Económicas Fundamentales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

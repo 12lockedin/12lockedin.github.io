@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencia y Tecnología Informática",
  "year": "2026",
- "generatedAt": "2026-07-06T08:42:53Z",
+ "generatedAt": "2026-07-09T10:19:40Z",
  "subjects": [
   {
    "code": "18836",
@@ -149,14 +149,14 @@
      "sessions": [
       {
        "day": 2,
-       "start": "15:00",
-       "end": "16:30",
-       "room": "Aula 7.2.J08",
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.1.G03",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 7.2.J08"
+         "room": "Aula 1.1.G03"
         }
        ]
       }
@@ -468,16 +468,16 @@
        "day": 3,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 4.0.E05",
+       "room": "Aula 4.1.D01",
        "type": null,
        "slots": [
         {
          "dates": "28.ene-18.mar",
-         "room": "Aula 4.0.E05"
+         "room": "Aula 4.1.D01"
         },
         {
          "dates": "01.abr-06.may",
-         "room": "Aula 4.0.E05"
+         "room": "Aula 4.1.D01"
         }
        ]
       }
@@ -572,15 +572,28 @@
      "id": "1",
      "sessions": [
       {
-       "day": 3,
-       "start": "17:00",
-       "end": "19:00",
-       "room": "* SIN AULA *",
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
        "type": null,
        "slots": [
         {
-         "dates": "01.abr-06.may",
-         "room": "* SIN AULA *"
+         "dates": "05.abr-03.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.abr-07.may",
+         "room": "Aula 2.0.C05"
         }
        ]
       }

@@ -1,0 +1,2000 @@
+{
+ "plan": 314,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Derecho de las Telecomunicaciones, Protección de Datos, Audiovisual y Sociedad de la Información",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:25:52Z",
+ "subjects": [
+  {
+   "code": "20312",
+   "name": "El mercado único de datos y los sectores específicos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "18.ene",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov-16.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov-16.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.nov-17.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.nov-17.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12207",
+   "name": "Fundamentos de la protección de datos y Régimen de la Protección de datos personales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct-10.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct-10.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-10.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct-11.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct-11.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct-05.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct-05.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12203",
+   "name": "Fundamentos de la Regulación de las Telecomunicaciones",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-21.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-15.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-15.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12204",
+   "name": "Instituciones del Régimen de las Telecomunicaciones",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep-05.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep-05.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-29.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-29.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep-30.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep-30.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep-01.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep-01.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20310",
+   "name": "Régimen jurídico de la ciberseguridad y la ciberdelincuencia",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct-13.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct-13.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.oct-14.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.oct-14.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct-15.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct-15.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12208",
+   "name": "Supervisión, control, auditoría y medidas de seguridad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-23.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:30",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-23.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-23.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-19.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-19.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20313",
+   "name": "Trabajo personal sobre protección de datos y política de datos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20311",
+   "name": "Trabajo personal sobre regulación de las telecomunicaciones y la ciberseguridad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20316",
+   "name": "El régimen jurídico de las empresas y poderes públicos en el entorno digital",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.mar-15.mar",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.mar-15.mar",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.mar-15.mar",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.mar-16.mar",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.mar-16.mar",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.mar-17.mar",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.mar-17.mar",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.feb",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "11.mar-18.mar",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.feb",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "11.mar-18.mar",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20314",
+   "name": "Fundamentos de la regulación de los mercados y servicios digitales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-01.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-01.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-01.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-02.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-02.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-04.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-04.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12215",
+   "name": "Régimen jurídico de la comunicación audiovisual y sujetos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-12.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-12.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-06.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-06.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-07.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-07.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-08.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-08.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12216",
+   "name": "Regulación de los contenidos de la Comunicación audiovisual",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.abr-03.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.abr-03.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.abr-03.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.abr-11.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.abr-11.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.abr-12.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.abr-12.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.abr-13.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.abr-13.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20315",
+   "name": "Regulación de nuevas tecnologías y actividades digitales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.feb-22.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.feb-22.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.feb-22.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.feb-23.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.feb-23.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.feb-24.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.feb-24.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.feb-18.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.feb-18.feb",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12217",
+   "name": "Servicios de Comunicación Audiovisual",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-19.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.abr-20.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.abr-20.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.abr-21.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.abr-21.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr-22.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr-22.abr",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12218",
+   "name": "Trabajo personal sobre la comunicación audiovisual",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.may",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20317",
+   "name": "Trabajo personal sobre regulación de la sociedad digital",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

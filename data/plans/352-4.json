@@ -1,0 +1,848 @@
+{
+ "plan": 352,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Métodos Analíticos para Datos Masivos: Big Data / Master in Big Data Analytics",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:31:03Z",
+ "subjects": [
+  {
+   "code": "17234",
+   "name": "Aprendizaje estadístico",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16916",
+   "name": "Back-end para análisis de Big Data",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17231",
+   "name": "Computación de altas prestaciones para Big Data en las Empresas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "11:15",
+       "end": "12:15",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17232",
+   "name": "Distribución de contenidos en Internet",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "13:00",
+       "end": "14:30",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.nov-17.nov",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17229",
+   "name": "Estadística para el análisis de datos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17230",
+   "name": "Fundamentos tecnológicos en el mundo Big Data",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "13:00",
+       "end": "14:30",
+       "room": "Aula 0.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17236",
+   "name": "Inteligencia para Big Data: métodos y tecnologías",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "13:00",
+       "end": "14:30",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17228",
+   "name": "Matemáticas para el análisis de datos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17233",
+   "name": "Modelos de predicción",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17235",
+   "name": "Optimización para grandes volúmenes de datos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16928",
+   "name": "Análisis de datos para la sociedad inteligente",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17242",
+   "name": "Análisis de redes y visualización de datos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "13:00",
+       "end": "14:30",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17238",
+   "name": "Análisis de series temporales y predicción",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16926",
+   "name": "Análisis y explotación de datos de la Web",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16925",
+   "name": "Aplicaciones del análisis de Big Data a los negocios",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17239",
+   "name": "Aprendizaje automático",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:15",
+       "end": "14:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17237",
+   "name": "Aprendizaje Bayesiano",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17240",
+   "name": "Seguridad de la información y gestión de riesgos tecnológicos empresariales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

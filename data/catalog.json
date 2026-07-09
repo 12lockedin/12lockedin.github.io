@@ -1,7 +1,7 @@
 {
  "year": "2026",
- "generatedAt": "2026-07-06T08:40:35Z",
- "count": 208,
+ "generatedAt": "2026-07-09T10:17:39Z",
+ "count": 210,
  "programmes": [
   {
    "type": "grado",
@@ -1167,10 +1167,24 @@
   },
   {
    "type": "master",
+   "plan": 599,
+   "centro": 4,
+   "name": "Máster Universitario en Formación del Profesorado. Especialidad Filosofía",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
+   "plan": 600,
+   "centro": 4,
+   "name": "Máster Universitario en Formación del Profesorado. Especialidad Lengua Castellana y Literatura",
+   "campus": "Getafe"
+  },
+  {
+   "type": "master",
    "plan": 606,
    "centro": 4,
    "name": "Máster Universitario en Formación del Profesorado. Especialidad Tecnología",
-   "campus": "Getafe"
+   "campus": "Leganés"
   },
   {
    "type": "master",

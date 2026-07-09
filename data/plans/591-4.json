@@ -1,0 +1,1027 @@
+{
+ "plan": 591,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Documental y Reportaje Transmedia",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:27:11Z",
+ "subjects": [
+  {
+   "code": "20901",
+   "name": "Deontología Periodística",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.oct-25.nov",
+         "room": "Aula 1.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.oct-25.nov",
+         "room": "Aula 1.A.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.A.08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.oct-25.nov",
+         "room": "Aula 1.A.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20902",
+   "name": "Derecho de la información en entornos digitales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-09.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-09.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-09.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20898",
+   "name": "Fundamentos del Reportaje Periodístico",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20899",
+   "name": "Guión",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20903",
+   "name": "Nuevas Narrativas y Visualización online",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-12.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-12.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-12.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20900",
+   "name": "Producción Audiovisual",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20897",
+   "name": "Teoría e Historia del documental",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "14:15",
+       "end": "15:45",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20908",
+   "name": "Documental Sonoro",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "20905",
+   "name": "Estrategias de Marketing y Posicionamiento",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.mar-08.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.mar-08.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.mar-08.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.mar-10.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.mar-10.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.mar-10.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20907",
+   "name": "Fotografía Documental",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.mar-09.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.mar-09.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.mar-09.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.mar-11.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.mar-11.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.mar-11.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20904",
+   "name": "Postproducción",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.feb-22.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.feb-22.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.feb-22.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.feb-23.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.feb-23.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.feb-23.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20906",
+   "name": "Teoría y Técnica de la Realización",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

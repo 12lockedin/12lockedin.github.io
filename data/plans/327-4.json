@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Sistemas Electrónicos y Aplicaciones",
  "year": "2026",
- "generatedAt": "2026-07-06T08:41:44Z",
+ "generatedAt": "2026-07-09T10:18:41Z",
  "subjects": [
   {
    "code": "12417",
@@ -57,19 +57,6 @@
       {
        "day": 4,
        "start": "11:00",
-       "end": "21:00",
-       "room": "Aula INF 4.S.D.03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "04.dic",
-         "room": "Aula INF 4.S.D.03"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "11:00",
        "end": "12:30",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
@@ -77,6 +64,19 @@
         {
          "dates": "23.oct",
          "room": "Aula 2.3.C02B"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:00",
+       "end": "21:00",
+       "room": "Aula INF 4.S.D.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.dic",
+         "room": "Aula INF 4.S.D.03"
         }
        ]
       },
@@ -96,12 +96,12 @@
       {
        "day": 4,
        "start": "15:30",
-       "end": "18:30",
+       "end": "20:00",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "20.nov",
+         "dates": "13.nov",
          "room": "Aula 2.3.C02B"
         }
        ]
@@ -109,12 +109,12 @@
       {
        "day": 4,
        "start": "15:30",
-       "end": "20:00",
+       "end": "18:30",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "13.nov",
+         "dates": "20.nov",
          "room": "Aula 2.3.C02B"
         }
        ]
@@ -143,12 +143,12 @@
       {
        "day": 4,
        "start": "16:00",
-       "end": "19:00",
+       "end": "17:45",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.oct",
+         "dates": "23.oct",
          "room": "Aula 2.3.C02B"
         }
        ]
@@ -156,12 +156,12 @@
       {
        "day": 4,
        "start": "16:00",
-       "end": "17:45",
+       "end": "19:00",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "23.oct",
+         "dates": "02.oct",
          "room": "Aula 2.3.C02B"
         }
        ]

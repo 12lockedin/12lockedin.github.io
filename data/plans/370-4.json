@@ -1,0 +1,819 @@
+{
+ "plan": 370,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Abogacía Internacional - Presencial",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:23:24Z",
+ "subjects": [
+  {
+   "code": "17262",
+   "name": "Arbitraje Comercial Internacional",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov-30.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov-30.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.dic",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.dic",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic-10.dic",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic-10.dic",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17257",
+   "name": "Contabilidad y valoración",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-29.sep",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-29.sep",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17255",
+   "name": "Derecho anglosajón en perspectiva (I)",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "05.nov-19.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "05.nov-19.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17258",
+   "name": "Derecho Societario transfronterizo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov-09.dic",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov-09.dic",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.oct",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.oct",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17253",
+   "name": "Expresión escrita y oral en la abogacía",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19732",
+   "name": "La Gestión de entornos internacionales: Derecho y gestión de proyectos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-08.oct",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-08.oct",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19733",
+   "name": "Marcos internacionales en materia de sostenibilidad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-30.sep",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-30.sep",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17261",
+   "name": "Mediación Internacional",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct-21.oct",
+         "room": "Aula 0.A.01"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct-21.oct",
+         "room": "Aula 0.A.01"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17254",
+   "name": "Negociación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17259",
+   "name": "Tributación internacional",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.oct-21.oct",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "04.nov-18.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.oct-21.oct",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "04.nov-18.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17260",
+   "name": "Adquisiciones, fusiones y alianzas internacionales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17263",
+   "name": "Arbitraje de Inversión",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17270",
+   "name": "Contratos y transacciones financieras transfronterizas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19735",
+   "name": "Cumplimiento normativo y sostenibilidad en entornos transnacionales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17267",
+   "name": "Derecho anglosajón en perspectiva (II)",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17274",
+   "name": "Litigación ante tribunales europeos",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17273",
+   "name": "Litigación Internacional",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17271",
+   "name": "Operaciones en los mercados de capitales internacionales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17276",
+   "name": "Procedimientos concursales internacionales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17275",
+   "name": "Procedimientos transfronterizos en materia de Competencia y Propiedad Industrial e Intelectual",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19734",
+   "name": "Responsabilidad Transnacional",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17272",
+   "name": "Transacciones sobre empresas y activos en sectores específicos",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

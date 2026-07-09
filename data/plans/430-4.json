@@ -1,0 +1,906 @@
+{
+ "plan": 430,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Estudios Avanzados de Derecho Público",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:28:09Z",
+ "subjects": [
+  {
+   "code": "18129",
+   "name": "Cuestiones actuales del Derecho público en su dimensión histórica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-27.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-01.oct",
+         "room": "Aula 1.A.12"
+        },
+        {
+         "dates": "15.oct-29.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18133",
+   "name": "Derecho de la Responsabilidad Internacional",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-06.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-08.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18130",
+   "name": "Justicia Restaurativa",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-07.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18135",
+   "name": "La implementación del principio democrático en la UE",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.A.12"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct-11.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-13.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18134",
+   "name": "Las transformaciones del Derecho tributario en tiempos de crisis, competencia internacional y globalización",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct-10.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct-05.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18128",
+   "name": "Metodología Jurídica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-17.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-26.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-26.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18132",
+   "name": "Profundización en procedimientos administrativos y contencioso-administrativos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.A.12"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct-11.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-13.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18131",
+   "name": "Responsabilidad penal de las personas jurídicas y compliance. Perspectivas nacional y comparada",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-07.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18127",
+   "name": "Seminarios. Perspectivas actuales de la teoría del Derecho público",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov-09.dic",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov-09.dic",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic-10.dic",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18141",
+   "name": "Democracia y organización de poderes del estado en la globalización",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.mar-15.mar",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.mar-16.mar",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.mar-10.mar",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.mar-11.mar",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18138",
+   "name": "Derecho Ambiental de la UE",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-23.feb",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-25.feb",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18136",
+   "name": "Estudios en Materia Probatoria",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-22.feb",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-24.feb",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18139",
+   "name": "Globalización, multiculturalismo y libertades públicas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-23.feb",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-25.feb",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18140",
+   "name": "Organizaciones criminales y delitos internacionales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.mar-15.mar",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.mar-16.mar",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.mar-10.mar",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.mar-11.mar",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18137",
+   "name": "Retos de la justicia constitucional y garantía de derechos: España y Europa",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-22.feb",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-24.feb",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Máquinas y Transportes",
  "year": "2026",
- "generatedAt": "2026-07-06T08:41:14Z",
+ "generatedAt": "2026-07-09T10:18:14Z",
  "subjects": [
   {
    "code": "16091",
@@ -19,12 +19,16 @@
        "day": 4,
        "start": "17:15",
        "end": "18:45",
-       "room": "* SIN AULA *",
+       "room": "Aula 2.0.C15",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-18.dic",
-         "room": "* SIN AULA *"
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "16.oct-18.dic",
+         "room": "Aula 2.0.C15"
         }
        ]
       },
@@ -32,12 +36,16 @@
        "day": 4,
        "start": "19:00",
        "end": "20:30",
-       "room": "* SIN AULA *",
+       "room": "Aula 2.0.C15",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-18.dic",
-         "room": "* SIN AULA *"
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "16.oct-18.dic",
+         "room": "Aula 2.0.C15"
         }
        ]
       }
@@ -58,16 +66,16 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "* SIN AULA *",
+       "room": "Aula 2.0.C15",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         },
         {
          "dates": "15.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         }
        ]
       },
@@ -75,16 +83,16 @@
        "day": 1,
        "start": "19:00",
        "end": "20:30",
-       "room": "* SIN AULA *",
+       "room": "Aula 2.0.C15",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         },
         {
          "dates": "15.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         }
        ]
       }
@@ -105,24 +113,24 @@
        "day": 0,
        "start": "17:15",
        "end": "18:45",
-       "room": "* SIN AULA *",
+       "room": "Aula 2.0.C15",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         },
         {
          "dates": "14.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         }
        ]
       },
@@ -130,24 +138,24 @@
        "day": 0,
        "start": "19:00",
        "end": "20:30",
-       "room": "* SIN AULA *",
+       "room": "Aula 2.0.C15",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         },
         {
          "dates": "14.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         }
        ]
       }
@@ -207,12 +215,12 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "* SIN AULA *",
+       "room": "Aula 2.0.C15",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.sep-16.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         }
        ]
       },
@@ -220,12 +228,12 @@
        "day": 2,
        "start": "19:00",
        "end": "20:30",
-       "room": "* SIN AULA *",
+       "room": "Aula 2.0.C15",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.sep-16.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         }
        ]
       }
@@ -238,21 +246,141 @@
    "name": "Acústica y vibraciones",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C15",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.0.C15"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C15",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.0.C15"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "16095",
    "name": "Mantenimiento y Seguridad en Máquinas",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C15",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 2.0.C15"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C15",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 2.0.C15"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "16098",
    "name": "Técnicas virtuales y experimentales de ensayo de máquinas",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C15",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 2.0.C15"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C15",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 2.0.C15"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   }
  ]
 }

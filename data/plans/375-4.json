@@ -1,0 +1,1565 @@
+{
+ "plan": 375,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Responsabilidad Civil",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:31:24Z",
+ "subjects": [
+  {
+   "code": "17379",
+   "name": "Fundamentos de la responsabilidad civil",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17383",
+   "name": "La responsabilidad civil en las relaciones privadas internacionales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-18.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-18.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17399",
+   "name": "La responsabilidad civil en su configuración histórica entre el ius commune y la codificación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov-01.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17382",
+   "name": "La responsabilidad civil por daños en las relaciones laborales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-29.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-29.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep-29.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17398",
+   "name": "Metodología jurídica aplicada a la investigación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-27.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-27.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17380",
+   "name": "Responsabilidad de los gestores de patrimonios ajenos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-22.sep",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "06.oct-13.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-22.sep",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "06.oct-13.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-22.sep",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17397",
+   "name": "Responsabilidad extracontractual y jurisprudencia romana. Casuística de un concepto",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-26.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-26.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-19.nov",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17381",
+   "name": "Seguro de responsabilidad civil",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct-09.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct-09.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct-09.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17395",
+   "name": "Cuestiones procesales para exigir la responsabilidad civil en el proceso penal",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr-30.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr-30.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr-23.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17393",
+   "name": "La responsabilidad patrimonial del Estado",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-02.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-02.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17314",
+   "name": "Nuevas perspectivas de la responsabilidad civil",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "05.abr-12.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "05.abr-12.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.feb",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "22.feb",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "12.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17392",
+   "name": "Responsabilidad civil internacional derivada de actos contrarios a la competencia",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.may-11.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.may-11.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.abr-13.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.abr-13.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.abr-06.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17391",
+   "name": "Responsabilidad civil internacional en supuestos especiales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.mar-11.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.mar-11.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.mar-11.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-26.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-26.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.feb-26.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17389",
+   "name": "Responsabilidad de los nuevos intermediarios en el mercado",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.may-12.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.may-12.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.may-12.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.may",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17385",
+   "name": "Responsabilidad derivada de infracción de Derechos de propiedad intelectual",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.mar",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17386",
+   "name": "Responsabilidad en el transporte",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-25.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-25.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.feb-18.feb",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17388",
+   "name": "Responsabilidad en la competencia, la propiedad industrial y la publicidad",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.abr-26.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.abr-26.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.abr-26.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-15.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-15.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-15.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17390",
+   "name": "Sistema de la responsabilidad civil por el accidente de trabajo",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-21.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-21.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-14.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "22.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "22.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17396",
+   "name": "Solución extrajudicial de conflictos en el ámbito de la responsabilidad civil",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-27.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-27.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-13.abr",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

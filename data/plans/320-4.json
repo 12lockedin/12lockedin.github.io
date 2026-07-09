@@ -1,0 +1,454 @@
+{
+ "plan": 320,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Cine y Televisión",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:25:26Z",
+ "subjects": [
+  {
+   "code": "12307",
+   "name": "Cultura creativa en la producción audiovisual",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12314",
+   "name": "Dirección Cinematográfica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12309",
+   "name": "Dirección de producción en cine",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12311",
+   "name": "Estrategias de puesta en escena cinematográfica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12312",
+   "name": "Guión de Cine",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12310",
+   "name": "Los Oficios del Audiovisual",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12313",
+   "name": "Posproducción",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-20.nov",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-20.nov",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12308",
+   "name": "Producción ejecutiva y desarrollo de proyectos cinematográficos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12321",
+   "name": "Creación de formatos documentales y culturales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12320",
+   "name": "Creación de Personajes",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12316",
+   "name": "Dirección de producción en televisión",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12322",
+   "name": "Géneros de ficción televisiva",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12317",
+   "name": "Investigación de mercados y venta",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12319",
+   "name": "Proceso de escritura del guión. De la idea al piloto",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12315",
+   "name": "Producción ejecutiva de televisión",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12318",
+   "name": "Tendencias de la ficción contemporánea",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

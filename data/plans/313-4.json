@@ -1,0 +1,994 @@
+{
+ "plan": 313,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Propiedad Intelectual",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:31:14Z",
+ "subjects": [
+  {
+   "code": "12196",
+   "name": "Cesión de Derechos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-20.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-20.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19365",
+   "name": "Entorno Digital Europeo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov-01.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov-01.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov-18.nov",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "02.dic-09.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov-18.nov",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "02.dic-09.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-19.nov",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-19.nov",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12191",
+   "name": "Introducción. Titulares de derechos. Creaciones y prestaciones protegibles",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "21.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "30.sep-21.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "30.sep-21.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "08.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "08.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-18.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-18.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12634",
+   "name": "Monopolio Económico y Moral",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep-23.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep-23.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.oct",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "15.oct-22.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.oct",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "15.oct-22.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19364",
+   "name": "Propiedad Industrial",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "16.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "16.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "26.nov-03.dic",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "17.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "26.nov-03.dic",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "17.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-04.dic",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "18.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-04.dic",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "18.dic",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12193",
+   "name": "Sistemas de Protección I",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.ene-18.ene",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.ene-18.ene",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.ene-19.ene",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.ene-19.ene",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.ene-20.ene",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.ene-20.ene",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.ene-21.ene",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.ene-21.ene",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aulas 2.A.03 y 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene-22.ene",
+         "room": "Aulas 2.A.03 y 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aulas 2.A.03 y 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene-22.ene",
+         "room": "Aulas 2.A.03 y 2.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12201",
+   "name": "Informes, Litigios y Procesos",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12637",
+   "name": "Mercado audiovisual y de las artes plásticas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12636",
+   "name": "Mercado editorial, musical y de las artes escénicas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "12195",
+   "name": "Sistemas de Protección II",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

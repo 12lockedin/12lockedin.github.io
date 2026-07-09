@@ -1,0 +1,634 @@
+{
+ "plan": 516,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Investigación en Comunicación",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:30:19Z",
+ "subjects": [
+  {
+   "code": "19741",
+   "name": "Introducción a la Investigación. Taller de escritura académica y presentación de proyectos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19746",
+   "name": "Investigación para la Optimización de Recursos en la Empresa Multimedia",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "19737",
+   "name": "Metodología de la Investigación en el Ámbito de la Comunicación Mediática",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19738",
+   "name": "Metodologías de Investigación en Cine, Televisión y Nuevos Medios",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19740",
+   "name": "Metodologías de Investigación en la Perspectiva del Cambio Cultural",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19747",
+   "name": "Nuevas Tendencias del Periodismo en el Ámbito de los Contenidos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19739",
+   "name": "Nuevos marcos teóricos de la comunicación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19743",
+   "name": "Nuevos Modelos de Negocios en la Comunicación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19744",
+   "name": "Perfiles Periodísticos Emergentes",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19742",
+   "name": "Representaciones en el cine y la televisión contemporánea",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19745",
+   "name": "Sistemas de Comunicación en las Organizaciones",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "19753",
+   "name": "Arqueología audiovisual, memoria y patrimonio cinematográfico",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-19.mar",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "09.abr-23.abr",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "07.may",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-19.mar",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "09.abr-23.abr",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "07.may",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19751",
+   "name": "Construcción de la Identidad e Imaginarios Sociales en el Cine y la Televisión Actuales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "07.abr-12.may",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19749",
+   "name": "El Papel de los Medios en el Proceso de Cambio Social",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "08.abr-29.abr",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "08.abr-29.abr",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19750",
+   "name": "Geopolíticas del Audiovisual",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:00",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "13:45",
+       "room": "Aula 18.0.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 18.0.A04"
+        },
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19752",
+   "name": "La Agenda Investigadora del Cambio Mediático: Problemas y Desafíos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19748",
+   "name": "Nuevas Tendencias en los Estudios de Comunicación",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-03.may",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.0.A04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-03.may",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

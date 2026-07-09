@@ -1,0 +1,1522 @@
+{
+ "plan": 473,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Desarrollo Sostenible y Gobernanza Global/ Global Sustainable Development and Global Governance",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:26:33Z",
+ "subjects": [
+  {
+   "code": "19157",
+   "name": "Biodiversidad, Tierra y Agua",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19181",
+   "name": "Conflicto, Violencia y Desarrollo",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19158",
+   "name": "Derecho Internacional y Sostenibilidad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-15.oct",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-15.oct",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19178",
+   "name": "Economía Política de la Migración",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-13.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-13.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19159",
+   "name": "Ecosistemas y la Salud Planetaria",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19172",
+   "name": "Educación y Salud",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19170",
+   "name": "El cambio climático y la regulación de mercados",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19174",
+   "name": "Evaluación de Impacto Ambiental",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19175",
+   "name": "Evaluación de Impacto en Sostenibilidad",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.oct-03.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.oct-03.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19154",
+   "name": "Fundamentos de los sistemas complejos para la sostenibilidad y la gobernanza",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-13.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "27.oct-01.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-13.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "27.oct-01.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19156",
+   "name": "Hambre, pobreza, desigualdad y retos globales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.oct-03.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.oct-03.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19153",
+   "name": "Introducción al desarrollo sostenible y la gobernanza global",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep-14.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "28.oct-11.nov",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "25.nov-02.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep-14.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "28.oct-02.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19171",
+   "name": "Mercados de trabajo y trabajo sostenible",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct-17.nov",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct-17.nov",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19155",
+   "name": "Métodos en los Estudios de Sostenibilidad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-09.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "23.oct-04.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-09.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "23.oct-04.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19180",
+   "name": "Política Verde",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-15.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-15.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19173",
+   "name": "Seguridad alimentaria y políticas agrarias",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct-10.nov",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct-10.nov",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.nov-03.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.nov-03.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20621",
+   "name": "Sostenibilidad Corporativa",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.oct-05.nov",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:45",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.oct-05.nov",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19169",
+   "name": "Sostenibilidad Urbana",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-04.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-04.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19168",
+   "name": "Taller Integrador II",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-14.oct",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "28.oct-02.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-14.oct",
+         "room": "Aula 1.A.13"
+        },
+        {
+         "dates": "28.oct-02.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19177",
+   "name": "Temas de Desarrollo",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-16.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-16.oct",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19160",
+   "name": "Cambio climático, energía y gobernanza global",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-01.mar",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-01.mar",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19167",
+   "name": "Desarrollo, cooperación internacional y finanzas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-02.mar",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-02.mar",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19166",
+   "name": "Globalización y el orden internacional: Controversias y nuevas trayectorias",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:00",
+       "end": "18:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-04.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "20:00",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-04.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19163",
+   "name": "Gobernanza de los bienes comunes globales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr-29.abr",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr-29.abr",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "07.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "07.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19162",
+   "name": "Igualdad de Género",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-03.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-03.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19164",
+   "name": "Introducción a la evaluación de impacto en sostenibilidad",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.mar",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.mar",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19165",
+   "name": "Introducción la evaluación de impacto ambiental",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-04.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-04.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19161",
+   "name": "Taller Integrador I",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-05.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-05.may",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-05.mar",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-05.mar",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

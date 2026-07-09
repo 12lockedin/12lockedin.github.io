@@ -1,0 +1,974 @@
+{
+ "plan": 325,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Ciberseguridad",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:24:34Z",
+ "subjects": [
+  {
+   "code": "18222",
+   "name": "Análisis de Riesgos en Ciberseguridad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12395",
+   "name": "Ciberdelitos, Ciberterrorismo y Ciberguerra",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic-16.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic-16.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12385",
+   "name": "Comunicaciones Seguras",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-27.nov",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-27.nov",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12386",
+   "name": "Explotación de Sistemas Software",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.oct-05.nov",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.oct-05.nov",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12387",
+   "name": "Protección de Datos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-22.sep",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-22.sep",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-24.sep",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-24.sep",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12390",
+   "name": "Seminario I",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "18:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.sep",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.sep",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "12.nov-26.nov",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "12.nov-26.nov",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12388",
+   "name": "Sistemas de Ciberdefensa",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-25.nov",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-25.nov",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12389",
+   "name": "Técnicas de Ciberataque",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:00",
+       "end": "19:15",
+       "room": "Aulas -1.A.08 INF y 1.A.07 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aulas -1.A.08 INF y 1.A.07 INF"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aulas 0.A.04 y 1.A.07 INF"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 1.A.07 INF"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aulas 0.A.04, 1.A.06 INF y 1.A.07 INF"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aulas 1.A.07 INF y 0.A.04"
+        },
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aulas -1.A.08 INF y 1.A.07 INF"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.07 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "03.dic-10.dic",
+         "room": "Aula 1.A.07 INF"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.07 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "03.dic-10.dic",
+         "room": "Aula 1.A.07 INF"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.08 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula -1.A.08 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12401",
+   "name": "Amenazas persistentes y fugas de Información",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12400",
+   "name": "Análisis e Ingeniería de Malware",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene-22.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene-22.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12402",
+   "name": "Análisis Forense de Sistemas Informáticos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-23.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "09.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.ene-23.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "09.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12398",
+   "name": "Arquitecturas Seguras",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12393",
+   "name": "Gestión y Administración de la Ciberseguridad",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-24.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "10.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.ene-24.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "10.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12392",
+   "name": "Identificación y Autenticación",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "12.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "26.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "12.mar",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "09.abr",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "23.abr",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "12.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "26.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "12.mar",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "09.abr",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "23.abr",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12397",
+   "name": "Ingeniería de Sistemas Seguros",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.ene-25.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "11.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.ene-25.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "11.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12399",
+   "name": "Seguridad en Sistemas y Comunicaciones Móviles",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.08 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula -1.A.08 INF"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.08 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula -1.A.08 INF"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12394",
+   "name": "Seminario II",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

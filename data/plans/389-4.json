@@ -1,0 +1,1551 @@
+{
+ "plan": 389,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Tributación",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:31:49Z",
+ "subjects": [
+  {
+   "code": "14571",
+   "name": "Aspectos Básicos del Derecho Tributario y del Derecho Mercantil",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14572",
+   "name": "Contabilidad Avanzada",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-28.sep",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-29.sep",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-30.sep",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "24.sep-01.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14570",
+   "name": "Contabilidad Básica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.sep",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18846",
+   "name": "Fiscalidad de las operaciones en el Impuesto sobre el Valor Añadido",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct-20.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.oct-21.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "04.nov-02.dic",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "12.nov-03.dic",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18844",
+   "name": "Impuesto de Sociedades I: Especial referencia a las operaciones vinculadas y precios de transferencia. Medidas para evit",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct-20.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "10.nov-01.dic",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:15",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.oct-21.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "11.nov-02.dic",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "05.nov-12.nov",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "26.nov-03.dic",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-13.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17814",
+   "name": "Impuesto sobre la renta de las personas físicas: Especial referencia a la retribución a personal de alta dirección. Expa",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "03.nov-10.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "04.nov-11.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "24.sep-08.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17822",
+   "name": "Tributación de las haciendas territoriales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov-01.dic",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov-25.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-26.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17820",
+   "name": "Tributación patrimonial y Planificación y gestión patrimonial",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-28.sep",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-29.sep",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-30.sep",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "24.sep-01.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17824",
+   "name": "Convenios de Doble Imposición y Derecho tributario de la Unión Europea. Especial referencia a las libertades fundamental",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.feb",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "05.abr-12.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.feb-23.feb",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "09.mar",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "30.mar-13.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.feb-03.mar",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "31.mar-14.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.feb-04.mar",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "01.abr-08.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17819",
+   "name": "Fiscalidad del comercio exterior: Tributación de las adquisiciones intracomunitarias e importaciones en el IVA y en los",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.feb",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.feb-23.feb",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "09.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.feb-03.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.feb-04.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17821",
+   "name": "Fiscalidad sectorial: Fiscalidad de las entidades y de las operaciones financieras, del sector inmobiliario, de las enti",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.abr-03.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.abr-04.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.abr-05.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr-06.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17823",
+   "name": "Impuesto sobre la renta de no residentes",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.feb",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.feb",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.feb",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18845",
+   "name": "Impuesto sobre sociedades II: Fiscalidad de los grupos de sociedades , UTE y AIE. Fiscalidad de las operaciones de reest",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.feb",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.feb",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.feb",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17825",
+   "name": "Planificación fiscal internacional y modelos internacionales (EEUU. Reino Unido y BRICS)",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.abr-03.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.abr-04.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.abr-06.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17826",
+   "name": "Procedimientos tributarios I: Normas comunes a los procedimientos tributarios (especial referencia a los problemas proba",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-22.feb",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-23.feb",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "09.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.feb-04.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17827",
+   "name": "Procedimientos tributarios II: Procedimiento de recaudación, procedimientos revisiones, procedimientos sancionadores. El",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "22.abr-29.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18994",
+   "name": "Regímenes Especiales en el IVA e Impuestos Especiales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-12.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-13.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-14.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-08.abr",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

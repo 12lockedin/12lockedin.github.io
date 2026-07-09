@@ -1,0 +1,796 @@
+{
+ "plan": 472,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Ciencias Sociales Computacionales/ Computational Social Science",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:25:04Z",
+ "subjects": [
+  {
+   "code": "19134",
+   "name": "Diseño de Investigación para las Ciencias Sociales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "20:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep-13.oct",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "20:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep-13.oct",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19140",
+   "name": "Estadística y Ciencia de Datos I",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep-27.oct",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep-27.oct",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19141",
+   "name": "Estadística y Ciencia de Datos II",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "20:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19135",
+   "name": "Fundamentos de la Ciencia Social Computacional",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19137",
+   "name": "Metodología de Encuestas I",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 2.A.04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 2.A.04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19138",
+   "name": "Programación de Datos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-01.dic",
+         "room": "Aula 2.A.04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "20:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-01.dic",
+         "room": "Aula 2.A.04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.A.04"
+        },
+        {
+         "dates": "04.nov-11.nov",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.A.04"
+        },
+        {
+         "dates": "04.nov-11.nov",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19136",
+   "name": "Teorías del Comportamiento en las Ciencias Sociales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19139",
+   "name": "Visualización de Datos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.A.04"
+        },
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "20:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.A.04"
+        },
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19144",
+   "name": "Análisis de Redes Sociales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-13.may",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "20:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-13.may",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19142",
+   "name": "Cuestiones Sociales y Éticas del Big Data y la IA",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "20:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19145",
+   "name": "Extracción de Datos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "20:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19148",
+   "name": "Inferencia Causal para las Ciencias Sociales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-13.may",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-13.may",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19143",
+   "name": "Metodología de Encuestas II",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19146",
+   "name": "Minería de Texto",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "20:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19147",
+   "name": "Modelado Avanzado",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19149",
+   "name": "Seminario de Trabajo Fin de Máster",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.feb",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.feb",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

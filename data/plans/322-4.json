@@ -1,0 +1,456 @@
+{
+ "plan": 322,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Lengua y Literatura Españolas Actuales",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:30:32Z",
+ "subjects": [
+  {
+   "code": "12339",
+   "name": "Estado de la cuestión en los estudios de lingüística española contemporánea",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12340",
+   "name": "Estado de la cuestión en los estudios de literatura española contemporánea",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12345",
+   "name": "Imágenes y representación: la representación del cuerpo. Imágenes de la sexualidad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12343",
+   "name": "La heterogeneidad lingüística: del estándar a los textos marcados lingüísticamente",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:00",
+       "end": "13:30",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "13:45",
+       "end": "15:15",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12344",
+   "name": "Utopías y distopías en la literatura española actual. Fronteras y migraciones",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12348",
+   "name": "Discursos normativos y ecología lingüística. Análisis de los discursos actuales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "30.mar-04.may",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "06.abr-04.may",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12347",
+   "name": "El proceso de comunicación. Expresión verbal y no verbal. Escritura y oralidad",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:45",
+       "end": "13:15",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12346",
+   "name": "La especificidad de la expresión literaria como práctica comunicativa",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-19.mar",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-19.mar",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12342",
+   "name": "Literatura e historia: memoria y representación",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12341",
+   "name": "Relaciones de poder en la producción social de los discursos literarios y no literarios",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "01.abr-29.abr",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.1.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 18.1.A08"
+        },
+        {
+         "dates": "01.abr-29.abr",
+         "room": "Aula 18.1.A08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

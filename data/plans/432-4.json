@@ -1,0 +1,1179 @@
+{
+ "plan": 432,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Asesoramiento y Consultoría Jurídico Laboral",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:24:06Z",
+ "subjects": [
+  {
+   "code": "12254",
+   "name": "Derecho de la Seguridad Social",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18206",
+   "name": "Derecho Social de la Unión Europea",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:15",
+       "end": "20:45",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:15",
+       "end": "20:45",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:15",
+       "end": "20:45",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:15",
+       "end": "20:45",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.sep",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "01.oct-22.oct",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18209",
+   "name": "Emprendimiento y Trabajo Autónomo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov-09.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov-09.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18207",
+   "name": "Marco jurídico de la prevención de riesgos laborales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "04.nov-11.nov",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "04.nov-11.nov",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18211",
+   "name": "Relaciones Laborales Colectivas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "23.nov-30.nov",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12248",
+   "name": "Relaciones Laborales Individuales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18208",
+   "name": "Seminarios",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.dic",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12250",
+   "name": "Solución judicial y extrajudicial de conflictos laborales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "06.nov-27.nov",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "06.nov-27.nov",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18216",
+   "name": "Derecho del Trabajo internacional y comparado",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "19:15",
+       "end": "20:45",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "31.mar",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "19:15",
+       "end": "20:45",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "02.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12262",
+   "name": "Derecho de Sociedades para las Relaciones Laborales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-22.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-22.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12264",
+   "name": "Derecho Laboral del Empleo Público",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.feb-12.mar",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "02.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.feb-12.mar",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "02.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18212",
+   "name": "Derecho Laboral Transnacional",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.feb-10.mar",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "31.mar",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.feb-10.mar",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "31.mar",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:15",
+       "end": "20:45",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-26.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:15",
+       "end": "20:45",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-20.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18210",
+   "name": "Derechos Fundamentales y Relaciones Laborales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:15",
+       "end": "20:45",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:15",
+       "end": "20:45",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12266",
+   "name": "Derecho Tributario para las Relaciones Laborales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-20.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-20.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12263",
+   "name": "Extranjería e Inmigración Laboral",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-05.may",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-05.may",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18213",
+   "name": "La Inspección de Trabajo y Seguridad Social y el procedimiento sancionador",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18217",
+   "name": "Mediación y negociación en el ámbito laboral",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.may",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.may",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.abr-13.may",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.abr-13.may",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18215",
+   "name": "Práctica del juicio oral y de las pruebas en la jurisdicción social",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "05.abr-19.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "05.abr-19.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12265",
+   "name": "Previsión Social Complementaria",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-19.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-19.feb",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12256",
+   "name": "Sistema de Responsabilidad en materia de Prevención de Riesgos Laborales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18214",
+   "name": "Técnica de los recursos en la jurisdicción social",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr-30.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr-30.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12267",
+   "name": "Tendencias actuales de dirección de recursos humanos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.abr-03.may",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.abr-03.may",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.abr-04.may",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.abr-04.may",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

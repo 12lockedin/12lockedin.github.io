@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Robótica y Automatización",
  "year": "2026",
- "generatedAt": "2026-07-06T08:41:26Z",
+ "generatedAt": "2026-07-09T10:18:25Z",
  "subjects": [
   {
    "code": "14922",
@@ -371,98 +371,571 @@
    "name": "Automatización de Sistemas Industriales",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17846",
    "name": "Manipulación",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17848",
    "name": "Percepción 3D",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.abr-07.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17850",
    "name": "Robótica Industrial Avanzada",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-03.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-13.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17851",
    "name": "Robótica Médica y Asistencial",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-05.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "14930",
    "name": "Robótica y Automatización en la Construcción",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17849",
    "name": "Robots de Campo",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "14936",
    "name": "Robots Humanoides",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17847",
    "name": "Robots Móviles",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17852",
    "name": "Robóts Sociales y Domésticos",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17844",
    "name": "Simuladores de Robots",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "14934",
    "name": "Sistemas Inteligentes de Transporte",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17845",
    "name": "Teleoperación y Telepresencia Robótica",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "14937",
    "name": "Vehículos Aéreos no Tripulados",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   }
  ]
 }

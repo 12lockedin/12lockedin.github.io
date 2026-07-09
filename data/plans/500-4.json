@@ -1,0 +1,1772 @@
+{
+ "plan": 500,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Bibliotecas, Archivos y Continuidad Digital Online",
+ "year": "2026",
+ "generatedAt": "2026-07-09T10:24:25Z",
+ "subjects": [
+  {
+   "code": "17880",
+   "name": "Archivos, inteligencia competitiva e identidad digital",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "17.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "15:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17285",
+   "name": "Digitalización y preservación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "11.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "25.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "16.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "14:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:00",
+       "end": "18:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17282",
+   "name": "Dirección de servicios de información",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:00",
+       "end": "12:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "16:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17291",
+   "name": "Entorno jurídico digital",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "16:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17289",
+   "name": "Gestión del conocimiento",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "18:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17284",
+   "name": "Seguridad del documento digital",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "17.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "19:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17288",
+   "name": "Sistemas de Gestión de la calidad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "13:00",
+       "end": "14:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:00",
+       "end": "17:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17286",
+   "name": "Tecnologías de marcado para textos digitales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "28.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:00",
+       "end": "11:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "13:00",
+       "end": "14:00",
+       "room": "Aula 1.A.15",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep",
+         "room": "Aula 1.A.15"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17283",
+   "name": "Visualización de información",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "28.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "10:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "13:00",
+       "end": "14:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17287",
+   "name": "Vocabularios y esquemas semánticos para web",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "13:00",
+       "end": "13:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17302",
+   "name": "Big Data. Técnicas de análisis de datos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "17.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "10.mar",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "10:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "12.feb",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "05.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17296",
+   "name": "Gestión de documentos y archivos en el entorno digital",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "16.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "09.mar",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "06.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "20.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "04.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "14:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "12.feb",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "05.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "02.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "30.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17301",
+   "name": "Gestión y evaluación de la continuidad digital",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "15:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "19.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "03.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:00",
+       "end": "17:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:00",
+       "end": "13:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "30.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17292",
+   "name": "Informetría",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "15.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "05.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "19.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "03.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:00",
+       "end": "11:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:00",
+       "end": "18:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "12.feb",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "05.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "02.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "30.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17304",
+   "name": "Infraestructura de los servicios informáticos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "20.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "04.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "15:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "30.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "16:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17299",
+   "name": "Producción de documentos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "19.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "03.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "18:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "13:00",
+       "end": "13:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "30.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17294",
+   "name": "Recursos tecnológicos en la biblioteca digital",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "15.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "05.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "19.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "03.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:00",
+       "end": "12:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "12.feb",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "05.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "02.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "30.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17300",
+   "name": "Reutilización de datos abiertos y documentos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "16.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "09.mar",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "16:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "16:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "12.feb",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "05.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17293",
+   "name": "Servicios de referencia digital",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "15.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "12.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "26.abr-03.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "14:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "12.feb",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "05.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "02.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "30.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17297",
+   "name": "Sistemas de gestión documental. Normas técnicas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "15.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:00",
+       "end": "12:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:00",
+       "end": "13:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "12.feb",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "05.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17303",
+   "name": "Técnicas avanzadas de recuperación de información",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "14:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "21.abr",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "05.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "16.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "30.abr",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:00",
+       "end": "17:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17298",
+   "name": "Tecnologías para la gestión de archivos y documentos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "15.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "13:00",
+       "end": "13:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "13:00",
+       "end": "14:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "12.feb",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "05.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17295",
+   "name": "Web social",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "16.feb",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "09.mar",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "15:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.may",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "20:00",
+       "end": "21:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "12.feb",
+         "room": "Aula Sala Polivalente 1.A.14"
+        },
+        {
+         "dates": "05.mar",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
