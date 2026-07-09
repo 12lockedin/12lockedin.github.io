@@ -1,0 +1,226 @@
+{
+ "plan": 470,
+ "centro": 3,
+ "type": "grado",
+ "name": "Grado en Ciencia, Tecnología y Humanidades",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:16:19Z",
+ "subjects": [
+  {
+   "code": "19010",
+   "name": "COMUNICACIÓN CIENTÍFICA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "91",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.2",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.2"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.2"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.2"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 9.2.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19011",
+   "name": "COSMOLOGÍA Y CULTURA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "91",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 15.0.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.0.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.2.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19012",
+   "name": "CULTURA Y TECNOLOGÍA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "91",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 15.0.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.0.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 9.2.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19013",
+   "name": "INTELIGENCIA NATURAL Y ARTIFICIAL",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "91",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.2",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.2"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.2"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.2"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.2.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19014",
+   "name": "MÉTODOS PARA EL ANÁLISIS DE DATOS",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "91",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 15.0.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.0.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 9.2.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

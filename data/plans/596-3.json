@@ -1,0 +1,239 @@
+{
+ "plan": 596,
+ "centro": 3,
+ "type": "grado",
+ "name": "Grado en Educación Primaria",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:18:38Z",
+ "subjects": [
+  {
+   "code": "20337",
+   "name": "COMPETENCIAS DIGITALES EN EDUCACIÓN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "112",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 20.0.C02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 20.0.C02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 20.0.C02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 20.0.C02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 20.0.C02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 20.0.C02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20963",
+   "name": "DIDÁCTICA E INNOVACIÓN EDUCATIVA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "112",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.0.C02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 20.0.C02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 20.0.C02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 20.0.C02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.0.C02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 20.0.C02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20964",
+   "name": "PSICOLOGÍA DEL DESARROLLO",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "112",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.0.C02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 20.0.C02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.0.C02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 20.0.C02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20965",
+   "name": "SOCIOLOGÍA DE LA EDUCACIÓN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "112",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.0.C02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 20.0.C02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 20.0.C02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 20.0.C02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.0.C02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 20.0.C02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20966",
+   "name": "TEORÍA DE LA EDUCACIÓN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "112",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.0.C02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 20.0.C02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.0.C02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 20.0.C02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  }
+ ]
+}

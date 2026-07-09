@@ -1,0 +1,857 @@
+{
+ "plan": 575,
+ "centro": 6,
+ "type": "grado",
+ "name": "Doble Grado en Derecho y Administración de Empresas",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:09:06Z",
+ "subjects": [
+  {
+   "code": "13564",
+   "name": "DERECHO ROMANO, 1º,1 er C (grupos 30 y 31) 10:45 a 12:15 07.sep-05.oct: Aula 1.0.B07 19.oct-26.oct: Aula 1.0.B07 09.nov-30.nov: Aula 1.0.B07",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.B04",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B04"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.0.B05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13153",
+   "name": "FUND. ADMON. EMPRESAS, 1º,1 er C (grupos 30 y 31) 10:45 a 12:15 08.sep-01.dic: Aula 1.0.B07",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.0.B05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.0.B05"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.0.B07",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13567",
+   "name": "FUND. HIST. SIST. JURÍDIC, 1º,1 er C (grupos 30 y 31) 09:00 a 10:30 09.sep-09.dic: Aula 1.0.B07",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.0.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B04"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.0.B05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13152",
+   "name": "MATEMÁTICAS ECONOMÍA I, 1º,1 er C (grupos 30 y 31) 09:00 a 10:30 07.sep-05.oct: Aula 1.0.B07 19.oct-26.oct: Aula 1.0.B07 09.nov-30.nov: Aula 1.0.B07",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.0.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B04"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.B05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13151",
+   "name": "PRINCIPIOS DE ECONOMÍA, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.0.B05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.0.B05"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13563",
+   "name": "Tª DCHO SOC. JURÍDICA, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.B05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.0.B05"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19408",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.1.A17",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.1.A17"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.1.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.1.B04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13943",
+   "name": "DERECHO DE LOS CONTRATOS, 2º,1 er C (grupos 30 y 31) 16:15 a 17:45 08.sep-01.dic: Aula 1.0.B07",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 1.0.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B04"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.B05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13945",
+   "name": "DERECHO INTERNACIONAL PÚBLICO, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B04"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.B05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13166",
+   "name": "ECONOMÍA FINANCIERA, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.B04"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.B05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.B05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13160",
+   "name": "ESTADÍSTICA II, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.B04"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 1.0.B05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.B05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19790",
+   "name": "ESTRATEGIAS DE EXPRESIÓN, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.1.B10",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.1.B10"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.1.A19",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.1.A19"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13946",
+   "name": "ORGANIZACIÓN CONSTITUCIONAL DEL EST, 2º,1 er C (grupos 30 y 31) 14:30 a 16:00 07.sep-05.oct: Aula 1.0.B07 19.oct-26.oct: Aula 1.0.B07 09.nov-30.nov: Aula 1.0.B07",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.B07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.0.B07"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B04"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 1.0.B05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

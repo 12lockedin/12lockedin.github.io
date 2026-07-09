@@ -1,0 +1,848 @@
+{
+ "plan": 573,
+ "centro": 3,
+ "type": "grado",
+ "name": "Grado en Estudios Culturales",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:19:17Z",
+ "subjects": [
+  {
+   "code": "18359",
+   "name": "ANTROPOLOGÍA CULTURAL",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.12",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.12",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19408",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "18360",
+   "name": "DIMENSIÓN CULTURAL DEL ARTE",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.12",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.12",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "18361",
+   "name": "INTRODUCCIÓN A LOS ESTUDIOS CULTURA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "18362",
+   "name": "TEORÍA DE LOS MEDIOS DE COMUNICACIÓ",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.12",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.12",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "18367",
+   "name": "ANÁLISIS DEL DISCURSO LITERARIO",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "81",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18368",
+   "name": "COMUNICACIÓN Y TEORÍA DE LA MEDIACI",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.13",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.13"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.13"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.13",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "18369",
+   "name": "CONSTRUCCIÓN, TRANSMISIÓN Y RECEPCI",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "18371",
+   "name": "SOCIOLOGÍA DE LA CULTURA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.13",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.13",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "18370",
+   "name": "ÉTICA Y CULTURA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.13",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.13"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.13"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.13",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "18377",
+   "name": "ANÁLISIS DEL DISCURSO PERFORMATIVO",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "81",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18378",
+   "name": "CIENCIA Y CULTURA",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "18379",
+   "name": "LA INDUSTRIA CULTURAL",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "18380",
+   "name": "POLÍTICAS DE LA DIVERSIDAD",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "81",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18381",
+   "name": "PROCESOS DE MODERNIZACIÓN",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "81",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18386",
+   "name": "CULTURA ESCRITA Y VISUAL",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "81",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.13"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.13"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18388",
+   "name": "POLÍTICAS E INSTITUCIONES CULTURAL",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "81",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "18389",
+   "name": "RELIGIÓN Y CONSTRUCCIÓN CULTURAL",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "81",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.13"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.13"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20626",
+   "name": "TEORÍAS POSCOLONIALES Y LITERATURAS",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "81",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

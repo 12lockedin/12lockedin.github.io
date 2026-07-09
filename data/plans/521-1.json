@@ -1,0 +1,800 @@
+{
+ "plan": 521,
+ "centro": 1,
+ "type": "grado",
+ "name": "Grado en Relaciones Laborales y Empleo",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:30:54Z",
+ "subjects": [
+  {
+   "code": "13104",
+   "name": "FUND ADMON DE EMPRESAS",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 5.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 5.1.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 5.1.05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 5.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13153",
+   "name": "FUND. ADMON. EMPRESAS, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 10.2.3",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.3"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "74",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 6.1.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 6.1.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13448",
+   "name": "INTRODUCCIÓN A LA SOCIOLOGÍA DEL TR",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 5.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 5.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13447",
+   "name": "INTRODUCCIÓN AL DERECHO SOCIAL",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 5.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 5.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13103",
+   "name": "PRINCIPIOS DE ECONOMÍA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 5.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 5.1.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 5.1.05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 5.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13219",
+   "name": "PRINCIPIOS DE ECONOMÍA, 2º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "49",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 9.1.6",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.1.6"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 5.1.02 BIS",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 5.1.02 BIS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13105",
+   "name": "PRINCIPIOS DEL DERECHO",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 5.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 5.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13112",
+   "name": "COMPORTAMIENTO ORGANIZAT",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.6",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.2.6"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.2.6"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.6",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14118",
+   "name": "DERECHO DE LA SEGURIDAD SOCIAL I",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.6",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.6",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13450",
+   "name": "DERECHO LABORAL INDIVIDUAL II",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.2.6",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.2.6"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.2.6"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.2.6",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13916",
+   "name": "ELEMENTOS DE PSICOLOGÍA DEL TRABAJO",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:15",
+       "room": "Aula 9.2.6",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:15",
+       "room": "Aula 9.2.6",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13451",
+   "name": "PRINCIPIOS DE DERECHO ADMINISTRATIV",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.2.6",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.2.6",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13129",
+   "name": "DERECHO DEL EMPLEO",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 9.2.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.2.4"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.2.4"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 9.2.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13919",
+   "name": "DERECHO PROCESAL LABORAL II",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.2.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.2.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13121",
+   "name": "DIREC ESTRATÉGICA EMPRESA",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 9.2.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.2.4"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.2.4"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 9.2.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13123",
+   "name": "ECONOMÍA LABORAL",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 9.2.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 9.2.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13120",
+   "name": "GESTIÓN Y TOMA DECISIONES",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.2.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.2.4"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.2.4"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.2.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13130",
+   "name": "TCAS AUDITORÍA SOCIOLAB",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.1.7",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.1.7"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.1.7"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.1.7"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 7.1.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 7.1.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

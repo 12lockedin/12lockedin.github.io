@@ -1,0 +1,550 @@
+{
+ "plan": 595,
+ "centro": 8,
+ "type": "grado",
+ "name": "Grado en Ingeniería en Tecnologías Cuánticas",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:25:57Z",
+ "subjects": [
+  {
+   "code": "19893",
+   "name": "COMPETENCIAS DIGITALES INGENIERÍA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "20",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.0.A02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.0.A02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.0.A02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.0.A02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13866",
+   "name": "CÁLCULO, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "81",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "22.sep",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "06.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19790",
+   "name": "ESTRATEGIAS DE EXPRESIÓN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "20",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.1.B10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.1.B10"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "21012",
+   "name": "FUNDAMENTOS DE REDES",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "20",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.A02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep",
+         "room": "Aula 1.0.A02"
+        },
+        {
+         "dates": "21.sep",
+         "room": "Aula 1.0.A02"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aula 1.0.A02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.0.A02"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aula 1.0.A02"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula 1.0.A02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 1.0.A02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.0.A02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.0.A02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.0.A02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "13:00",
+       "end": "14:30",
+       "room": "Aula 1.0.A02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.A02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "21013",
+   "name": "PROGRAMACIÓN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "20",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula INF-1.1.A16",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula INF-1.1.A16"
+        },
+        {
+         "dates": "28.sep",
+         "room": "Aula INF-1.1.A16"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula INF-1.1.A16"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula INF-1.1.A16"
+        },
+        {
+         "dates": "23.nov",
+         "room": "Aula INF-1.1.A16"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula INF-1.1.A16",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula INF-1.1.A16"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula INF-1.1.A16"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula INF-1.1.A16"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula INF-1.1.A16",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula INF-1.1.A16"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "21018",
+   "name": "TÉCNICAS DE PROGRAMACIÓN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "20",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.A02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "25.ene",
+         "room": "Aula 1.0.A02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13870",
+   "name": "ÁLGEBRA LINEAL, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "30.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "81",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "04.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,920 @@
+{
+ "plan": 419,
+ "centro": 2,
+ "type": "grado",
+ "name": "Grado en Ingeniería Biomédica",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:21:34Z",
+ "subjects": [
+  {
+   "code": "15541",
+   "name": "CIENCIA E INGENIERÍA DE MATERIALES, 3º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "48",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 7.1.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.1.J01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.1.J01"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.1.J01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aulas LAB 1.0.A01 (Materiales) y LAB 1.0.A02 (Materiales)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.1.J07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 7.1.J07"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 7.1.J07"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "15547",
+   "name": "FENÓMENOS DE TRANSPORTE EN BIOMEDIC, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "48",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.0.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.0.J01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.0.J01"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.1.J08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 7.1.J08"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.0.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 7.0.J01"
+        },
+        {
+         "dates": "05.nov-12.nov",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "14156",
+   "name": "FISIOLOGÍA MÉDICA I, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "48",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.2.J05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 7.2.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 7.2.J06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.2.J03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.oct-15.oct",
+         "room": "Aula 7.2.J03"
+        },
+        {
+         "dates": "19.nov-26.nov",
+         "room": "Aula 7.2.J03"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "14157",
+   "name": "FISIOLOGÍA MÉDICA II, 3º,2ºC",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "48",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.2.J03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene",
+         "room": "Aula 7.2.J03"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "15555",
+   "name": "FUNDAMENTOS DE INGENIERÍA DE TEJIDO, 3º,2ºC",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1048",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.1.J03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene",
+         "room": "Aula 7.1.J03"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "1049",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 7.2.J03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene",
+         "room": "Aula 7.2.J03"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "17881",
+   "name": "HOJAS DE CÁLCULO. NIVEL AVANZADO, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "705",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula Virtual",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "02.dic",
+         "room": "Aula 2.3.A02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "706",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula Virtual",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "11.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "25.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "09.dic",
+         "room": "Aula 2.3.A02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "707",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula Virtual",
+       "type": null,
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 2.3.A02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "15550",
+   "name": "INSTRUMENTACIÓN DE MEDIDA, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "48",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.0.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep",
+         "room": "Aula 7.0.J06"
+        },
+        {
+         "dates": "17.sep",
+         "room": "Aula 7.0.J01"
+        },
+        {
+         "dates": "24.sep",
+         "room": "Aula 7.0.J06"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 7.0.J06"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "15553",
+   "name": "INTRODUCCIÓN A LOS BIOMATERIALES, 3º,2ºC",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "48",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 7.1.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene",
+         "room": "Aula 7.1.J01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "49",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.2.J03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene",
+         "room": "Aula 7.2.J03"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "14155",
+   "name": "TÉCNICAS DE BÚSQUEDA Y USO DE LA IN, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "605",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula Virtual",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 1.1.G01"
+        },
+        {
+         "dates": "04.dic",
+         "room": "Aula 1.1.G01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "606",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula Virtual",
+       "type": null,
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula 2.3.A01"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 2.3.A01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "14159",
+   "name": "BIOLOGÍA COMPUTACIONAL, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "48",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.1.H01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.1.H01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.1.H01"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.1.H01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.2.J02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 7.0.J04 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aula INF 7.0.J04 DUAL"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula INF 7.0.J04 DUAL"
+        },
+        {
+         "dates": "04.nov-11.nov",
+         "room": "Aula INF 7.0.J04 DUAL"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "49",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.2.J03"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.2.J03"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.2.J03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 7.0.J03 DUAL + TEL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "04.nov-11.nov",
+         "room": "Aula INF 7.0.J05 DUAL"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16432",
+   "name": "BIOÉTICA, 4º,2ºC",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "48",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene",
+         "room": "Aula 7.2.J04"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "15549",
+   "name": "ROBÓTICA, 3º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "48",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.0.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.0.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 7.0.J01"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 7.0.J01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  }
+ ]
+}

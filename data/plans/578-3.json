@@ -1,0 +1,2374 @@
+{
+ "plan": 578,
+ "centro": 3,
+ "type": "grado",
+ "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:14:03Z",
+ "subjects": [
+  {
+   "code": "19408",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.1.02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20475",
+   "name": "CREACIÓN AUDIOVISUAL: SONIDO",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aulas 17.1.02 y TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.01"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "28.sep",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "23.nov",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "21.sep",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.01"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "54",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "11.nov",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "25.nov",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "09.dic",
+         "room": "Aula TALLERES LABORATORIOS"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "55",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aulas 17.1.02 y TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "56",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "02.dic",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20473",
+   "name": "CULTURA DEL AUDIOVISUAL",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19790",
+   "name": "ESTRATEGIAS DE EXPRESIÓN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 17.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20377",
+   "name": "FUNDAMENTOS DEL PERIODISMO",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20382",
+   "name": "PERIODISMO E INTELIGENCIA ARTIFICIA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.1.02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.1.02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.01"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.01"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20474",
+   "name": "TEORÍA Y ANÁLISIS DE LA IMAGEN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13264",
+   "name": "FILOSOFÍA POLÍTICA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.06"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.06"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20482",
+   "name": "PRODUCCIÓN Y REALIZACIÓN SONORA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.06"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.06"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "13:30",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "28.sep",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "23.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "02.dic",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "54",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "13:30",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "55",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "56",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "21.sep",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.06"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.06"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20383",
+   "name": "REDACCIÓN PERIODISTICA II",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.1.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.1.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20486",
+   "name": "TELEVISIÓN, VIDEOCREACIÓN Y VIDEOJU",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 17.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20384",
+   "name": "TEORÍA DE LA COMUNICACIÓN",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.1.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.1.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.1.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20483",
+   "name": "TEORÍA Y TÉCNICA DE LA FOTOGRAFÍA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "13:30",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "21.sep",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "54",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "13:30",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "28.sep",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "23.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "55",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "56",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula LAB- 17.1.14 Informática"
+        },
+        {
+         "dates": "02.dic",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula LAB- 17.1.14 Informática",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula LAB- 17.1.14 Informática"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

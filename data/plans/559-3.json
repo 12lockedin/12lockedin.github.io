@@ -1,0 +1,483 @@
+{
+ "plan": 559,
+ "centro": 3,
+ "type": "grado",
+ "name": "Grado en Humanidades Digitales",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:20:55Z",
+ "subjects": [
+  {
+   "code": "20318",
+   "name": "BASES FILOSÓFICAS DE LAS HUMANIDADE, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "12",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.10",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.8",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20319",
+   "name": "FUNDAMENTOS DEL LENGUAJE, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "12",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.8",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.8"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.8"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.8",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13798",
+   "name": "GEOGRAFÍA, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "12",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.8",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.8"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.8"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.8",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20320",
+   "name": "LITERATURA Y MODERNIDAD, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "12",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.7"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.7"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20321",
+   "name": "MÉTODOS DIGITALES PARA EL ESTUDIO D, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "12",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.8",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.8",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13809",
+   "name": "ANTIGÜEDAD LEGADO CLÁSICO, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "12",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.7"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.7"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.7"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.7"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20325",
+   "name": "EL ESPAÑOL: ENFOQUE COGNITIVO Y SOC",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "12",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.1",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.1"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.1"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 15.0.14",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 15.0.14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13796",
+   "name": "HISTORIA MEDIEVAL",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "12",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.1",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.1",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "15",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "* SIN AULA *",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20326",
+   "name": "LITERATURA EN EL CONTEXTO DIGITAL",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "12",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.1",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.1",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20327",
+   "name": "TECNOLOGÍAS DIGITALES EN LA GESTIÓN, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "12",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.7"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.7"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,696 @@
+{
+ "plan": 579,
+ "centro": 1,
+ "type": "grado",
+ "name": "Doble Grado en Ciencias Políticas y Sociología",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:08:27Z",
+ "subjects": [
+  {
+   "code": "19408",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 9.1.7",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.1.7"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.1.7"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.1.7"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19790",
+   "name": "ESTRATEGIAS DE EXPRESIÓN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.2.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14068",
+   "name": "ESTRUCTURA Y CAMBIO SOC",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 9.2.12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.2.12"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.2.12"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.2.12"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 5.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13208",
+   "name": "FDMTO. CIENCIA POLÍTICA, 1º,1 er C (grupos 85 y 88) 10:45 a 12:15 09.sep-09.dic: Aula 9.2.2",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.2.2",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.2"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.1.07",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 4.1.07"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20259",
+   "name": "HISTORIA SOCIAL DEL MUNDO CONTEMPOR",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 9.1.1",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.1.1"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.1.01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13000",
+   "name": "INTROD. A LA SOCIOLOGÍA, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 9.2.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "86",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 18.0.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 18.0.A04"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.1.7",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.1.7"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.1.7"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.1.7"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20294",
+   "name": "INTRODUCCIÓN A LA SOCIOLOGÍA, 1º,1 er C (grupos 49 y 86) 12:30 a 14:00 08.sep-01.dic: Aula 18.0.A14",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.0.A14",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.0.A14"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14070",
+   "name": "METODOLOGÍA DE INVESTIGACIÓN EN CIE",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 9.2.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 9.2.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 9.2.2",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.2"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20263",
+   "name": "DESAFÍOS DEMOGRÁFICOS CONTEMPORÁNEO, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.2.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "86",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 4.1.03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.1.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 7.1.07"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 5.1.01 BIS",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 5.1.01 BIS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14087",
+   "name": "ESTADÍSTICA APLICADA PARA LAS CS II, 2º,1 er C (grupos 47,85 y 88) 16:15 a 17:45 08.sep-01.dic: Aula 10.2.1",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 10.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 4.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13229",
+   "name": "POLÍTICA COMPARADA I",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 5.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20307",
+   "name": "POLÍTICA COMPARADA, 2º,1 er C (grupos 47,88 y 188) 18:00 a 19:30 08.sep-01.dic: Aula 10.2.12",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 10.2.12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 10.2.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13219",
+   "name": "PRINCIPIOS DE ECONOMÍA, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.2.6",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.6"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "47",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 4.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.02"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "49",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 9.1.6",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.1.6"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 5.1.02 BIS",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 5.1.02 BIS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13211",
+   "name": "TEORÍA DEL DERECHO, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.1.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.1.7"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 5.1.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 5.1.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14481",
+   "name": "TÉCNICAS INVESTIGACIÓN SOCIAL CUALI, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "88",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 9.1.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 9.1.7"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 4.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,666 @@
+{
+ "plan": 414,
+ "centro": 3,
+ "type": "grado",
+ "name": "Doble Grado en Periodismo y Humanidades",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:14:27Z",
+ "subjects": [
+  {
+   "code": "13809",
+   "name": "ANTIGÜEDAD LEGADO CLÁSICO",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "62",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 17.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.7",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13803",
+   "name": "GEOGRAFÍA REGIONAL",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "61",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.04",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 17.0.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.0.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13810",
+   "name": "HISTORIA MODERNA ESPAÑA, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.1.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13274",
+   "name": "RADIO INFORMATIVA",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "61",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.0.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.0.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13937",
+   "name": "SEMINARIO INTERDISCIPLINAR CULTURA, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13271",
+   "name": "Tª Y AN DOCUM AUDIOVISUAL",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "61",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.7",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.7",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13812",
+   "name": "ESTÉTICA, 3º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.10",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13287",
+   "name": "INFORMACIÓN INSTITUCIONAL",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "61",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 15.1.43",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 15.1.43"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13282",
+   "name": "ORGANIZ GEST EMPRESA INF",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "61",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.8",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.0.02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.0.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13284",
+   "name": "PERID INT I: INF GLOBAL",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "61",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 17.0.32",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.0.32"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 17.0.02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.0.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13461",
+   "name": "PERIODISMO DE DATOS",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "61",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.0.32",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.0.32"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.0.02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.0.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13286",
+   "name": "REPORTAJE EN PROFUNDIDAD",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "61",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 15.1.43",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 15.1.43"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "* SIN AULA *",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13817",
+   "name": "HISTORIA DEL MUNDO ACTUAL, 4º,1 er C",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 15.0.16",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.0.16"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 15.1.41",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 15.1.41"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13818",
+   "name": "MOV LITERAR CONTEMPORÁNEO, 4º,1 er C",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 15.0.16",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.0.16"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13460",
+   "name": "PERIODISMO CIENTÍFICO Y TECNOLÓGICO",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "61",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.4"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.1.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13458",
+   "name": "PERIODISMO LOCAL",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "61",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 15.0.16",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.0.16"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 15.1.41",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 15.1.41"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

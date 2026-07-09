@@ -1,0 +1,1109 @@
+{
+ "plan": 561,
+ "centro": 3,
+ "type": "grado",
+ "name": "Grado en Periodismo",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:30:36Z",
+ "subjects": [
+  {
+   "code": "19408",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.1.11",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.11",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.11"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.11"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.1.1",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19790",
+   "name": "ESTRATEGIAS DE EXPRESIÓN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.1.11",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.11",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20377",
+   "name": "FUNDAMENTOS DEL PERIODISMO",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.1",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.1",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20378",
+   "name": "HISTORIA DEL PERIODISMO EN ESPAÑA, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.11"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.11"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.11"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.11"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20379",
+   "name": "REDACCIÓN PERIODÍSTICA I, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.11"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.11"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.11"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.11"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20380",
+   "name": "VERIFICACIÓN INFORMATIVA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.11",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.1",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.1",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13455",
+   "name": "DERECHO DE LA INFORMACIÓN",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.8",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.8",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20385",
+   "name": "EMPRESA INFORMATIVA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.8",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.8",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20386",
+   "name": "PERIODISMO DIGITAL",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.8",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.8"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.8"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.8",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13274",
+   "name": "RADIO INFORMATIVA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 17.1.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 17.1.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 17.1.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula LAB-17.1.23 Est. Radio",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula LAB-17.1.23 Est. Radio"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20387",
+   "name": "TEORÍA DE LA IMAGEN",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "30",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.8",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.8"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.8"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.1.8",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.8"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "31",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.1.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.1.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.1.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

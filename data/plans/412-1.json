@@ -1,0 +1,1495 @@
+{
+ "plan": 412,
+ "centro": 1,
+ "type": "grado",
+ "name": "Doble Grado en Estudios Internacionales y Derecho",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:12:05Z",
+ "subjects": [
+  {
+   "code": "16627",
+   "name": "COOPERACIÓN, ACCIÓN COLECTIVA Y MOD, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 9.2.7"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "118",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 4.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 4.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13576",
+   "name": "DCHO UNIÓN EUROPEA",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula 9.2.9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 5.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "04.dic",
+         "room": "Aula 5.1.01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "119",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 4.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "04.dic",
+         "room": "Aula 4.1.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13584",
+   "name": "DERECHO PROCESAL CIVIL, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 9.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 9.2.9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "119",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 4.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 4.1.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16634",
+   "name": "DERECHOS HUMANOS, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 10.2.10",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.2.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.2.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.2.10"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "118",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 4.1.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.1.07"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16623",
+   "name": "ESTADÍSTICA PARA LAS CIENCIAS SOCIA, 2º,1 er C (grupos 18,45 y 118) 18:00 a 19:30 07.sep-05.oct: Aula 9.2.9 19.oct-26.oct: Aula 9.2.9 09.nov-30.nov: Aula 9.2.9",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.2.9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "118",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 4.1.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.1.07"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "17639",
+   "name": "HOJAS DE CÁLCULO. NIVEL AVANZADO, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula Virtual",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "09.nov-23.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula 4.1.08"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula Virtual",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-24.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 9.2.8"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13948",
+   "name": "POTESTADES ADMINISTRATIVAS Y RESPON",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "22.sep",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "06.oct",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 9.2.9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 5.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "30.oct",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 5.1.01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "119",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 4.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "30.oct",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 4.1.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16635",
+   "name": "TEMAS DE POLÍTICA INTERNACIONAL, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.10",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.2.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.2.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.2.10"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "118",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 4.1.06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.1.06"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16633",
+   "name": "CASOS DE ESTUDIOS INTERNACIONALES, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.0.30",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.0.30"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "18",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 10.2.9"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13583",
+   "name": "DELITOS CONTRA PERSONAS, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 10.0.30",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.0.30"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 15.0.16",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 15.0.16"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 15.0.16"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 15.0.16"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "119",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.1.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.1.07"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.1.07"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.1.07"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13960",
+   "name": "DERECHO INTERNACIONAL PRIVADO: PART, 5º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 10.2.12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "04.dic",
+         "room": "Aula 10.2.12"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "41",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 5.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "11.nov",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "25.nov",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "09.dic",
+         "room": "Aula 5.1.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13951",
+   "name": "DERECHOS REALES, 4º,1 er C (grupos 19 y 119) 09:00 a 10:30 08.sep-01.dic: Aula 10.0.30",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 10.0.30",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 10.0.30"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 15.1.41",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 15.1.41"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "119",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.1.06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13952",
+   "name": "EL EMPRESARIO Y SU ESTATUTO JURÍDIC, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.2.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aulas 15.0.16 y 17.1.06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-14.sep",
+         "room": "Aulas 15.0.16 y 17.1.06"
+        },
+        {
+         "dates": "21.sep-05.oct",
+         "room": "Aula 17.1.06"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.06"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.06"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "119",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.1.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.1.07"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.1.07"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.1.07"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13595",
+   "name": "FILOSOFÍA DEL DERECHO, 5º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 10.2.12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "30.oct",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 10.2.12"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "41",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 5.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "02.dic",
+         "room": "Aula 5.1.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13955",
+   "name": "LIBERTAD DE CONCIENCIA Y SU PROYECC, 4º,1 er C (grupos 19 y 119) 10:45 a 12:15 08.sep: Aula 10.0.30 22.sep: Aula 10.0.30 06.oct: Aula 10.0.30 20.oct: Aula 10.0.30 03.nov: Aula 10.0.30 17.nov: Aula 10.0.30 01.dic: Aula 10.0.30",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 10.0.30",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 10.0.30"
+        },
+        {
+         "dates": "22.sep",
+         "room": "Aula 10.0.30"
+        },
+        {
+         "dates": "06.oct",
+         "room": "Aula 10.0.30"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 10.0.30"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 10.0.30"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 10.0.30"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 10.0.30"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 15.1.41",
+       "type": null,
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula 15.1.41"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula 15.1.41"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula 15.1.41"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula 15.1.41"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula 15.1.41"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula 15.1.41"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 15.1.41"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "119",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.1.06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula 4.1.06"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula 4.1.06"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula 4.1.06"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula 4.1.06"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula 4.1.06"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula 4.1.06"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 4.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13592",
+   "name": "DCHO SOCIED. MERCADO VAL.",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "19",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 4.1.03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.1.03"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.1.03"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.1.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 5.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 5.1.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13959",
+   "name": "DERECHO DE LA SEGURIDAD SOCIAL, 5º,1 er C (grupos 19 y 119) 16:15 a 17:45 10.sep-10.dic: Aula 9.2.1",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 6.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 6.1.05"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "119",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 6.1.05 BIS",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 6.1.05 BIS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16636",
+   "name": "FINANZAS INTERNACIONALES, 5º,1 er C",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "18",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.2.12"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.2.12"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.2.12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 7.1.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.1.07"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16639",
+   "name": "GLOBALIZACIÓN (SEMINARIO MULTIDISCI",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "18",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 7.1.02 BIS",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 7.1.02 BIS"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19617",
+   "name": "GLOBALIZACIÓN: ECO, POLÍTICA, SOCIE, 4º,1 er C (grupos 18,55 y 68) 16:15 a 17:45 07.sep-05.oct: Aula 10.2.12 19.oct-26.oct: Aula 10.2.12 09.nov-30.nov: Aula 10.2.12",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.2.12"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.2.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13961",
+   "name": "SISTEMA TRIBUTARIO ESPAÑOL",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 9.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "19",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 6.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 6.1.05"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "119",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 6.1.05 BIS",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 6.1.05 BIS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

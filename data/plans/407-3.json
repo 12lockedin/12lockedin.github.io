@@ -1,0 +1,306 @@
+{
+ "plan": 407,
+ "centro": 3,
+ "type": "grado",
+ "name": "Grado en Humanidades",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:20:48Z",
+ "subjects": [
+  {
+   "code": "13812",
+   "name": "ESTÉTICA, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.10",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13810",
+   "name": "HISTORIA MODERNA ESPAÑA, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.1.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13937",
+   "name": "SEMINARIO INTERDISCIPLINAR CULTURA, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.1.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13811",
+   "name": "TEORÍA SOCIAL",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.4"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.4"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 15.0.15",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.0.15"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13816",
+   "name": "CIENCIA CAMBIO HISTÓRICO",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.2.6",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.1",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.1.1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13817",
+   "name": "HISTORIA DEL MUNDO ACTUAL, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 15.0.16",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.0.16"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 15.1.41",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 15.1.41"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13818",
+   "name": "MOV LITERAR CONTEMPORÁNEO, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 15.0.16",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.0.16"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1498 @@
+{
+ "plan": 508,
+ "centro": 1,
+ "type": "grado",
+ "name": "Doble Grado en Estudios Internacionales y Economía",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:12:39Z",
+ "subjects": [
+  {
+   "code": "19408",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 15.0.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 15.0.04"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 4.1.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.07"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13634",
+   "name": "FUND. ADMON. EMPRESAS, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 10.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 6.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 6.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 4.1.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 4.1.08"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13443",
+   "name": "INTRODUCCIÓN A LAS MATEMÁTICAS PARA, 1º,1 er C (grupos 68 y 69) 16:15 a 17:45 15.sep: Aula 10.2.9 29.sep: Aula 10.2.9 13.oct: Aula 10.2.9 27.oct: Aula 10.2.9 10.nov: Aula 10.2.9 24.nov: Aula 10.2.9",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 10.2.9"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aula 10.2.9"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 10.2.9"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula 10.2.9"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula 10.2.9"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula 10.2.9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 5.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "24.sep",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "08.oct",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "19.nov",
+         "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "03.dic",
+         "room": "Aula 5.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 10.2.9"
+        },
+        {
+         "dates": "22.sep",
+         "room": "Aula 10.2.9"
+        },
+        {
+         "dates": "06.oct",
+         "room": "Aula 10.2.9"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 10.2.9"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 10.2.9"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 10.2.9"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 10.2.9"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "14122",
+   "name": "MATEMÁTICAS PARA LA ECONOMÍA I, 1º,1 er C (grupos 68 y 69) 16:15 a 17:45 09.sep-09.dic: Aula 10.2.7",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.7"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 5.1.03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 5.1.03"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 4.1.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.07"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16616",
+   "name": "METODOLOGÍA Y CULTURA JURÍDICA, 1º,1 er C (grupos 68 y 69) 14:30 a 16:00 08.sep-01.dic: Aula 10.2.9",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 10.2.9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 6.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 6.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 4.1.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 4.1.08"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16614",
+   "name": "POLÍTICA COMPARADA, 1º,1 er C (grupos 68 y 69) 14:30 a 16:00 09.sep-09.dic: Aula 10.2.9",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 6.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 6.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 4.1.08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 4.1.08"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13635",
+   "name": "PRINCIPIOS DE ECONOMÍA, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 10.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 10.2.9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 15.0.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 15.0.04"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 4.1.07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.07"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16625",
+   "name": "DERECHO INTERNACIONAL PÚBLICO",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 10.2.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 10.2.7"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.1.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.1.06"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13643",
+   "name": "ESTADÍSTICA II",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 6.1.01 BIS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 6.1.01 BIS"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 6.1.01 BIS"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 6.1.01 BIS"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13160",
+   "name": "ESTADÍSTICA II, 2º,1 er C (grupos 58,59,68 y 69) 09:00 a 10:30 10.sep-10.dic: Aula 10.2.6",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 10.2.6",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 10.2.6"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "59",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 5.1.02 BIS",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 5.1.02 BIS"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 5.1.02 BIS"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 5.1.02 BIS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13642",
+   "name": "MACROECONOMÍA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 10.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.1.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 7.1.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.1.06"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13644",
+   "name": "TEORÍA DE LOS JUEGOS",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.2.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 10.2.7"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 7.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.1.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.1.06"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13645",
+   "name": "TEORÍA MICROECONÓMICA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 10.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 10.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 6.1.01 BIS",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 6.1.01 BIS"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 6.1.01 BIS"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 6.1.01 BIS"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 5.1.03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 5.1.03"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 5.1.03"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 5.1.03"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19614",
+   "name": "CONFLICTO Y VIOLENCIA",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 6.1.02 BIS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 6.1.02 BIS"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 6.1.02 BIS"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 6.1.02 BIS"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 7.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.1.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16624",
+   "name": "ECONOMÍA INTERNACIONAL: INTEGRACIÓN, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.5",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.5"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 6.1.02 BIS",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 6.1.02 BIS"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 6.1.02 BIS"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 6.1.02 BIS"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "69",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.0.27",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 10.0.27"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16626",
+   "name": "ECONOMÍA POLÍTICA INTERNACIONAL, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 9.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 7.1.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.1.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13651",
+   "name": "ECONOMÍA PÚBLICA, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 6.1.02 BIS",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 6.1.02 BIS"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 6.1.02 BIS"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 6.1.02 BIS"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.4"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16621",
+   "name": "HISTORIA DE LA ECONOMÍA MUNDIAL",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "168",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 7.1.05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.1.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 9.2.5",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 9.2.5"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13650",
+   "name": "TÉCNICAS ECONOMÉTRICAS, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 10.2.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.4"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.6",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 10.2.6"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16633",
+   "name": "CASOS DE ESTUDIOS INTERNACIONALES, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.0.30",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.0.30"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19826",
+   "name": "COMPETENCIAS DIGITALES DATOS. AVANZ, 2º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "50",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 4.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.1.02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 9.2.3",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 9.2.3"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 5.1.01 BIS",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 5.1.01 BIS"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "53",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 4.1.03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.03"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "54",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 4.1.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.1.04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.1.04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.1.04"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16634",
+   "name": "DERECHOS HUMANOS, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 6.1.02 BIS",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 6.1.02 BIS"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 10.1.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 10.1.4"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19615",
+   "name": "POLÍTICA EUROPEA Y SOCIEDAD",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.1.5",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.1.5"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.1.02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "16635",
+   "name": "TEMAS DE POLÍTICA INTERNACIONAL, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "68",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 6.1.01 BIS",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 6.1.01 BIS"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 10.1.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 10.1.4"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  }
+ ]
+}

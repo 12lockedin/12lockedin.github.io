@@ -1,0 +1,930 @@
+{
+ "plan": 255,
+ "centro": 2,
+ "type": "grado",
+ "name": "Grado en Ingeniería Telemática",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:28:53Z",
+ "subjects": [
+  {
+   "code": "13426",
+   "name": "APLICACIONES TELEMÁTICAS, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.0.D03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.1.E04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.E04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13420",
+   "name": "PROC FORM APLIC TELEMÁTIC, 3º,2ºC",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.2.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13421",
+   "name": "REDES SERV COMUN AVANZADA, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aulas LAB 4.1.B01 (Telematica), LAB 4.1.B02 (Telematica) y INF 7.0.J03 DUAL + TEL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aulas LAB 4.1.B01 (Telematica), LAB 4.1.B02 (Telematica) y INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aulas LAB 4.1.B01 (Telematica), LAB 4.1.B02 (Telematica) y INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aulas LAB 4.1.B01 (Telematica), LAB 4.1.B02 (Telematica) y INF 7.0.J02 DUAL+ TEL"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 4.1.B02 (Telematica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "LAB 4.1.B02 (Telematica)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 4.1.B02 (Telematica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "LAB 4.1.B02 (Telematica)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15383",
+   "name": "SISTEMAS ELECTRÓNICOS, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1091",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "21.sep",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1092",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.1.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 4.1.D03"
+        },
+        {
+         "dates": "22.sep",
+         "room": "Aula 4.1.E01"
+        },
+        {
+         "dates": "06.oct",
+         "room": "Aula 4.1.D03"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 4.1.E01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.0.D03"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1095",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "22.sep",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "06.oct",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 4.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13416",
+   "name": "SOFTWARE DE COMUNICACIONE, 4º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.2.E04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.2.E04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.2.E04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.0.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-14.sep",
+         "room": "Aula 4.0.D01"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aula 4.0.D01"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula 4.0.D01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 2.3.B04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15938",
+   "name": "Tª MODERNA DETECCIÓN Y ESTIMACIÓN, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1091",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 4.0.E06"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1092",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 4.1.D03"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.0.D03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1093",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.0.D01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula 4.0.D01"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula 4.0.E04"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula 4.0.D01"
+        },
+        {
+         "dates": "19.nov",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1095",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.0.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.0.D03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "15.oct-22.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "19.nov",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 4.0.D03"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 4.0.D03"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "13436",
+   "name": "PROYECTOS,NORM POL TELECO, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.0.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.0.D03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 4.1.D01"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula 4.1.E01"
+        },
+        {
+         "dates": "04.dic",
+         "room": "Aula 4.1.D01"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 4.1.E01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13433",
+   "name": "REDES INALAMB Y MOVILES, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.E06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.1.E06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "21.oct-28.oct",
+         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aulas LAB 4.1.B02 (Telematica) y INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "09.dic",
+         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 2.3.A04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13427",
+   "name": "SERVICIOS AUDIOVISUALES, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 7.2.J02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.0.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "11.nov-18.nov",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "02.dic",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.2.E05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.2.E05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15946",
+   "name": "SISTEMAS DE TELECOMUNICACIÓN, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1071",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula INF 4.S.D.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula INF 4.S.D.02"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula INF 4.S.D.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.0.E04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.0.E04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.1.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.D03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

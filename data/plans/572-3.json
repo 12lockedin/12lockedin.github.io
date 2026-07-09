@@ -1,0 +1,751 @@
+{
+ "plan": 572,
+ "centro": 3,
+ "type": "grado",
+ "name": "Grado en Gestión de la Información y Contenidos Digitales",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:20:22Z",
+ "subjects": [
+  {
+   "code": "17355",
+   "name": "ARQUITECTURA DE INFORMACIÓN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20613",
+   "name": "GESTIÓN INFORMACIÓN ORGANIZACIONES",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17353",
+   "name": "LENGUAJES DE MARCADO",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17354",
+   "name": "SOCIOLOGÍA DE LAS ORGANIZACIONES",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17351",
+   "name": "TEORÍA DE LA INFORMACIÓN Y LA COMUN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "20",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.4",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.1.4"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.10",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17450",
+   "name": "ANÁLISIS ESTADÍSTICO DE DATOS",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.9",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.9"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.9"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.9",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17451",
+   "name": "ASPECTOS LEGALES Y ÉTICOS DE LA INF",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.9",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.9",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20614",
+   "name": "COMPETENCIAS DIGITALES DATOS. AVANZ",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17449",
+   "name": "SISTEMAS DE RECUPERACIÓN DE INFORMA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "20",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "* SIN AULA *",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.1.13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.1.13"
+        }
+       ]
+      }
+     ],
+     "english": true
+    },
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17456",
+   "name": "TÉCNICAS DE PROGRAMACIÓN",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.9"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.9"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17462",
+   "name": "GESTIÓN ELECTRÓNICA DE DOCUMENTOS",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20615",
+   "name": "PRESERVACIÓN DIGITAL",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17460",
+   "name": "TÉCNICAS DE PROGRAMACIÓN PARA WEB",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17461",
+   "name": "TÉCNICAS MÉTRICAS DE INFORMACIÓN",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.0.10",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17467",
+   "name": "ANÁLISIS ESTADÍSTICO AVANZADO",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.0.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.9"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.9"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.0.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17468",
+   "name": "VISUALIZACIÓN DE DATOS",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.0.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.9"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.9"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 14.0.9",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

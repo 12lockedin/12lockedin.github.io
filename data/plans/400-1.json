@@ -1,0 +1,840 @@
+{
+ "plan": 400,
+ "centro": 1,
+ "type": "grado",
+ "name": "Grado en Estadística y Empresa",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:19:08Z",
+ "subjects": [
+  {
+   "code": "14459",
+   "name": "CÁLCULO I, 1º,1 er C (grupos 27 y 28) 16:15 a 17:45 08.sep-01.dic: Aula 10.2.4",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 10.2.4"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "28",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.1.5",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.1.5"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13151",
+   "name": "PRINCIPIOS DE ECONOMÍA, 1º,1 er C (grupos 27,75,76 y 801) 12:30 a 14:00 07.sep-05.oct: Aula 10.2.1 19.oct-26.oct: Aula 10.2.1 09.nov-30.nov: Aula 10.2.1",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.2.1"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.2.1"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "75",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 6.1.01 BIS",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 6.1.01 BIS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14460",
+   "name": "ÁLGEBRA LINEAL, 1º,1 er C (grupos 27 y 28) 14:30 a 16:00 07.sep-05.oct: Aula 10.2.6 19.oct-26.oct: Aula 10.2.6 09.nov-30.nov: Aula 10.2.6",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.2.6",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.2.6"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.2.6"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.2.6"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "28",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 4.1.03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.1.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13172",
+   "name": "GESTIÓN DE OPERACIONES, 4º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 10.2.10",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.2.10"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.2.10"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.2.10"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "77",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 6.1.06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 6.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20355",
+   "name": "INFERENCIA ESTADÍSTICA I, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.2.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 10.2.4"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "27",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 10.1.7",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 10.1.7"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "28",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 9.1.6",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.1.6"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20635",
+   "name": "PROGRAMACIÓN I, 1º,1 er C (grupos 27 y 28) 16:15 a 17:45 07.sep-05.oct: Aula 10.2.4 19.oct-26.oct: Aula 10.2.4 09.nov-30.nov: Aula 10.2.4",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.2.4"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.2.4"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.2.4"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "28",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 4.1.03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.1.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13718",
+   "name": "ANÁLISIS DE MUESTRAS",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "27",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 5.1.05 BIS",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 5.1.05 BIS"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "28",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 4.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.1.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13715",
+   "name": "CONTROL DE CALIDAD, 3º,1 er C (grupos 27 y 28) 18:00 a 19:30 09.sep-09.dic: Aula 9.2.4",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "27",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 7.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.1.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.1.05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.1.05"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "28",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 7.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.1.06"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.1.06"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14466",
+   "name": "ECONOMÍA FINANCIERA, 3º,1 er C (grupos 27 y 28) 16:15 a 17:45 10.sep-10.dic: Aula 9.2.9",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.2.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "27",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 5.1.05 BIS",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 5.1.05 BIS"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "28",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 4.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.1.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13710",
+   "name": "FUND. BASES DE DATOS, 2º,1 er C (grupos 27,28,127 y 128) 14:30 a 16:00 09.sep-09.dic: Aula 9.2.4",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 9.2.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "127",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 7.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.1.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.1.05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.1.05"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "128",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 7.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.1.06"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.1.06"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13711",
+   "name": "MÉTODOS DE REGRESIÓN, 3º,1 er C (grupos 27 y 28) 16:15 a 17:45 09.sep-09.dic: Aula 9.2.4",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.2.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "27",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 7.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.1.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.1.05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.1.05"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "28",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 7.1.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.1.06"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.1.06"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13723",
+   "name": "MÉTODOS BAYESIANOS",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 9.2.6",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "27",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 9.1.7",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.1.7"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "28",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.1.1",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.1.1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13721",
+   "name": "MÉTODOS ECONOMÉTRICOS",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.2.6",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 9.2.6"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "27",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.1.7",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.1.7"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "28",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 9.1.1",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.1.1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,674 @@
+{
+ "plan": 381,
+ "centro": 1,
+ "type": "grado",
+ "name": "Grado en Turismo",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:31:45Z",
+ "subjects": [
+  {
+   "code": "13050",
+   "name": "FUND ADMON DE EMPRESAS, 2º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.0.31",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 10.0.31"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.0.31",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 10.0.31"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14078",
+   "name": "ALEMÁN III, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.0.31",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "11.nov",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "25.nov",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "09.dic",
+         "room": "Aula 10.0.31"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.0.31",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "04.dic",
+         "room": "Aula 10.0.31"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14077",
+   "name": "FRANCÉS III, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.0.31",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "02.dic",
+         "room": "Aula 10.0.31"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.0.31",
+       "type": null,
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "30.oct",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 10.0.31"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17587",
+   "name": "HISTORIA CONTEMPORÁNEA Y TURISMO, 1º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 5.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 5.1.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 5.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 5.1.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13070",
+   "name": "PATRIMONIO CULTURAL, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 10.0.31",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.0.31"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.0.31"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.0.31",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.0.31"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17595",
+   "name": "DERECHO PRIVADO TURÍSTICO (CONTRATA",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.2.5",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.2.5"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.2.5"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.2.5"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "125",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 10.2.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 10.2.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13078",
+   "name": "DIRECCIÓN FINANCIERA",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.0.27",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.0.27"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.0.27"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.0.27"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.2.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 10.2.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17597",
+   "name": "HOJAS DE CÁLCULO. NIVEL INTERMEDIO, 3º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "10",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula Virtual",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-16.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aula 9.1.17"
+        },
+        {
+         "dates": "30.sep-07.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 9.1.17"
+        },
+        {
+         "dates": "21.oct-28.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula 9.1.17"
+        },
+        {
+         "dates": "11.nov-18.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "25.nov",
+         "room": "Aula 9.1.17"
+        },
+        {
+         "dates": "02.dic",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "09.dic",
+         "room": "Aula 9.1.17"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula Virtual",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-15.sep",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "22.sep",
+         "room": "Aula 7.1.08"
+        },
+        {
+         "dates": "29.sep-06.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 7.1.08"
+        },
+        {
+         "dates": "20.oct-27.oct",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 7.1.08"
+        },
+        {
+         "dates": "10.nov-17.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula 7.1.08"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17596",
+   "name": "SISTEMAS INFORMÁTICOS EN EL SECTOR",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.1.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.1.05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.1.05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.1.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.2.12",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 10.2.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17604",
+   "name": "ORGANIZACIÓN Y GESTIÓN DE RECURSOS",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 10.0.30",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.0.30"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.0.30"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.0.30"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 10.0.30",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.0.30"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17603",
+   "name": "TÉCNICAS DE COMUNICACIÓN, PATROCINI",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "25",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.0.30",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.0.30"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.0.30"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.0.30"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.0.30",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.0.30"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,446 @@
+{
+ "plan": 569,
+ "centro": 3,
+ "type": "grado",
+ "name": "Grado en Historia y Política",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:20:29Z",
+ "subjects": [
+  {
+   "code": "19408",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "70",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.7",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "17677",
+   "name": "ESTADÍSTICA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "70",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.7",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.7",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19790",
+   "name": "ESTRATEGIAS DE EXPRESIÓN",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "70",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.7",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "17710",
+   "name": "FUNDAMENTOS DE CIENCIA POLÍTICA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "70",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.7",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.7",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "17679",
+   "name": "HISTORIA ANTIGUA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "70",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.7",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.7"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.7"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "* SIN AULA *",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "17678",
+   "name": "PRINCIPIOS TEÓRICOS Y METODOLÓGICOS",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.7",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 14.0.7"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 14.0.7"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.7",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.7"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17689",
+   "name": "GEOPOLÍTICA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "70",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.4",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.4",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "17716",
+   "name": "HISTORIA CULTURAL: PODER Y REPRESEN",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 14.0.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17686",
+   "name": "HISTORIA MODERNA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.4",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 14.0.4",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17688",
+   "name": "HISTORIA Y TEORÍA DE LAS IDEAS POLÍ",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.4",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.4",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17723",
+   "name": "POLÍTICA E HISTORIA INTERNACIONAL",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.0.4",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+{
+ "plan": 552,
+ "centro": 1,
+ "type": "grado",
+ "name": "Grado en Sostenibilidad Urbana",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:31:28Z",
+ "subjects": [
+  {
+   "code": "20041",
+   "name": "COMUNICACIÓN AUDIOVISUAL",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.1.08",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 4.1.08"
+        },
+        {
+         "dates": "28.sep",
+         "room": "Aula 4.1.08"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula 4.1.08"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula 4.1.08"
+        },
+        {
+         "dates": "23.nov",
+         "room": "Aula 4.1.08"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20042",
+   "name": "DESARROLLOS URBANOS CONTEMPORÁNEOS",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.1.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.1.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 15.0.06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 15.0.06"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20044",
+   "name": "PRINCIPIOS BÁSICOS DE CCC I",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 7.2.J05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20045",
+   "name": "PRINCIPIOS BÁSICOS DE CCC II",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.2.J05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20050",
+   "name": "PRINCIPIOS DE ECONOMÍA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.1.08",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 4.1.08"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 4.1.08"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 4.1.08"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 15.0.05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 15.0.05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20046",
+   "name": "SOCIOLOGÍA COMPARADA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 18.0.A13",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.0.A13"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 18.0.A14",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 18.0.A14"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20803",
+   "name": "MINORUC3M3: CHALLENGE: CULTURAS SOS, nullº,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.1.A02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.1.A02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.1.A02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.1.A02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "* SIN AULA *",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "20802",
+   "name": "MINORUC3M3: SOSTENI PATRIM CULTURAL, nullº,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.0.9",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 14.0.9"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.0.10",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.0.10"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19939",
+   "name": "PLAYING GREEN: DEPORTE, CIUDADES,",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "800",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.1.06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19929",
+   "name": "PRINCIPIOS DE ECONOMÍA,",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "800",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.1.06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.1.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13741",
+   "name": "PRINCIPIOS DE ECONOMÍA, 1º,1 er C (grupos 20,90 y 800) 12:30 a 14:00 07.sep-05.oct: Aula 10.2.3 19.oct-26.oct: Aula 10.2.3 09.nov-30.nov: Aula 10.2.3",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.2.3",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.2.3"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.2.3"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.2.3"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

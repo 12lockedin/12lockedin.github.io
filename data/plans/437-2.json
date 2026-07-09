@@ -1,0 +1,658 @@
+{
+ "plan": 437,
+ "centro": 2,
+ "type": "grado",
+ "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:13:36Z",
+ "subjects": [
+  {
+   "code": "13160",
+   "name": "ESTADÍSTICA II, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 10.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 5.1.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 5.1.04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 5.1.04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 5.1.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13150",
+   "name": "INT.DCHO. CIVIL PATRIMONI, 1º,1 er C (grupos 75,76 y 801) 10:45 a 12:15 07.sep-05.oct: Aula 10.2.1 19.oct-26.oct: Aula 10.2.1 09.nov-30.nov: Aula 10.2.1",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 10.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.2.1"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.2.1"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 6.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 6.1.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13151",
+   "name": "PRINCIPIOS DE ECONOMÍA, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 10.2.1"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 10.2.1"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 10.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 10.1.6",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.1.6"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13164",
+   "name": "COMPORTAMIENTO ORGANIZATI",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 7.1.03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "25.ene",
+         "room": "Aula 7.1.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13162",
+   "name": "CONTABILIDAD DE GESTIÓN",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 10.2.6",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 10.2.6"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 7.1.08",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.1.08"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.1.08"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 7.1.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13174",
+   "name": "CONTABILIDAD FINANCIERA, (grupos 76 y 801) 16:15 a 17:45 09.sep-09.dic: Aula 10.2.2",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.2",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.2"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 7.1.03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 7.1.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13163",
+   "name": "ECONOMETRÍA",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 7.1.03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "25.ene",
+         "room": "Aula 7.1.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13168",
+   "name": "ECONOMÍA DE LAS ORGANIZAC, 2º,1 er C (grupos 75 y 801) 14:30 a 16:00 09.sep-09.dic: Aula 10.2.1",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 7.1.08",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 7.1.08"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13159",
+   "name": "MACROECONOMÍA, 2º,1 er C (grupos 75 y 801) 18:00 a 19:30 09.sep-09.dic: Aula 10.2.2",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 10.2.2",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.2"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 7.1.03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 7.1.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13167",
+   "name": "MARKETING, 3º,1 er C (grupos 79 y 801) 16:15 a 17:45 07.sep-05.oct: Aula 9.2.4 19.oct-26.oct: Aula 9.2.4 09.nov-30.nov: Aula 9.2.4",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.2.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.2.4"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.2.4"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.2.4"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 7.1.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 7.1.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13161",
+   "name": "TEORÍA DE LOS JUEGOS, 2º,1 er C (grupos 75 y 801) 16:15 a 17:45 10.sep-10.dic: Aula 10.2.1",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 10.2.1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.1.5",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.1.5"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 9.1.5"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 9.1.5"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13424",
+   "name": "DIRECCIÓN ESTRATÉGICA",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.A01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.3.A01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.B02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 2.3.B02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13176",
+   "name": "DISEÑO ORGANIZATIVO",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 9.2.12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 9.2.12"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 5.1.05 BIS",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 5.1.05 BIS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13172",
+   "name": "GESTIÓN DE OPERACIONES",
+   "course": 5,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 10.2.12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 10.2.12"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "801",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 5.1.05 BIS",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 5.1.05 BIS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

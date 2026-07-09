@@ -1,0 +1,1310 @@
+{
+ "plan": 517,
+ "centro": 16,
+ "type": "grado",
+ "name": "Grado en Neurociencia",
+ "year": "2026",
+ "generatedAt": "2026-07-09T13:30:27Z",
+ "subjects": [
+  {
+   "code": "19760",
+   "name": "BIOESTADÍSTICA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "25.sep",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19755",
+   "name": "BIOFÍSICA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-18.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "LAB-20.1.A01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "28.oct-25.nov",
+         "room": "LAB-20.1.A01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "LAB-20.1.A01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "28.oct-25.nov",
+         "room": "LAB-20.1.A01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-19.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "LAB-20.1.A01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "29.oct-26.nov",
+         "room": "LAB-20.1.A01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "LAB-20.1.A01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "29.oct-26.nov",
+         "room": "LAB-20.1.A01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19757",
+   "name": "GENÉTICA GENERAL Y HUMANA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aulas 20.1.D02 y LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aulas 20.1.D02 y LAB-20.1.E05"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aulas 20.1.D02 y LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "Aulas 20.1.D02 y LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aulas 20.1.D02 y LAB-20.1.E05"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aulas 20.1.D02 y LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-29.sep",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "27.oct-01.dic",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aulas 20.1.D02 y LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "06.oct-20.oct",
+         "room": "Aulas 20.1.D02 y LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "Aulas 20.1.D02 y LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "06.oct-20.oct",
+         "room": "Aulas 20.1.D02 y LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aulas 20.1.D02 y LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.oct-21.oct",
+         "room": "Aulas 20.1.D02 y LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "Aulas 20.1.D02 y LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.oct-21.oct",
+         "room": "Aulas 20.1.D02 y LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-01.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "22.oct-10.dic",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aulas 20.1.D02 y LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.oct-15.oct",
+         "room": "Aulas 20.1.D02 y LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "Aulas 20.1.D02 y LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.oct-15.oct",
+         "room": "Aulas 20.1.D02 y LAB-20.1.E05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19758",
+   "name": "MATEMÁTICAS",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "25.sep",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19759",
+   "name": "QUÍMICA",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "09.nov-23.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.nov-30.nov",
+         "room": "LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "08.sep-24.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.nov-01.dic",
+         "room": "LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "LAB-20.1.E05",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "20.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19764",
+   "name": "NEUROANATOMÍA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "09.nov-23.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-24.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "LAB-20.1.E05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "14.oct-11.nov",
+         "room": "LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "LAB-20.1.E05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "14.oct-11.nov",
+         "room": "LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "LAB-20.1.E05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "15.oct-12.nov",
+         "room": "LAB-20.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "LAB-20.1.E05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "15.oct-12.nov",
+         "room": "LAB-20.1.E05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19765",
+   "name": "NEUROBIOLOGÍA DEL DESARROLLO",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "LAB-20.1.A01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "LAB-20.1.A01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "LAB-20.1.A01"
+        },
+        {
+         "dates": "09.nov",
+         "room": "LAB-20.1.A01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:30",
+       "end": "13:30",
+       "room": "LAB-20.1.A01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "LAB-20.1.A01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "LAB-20.1.A01"
+        },
+        {
+         "dates": "09.nov",
+         "room": "LAB-20.1.A01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "LAB-20.1.A01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "06.oct-10.nov",
+         "room": "LAB-20.1.A01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "11:30",
+       "end": "13:30",
+       "room": "LAB-20.1.A01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "06.oct-10.nov",
+         "room": "LAB-20.1.A01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-17.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-19.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19766",
+   "name": "NEUROFISIOLOGÍA CELULAR MOLECULAR I",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "09.nov-23.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-25.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "LAB-20.1.A01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.oct",
+         "room": "LAB-20.1.A01"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "13:00",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "23.oct",
+         "room": "Aula INF-15.S.04"
+        },
+        {
+         "dates": "06.nov-20.nov",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "LAB-20.1.A01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.oct",
+         "room": "LAB-20.1.A01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19767",
+   "name": "PSICOLOGÍA HUMANA",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:45",
+       "end": "18:00",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 20.1.D01"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19768",
+   "name": "TÉCNICAS DE PROGRAMACIÓN",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-18.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-19.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:45",
+       "end": "20:45",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "23.oct",
+         "room": "Aula INF-15.S.04"
+        },
+        {
+         "dates": "06.nov-27.nov",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19781",
+   "name": "INTRO ENFERMEDADES PSIQUIÁTRICAS",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 20.1.D02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 20.1.D02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "25.sep",
+         "room": "Aula 20.1.D02"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula 20.1.D02"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula 20.1.D02"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19775",
+   "name": "INTRODUCCIÓN ENFERMEDADES NEUROLÓGI",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 20.1.D02"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula 20.1.D02"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula 20.1.D02"
+        },
+        {
+         "dates": "30.oct",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19777",
+   "name": "NEUROIMAGEN",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 20.1.D02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 20.1.D02"
+        },
+        {
+         "dates": "09.nov-23.nov",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula INF-15.S.04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "13.oct-20.oct",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-25.nov",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19778",
+   "name": "TÉCNICAS ANÁLISIS DATOS NEUROCIENCI",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.nov-16.nov",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-17.nov",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "27.oct-10.nov",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-19.nov",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19774",
+   "name": "ÉTICA NEUROCIENCIA Y NEURODERECHOS",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "04.dic-11.dic",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  }
+ ]
+}
