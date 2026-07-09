@@ -45,6 +45,8 @@ No abrir `index.html` con `file://`: la app lo detecta y avisa.
   "subjects":[
     { "code":"14283", "name":"…", "course":2, "term":1,
       "groups":[                         // ← la unidad de cambio en la UI
+        // En grados cada grupo lleva además "kind": "magistral"|"reducido"
+        // y opcionalmente "english": true (grupo en inglés).
         { "id":"1", "sessions":[
           { "day":4, "start":"09:00", "end":"10:30", "room":"Aula …",
             "type":"Máster oficial", "slots":[{ "dates":"11.sep-02.oct", "room":"…" }] }
@@ -56,13 +58,16 @@ No abrir `index.html` con `file://`: la app lo detecta y avisa.
 
 ## La interacción central (no romper)
 
-En la vista de horario, cada asignatura se pinta en su **grupo seleccionado**
-(por defecto el `1`). Al pinchar un bloque, `store.active` = código de esa
-asignatura: sus bloques se resaltan, el resto se atenúan, y se dibujan los
-**ghosts** (las sesiones de los demás grupos de *esa* asignatura). Pinchar un
-ghost cambia `selection[code].groupId` y re-renderiza. El cambio es **por
-asignatura**: nunca toca las demás. Los solapes se detectan por pares y se
-marcan en rojo. Inspirado en el flujo de `00-INSPO/` (UX, no el diseño).
+En la vista de horario, cada asignatura se pinta en sus **grupos seleccionados**
+(uno por dimensión: magistral y, en grados, también reducido). Al pinchar un
+bloque, `store.active` = código de esa asignatura y `store.activeDim` = su
+dimensión: sus bloques se resaltan, el resto se atenúan, y se dibujan los
+**ghosts** (las sesiones de los demás grupos de *esa* asignatura *en esa
+dimensión*). Pinchar un ghost cambia `selection[code].groupId` (o `.reducedId`)
+y re-renderiza. El cambio es **por asignatura y dimensión**: nunca toca las
+demás. Los solapes se detectan por pares —entre asignaturas y entre el
+magistral y el reducido de la misma— y se marcan en rojo. Inspirado en el
+flujo de `00-INSPO/` (UX, no el diseño).
 
 ## Scraper: gotchas del HTML de origen (importantes)
 
@@ -99,29 +104,32 @@ cd scraper && python scrape.py plan 170 28 --kind master
 ```bash
 python scrape.py catalog                    # índice de titulaciones
 python scrape.py plan <plan> <centro> --kind grado|master
-python scrape.py refresh                    # catálogo + re-scrapea lo presente + sondea másteres
-                                            #   aún sin datos (lo usa el Action; los grados quedan fuera)
+python scrape.py refresh                    # catálogo + re-scrapea lo presente + sondea las
+                                            #   titulaciones aún sin datos (lo usa el Action)
 python scrape.py all [--only grado|master] [--limit N]
 ```
 
-## Grados: capacidad presente, no conectada a la UI (importante)
+## Grados: modelo de dos niveles (importante)
 
-El modelo de la app es **“una asignatura → varios grupos, cada grupo = sus
-sesiones”** y encaja perfecto en **másteres** (cada `grp.N` es un grupo de
-matrícula completo). Los **grados** funcionan distinto:
+En **másteres**, una asignatura tiene grupos alternativos y se elige **uno**.
+En **grados** hay desdoble **magistral + reducido**: el alumno asiste a *un*
+grupo magistral **y** *un* grupo reducido de cada asignatura. Cómo está resuelto:
 
-- La página de plan de grado **no lista asignaturas**: se organiza por *grupo de
-  matrícula* (curso+grupo → `porCentroPlanCursoGrupo.tt`). El scraper de grados
+- **Scraping.** La página de plan de grado no lista asignaturas: se organiza por
+  *grupo de matrícula* (curso+grupo → `porCentroPlanCursoGrupo.tt`). El scraper
   (`_scrape_grado` + `parse_matricula_groups`) recorre esos horarios y
-  reconstruye el modelo asignatura→grupos. **Funciona y extrae datos.**
-- **Pero** en grados hay desdoble **magistral (grupos 31/32/38…) + reducido
-  (10xx)**: el alumno elige *un* grupo de teoría **y** *un* reducido, no uno
-  solo. En la UI actual aparecerían como muchos grupos alternativos mezclados →
-  confuso/incorrecto. Por eso **no se versiona data de grado todavía**: requiere
-  una iteración de UX (elegir teoría + reducido) antes de conectarlo.
-
-Datos enviados = **solo másteres** publicados. El código de grado se conserva
-como base para esa futura iteración (`scrape.py plan <plan> <centro> --kind grado`).
+  reconstruye asignatura→grupos. Cada grupo lleva `kind`
+  (`"magistral"`/`"reducido"`; heurística: id numérico ≥ 1000 → reducido, es la
+  convención de la fuente) y `english: true` si su enlace lleva la bandera
+  `en.GB.gif` visible.
+- **UI.** `selection[code] = { groupId, reducedId }`; se pintan ambos grupos.
+  Pinchar un bloque fija además la **dimensión** (`store.activeDim`): los ghosts
+  ofrecen solo alternativas del mismo tipo. La leyenda muestra dos selectores
+  (con opción «— sin reducido —»). Asignaturas con un solo tipo de grupo (y los
+  másteres, sin campo `kind`) degradan al comportamiento clásico de un selector.
+- **Qué reducido casa con qué magistral no es scrapeable** (la fuente no lo
+  publica). No se codifica: el solape magistral↔reducido de la misma asignatura
+  se marca en rojo, que en la práctica delata las parejas inviables.
 
 ## Otras limitaciones
 

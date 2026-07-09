@@ -7,8 +7,9 @@ export const store = {
   availability: new Set(),
   programme: null,      // { plan, centro, type, name, campus }
   plan: null,           // full plan JSON { subjects: [...] }
-  selection: {},        // { [subjectCode]: { groupId } }
+  selection: {},        // { [subjectCode]: { groupId?, reducedId? } }
   active: null,         // subject code currently being edited in the planner
+  activeDim: null,      // "main" | "reduced" | null — dimension being swapped
   view: "catalog",
 };
 
@@ -57,9 +58,37 @@ export function recallProgramme() {
 export const subjectByCode = (code) =>
   store.plan?.subjects.find((s) => s.code === code) || null;
 
-/** The group object currently chosen for a subject (falls back to the first). */
-export function chosenGroup(subject) {
-  if (!subject || !subject.groups.length) return null;
-  const id = store.selection[subject.code]?.groupId;
-  return subject.groups.find((g) => g.id === id) || subject.groups[0];
+/**
+ * Split a subject's groups into the two enrolment dimensions. Masters (and
+ * grado subjects taught in a single dimension) have everything under `mag`,
+ * so the planner degrades to the classic one-group-per-subject behaviour.
+ */
+export function groupsByKind(subject) {
+  const mag = subject.groups.filter((g) => g.kind !== "reducido");
+  const red = subject.groups.filter((g) => g.kind === "reducido");
+  // A subject taught only in reduced groups is single-dimension too.
+  return mag.length ? { mag, red } : { mag: red, red: [] };
+}
+
+/** The group chosen for one dimension (falls back to the first; null if opted out). */
+function pick(groups, id) {
+  if (!groups.length) return null;
+  if (id === "") return null; // explicit "sin reducido"
+  return groups.find((g) => g.id === id) || groups[0];
+}
+
+/** The 1–2 group objects currently chosen for a subject. */
+export function chosenGroups(subject) {
+  if (!subject || !subject.groups.length) return [];
+  const { mag, red } = groupsByKind(subject);
+  const sel = store.selection[subject.code] || {};
+  return [pick(mag, sel.groupId), red.length ? pick(red, sel.reducedId) : null].filter(Boolean);
+}
+
+/** Default selection for a subject: first group of each dimension. */
+export function defaultSelection(subject) {
+  const { mag, red } = groupsByKind(subject);
+  const sel = { groupId: mag[0].id };
+  if (red.length) sel.reducedId = red[0].id;
+  return sel;
 }

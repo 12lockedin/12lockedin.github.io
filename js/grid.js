@@ -60,8 +60,8 @@ export function renderBoard(board, model, handlers) {
           {
             class: cls.join(" "),
             style: `top:${pct(timeToMin(s.start), startMin, range)}%; height:${pct(timeToMin(s.end), startMin, range) - pct(timeToMin(s.start), startMin, range)}%; --c:${s.color};`,
-            title: `${s.name} · Grupo ${s.group} · ${s.start}–${s.end}${s.room ? " · " + s.room : ""}`,
-            onclick: (e) => { e.stopPropagation(); handlers.onBlockClick(s.code); },
+            title: `${s.name} · Grupo ${s.group}${s.kindLabel ? " (" + s.kindLabel + ")" : ""} · ${s.start}–${s.end}${s.room ? " · " + s.room : ""}`,
+            onclick: (e) => { e.stopPropagation(); handlers.onBlockClick(s.code, s.dim); },
           },
           [
             el("div", { class: "block__name" }, s.name),
@@ -89,12 +89,12 @@ export function renderBoard(board, model, handlers) {
           {
             class: "ghost" + (g.clash ? " ghost--clash" : ""),
             style: `top:${pct(timeToMin(g.start), startMin, range)}%; height:${pct(timeToMin(g.end), startMin, range) - pct(timeToMin(g.start), startMin, range)}%; left:${leftPct}%; right:auto; width:${widthPct}%;`,
-            title: `Cambiar a Grupo ${g.group}${g.clash ? " (se solaparía)" : ""}`,
-            onclick: (e) => { e.stopPropagation(); handlers.onGhostClick(g.code, g.group); },
+            title: `Cambiar a Grupo ${g.group}${g.english ? " (en inglés)" : ""}${g.clash ? " (se solaparía)" : ""}`,
+            onclick: (e) => { e.stopPropagation(); handlers.onGhostClick(g.code, g.group, g.dim); },
           },
           [
             el("div", { class: "ghost__cta" }, "cambiar a"),
-            el("div", { class: "ghost__grp" }, `Grupo ${g.group}`),
+            el("div", { class: "ghost__grp" }, `Grupo ${g.group}${g.english ? " · EN" : ""}`),
             el("div", { class: "ghost__meta" }, `${g.start}–${g.end}`),
           ]
         )

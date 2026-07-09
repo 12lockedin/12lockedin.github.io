@@ -2,7 +2,7 @@
 import { loadCatalog, loadAvailability, loadPlan } from "./data.js";
 import {
   store, loadSelection, saveSelection, rememberProgramme,
-  subjectByCode, chosenGroup,
+  subjectByCode, groupsByKind, chosenGroups, defaultSelection,
 } from "./store.js";
 import { renderBoard } from "./grid.js";
 import {
@@ -139,7 +139,7 @@ function renderSubjectCard(s) {
           courseLabel(s.course),
           s.course ? " · " : "",
           hasGroups
-            ? `${s.groups.length} grupo${s.groups.length > 1 ? "s" : ""}`
+            ? groupCountLabel(s)
             : el("span", { class: "subj__no-groups" }, "sin grupos publicados"),
           ` · ${s.code}`,
         ]),
@@ -149,9 +149,15 @@ function renderSubjectCard(s) {
   return card;
 }
 
+function groupCountLabel(s) {
+  const { mag, red } = groupsByKind(s);
+  if (!red.length) return `${mag.length} grupo${mag.length > 1 ? "s" : ""}`;
+  return `${mag.length} magistral${mag.length > 1 ? "es" : ""} · ${red.length} reducido${red.length > 1 ? "s" : ""}`;
+}
+
 function toggleSubject(s) {
   if (store.selection[s.code]) delete store.selection[s.code];
-  else store.selection[s.code] = { groupId: s.groups[0].id };
+  else store.selection[s.code] = defaultSelection(s);
   saveSelection();
   renderSubjects();
 }
@@ -176,39 +182,57 @@ function buildModel() {
 
   const placed = [];
   for (const s of subjects) {
-    const g = chosenGroup(s);
-    for (const sess of g.sessions) {
-      placed.push({
-        code: s.code, name: s.name, color: colorMap.get(s.code),
-        group: g.id, day: sess.day, start: sess.start, end: sess.end, room: sess.room,
-        conflict: false,
-      });
+    const dual = groupsByKind(s).red.length > 0;
+    for (const g of chosenGroups(s)) {
+      const dim = g.kind === "reducido" && dual ? "reduced" : "main";
+      for (const sess of g.sessions) {
+        placed.push({
+          code: s.code, name: s.name, color: colorMap.get(s.code),
+          group: g.id, dim, kindLabel: dual ? (dim === "main" ? "magistral" : "reducido") : "",
+          day: sess.day, start: sess.start, end: sess.end, room: sess.room,
+          conflict: false,
+        });
+      }
     }
   }
 
-  // Pairwise conflict detection across different subjects.
+  // Pairwise conflicts: different subjects, or a subject's own magistral vs
+  // reducido (an overlapping pair means that combination is unattendable).
   const conflicts = new Set();
   for (let i = 0; i < placed.length; i++)
     for (let j = i + 1; j < placed.length; j++)
-      if (placed[i].code !== placed[j].code && sessionsOverlap(placed[i], placed[j])) {
+      if ((placed[i].code !== placed[j].code || placed[i].dim !== placed[j].dim) &&
+          sessionsOverlap(placed[i], placed[j])) {
         placed[i].conflict = placed[j].conflict = true;
         conflicts.add(placed[i].code);
         conflicts.add(placed[j].code);
       }
 
-  // Active-subject ghosts (alternative groups).
+  // Active-subject ghosts: alternative groups, per dimension. Clicking a block
+  // fixes the dimension (swap only magistrales, or only reducidos); activating
+  // from the legend (activeDim = null) shows both.
   const ghosts = [];
   if (store.active) {
     const s = subjectByCode(store.active);
-    const current = chosenGroup(s);
-    const others = placed.filter((p) => p.code !== store.active);
+    const { mag, red } = groupsByKind(s);
+    const chosen = chosenGroups(s);
     for (const p of placed) p.dimmed = p.code !== store.active;
     for (const p of placed) if (p.code === store.active) p.active = true;
-    for (const g of s.groups) {
-      if (g.id === current.id) continue;
-      for (const sess of g.sessions) {
-        const clash = others.some((o) => sessionsOverlap(o, sess));
-        ghosts.push({ code: s.code, group: g.id, day: sess.day, start: sess.start, end: sess.end, room: sess.room, clash });
+    const dims = [];
+    if (store.activeDim !== "reduced") dims.push({ dim: "main", groups: mag });
+    if (store.activeDim !== "main" && red.length) dims.push({ dim: "reduced", groups: red });
+    for (const { dim, groups } of dims) {
+      // A ghost clashes with anything the swap would keep on the board.
+      const obstacles = placed.filter((p) => p.code !== s.code || p.dim !== dim);
+      for (const g of groups) {
+        if (chosen.some((c) => c.id === g.id)) continue;
+        for (const sess of g.sessions) {
+          const clash = obstacles.some((o) => sessionsOverlap(o, sess));
+          ghosts.push({
+            code: s.code, group: g.id, dim, english: !!g.english,
+            day: sess.day, start: sess.start, end: sess.end, room: sess.room, clash,
+          });
+        }
       }
     }
   }
@@ -234,15 +258,21 @@ function buildModel() {
 function renderPlanner() {
   const model = buildModel();
   renderBoard(qs("#board"), model, {
-    onBlockClick: (code) => { store.active = store.active === code ? null : code; renderPlanner(); },
-    onGhostClick: (code, groupId) => {
-      store.selection[code].groupId = groupId;
+    onBlockClick: (code, dim) => {
+      const same = store.active === code && store.activeDim === dim;
+      store.active = same ? null : code;
+      store.activeDim = same ? null : dim;
+      renderPlanner();
+    },
+    onGhostClick: (code, groupId, dim) => {
+      store.selection[code][dim === "reduced" ? "reducedId" : "groupId"] = groupId;
       store.active = null;
+      store.activeDim = null;
       saveSelection();
       renderPlanner();
       toast(`${subjectByCode(code).name}: Grupo ${groupId}`);
     },
-    onBackground: () => { if (store.active) { store.active = null; renderPlanner(); } },
+    onBackground: () => { if (store.active) { store.active = null; store.activeDim = null; renderPlanner(); } },
   });
   renderSide(model);
 }
@@ -263,47 +293,76 @@ function renderSide(model) {
     ]),
   ]);
 
+  const optionLabel = (gr, prefix) => `${prefix} ${gr.id}${gr.english ? " · EN" : ""}`;
+
   const legend = el("div", { class: "side__card" }, [
     el("div", { class: "side__title" }, "Asignaturas · grupo"),
     el(
       "div",
       { class: "legend" },
       subjects.map((s) => {
-        const g = chosenGroup(s);
+        const { mag, red } = groupsByKind(s);
+        const dual = red.length > 0;
+        const chosen = chosenGroups(s);
         const isActive = store.active === s.code;
         const conflicted = conflicts.has(s.code);
-        const select = el(
-          "select",
-          {
-            class: "legend__select",
-            onclick: (e) => e.stopPropagation(),
-            onchange: (e) => {
-              store.selection[s.code].groupId = e.target.value;
-              saveSelection();
-              renderPlanner();
+
+        const makeSelect = (groups, key, current, extraOption) =>
+          el(
+            "select",
+            {
+              class: "legend__select",
+              onclick: (e) => e.stopPropagation(),
+              onchange: (e) => {
+                store.selection[s.code][key] = e.target.value;
+                saveSelection();
+                renderPlanner();
+              },
             },
-          },
-          s.groups.map((gr) => el("option", { value: gr.id, selected: gr.id === g.id }, `Grupo ${gr.id}`))
-        );
+            [
+              ...groups.map((gr) =>
+                el("option", { value: gr.id, selected: gr.id === current },
+                  optionLabel(gr, dual ? (key === "groupId" ? "Magistral" : "Reducido") : "Grupo"))
+              ),
+              extraOption,
+            ]
+          );
+
+        const chosenMain = chosen.find((g) => mag.includes(g)) || null;
+        const chosenRed = chosen.find((g) => red.includes(g)) || null;
+        const selects = [makeSelect(mag, "groupId", chosenMain?.id)];
+        if (dual)
+          selects.push(makeSelect(red, "reducedId", chosenRed?.id,
+            el("option", { value: "", selected: !chosenRed }, "— sin reducido —")));
+
         return el(
           "div",
           {
             class: "legend__item" + (isActive ? " is-active" : ""),
-            onclick: () => { store.active = isActive ? null : s.code; renderPlanner(); },
+            onclick: () => {
+              store.active = isActive ? null : s.code;
+              store.activeDim = null;
+              renderPlanner();
+            },
           },
           [
             el("span", { class: "legend__sw", style: `--c:${colorMap.get(s.code)}` }),
             el("div", { class: "legend__name" }, [s.name, conflicted ? el("div", { class: "legend__warn" }, "⚠ se solapa") : null]),
-            select,
+            el("div", { class: "legend__selects" }, selects),
           ]
         );
       })
     ),
   ]);
 
+  const anyDual = subjects.some((s) => groupsByKind(s).red.length > 0);
   const help = el("div", { class: "side__card faint", style: "font-size:var(--fs-xs)" }, [
     el("span", { class: "hand", style: "font-size:1.1rem;color:var(--sage)" }, "consejo · "),
     "pincha un bloque del horario para ver a qué otros grupos puedes cambiarlo sin tocar el resto.",
+    anyDual
+      ? el("div", { style: "margin-top:.4em" },
+          "Aquí cada asignatura combina un grupo magistral y uno reducido: cámbialos por separado. Si tu pareja magistral+reducido no es válida, el solape en rojo te avisará.")
+      : null,
   ]);
 
   qs("#side").replaceChildren(stats, legend, help);
@@ -323,15 +382,20 @@ function wireStaticEvents() {
   qs("#backToCatalog").addEventListener("click", () => show("catalog"));
   qs("#backToSubjects").addEventListener("click", () => { store.active = null; renderSubjects(); show("subjects"); });
   qs("#toPlanner").addEventListener("click", () => {
-    // Normalise selection so every subject has a valid group, then go.
+    // Normalise selection so every subject has a valid group per dimension.
     for (const code of Object.keys(store.selection)) {
       const s = subjectByCode(code);
       if (!s || !s.groups.length) { delete store.selection[code]; continue; }
-      if (!s.groups.some((g) => g.id === store.selection[code].groupId))
-        store.selection[code].groupId = s.groups[0].id;
+      const sel = store.selection[code];
+      const { mag, red } = groupsByKind(s);
+      if (!mag.some((g) => g.id === sel.groupId)) sel.groupId = mag[0].id;
+      if (!red.length) delete sel.reducedId;
+      else if (sel.reducedId !== "" && !red.some((g) => g.id === sel.reducedId))
+        sel.reducedId = red[0].id;
     }
     saveSelection();
     store.active = null;
+    store.activeDim = null;
     renderPlanner();
     show("planner");
   });

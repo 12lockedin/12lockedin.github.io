@@ -290,7 +290,10 @@ def parse_matricula_groups(html: str) -> list[dict]:
 
     Grado pages don't expose a per-subject list; they are organised by
     *grupo de matrícula* (course + group), each linking to a full weekly
-    timetable. Returns ``[{course, group, term}, ...]`` deduplicated.
+    timetable. Returns ``[{course, group, term, english}, ...]`` deduplicated.
+    ``english`` comes from the flag icon next to each group link: every group
+    carries an ``en.GB.gif`` img, hidden (``visibility: hidden``) unless the
+    group is taught in English.
     """
     soup = _soup(html)
     out: list[dict] = []
@@ -307,7 +310,13 @@ def parse_matricula_groups(html: str) -> list[dict]:
         if key in seen:
             continue
         seen.add(key)
-        out.append({"course": course, "group": group, "term": term})
+        english = False
+        if a.parent:
+            for img in a.parent.find_all("img", src=True):
+                if "en.GB" in img["src"]:
+                    english = "hidden" not in (img.get("style") or "")
+                    break
+        out.append({"course": course, "group": group, "term": term, "english": english})
     return out
 
 

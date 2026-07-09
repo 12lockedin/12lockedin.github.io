@@ -197,12 +197,20 @@ def _scrape_grado(plan: int, centro: int, name: str | None) -> dict:
                        and e["end"] == item["end"] and e["room"] == item["room"] for e in bucket):
                 bucket.append(item)
 
+    english_ids = {mg["group"] for mg in mgroups if mg.get("english")}
     subjects_out = []
     for subj in subjects.values():
         groups = []
         for gid, items in subj["_g"].items():
             items.sort(key=lambda x: (x["day"], x["start"]))
-            groups.append({"id": gid, "sessions": items})
+            # Two-level grado model: ids >= 1000 are "grupos reducidos" (labs /
+            # small classes) attended *on top of* a magistral group; the rest
+            # are magistral. The source encodes this only in the numbering.
+            kind = "reducido" if gid.isdigit() and int(gid) >= 1000 else "magistral"
+            group = {"id": gid, "kind": kind, "sessions": items}
+            if gid in english_ids:
+                group["english"] = True
+            groups.append(group)
         groups.sort(key=lambda g: P._group_sort_key(g["id"]))
         subjects_out.append({"code": subj["code"], "name": subj["name"], "course": subj["course"], "term": subj["term"], "groups": groups})
     subjects_out.sort(key=lambda s: (s["course"] or 0, s["term"] or 0, s["name"]))
@@ -261,10 +269,9 @@ def scrape_all(only: str | None = None, limit: int | None = None) -> None:
 
 def scrape_refresh() -> None:
     """Rebuild the catalogue, re-scrape the programmes already present, then
-    probe the catalogue masters that still have no data so newly published
+    probe the catalogue programmes that still have no data so newly published
     timetables join the dataset on their own. ``_finish_plan`` already skips
-    plans without sessions, so an unpublished probe writes nothing. Grados are
-    excluded on purpose: their two-level group model needs UI work first.
+    plans without sessions, so an unpublished probe writes nothing.
     """
     catalog = scrape_catalog()
     lut = {(p["plan"], p["centro"]): p for p in catalog["programmes"]}
@@ -284,15 +291,15 @@ def scrape_refresh() -> None:
     pending = []
     for p in catalog["programmes"]:
         key = (p["plan"], p["centro"])
-        if p["type"] == "master" and key not in present:
+        if key not in present:
             present.add(key)
             pending.append(p)
-    print(f"\nsondeando {len(pending)} másteres aún sin datos\n")
+    print(f"\nsondeando {len(pending)} titulaciones aún sin datos\n")
     added = 0
     for i, p in enumerate(pending, 1):
         print(f"[{i}/{len(pending)}]", end=" ")
         try:
-            scrape_plan(p["plan"], p["centro"], "master", p["name"])
+            scrape_plan(p["plan"], p["centro"], p["type"], p["name"])
             if (PLANS_DIR / f"{p['plan']}-{p['centro']}.json").exists():
                 added += 1
         except Exception as exc:
@@ -319,7 +326,7 @@ def main(argv: list[str]) -> int:
     sa.add_argument("--only", choices=["grado", "master"], default=None)
     sa.add_argument("--limit", type=int, default=None)
 
-    sub.add_parser("refresh", help="rebuild catalogue, re-scrape present programmes and probe unpublished masters")
+    sub.add_parser("refresh", help="rebuild catalogue, re-scrape present programmes and probe the rest")
 
     args = ap.parse_args(argv)
     if args.cmd == "catalog":

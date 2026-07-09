@@ -173,7 +173,8 @@
 .legend__sw { width: 0.95em; height: 0.95em; border-radius: 4px; flex: none; border: 1px solid rgba(40, 30, 15, 0.3); background: var(--c); }
 .legend__name { flex: 1; font-size: var(--fs-sm); line-height: 1.1; }
 .legend__grp { font-family: var(--font-mono); font-size: var(--fs-xs); }
-.legend__select { font-family: var(--font-mono); font-size: var(--fs-xs); padding: 0.2em 0.3em; background: var(--paper); border: 1px solid var(--paper-edge); border-radius: 5px; color: var(--ink); }
+.legend__selects { display: grid; gap: 0.25rem; flex: none; }
+.legend__select { font-family: var(--font-mono); font-size: var(--fs-xs); padding: 0.2em 0.3em; background: var(--paper); border: 1px solid var(--paper-edge); border-radius: 5px; color: var(--ink); max-width: 9.5rem; }
 .legend__warn { color: var(--brick); font-size: var(--fs-xs); }
 
 /* --- Empty / error states -------------------------------------------------- */

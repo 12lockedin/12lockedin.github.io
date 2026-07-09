@@ -47,6 +47,8 @@ Horario completo de un plan. La clave de fichero es `<plan>-<centro>`.
       "groups": [
         {
           "id": "1",           // etiqueta de grupo (de "grp.N")
+          "kind": "magistral", // solo grados: "magistral" | "reducido"
+          "english": true,     // solo grados, opcional: grupo en inglés
           "sessions": [
             {
               "day": 4,        // 0=Lunes … 5=Sábado
@@ -71,6 +73,11 @@ Horario completo de un plan. La clave de fichero es `<plan>-<centro>`.
 
 - **`groups` es la unidad de cambio** en la interfaz. Un grupo agrupa *todas* sus
   sesiones semanales; al cambiar de grupo se mueven todas juntas.
+- **Grados**: cada grupo lleva `kind` (`"magistral"` o `"reducido"`; en la fuente
+  los reducidos usan ids numéricos ≥ 1000). El alumno cursa un grupo de cada
+  tipo, así que la interfaz permite elegir uno por dimensión y pinta la unión.
+  `english: true` marca los grupos impartidos en inglés (bandera visible junto
+  al enlace del grupo de matrícula). Los planes de máster no llevan `kind`.
 - `room` en la sesión es el aula del primer tramo; `slots` conserva el detalle.
 - Solo se incluyen sesiones con rango horario explícito.
 
