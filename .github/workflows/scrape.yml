@@ -49,5 +49,7 @@ jobs:
             echo "Sin cambios en los datos."
           else
             git commit -m "data: actualización automática de horarios ($(date -u +%Y-%m-%d))"
+            # main puede haber avanzado durante un scrapeo largo: rebase antes de subir.
+            git pull --rebase origin main
             git push
           fi
