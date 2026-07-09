@@ -1,7 +1,8 @@
 name: Actualizar datos de horarios
 
 # Mantiene los JSON de datos al día sin intervención manual.
-# - schedule: una vez por semana, refresca el catálogo + los planes ya presentes.
+# - schedule: una vez por semana, refresca el catálogo + los planes ya presentes
+#   y sondea los másteres aún sin datos para incorporar los recién publicados.
 # - workflow_dispatch: ejecución manual, con modo elegible.
 on:
   schedule:

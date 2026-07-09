@@ -84,7 +84,8 @@ El HTML es antiguo y algo malformado. Tres trampas ya resueltas en `parse.py`
 5. **Horarios “en construcción”.** En junio la mayoría de planes 2026/2027 aún
    no están publicados (la página dice “… aún no están disponibles”). El scraper
    **omite** los planes sin ninguna sesión (`_finish_plan`): no se versiona un
-   plan vacío. La cobertura crece según se vayan publicando.
+   plan vacío. El `refresh` semanal sondea los másteres aún sin datos, así que
+   la cobertura crece sola según se vayan publicando.
 
 Comprobación rápida tras tocar el parser: re-scrapea el plan de ejemplo y
 verifica que no aparezcan sesiones espurias en sábado (`day==5`) ni grupos vacíos.
@@ -98,7 +99,8 @@ cd scraper && python scrape.py plan 170 28 --kind master
 ```bash
 python scrape.py catalog                    # índice de titulaciones
 python scrape.py plan <plan> <centro> --kind grado|master
-python scrape.py refresh                    # catálogo + re-scrapea lo presente (lo usa el Action)
+python scrape.py refresh                    # catálogo + re-scrapea lo presente + sondea másteres
+                                            #   aún sin datos (lo usa el Action; los grados quedan fuera)
 python scrape.py all [--only grado|master] [--limit N]
 ```
 

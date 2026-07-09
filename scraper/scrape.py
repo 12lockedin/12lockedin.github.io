@@ -260,10 +260,11 @@ def scrape_all(only: str | None = None, limit: int | None = None) -> None:
 
 
 def scrape_refresh() -> None:
-    """Rebuild the catalogue and re-scrape only the programmes already present.
-
-    This keeps shipped data fresh without expanding coverage (and without
-    hammering the source) — ideal for a scheduled job.
+    """Rebuild the catalogue, re-scrape the programmes already present, then
+    probe the catalogue masters that still have no data so newly published
+    timetables join the dataset on their own. ``_finish_plan`` already skips
+    plans without sessions, so an unpublished probe writes nothing. Grados are
+    excluded on purpose: their two-level group model needs UI work first.
     """
     catalog = scrape_catalog()
     lut = {(p["plan"], p["centro"]): p for p in catalog["programmes"]}
@@ -278,6 +279,26 @@ def scrape_refresh() -> None:
             scrape_plan(plan, centro, meta["type"] if meta else "master", meta["name"] if meta else None)
         except Exception as exc:
             print(f"  !! {key} falló: {exc}")
+
+    present = {tuple(int(x) for x in key.split("-")) for key in keys}
+    pending = []
+    for p in catalog["programmes"]:
+        key = (p["plan"], p["centro"])
+        if p["type"] == "master" and key not in present:
+            present.add(key)
+            pending.append(p)
+    print(f"\nsondeando {len(pending)} másteres aún sin datos\n")
+    added = 0
+    for i, p in enumerate(pending, 1):
+        print(f"[{i}/{len(pending)}]", end=" ")
+        try:
+            scrape_plan(p["plan"], p["centro"], "master", p["name"])
+            if (PLANS_DIR / f"{p['plan']}-{p['centro']}.json").exists():
+                added += 1
+        except Exception as exc:
+            print(f"  !! {p['plan']}-{p['centro']} falló: {exc}")
+    if added:
+        print(f"\n+{added} planes recién publicados incorporados")
     _rebuild_plans_index()
 
 
@@ -298,7 +319,7 @@ def main(argv: list[str]) -> int:
     sa.add_argument("--only", choices=["grado", "master"], default=None)
     sa.add_argument("--limit", type=int, default=None)
 
-    sub.add_parser("refresh", help="rebuild catalogue and re-scrape only programmes already present")
+    sub.add_parser("refresh", help="rebuild catalogue, re-scrape present programmes and probe unpublished masters")
 
     args = ap.parse_args(argv)
     if args.cmd == "catalog":
