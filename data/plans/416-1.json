@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Derecho y Economía",
  "year": "2026",
- "generatedAt": "2026-07-09T13:10:43Z",
+ "generatedAt": "2026-07-13T07:49:07Z",
  "subjects": [
   {
    "code": "13567",
@@ -182,31 +182,31 @@
        "type": null,
        "slots": [
         {
-         "dates": "09.sep",
+         "dates": "16.sep",
          "room": "Aula 9.2.11"
         },
         {
-         "dates": "23.sep",
+         "dates": "30.sep",
          "room": "Aula 9.2.11"
         },
         {
-         "dates": "07.oct",
+         "dates": "14.oct",
          "room": "Aula 9.2.11"
         },
         {
-         "dates": "21.oct",
+         "dates": "28.oct",
          "room": "Aula 9.2.11"
         },
         {
-         "dates": "04.nov",
+         "dates": "11.nov",
          "room": "Aula 9.2.11"
         },
         {
-         "dates": "18.nov",
+         "dates": "25.nov",
          "room": "Aula 9.2.11"
         },
         {
-         "dates": "02.dic",
+         "dates": "09.dic",
          "room": "Aula 9.2.11"
         }
        ]
@@ -311,27 +311,31 @@
        "type": null,
        "slots": [
         {
-         "dates": "15.sep",
+         "dates": "08.sep",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "29.sep",
+         "dates": "22.sep",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "13.oct",
+         "dates": "06.oct",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "27.oct",
+         "dates": "20.oct",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "10.nov",
+         "dates": "03.nov",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "24.nov",
+         "dates": "17.nov",
+         "room": "Aula 9.1.7"
+        },
+        {
+         "dates": "01.dic",
          "room": "Aula 9.1.7"
         }
        ]

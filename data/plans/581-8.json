@@ -1,112 +1,31 @@
 {
- "plan": 555,
+ "plan": 581,
  "centro": 8,
  "type": "grado",
- "name": "Grado en Inteligencia Artificial",
+ "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-07-13T08:08:27Z",
+ "generatedAt": "2026-07-13T08:18:13Z",
  "subjects": [
   {
-   "code": "19893",
-   "name": "COMPETENCIAS DIGITALES INGENIERÍA, 1º,1 er C",
+   "code": "19408",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC, 1º,1 er C",
    "course": 1,
    "term": 1,
    "groups": [
     {
-     "id": "80",
+     "id": "71",
      "kind": "magistral",
      "sessions": [
       {
        "day": 2,
-       "start": "18:00",
-       "end": "19:30",
-       "room": "Aula 1.0.A05",
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.1.A21",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.A05"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "20187",
-   "name": "COMPUTACIÓN E INTELIGENCIA",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "40",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "16:15",
-       "end": "17:45",
-       "room": "Aula 1.0.A03",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "07.sep-05.oct",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "19.oct-26.oct",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "09.nov-30.nov",
-         "room": "Aula 1.0.A03"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "18:00",
-       "end": "19:30",
-       "room": "Aula 1.0.A03",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "07.sep",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "21.sep",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "05.oct",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "19.oct",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "16.nov",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "30.nov",
-         "room": "Aula 1.0.A03"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "18:00",
-       "end": "19:30",
-       "room": "Aula 1.0.A03",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 1.0.A03"
+         "room": "Aula 1.1.A21"
         }
        ]
       }
@@ -263,6 +182,33 @@
    "term": 1,
    "groups": [
     {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.1.A21",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.1.A21"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13875",
+   "name": "FUND GESTIÓN EMPRESARIAL, 2º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
      "id": "80",
      "kind": "magistral",
      "sessions": [
@@ -270,20 +216,147 @@
        "day": 0,
        "start": "14:30",
        "end": "16:00",
-       "room": "Aula 1.1.A19",
+       "room": "Aula 1.0.A05",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.A05"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.A05"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "22.sep",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "06.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20768",
+   "name": "FÍSICA, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "80",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "28.sep",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "23.nov",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 1.0.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.A05"
         }
        ]
       }
@@ -584,6 +657,52 @@
    ]
   },
   {
+   "code": "13160",
+   "name": "ESTADÍSTICA II, 2º,1 er C (grupos 50,70 y 71) 14:30 a 16:00 09.sep-09.dic: Aula 1.0.B06",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.B06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.B06"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 1.0.B06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.B06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
    "code": "13874",
    "name": "ESTRUCTURA DE COMPUTADORE, 2º,1 er C",
    "course": 2,
@@ -815,79 +934,75 @@
    ]
   },
   {
-   "code": "20196",
-   "name": "FUNDAMENTOS DE LA GESTIÓN EMPRESARI",
+   "code": "15974",
+   "name": "INGENIERÍA DEL SOFTWARE, 2º,1 er C",
    "course": 2,
    "term": 1,
    "groups": [
     {
-     "id": "40",
+     "id": "80",
      "kind": "magistral",
      "sessions": [
-      {
-       "day": 0,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 1.0.A03",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "07.sep-05.oct",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "19.oct-26.oct",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "09.nov-30.nov",
-         "room": "Aula 1.0.A03"
-        }
-       ]
-      },
       {
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.A03",
-       "type": "Básica",
+       "room": "Aula 1.0.A05",
+       "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 1.0.A03"
+         "room": "Aula 1.0.A05"
         }
        ]
       },
       {
-       "day": 1,
-       "start": "10:45",
-       "end": "12:15",
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 1.0.A05",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
-         "dates": "15.sep",
+         "dates": "17.sep",
          "room": "Aula 1.0.A05"
         },
         {
-         "dates": "29.sep",
+         "dates": "01.oct",
          "room": "Aula 1.0.A05"
         },
         {
-         "dates": "13.oct",
+         "dates": "15.oct",
          "room": "Aula 1.0.A05"
         },
         {
-         "dates": "27.oct",
+         "dates": "29.oct",
          "room": "Aula 1.0.A05"
         },
         {
-         "dates": "10.nov",
+         "dates": "12.nov",
          "room": "Aula 1.0.A05"
         },
         {
-         "dates": "24.nov",
+         "dates": "26.nov",
          "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 1.0.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.A04"
         }
        ]
       }
@@ -896,75 +1011,98 @@
    ]
   },
   {
-   "code": "20197",
-   "name": "HEURÍSTICA Y OPTIMIZACIÓN",
+   "code": "13150",
+   "name": "INT.DCHO. CIVIL PATRIMONI, 1º,1 er C (grupos 50,70 y 71) 09:00 a 10:30 07.sep-05.oct: Aula 1.0.B06 19.oct-26.oct: Aula 1.0.B06 09.nov-30.nov: Aula 1.0.B06",
    "course": 2,
    "term": 1,
    "groups": [
     {
-     "id": "40",
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.0.B06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.0.B06"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.0.B06"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.0.B06"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "71",
      "kind": "magistral",
      "sessions": [
       {
        "day": 1,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 1.0.A03",
-       "type": "Obligatoria",
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.1.A21",
+       "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 1.0.A03"
+         "room": "Aula 1.1.A21"
         }
        ]
-      },
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13151",
+   "name": "PRINCIPIOS DE ECONOMÍA, 1º,1 er C (grupos 10,50,70 y 71) 09:00 a 10:30 09.sep-09.dic: Aula 1.0.B06",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
       {
-       "day": 3,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 1.0.A03",
-       "type": "Obligatoria",
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.0.B06",
+       "type": null,
        "slots": [
         {
-         "dates": "17.sep",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "01.oct",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "15.oct",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "29.oct",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "12.nov",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "26.nov",
-         "room": "Aula 1.0.A03"
-        },
-        {
-         "dates": "10.dic",
-         "room": "Aula 1.0.A03"
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.B06"
         }
        ]
-      },
+      }
+     ]
+    },
+    {
+     "id": "71",
+     "kind": "magistral",
+     "sessions": [
       {
        "day": 3,
-       "start": "14:30",
-       "end": "16:00",
-       "room": "Aula 1.0.A03",
-       "type": "Obligatoria",
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.1.A21",
+       "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 1.0.A03"
+         "room": "Aula 1.1.A21"
         }
        ]
       }

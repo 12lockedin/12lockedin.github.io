@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Finanzas y Contabilidad",
  "year": "2026",
- "generatedAt": "2026-07-09T13:20:01Z",
+ "generatedAt": "2026-07-13T08:06:13Z",
  "subjects": [
   {
    "code": "19790",
@@ -247,31 +247,31 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "17.sep",
+         "dates": "10.sep",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "01.oct",
+         "dates": "24.sep",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "15.oct",
+         "dates": "08.oct",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "29.oct",
+         "dates": "22.oct",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "12.nov",
+         "dates": "05.nov",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "26.nov",
+         "dates": "19.nov",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "10.dic",
+         "dates": "03.dic",
          "room": "Aula 6.1.07"
         }
        ]

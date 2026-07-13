@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Estudios Avanzados de Derecho Público",
  "year": "2026",
- "generatedAt": "2026-07-09T13:02:11Z",
+ "generatedAt": "2026-07-13T07:50:57Z",
  "subjects": [
   {
    "code": "18129",
@@ -105,7 +105,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "14.sep-05.oct",
+         "dates": "14.sep",
+         "room": "Aula 1.A.12"
+        },
+        {
+         "dates": "28.sep",
          "room": "Aula 1.A.12"
         }
        ]
@@ -119,6 +123,23 @@
        "slots": [
         {
          "dates": "09.sep-07.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep",
+         "room": "Aula 1.A.12"
+        },
+        {
+         "dates": "07.oct",
          "room": "Aula 1.A.12"
         }
        ]
@@ -432,13 +453,39 @@
      "sessions": [
       {
        "day": 0,
+       "start": "16:00",
+       "end": "19:45",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:45",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 0,
        "start": "18:00",
        "end": "20:00",
        "room": "Aula 1.A.12",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "14.sep-05.oct",
+         "dates": "14.sep-28.sep",
          "room": "Aula 1.A.12"
         }
        ]
@@ -451,7 +498,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-07.oct",
+         "dates": "09.sep-16.sep",
+         "room": "Aula 1.A.12"
+        },
+        {
+         "dates": "30.sep",
          "room": "Aula 1.A.12"
         }
        ]

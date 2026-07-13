@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Robótica",
  "year": "2026",
- "generatedAt": "2026-07-09T13:28:43Z",
+ "generatedAt": "2026-07-13T08:17:20Z",
  "subjects": [
   {
    "code": "19893",
@@ -643,19 +643,6 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "LAB 4.S.B01 (Fisica)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.nov",
-         "room": "LAB 4.S.B01 (Fisica)"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
@@ -666,6 +653,19 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 1.0.B03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 4.S.B01 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "LAB 4.S.B01 (Fisica)"
         }
        ]
       }

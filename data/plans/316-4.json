@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Derecho de La Unión Europea",
  "year": "2026",
- "generatedAt": "2026-07-09T12:57:25Z",
+ "generatedAt": "2026-07-13T07:38:35Z",
  "subjects": [
   {
    "code": "12233",
@@ -48,6 +48,19 @@
       {
        "day": 1,
        "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
        "end": "18:00",
        "room": "Aula 0.A.10",
        "type": "Máster oficial",
@@ -62,19 +75,6 @@
         },
         {
          "dates": "17.nov",
-         "room": "Aula 0.A.10"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "16:00",
-       "end": "17:30",
-       "room": "Aula 0.A.10",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "27.oct",
          "room": "Aula 0.A.10"
         }
        ]

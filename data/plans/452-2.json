@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería de la Energía",
  "year": "2026",
- "generatedAt": "2026-07-09T13:23:13Z",
+ "generatedAt": "2026-07-13T07:57:17Z",
  "subjects": [
   {
    "code": "13966",
@@ -598,19 +598,6 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "LAB 4.S.B01 (Fisica)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.nov",
-         "room": "LAB 4.S.B01 (Fisica)"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
@@ -621,6 +608,19 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 1.0.B03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 4.S.B01 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "LAB 4.S.B01 (Fisica)"
         }
        ]
       }

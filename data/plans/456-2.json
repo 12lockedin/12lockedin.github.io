@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado Ciencia e Ingeniería de Datos - Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-07-09T13:08:17Z",
+ "generatedAt": "2026-07-13T07:58:23Z",
  "subjects": [
   {
    "code": "15364",
@@ -2646,6 +2646,47 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 4.1.E05"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "15383",
+   "name": "SISTEMAS ELECTRÓNICOS",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "196",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.1.J04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 7.1.J04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 7.2.J04"
         }
        ]
       }

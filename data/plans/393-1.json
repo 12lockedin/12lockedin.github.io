@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Empresa y Tecnología",
  "year": "2026",
- "generatedAt": "2026-07-09T13:18:56Z",
+ "generatedAt": "2026-07-13T07:43:48Z",
  "subjects": [
   {
    "code": "13167",
@@ -62,56 +62,9 @@
    ]
   },
   {
-   "code": "17661",
-   "name": "APRENDIZAJE AUTOMÁTICO TOMA DECISIO, 4º,1 er C",
-   "course": 4,
-   "term": 1,
-   "groups": [
-    {
-     "id": "1",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 3,
-       "start": "19:45",
-       "end": "21:15",
-       "room": "Aula 9.2.11",
-       "type": null,
-       "slots": [
-        {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 9.2.11"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "82",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 1,
-       "start": "18:00",
-       "end": "19:30",
-       "room": "Aula 15.0.05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 15.0.05"
-        }
-       ]
-      }
-     ],
-     "english": true
-    }
-   ]
-  },
-  {
    "code": "17642",
    "name": "DIRECCIÓN ESTRATÉGICA, 3º,1 er C",
-   "course": 4,
+   "course": 3,
    "term": 1,
    "groups": [
     {
@@ -155,6 +108,194 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 6.1.04"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "17662",
+   "name": "MACROECONOMÍA, 2º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 9.2.8",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.8"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "82",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 15.0.15",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 15.0.15"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "19409",
+   "name": "MÉTODOS CUANTITATIVOS PARA EMPRESA",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 10.2.5",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.5"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "82",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 15.1.03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.1.03"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "17638",
+   "name": "RECURSOS HUMANOS",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 9.2.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "82",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 15.1.03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.1.03"
+        }
+       ]
+      }
+     ],
+     "english": true
+    }
+   ]
+  },
+  {
+   "code": "17661",
+   "name": "APRENDIZAJE AUTOMÁTICO TOMA DECISIO, 4º,1 er C",
+   "course": 4,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "19:45",
+       "end": "21:15",
+       "room": "Aula 9.2.11",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 9.2.11"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "82",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 15.0.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 15.0.05"
         }
        ]
       }

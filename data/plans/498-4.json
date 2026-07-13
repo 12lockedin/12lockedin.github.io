@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería del Diseño Industrial",
  "year": "2026",
- "generatedAt": "2026-07-09T13:05:24Z",
+ "generatedAt": "2026-07-13T08:02:16Z",
  "subjects": [
   {
    "code": "19541",
@@ -273,16 +273,16 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 7.2.H01",
+       "room": "Aula 2.0.C03",
        "type": null,
        "slots": [
         {
          "dates": "03.nov-01.dic",
-         "room": "Aula 7.2.H01"
+         "room": "Aula 2.0.C03"
         },
         {
          "dates": "15.dic",
-         "room": "Aula 7.2.H01"
+         "room": "Aula 2.0.C03"
         }
        ]
       },
@@ -290,12 +290,12 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 7.2.H01",
+       "room": "Aula 2.0.C03",
        "type": null,
        "slots": [
         {
          "dates": "04.nov-16.dic",
-         "room": "Aula 7.2.H01"
+         "room": "Aula 2.0.C03"
         }
        ]
       }
