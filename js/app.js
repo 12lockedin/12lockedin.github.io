@@ -10,7 +10,7 @@ import {
   normalize, debounce, toast, termLabel, courseLabel,
 } from "./util.js";
 
-const VIEWS = ["catalog", "subjects", "planner"];
+const VIEWS = ["uni", "catalog", "subjects", "planner"];
 let catalogFilter = "all";
 
 // --- View routing -----------------------------------------------------------
@@ -237,19 +237,20 @@ function buildModel() {
     }
   }
 
-  // Day & time bounds.
+  // Day & time bounds. The time axis is fixed at 08:00–22:00 so the board
+  // doesn't jump when the selection changes; it only widens if a session
+  // falls outside that window.
   const all = [...placed, ...ghosts];
   let maxDay = 4;
   for (const x of all) maxDay = Math.max(maxDay, x.day);
   const days = Array.from({ length: maxDay + 1 }, (_, i) => i);
 
-  let startHour = 8, endHour = 15;
+  let startHour = 8, endHour = 22;
   if (all.length) {
     const mins = all.map((x) => timeToMin(x.start));
     const maxs = all.map((x) => timeToMin(x.end));
-    startHour = Math.floor(Math.min(...mins) / 60);
-    endHour = Math.ceil(Math.max(...maxs) / 60);
-    if (endHour - startHour < 4) endHour = startHour + 4;
+    startHour = Math.min(startHour, Math.floor(Math.min(...mins) / 60));
+    endHour = Math.max(endHour, Math.ceil(Math.max(...maxs) / 60));
   }
 
   return { subjects, colorMap, placed, ghosts, days, startHour, endHour, conflicts };
@@ -370,6 +371,16 @@ function renderSide(model) {
 
 // --- Bootstrap --------------------------------------------------------------
 function wireStaticEvents() {
+  qs("#unilist").addEventListener("click", (e) => {
+    const btn = e.target.closest(".uni");
+    if (!btn) return;
+    if (btn.dataset.uni !== "uc3m") {
+      toast("Esta universidad aún no está disponible.");
+      return;
+    }
+    show("catalog");
+  });
+
   qs("#catalogSearch").addEventListener("input", debounce(renderCatalog, 120));
   qs("#catalogFilters").addEventListener("click", (e) => {
     const btn = e.target.closest(".chip");
@@ -400,7 +411,7 @@ function wireStaticEvents() {
     show("planner");
   });
 
-  qs("#brandHome").addEventListener("click", (e) => { e.preventDefault(); show("catalog"); });
+  qs("#brandHome").addEventListener("click", (e) => { e.preventDefault(); show("uni"); });
   qs("#stepper").addEventListener("click", (e) => {
     const step = e.target.closest(".step");
     if (!step || !step.classList.contains("is-clickable")) return;

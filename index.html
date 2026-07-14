@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Cuaderno de Campo · Planificador de horarios</title>
-  <meta name="description" content="Planifica tu horario de matrícula: elige tu titulación, tus asignaturas y compón tu semana cambiando de grupo." />
+  <title>Planificador de horarios · UC3M</title>
+  <meta name="description" content="Planificador de horarios en función de los grupos para los grados y másteres de la Universidad Carlos III de Madrid (UC3M). Elige tus asignaturas y compón tu semana cambiando de grupo. Próximamente, más universidades." />
   <meta name="color-scheme" content="light" />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -27,8 +27,8 @@
           <path d="M24 44C20 36 19 24 24 12" stroke="#4f5d39" stroke-width="1.4" stroke-linecap="round"/>
         </svg>
         <span>
-          <span class="brand__name">Cuaderno de Campo</span><br />
-          <span class="brand__sub">planificador de horarios</span>
+          <span class="brand__name">Planificador de horarios</span><br />
+          <span class="brand__sub">grados y másteres · UC3M</span>
         </span>
       </a>
       <div class="masthead__spacer"></div>
@@ -43,8 +43,42 @@
   </header>
 
   <main class="wrap" id="main">
+    <!-- 0 · University ------------------------------------------------------->
+    <section id="view-uni" class="view">
+      <div class="view__head">
+        <p class="eyebrow">Antes de empezar</p>
+        <h1 class="view__title">¿De qué universidad eres?</h1>
+        <p class="muted">
+          Planificador de horarios en función de los grupos para los grados y másteres
+          de la Universidad Carlos III de Madrid. Próximamente, más universidades.
+        </p>
+      </div>
+      <div class="unilist" id="unilist">
+        <button class="uni" data-uni="uc3m">
+          <span class="uni__acronym">UC3M</span>
+          <span class="uni__name">Universidad Carlos III de Madrid</span>
+          <span class="badge badge--grado">disponible</span>
+        </button>
+        <button class="uni is-soon" data-uni="upm" aria-disabled="true">
+          <span class="uni__acronym">UPM</span>
+          <span class="uni__name">Universidad Politécnica de Madrid</span>
+          <span class="badge badge--soft">próximamente</span>
+        </button>
+        <button class="uni is-soon" data-uni="ucm" aria-disabled="true">
+          <span class="uni__acronym">UCM</span>
+          <span class="uni__name">Universidad Complutense de Madrid</span>
+          <span class="badge badge--soft">próximamente</span>
+        </button>
+        <button class="uni is-soon" data-uni="uam" aria-disabled="true">
+          <span class="uni__acronym">UAM</span>
+          <span class="uni__name">Universidad Autónoma de Madrid</span>
+          <span class="badge badge--soft">próximamente</span>
+        </button>
+      </div>
+    </section>
+
     <!-- 1 · Catalogue -------------------------------------------------------->
-    <section id="view-catalog" class="view">
+    <section id="view-catalog" class="view hidden">
       <div class="view__head">
         <p class="eyebrow">Paso uno</p>
         <h1 class="view__title">¿Qué vas a estudiar?</h1>

@@ -1,8 +1,9 @@
 # CLAUDE.md
 
-Guía de trabajo para este repositorio. Mantener **impersonal y anónima**; no
-nombrar a ninguna universidad concreta en la app ni en los textos de cara al
-usuario (el host de origen vive solo en la config del scraper).
+Guía de trabajo para este repositorio. La app se presenta como **planificador
+de horarios para los grados y másteres de la UC3M** (con una pantalla inicial
+de selección de universidad que anticipa más universidades). Los textos siguen
+siendo impersonales, pero nombrar a la UC3M en la UI es correcto.
 
 ## Qué es
 
@@ -142,6 +143,7 @@ grupo magistral **y** *un* grupo reducido de cada asignatura. Cómo está resuel
 
 - Sin dependencias de front. Módulos ES nativos.
 - Scraper solo con `requests` + `beautifulsoup4` (stdlib para el resto).
-- Textos de UI en español, impersonales. Nada de nombres propios ni de la
-  universidad en la app.
+- Textos de UI en español, impersonales. La UC3M se nombra explícitamente
+  (marca y selector de universidad); otras universidades aparecen como
+  «próximamente».
 - Datos versionados en `data/`; el Action los refresca (semanal / manual).

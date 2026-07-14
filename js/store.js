@@ -10,7 +10,7 @@ export const store = {
   selection: {},        // { [subjectCode]: { groupId?, reducedId? } }
   active: null,         // subject code currently being edited in the planner
   activeDim: null,      // "main" | "reduced" | null — dimension being swapped
-  view: "catalog",
+  view: "uni",
 };
 
 const keyFor = (p) => `${PREFIX}${p.plan}-${p.centro}`;

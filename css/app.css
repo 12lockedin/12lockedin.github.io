@@ -38,6 +38,23 @@
 .view__head { max-width: 60ch; margin-bottom: 1.6rem; }
 .view__title { margin-bottom: 0.2rem; }
 
+/* --- University picker ------------------------------------------------------ */
+.unilist { display: grid; gap: 0.6rem; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
+.uni {
+  text-align: left; width: 100%;
+  display: flex; flex-direction: column; align-items: flex-start; gap: 0.4rem;
+  padding: 1.2rem 1.2rem 1.05rem; cursor: pointer;
+  background: var(--paper-2); border: 1px solid var(--paper-edge);
+  border-radius: var(--radius); box-shadow: var(--shadow-sm);
+  transition: transform 0.12s var(--ease), box-shadow 0.12s var(--ease), border-color 0.12s var(--ease);
+}
+.uni:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); border-color: var(--ochre); }
+.uni__acronym { font-family: var(--font-display); font-size: 1.7rem; font-weight: 600; line-height: 1; }
+.uni__name { font-size: var(--fs-sm); color: var(--ink-soft); line-height: 1.25; }
+.uni .badge { margin-top: 0.25rem; }
+.uni.is-soon { opacity: 0.55; cursor: not-allowed; }
+.uni.is-soon:hover { transform: none; box-shadow: var(--shadow-sm); border-color: var(--paper-edge); }
+
 /* --- Catalogue ------------------------------------------------------------- */
 .catalog__tools { display: flex; gap: 0.8rem; align-items: center; margin-bottom: 1.2rem; flex-wrap: wrap; }
 .catalog__filters { display: flex; gap: 0.4rem; }
