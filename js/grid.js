@@ -2,7 +2,7 @@
 import { el, timeToMin } from "./util.js";
 
 const WEEKDAYS = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"];
-const HOUR_PX = 56;
+const HOUR_PX = 45;
 
 const pct = (min, startMin, range) => ((min - startMin) / range) * 100;
 
@@ -30,15 +30,15 @@ export function renderBoard(board, model, handlers) {
   tt.append(el("div", { class: "tt__corner mono", style: "font-size:var(--fs-xs);color:var(--ink-faint)" }, "h"));
   for (const d of days) tt.append(el("div", { class: "tt__dayhead" }, WEEKDAYS[d]));
 
-  // Hour gutter
+  // Hour gutter. Each label marks the START of its hour slot, sitting right
+  // below its gridline so text and lines always coincide (the end hour needs
+  // no label: the board simply ends there).
   const gutter = el("div", { class: "tt__gutter" });
-  for (let h = startHour; h <= endHour; h++) {
-    // Keep the first/last labels fully on-canvas instead of bleeding past the edge.
-    const shift = h === startHour ? "0" : h === endHour ? "-100%" : "-50%";
+  for (let h = startHour; h < endHour; h++) {
     gutter.append(
       el(
         "div",
-        { class: "tt__hourlabel", style: `top:${pct(h * 60, startMin, range)}%; transform:translateY(${shift})` },
+        { class: "tt__hourlabel", style: `top:${pct(h * 60, startMin, range)}%` },
         `${String(h).padStart(2, "0")}:00`
       )
     );

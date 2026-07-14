@@ -140,7 +140,7 @@
 .tt__col { border-left: 1px solid var(--paper-edge); }
 /* faint hour rules */
 .tt__col, .tt__gutter { background-image: repeating-linear-gradient(0deg, transparent 0, transparent calc(var(--hour) - 1px), rgba(120, 96, 50, 0.16) var(--hour)); }
-.tt__hourlabel { position: absolute; right: 0.45rem; transform: translateY(-50%); font-family: var(--font-mono); font-size: var(--fs-xs); color: var(--ink-faint); }
+.tt__hourlabel { position: absolute; right: 0.45rem; padding-top: 2px; font-family: var(--font-mono); font-size: var(--fs-xs); color: var(--ink-faint); }
 
 /* Session blocks */
 .block {
@@ -200,6 +200,7 @@
 
 /* --- Footer ---------------------------------------------------------------- */
 .foot { border-top: 1px solid var(--paper-edge); padding: 1.4rem 0; color: var(--ink-faint); font-size: var(--fs-xs); }
+.foot p + p { margin-top: 0.55em; }
 .foot a { color: var(--sage); }
 
 /* --- Toast ----------------------------------------------------------------- */
