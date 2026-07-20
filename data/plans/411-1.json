@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Estudios Internacionales y Ciencias Políticas",
  "year": "2026",
- "generatedAt": "2026-07-13T07:47:51Z",
+ "generatedAt": "2026-07-20T07:39:22Z",
  "subjects": [
   {
    "code": "20298",
@@ -131,8 +131,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -178,8 +177,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -227,8 +225,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -355,8 +352,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -402,8 +398,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -451,8 +446,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -559,8 +553,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -643,8 +636,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -698,8 +690,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

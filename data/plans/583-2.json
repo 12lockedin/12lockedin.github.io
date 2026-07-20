@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Programa Académico de Ingeniería de Telecomunicación vía Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-07-13T08:15:41Z",
+ "generatedAt": "2026-07-20T08:07:48Z",
  "subjects": [
   {
    "code": "15364",
@@ -46,8 +46,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -83,8 +82,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1097",
@@ -116,8 +114,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -190,8 +187,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -219,6 +215,31 @@
        ]
       },
       {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "12:30",
        "end": "14:00",
@@ -235,8 +256,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -326,8 +346,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -354,8 +373,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -445,8 +463,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -532,8 +549,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -585,8 +601,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -626,8 +641,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1097",
@@ -659,8 +673,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -687,8 +700,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -727,12 +739,20 @@
        "day": 3,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 4.1.E01",
+       "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 4.1.E01"
+         "dates": "10.sep-17.sep",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "24.sep",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "01.oct-10.dic",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
         }
        ]
       },
@@ -761,8 +781,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -827,8 +846,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -889,8 +907,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -955,8 +972,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1022,8 +1038,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1050,8 +1065,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1299,8 +1313,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1357,8 +1370,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1431,8 +1443,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1497,8 +1508,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

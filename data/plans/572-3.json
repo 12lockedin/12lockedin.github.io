@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Gestión de la Información y Contenidos Digitales",
  "year": "2026",
- "generatedAt": "2026-07-13T08:12:54Z",
+ "generatedAt": "2026-07-20T08:04:27Z",
  "subjects": [
   {
    "code": "17355",
@@ -202,8 +202,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "25",
@@ -390,8 +389,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "25",

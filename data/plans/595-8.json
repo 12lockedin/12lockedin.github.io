@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería en Tecnologías Cuánticas",
  "year": "2026",
- "generatedAt": "2026-07-13T08:16:55Z",
+ "generatedAt": "2026-07-20T08:09:04Z",
  "subjects": [
   {
    "code": "19893",
@@ -37,8 +37,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -207,8 +206,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -289,8 +287,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -367,36 +364,7 @@
         }
        ]
       }
-     ],
-     "english": true
-    }
-   ]
-  },
-  {
-   "code": "21018",
-   "name": "TÉCNICAS DE PROGRAMACIÓN",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "20",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "14:30",
-       "end": "16:00",
-       "room": "Aula 1.0.A02",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 1.0.A02"
-        }
-       ]
-      }
-     ],
-     "english": true
+     ]
     }
    ]
   },

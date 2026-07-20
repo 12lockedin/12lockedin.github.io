@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado Ciencia e Ingeniería de Datos - Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-07-13T07:58:23Z",
+ "generatedAt": "2026-07-20T07:49:37Z",
  "subjects": [
   {
    "code": "15364",
@@ -46,8 +46,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -83,8 +82,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1097",
@@ -116,8 +114,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -178,8 +175,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "97",
@@ -221,6 +217,19 @@
       },
       {
        "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.1.E06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.1.E06"
+        }
+       ]
+      },
+      {
+       "day": 2,
        "start": "15:30",
        "end": "17:00",
        "room": "Aula 4.0.D03",
@@ -231,22 +240,8 @@
          "room": "Aula 4.0.D03"
         }
        ]
-      },
-      {
-       "day": 3,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 4.1.E04",
-       "type": null,
-       "slots": [
-        {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 4.1.E04"
-        }
-       ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -332,8 +327,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "97",
@@ -403,8 +397,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -431,8 +424,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -489,8 +481,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1089",
@@ -556,8 +547,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1090",
@@ -610,8 +600,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1091",
@@ -660,8 +649,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -713,8 +701,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -754,8 +741,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1097",
@@ -787,8 +773,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -815,8 +800,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -881,8 +865,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "97",
@@ -943,8 +926,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1017,8 +999,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1046,6 +1027,31 @@
        ]
       },
       {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "12:30",
        "end": "14:00",
@@ -1062,8 +1068,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1128,8 +1133,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1195,8 +1199,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1269,8 +1272,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1335,8 +1337,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1430,8 +1431,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1097",
@@ -1497,8 +1497,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1542,8 +1541,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1617,8 +1615,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "97",
@@ -1727,8 +1724,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1801,8 +1797,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1875,8 +1870,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "97",
@@ -1937,8 +1931,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2003,8 +1996,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -2065,8 +2057,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2110,8 +2101,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2138,8 +2128,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2166,8 +2155,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -2186,8 +2174,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2272,7 +2259,39 @@
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "15.sep-13.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "27.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "10.nov",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "24.nov",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "01.dic",
          "room": "Aula 4.0.E03"
         }
        ]
@@ -2327,8 +2346,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2401,8 +2419,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2496,8 +2513,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2579,8 +2595,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2649,8 +2664,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2690,8 +2704,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2752,8 +2765,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2797,8 +2809,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2875,8 +2886,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1092",
@@ -3010,8 +3020,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3085,8 +3094,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3168,8 +3176,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "97",
@@ -3243,8 +3250,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

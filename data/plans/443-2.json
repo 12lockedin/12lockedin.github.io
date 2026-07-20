@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Eléctrica",
  "year": "2026",
- "generatedAt": "2026-07-13T07:53:53Z",
+ "generatedAt": "2026-07-20T07:45:06Z",
  "subjects": [
   {
    "code": "13966",
@@ -46,8 +46,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1019",
@@ -79,8 +78,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1020",
@@ -116,8 +114,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1021",
@@ -157,8 +154,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -390,8 +386,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1268,8 +1263,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1037",
@@ -1428,8 +1422,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -1575,8 +1568,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -1727,8 +1719,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1040",
@@ -1891,8 +1882,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1041",
@@ -1970,8 +1960,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1042",
@@ -2049,8 +2038,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2335,8 +2323,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1019",
@@ -2444,8 +2431,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2673,8 +2659,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1037",
@@ -2706,8 +2691,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -2747,8 +2731,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -2784,8 +2767,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1040",
@@ -2825,8 +2807,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1041",
@@ -2862,8 +2843,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1042",
@@ -2899,8 +2879,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3081,8 +3060,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3109,8 +3087,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3310,8 +3287,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3369,56 +3345,6 @@
        ]
       }
      ]
-    },
-    {
-     "id": "59",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 1,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "Aula INF 2.2.C.03 DUAL",
-       "type": null,
-       "slots": [
-        {
-         "dates": "20.oct",
-         "room": "Aula INF 2.2.C.03 DUAL"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 2.3.C03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "09.sep-09.dic",
-         "room": "Aula 2.3.C03"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "Aula INF 2.2.C.04 DUAL",
-       "type": null,
-       "slots": [
-        {
-         "dates": "22.oct",
-         "room": "Aula INF 2.2.C.04 DUAL"
-        },
-        {
-         "dates": "10.dic",
-         "room": "Aula INF 2.2.C.04 DUAL"
-        }
-       ]
-      }
-     ],
-     "english": true
     }
    ]
   },
@@ -3960,8 +3886,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1019",
@@ -4048,8 +3973,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1020",
@@ -4136,8 +4060,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1021",
@@ -4224,8 +4147,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -4327,8 +4249,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1022",
@@ -4504,8 +4425,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1029",
@@ -4595,8 +4515,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -4905,8 +4824,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -5131,8 +5049,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -5163,6 +5080,19 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aula INF 1.2.G.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "05.nov",
+         "room": "Aula INF 1.2.G.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula INF 2.2.C.04 DUAL",
        "type": "Obligatoria",
        "slots": [
@@ -5173,19 +5103,6 @@
         {
          "dates": "03.dic",
          "room": "Aula INF 2.2.C.04 DUAL"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula INF 1.2.G.01",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "05.nov",
-         "room": "Aula INF 1.2.G.01"
         }
        ]
       },

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ciencias Políticas y Sociología",
  "year": "2026",
- "generatedAt": "2026-07-13T08:14:30Z",
+ "generatedAt": "2026-07-20T08:06:20Z",
  "subjects": [
   {
    "code": "19408",
@@ -250,8 +250,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "88",
@@ -410,8 +409,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "88",

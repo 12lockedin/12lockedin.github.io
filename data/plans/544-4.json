@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Energías Renovables en Sistemas Térmicos",
  "year": "2026",
- "generatedAt": "2026-07-13T08:06:52Z",
+ "generatedAt": "2026-07-20T07:58:15Z",
  "subjects": [
   {
    "code": "20064",
@@ -246,35 +246,184 @@
    "name": "Eficiencia Energética en la Edificación",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "20069",
    "name": "Proyectos de Centrales Renovables",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "20071",
    "name": "Seminarios de Empresa e I+D+i",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "20068",
    "name": "Simulaciones Energéticas Industriales",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "20067",
    "name": "Usos Energéticos Industriales y Descarbonización",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.mar",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   }
  ]
 }

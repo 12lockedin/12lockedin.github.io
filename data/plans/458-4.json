@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Matemática Aplicada y Computacional",
  "year": "2026",
- "generatedAt": "2026-07-13T07:58:35Z",
+ "generatedAt": "2026-07-20T07:49:48Z",
  "subjects": [
   {
    "code": "18768",
@@ -442,49 +442,294 @@
    "name": "Ecuaciones Estocásticas para Finanzas y Biología",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "18780",
    "name": "Funciones Especiales y Polinomios Ortogonales",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-11.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-12.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "18782",
    "name": "Introducción a la Computación Cuántica",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.abr-12.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.abr-23.abr",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "07.may-14.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "18778",
    "name": "Matemática Discreta Aplicada",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "18781",
    "name": "Métodos avanzados para ecuaciones diferenciales no lineales",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-03.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr-23.abr",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "07.may-14.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "18777",
    "name": "Optimización",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "18783",
    "name": "Sistemas Complejos Biológicos y Socioeconómicos",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-11.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-12.may",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   }
  ]
 }

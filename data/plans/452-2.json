@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería de la Energía",
  "year": "2026",
- "generatedAt": "2026-07-13T07:57:17Z",
+ "generatedAt": "2026-07-20T07:48:37Z",
  "subjects": [
   {
    "code": "13966",
@@ -46,8 +46,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1019",
@@ -79,8 +78,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1020",
@@ -116,8 +114,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1021",
@@ -157,8 +154,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -325,8 +321,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -472,8 +467,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -598,6 +592,19 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
+       "room": "LAB 4.S.B01 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "LAB 4.S.B01 (Fisica)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
@@ -610,22 +617,8 @@
          "room": "Aula 1.0.B03"
         }
        ]
-      },
-      {
-       "day": 4,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "LAB 4.S.B01 (Fisica)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.nov",
-         "room": "LAB 4.S.B01 (Fisica)"
-        }
-       ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1040",
@@ -788,8 +781,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1041",
@@ -867,8 +859,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1042",
@@ -946,8 +937,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1045,8 +1035,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1073,28 +1062,30 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "29",
      "kind": "magistral",
      "sessions": [
       {
-       "day": 1,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 1.0.B03",
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.H03",
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 1.0.B03"
+         "dates": "11.sep-02.oct",
+         "room": "Aula 1.0.H03"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 1.0.H03"
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1134,8 +1125,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -1175,8 +1165,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -1212,8 +1201,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1040",
@@ -1253,8 +1241,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1041",
@@ -1290,8 +1277,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1042",
@@ -1327,8 +1313,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1376,8 +1361,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1421,8 +1405,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -1458,8 +1441,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -1491,8 +1473,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1594,8 +1575,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1694,8 +1674,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1019",
@@ -1782,8 +1761,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1020",
@@ -1870,8 +1848,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1021",
@@ -1958,8 +1935,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2053,8 +2029,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1029",
@@ -2144,8 +2119,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2210,8 +2184,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2285,8 +2258,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2343,8 +2315,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2442,8 +2413,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -2534,8 +2504,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2625,8 +2594,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2682,17 +2650,16 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.3.A04",
+       "room": "Aula INF 7.0.J04 DUAL",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 2.3.A04"
+         "room": "Aula INF 7.0.J04 DUAL"
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2765,8 +2732,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2793,8 +2759,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2838,8 +2803,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2929,8 +2893,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

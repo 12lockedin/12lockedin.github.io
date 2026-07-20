@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Programa Académico de Ingeniería Industrial vía Grado en Ingeniería en Tecnologías Industriales",
  "year": "2026",
- "generatedAt": "2026-07-13T08:04:56Z",
+ "generatedAt": "2026-07-20T07:56:12Z",
  "subjects": [
   {
    "code": "15489",
@@ -42,8 +42,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "39",
@@ -75,8 +74,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1031",
@@ -300,8 +298,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -604,8 +601,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -658,8 +654,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -725,8 +720,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1040",
@@ -805,8 +799,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1683,8 +1676,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1037",
@@ -1843,8 +1835,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -1990,8 +1981,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -2142,8 +2132,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1040",
@@ -2306,8 +2295,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1041",
@@ -2385,8 +2373,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1042",
@@ -2464,8 +2451,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2624,13 +2610,33 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "39",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula INF 7.0.J05 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula INF 7.0.J05 DUAL"
+        }
+       ]
+      },
       {
        "day": 1,
        "start": "15:30",
@@ -2668,22 +2674,8 @@
          "room": "Aula 2.3.C03"
         }
        ]
-      },
-      {
-       "day": 2,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula INF 1.2.G.02",
-       "type": null,
-       "slots": [
-        {
-         "dates": "09.sep-09.dic",
-         "room": "Aula INF 1.2.G.02"
-        }
-       ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2911,8 +2903,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1037",
@@ -2944,8 +2935,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -2985,8 +2975,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -3022,8 +3011,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1040",
@@ -3063,8 +3051,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1041",
@@ -3100,8 +3087,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1042",
@@ -3137,8 +3123,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3491,8 +3476,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -3574,8 +3558,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -3657,8 +3640,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3770,8 +3752,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -3807,8 +3788,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -3840,8 +3820,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -4176,8 +4155,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -4290,8 +4268,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -4545,8 +4522,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "38",
@@ -4620,8 +4596,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -5011,8 +4986,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -5141,8 +5115,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -5796,8 +5769,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -6300,8 +6272,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -6882,8 +6853,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -6974,8 +6944,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },

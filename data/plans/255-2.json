@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Telemática",
  "year": "2026",
- "generatedAt": "2026-07-13T07:37:23Z",
+ "generatedAt": "2026-07-20T07:29:11Z",
  "subjects": [
   {
    "code": "13426",
@@ -350,8 +350,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -673,8 +672,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -765,7 +763,23 @@
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-22.sep",
+         "room": "Aula 4.1.E06"
+        },
+        {
+         "dates": "29.sep",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "06.oct",
+         "room": "Aula 4.1.E06"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "20.oct-01.dic",
          "room": "Aula 4.1.E06"
         }
        ]
@@ -799,7 +813,31 @@
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-24.sep",
+         "room": "Aula 2.3.A04"
+        },
+        {
+         "dates": "01.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "08.oct-15.oct",
+         "room": "Aula 2.3.A04"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aulas LAB 4.1.B02 (Telematica) y LAB 4.1.B01 (Telematica)"
+        },
+        {
+         "dates": "29.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "05.nov-19.nov",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "26.nov-10.dic",
          "room": "Aula 2.3.A04"
         }
        ]

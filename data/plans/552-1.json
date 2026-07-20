@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Sostenibilidad Urbana",
  "year": "2026",
- "generatedAt": "2026-07-13T08:07:27Z",
+ "generatedAt": "2026-07-20T07:58:49Z",
  "subjects": [
   {
    "code": "20041",
@@ -24,33 +24,28 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "07.sep",
+         "dates": "14.sep",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "21.sep",
+         "dates": "28.sep",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "05.oct",
+         "dates": "26.oct",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "19.oct",
+         "dates": "09.nov",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "16.nov",
-         "room": "Aula 4.1.08"
-        },
-        {
-         "dates": "30.nov",
+         "dates": "23.nov",
          "room": "Aula 4.1.08"
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -90,8 +85,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -118,8 +112,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -146,8 +139,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -195,8 +187,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -236,8 +227,74 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20789",
+   "name": "MINORUC3M2: ESTRATEGIAS ENERGÉTICAS, nullº,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.2.E02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.2.E02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.0.H03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.H03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20790",
+   "name": "MINORUC3M2: POBREZA ENERGÉTICA, nullº,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.2.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
     }
    ]
   },
@@ -285,8 +342,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -326,8 +382,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },

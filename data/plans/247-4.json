@@ -1,0 +1,1089 @@
+{
+ "plan": 247,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Prevención de Riesgos Laborales",
+ "year": "2026",
+ "generatedAt": "2026-07-20T08:17:52Z",
+ "subjects": [
+  {
+   "code": "15673",
+   "name": "Conceptos Generales de la Prevención",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-21.sep",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-21.sep",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep-21.sep",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-22.sep",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-22.sep",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-15.sep",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15683",
+   "name": "Especialidad en Salud Laboral",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.nov-10.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.nov-10.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.nov-10.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15681",
+   "name": "Especialidad en Seguridad en el Trabajo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-23.nov",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-23.nov",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-23.nov",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov-16.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov-16.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov-16.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.dic",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15674",
+   "name": "Marco Jurídico de la Prevención",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-07.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-07.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-07.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-08.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-08.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-08.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15676",
+   "name": "Salud Laboral. Parte General",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.sep-06.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.sep-06.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.sep-06.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct-21.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct-21.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15675",
+   "name": "Seguridad en el Trabajo. Parte General",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct-20.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct-20.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15680",
+   "name": "Sistema de Responsabilidades en Materia de Prevención de Riesgos Laborales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-11.nov",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-11.nov",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-11.nov",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "05.nov-12.nov",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "05.nov-12.nov",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15677",
+   "name": "Ergonomía y Psicosociología Aplicada",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.feb-08.feb",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-01.feb",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-01.feb",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.feb",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.feb",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.feb",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15685",
+   "name": "Especialidad en Ergonomía y Psicosociología Aplicada",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.feb-08.mar",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.feb-08.mar",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.feb-08.mar",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.feb-03.mar",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.feb-03.mar",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.feb-03.mar",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15679",
+   "name": "Gestión de la Prevención, Formación e Información",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15678",
+   "name": "Medioambiente Laboral y Medicina en el Trabajo",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-25.feb",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-25.feb",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-04.feb",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "18.feb",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

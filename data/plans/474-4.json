@@ -1,0 +1,423 @@
+{
+ "plan": 474,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Gobernanza Económica Europea: Derecho, Política y Economía/ European Economic Governance",
+ "year": "2026",
+ "generatedAt": "2026-07-20T08:16:43Z",
+ "subjects": [
+  {
+   "code": "19186",
+   "name": "Bases sociales de la Gobernanza Económica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep-21.oct",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep-21.oct",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19183",
+   "name": "Derecho de la Gobernanza Económica Europea",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-21.sep",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19187",
+   "name": "Derecho Monetario de la Unión Europea",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19185",
+   "name": "Economía Política del Euro",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep-20.oct",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "17.nov-24.nov",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "03.nov-01.dic",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19189",
+   "name": "Elaboración de Políticas Económicas en la UE",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep-23.oct",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "04.dic-18.dic",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep-23.oct",
+         "room": "Aula 2.1.A.02"
+        },
+        {
+         "dates": "04.dic-18.dic",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19184",
+   "name": "Fundamentos Económicos de la Eurozona",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "19190",
+   "name": "Políticas de cohesión y crecimiento en el largo plazo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-27.nov",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-27.nov",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19191",
+   "name": "Derecho Bancario de la Unión Europea",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19195",
+   "name": "Derecho de las Normas Fiscales en la Unión Europea",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19192",
+   "name": "Derecho de los Rescates Financieros y otros mecanismos de rescate",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19194",
+   "name": "Gobernanza del Mercado Único: Competición y Regulación",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19193",
+   "name": "La Política de la Integración Legal de la UE",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19188",
+   "name": "Política Industrial, Control de Ayudas de Estado, y Soberanía Económica",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

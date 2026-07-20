@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Periodismo",
  "year": "2026",
- "generatedAt": "2026-07-13T07:42:01Z",
+ "generatedAt": "2026-07-20T07:33:49Z",
  "subjects": [
   {
    "code": "13501",
@@ -82,8 +82,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -187,8 +186,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -292,8 +290,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -397,8 +394,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -502,8 +498,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -607,8 +602,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",

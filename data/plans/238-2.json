@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-07-13T07:37:11Z",
+ "generatedAt": "2026-07-20T07:29:01Z",
  "subjects": [
   {
    "code": "16101",
@@ -24,8 +24,12 @@
        "type": null,
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep",
          "room": "Aula 4.0.D03"
+        },
+        {
+         "dates": "16.sep-09.dic",
+         "room": "LAB 4.1.B01 (Telematica)"
         }
        ]
       },
@@ -173,7 +177,39 @@
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "15.sep-13.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "27.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "10.nov",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "24.nov",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "01.dic",
          "room": "Aula 4.0.E03"
         }
        ]
@@ -228,8 +264,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -377,8 +412,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -569,8 +603,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -823,8 +856,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1318,8 +1350,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

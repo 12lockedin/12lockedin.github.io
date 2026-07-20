@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Programa Académico de Ingeniería Informática vía Grado en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-07-13T08:04:16Z",
+ "generatedAt": "2026-07-20T07:55:28Z",
  "subjects": [
   {
    "code": "13866",
@@ -50,8 +50,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1089",
@@ -87,8 +86,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1090",
@@ -132,8 +130,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -202,8 +199,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1089",
@@ -260,8 +256,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -318,8 +313,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1089",
@@ -385,8 +379,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1090",
@@ -439,8 +432,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1091",
@@ -489,8 +481,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -530,8 +521,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1089",
@@ -563,8 +553,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -591,8 +580,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -657,8 +645,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1089",
@@ -736,8 +723,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -802,8 +788,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1089",
@@ -868,8 +853,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -909,8 +893,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "89",
@@ -946,8 +929,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1016,8 +998,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1089",
@@ -1086,8 +1067,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2095,7 +2075,7 @@
      "sessions": [
       {
        "day": 0,
-       "start": "09:30",
+       "start": "09:00",
        "end": "10:30",
        "room": "Aula 2.3.B02",
        "type": null,
@@ -2116,7 +2096,7 @@
       },
       {
        "day": 3,
-       "start": "09:30",
+       "start": "09:00",
        "end": "10:30",
        "room": "Aula 2.3.B02",
        "type": null,
@@ -2127,8 +2107,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },

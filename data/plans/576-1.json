@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Derecho y Economía",
  "year": "2026",
- "generatedAt": "2026-07-13T08:13:57Z",
+ "generatedAt": "2026-07-20T08:05:39Z",
  "subjects": [
   {
    "code": "13634",
@@ -94,8 +94,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -227,8 +226,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -325,8 +323,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -465,37 +462,32 @@
        "type": null,
        "slots": [
         {
-         "dates": "08.sep",
+         "dates": "15.sep",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "22.sep",
+         "dates": "29.sep",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "06.oct",
+         "dates": "13.oct",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "20.oct",
+         "dates": "27.oct",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "03.nov",
+         "dates": "10.nov",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "17.nov",
-         "room": "Aula 9.1.7"
-        },
-        {
-         "dates": "01.dic",
+         "dates": "24.nov",
          "room": "Aula 9.1.7"
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -608,8 +600,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -693,8 +684,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -834,14 +824,13 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
   {
    "code": "19408",
-   "name": "COMPETENCIAS DIGITALES USO INFORMAC",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC, 2º,1 er C",
    "course": 2,
    "term": 1,
    "groups": [
@@ -854,7 +843,7 @@
        "start": "19:45",
        "end": "21:15",
        "room": "Aula 10.1.4",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
@@ -916,8 +905,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1193,8 +1181,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1426,8 +1413,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1451,19 +1437,6 @@
         {
          "dates": "11.sep-11.dic",
          "room": "Aula 10.2.5"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "16:15",
-       "end": "17:45",
-       "room": "Aula 4.1.01",
-       "type": null,
-       "slots": [
-        {
-         "dates": "11.sep-11.dic",
-         "room": "Aula 4.1.01"
         }
        ]
       }
@@ -1547,9 +1520,21 @@
          "room": "Aula 9.1.4"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 4.1.01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 4.1.01"
+        }
+       ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

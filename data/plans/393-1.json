@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Empresa y Tecnología",
  "year": "2026",
- "generatedAt": "2026-07-13T07:43:48Z",
+ "generatedAt": "2026-07-20T07:35:38Z",
  "subjects": [
   {
    "code": "13167",
@@ -56,8 +56,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -111,8 +110,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -158,8 +156,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -205,8 +202,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -252,8 +248,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -299,8 +294,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -390,8 +384,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -485,8 +478,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

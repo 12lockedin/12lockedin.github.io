@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Derecho y Ciencias Políticas",
  "year": "2026",
- "generatedAt": "2026-07-13T08:13:16Z",
+ "generatedAt": "2026-07-20T08:04:52Z",
  "subjects": [
   {
    "code": "13565",
@@ -310,8 +310,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -969,8 +968,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },

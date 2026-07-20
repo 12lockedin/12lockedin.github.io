@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Educación Primaria",
  "year": "2026",
- "generatedAt": "2026-07-13T08:17:01Z",
+ "generatedAt": "2026-07-20T08:09:10Z",
  "subjects": [
   {
    "code": "20337",
@@ -50,8 +50,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -99,8 +98,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -140,8 +138,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -189,8 +186,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -230,8 +226,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

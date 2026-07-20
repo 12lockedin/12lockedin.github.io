@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Estudios Internacionales y Economía",
  "year": "2026",
- "generatedAt": "2026-07-13T07:49:19Z",
+ "generatedAt": "2026-07-20T07:40:45Z",
  "subjects": [
   {
    "code": "16633",
@@ -48,8 +48,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -103,8 +102,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "69",
@@ -123,8 +121,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -170,8 +167,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -219,8 +215,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -260,8 +255,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -301,8 +295,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -341,8 +334,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -365,8 +357,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -406,8 +397,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -434,8 +424,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -518,8 +507,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

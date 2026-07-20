@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Responsabilidad Civil",
  "year": "2026",
- "generatedAt": "2026-07-13T07:41:22Z",
+ "generatedAt": "2026-07-20T07:33:13Z",
  "subjects": [
   {
    "code": "17379",
@@ -577,14 +577,53 @@
        ]
       },
       {
-       "day": 0,
-       "start": "19:30",
-       "end": "21:00",
+       "day": 1,
+       "start": "17:30",
+       "end": "18:30",
        "room": "Aula 2.A.02",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.oct",
+         "dates": "20.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:30",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 2.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.sep",
          "room": "Aula 2.A.02"
         }
        ]
@@ -597,7 +636,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.oct-09.oct",
+         "dates": "02.oct",
          "room": "Aula 2.A.02"
         },
         {
@@ -614,7 +653,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.oct-09.oct",
+         "dates": "02.oct",
          "room": "Aula 2.A.02"
         },
         {
@@ -631,7 +670,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.oct-09.oct",
+         "dates": "02.oct",
          "room": "Aula 2.A.02"
         }
        ]
@@ -1453,7 +1492,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.abr-14.abr",
+         "dates": "14.abr",
          "room": "Aula 2.A.02"
         }
        ]
@@ -1501,6 +1540,10 @@
        "slots": [
         {
          "dates": "01.abr",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "22.abr",
          "room": "Aula 2.A.02"
         }
        ]

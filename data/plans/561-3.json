@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Periodismo",
  "year": "2026",
- "generatedAt": "2026-07-13T08:09:49Z",
+ "generatedAt": "2026-07-20T08:01:14Z",
  "subjects": [
   {
    "code": "19408",
@@ -29,8 +29,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -103,8 +102,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -182,8 +180,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -463,8 +460,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -568,8 +564,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -681,8 +676,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -751,6 +745,33 @@
    ]
   },
   {
+   "code": "20390",
+   "name": "PERIODISMO AUDIOVISUAL, 2º,2ºC",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "32",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 17.0.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.ene",
+         "room": "Aula 17.0.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
    "code": "20386",
    "name": "PERIODISMO DIGITAL",
    "course": 2,
@@ -794,8 +815,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -915,8 +935,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",
@@ -1028,8 +1047,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "31",

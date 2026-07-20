@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-07-13T07:44:17Z",
+ "generatedAt": "2026-07-20T07:36:05Z",
  "subjects": [
   {
    "code": "13162",
@@ -82,8 +82,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "78",
@@ -161,8 +160,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "78",
@@ -248,8 +246,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "78",
@@ -343,8 +340,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "78",
@@ -369,7 +365,7 @@
   },
   {
    "code": "13168",
-   "name": "ECONOMÍA DE LAS ORGANIZAC, 2º,1 er C",
+   "name": "ECONOMÍA DE LAS ORGANIZAC, 2º,1 er C (grupos 70 y 71) 14:30 a 16:00 11.sep-11.dic: Aula 10.2.3",
    "course": 3,
    "term": 1,
    "groups": [
@@ -391,6 +387,19 @@
        ]
       },
       {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.2.1",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 10.2.1"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "12:30",
        "end": "14:00",
@@ -400,6 +409,19 @@
         {
          "dates": "11.sep-11.dic",
          "room": "Aula 10.2.4"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 10.2.3",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 10.2.3"
         }
        ]
       }
@@ -430,8 +452,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "78",
@@ -559,8 +580,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "71",
@@ -579,8 +599,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "72",
@@ -599,8 +618,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "73",
@@ -619,8 +637,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "76",
@@ -744,8 +761,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "71",
@@ -764,8 +780,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "72",
@@ -784,8 +799,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "73",
@@ -817,8 +831,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "76",
@@ -976,8 +989,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "71",
@@ -996,8 +1008,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "72",
@@ -1016,8 +1027,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "73",
@@ -1036,8 +1046,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "74",
@@ -1056,8 +1065,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "76",

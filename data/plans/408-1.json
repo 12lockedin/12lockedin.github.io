@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Estudios Internacionales",
  "year": "2026",
- "generatedAt": "2026-07-13T07:46:36Z",
+ "generatedAt": "2026-07-20T07:38:14Z",
  "subjects": [
   {
    "code": "16631",
@@ -42,8 +42,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -89,8 +88,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -144,8 +142,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -193,8 +190,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -248,8 +244,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -303,8 +298,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

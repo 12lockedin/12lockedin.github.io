@@ -4,8 +4,48 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-07-13T07:42:19Z",
+ "generatedAt": "2026-07-20T07:34:08Z",
  "subjects": [
+  {
+   "code": "13501",
+   "name": "PRINCIPIOS DE ECONOMÍA, 2º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "41",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 14.0.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 14.0.4",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 14.0.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
   {
    "code": "13273",
    "name": "PERIODISM CBIO SOC ESPAÑA",
@@ -42,8 +82,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -163,8 +202,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -284,8 +322,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -450,8 +487,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -638,8 +674,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -777,8 +812,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -906,8 +940,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -1027,8 +1060,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -1244,8 +1276,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -1373,8 +1404,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -1502,8 +1532,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -1623,8 +1652,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -1736,8 +1764,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -1857,8 +1884,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",

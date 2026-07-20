@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Historia y Política",
  "year": "2026",
- "generatedAt": "2026-07-13T08:11:52Z",
+ "generatedAt": "2026-07-20T08:03:20Z",
  "subjects": [
   {
    "code": "19408",
@@ -29,8 +29,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -70,8 +69,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -98,8 +96,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -139,8 +136,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -188,8 +184,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -277,8 +272,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },

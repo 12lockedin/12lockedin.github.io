@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-07-13T08:11:45Z",
+ "generatedAt": "2026-07-20T08:03:14Z",
  "subjects": [
   {
    "code": "15364",
@@ -74,8 +74,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1093",
@@ -143,8 +142,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -180,8 +178,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1097",
@@ -213,8 +210,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -344,8 +340,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1093",
@@ -463,8 +458,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -492,6 +486,31 @@
        ]
       },
       {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "12:30",
        "end": "14:00",
@@ -508,8 +527,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -681,8 +699,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -709,8 +726,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -796,8 +812,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1093",
@@ -949,8 +964,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1036,8 +1050,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1064,8 +1077,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1145,8 +1157,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1093",
@@ -1222,8 +1233,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1263,8 +1273,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1097",
@@ -1296,8 +1305,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1324,8 +1332,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1339,23 +1346,6 @@
      "id": "1091",
      "kind": "reducido",
      "sessions": [
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "LAB 4.1.B01 (Telematica)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "21.sep-28.sep",
-         "room": "LAB 4.1.B01 (Telematica)"
-        },
-        {
-         "dates": "09.nov-16.nov",
-         "room": "LAB 4.1.B01 (Telematica)"
-        }
-       ]
-      },
       {
        "day": 0,
        "start": "17:15",
@@ -1398,12 +1388,20 @@
        "day": 2,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 4.1.E05",
+       "room": "LAB 4.1.B01 (Telematica)",
        "type": null,
        "slots": [
         {
-         "dates": "09.sep-09.dic",
-         "room": "Aula 4.1.E05"
+         "dates": "09.sep-04.nov",
+         "room": "LAB 4.1.B01 (Telematica)"
+        },
+        {
+         "dates": "11.nov-25.nov",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "02.dic-09.dic",
+         "room": "LAB 4.1.B01 (Telematica)"
         }
        ]
       }
@@ -1455,21 +1453,44 @@
        "day": 4,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 4.0.E04",
+       "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)",
        "type": null,
        "slots": [
         {
-         "dates": "11.sep-02.oct",
-         "room": "Aula 4.0.E04"
+         "dates": "11.sep",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
         },
         {
-         "dates": "16.oct-11.dic",
-         "room": "Aula 4.0.E04"
+         "dates": "18.sep",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "16.oct-13.nov",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "27.nov-04.dic",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1500,12 +1521,20 @@
        "day": 3,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 4.1.E01",
+       "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 4.1.E01"
+         "dates": "10.sep-17.sep",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "24.sep",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "01.oct-10.dic",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
         }
        ]
       },
@@ -1534,8 +1563,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1665,8 +1693,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1093",
@@ -1780,8 +1807,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1842,8 +1868,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1961,8 +1986,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2027,8 +2051,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -2094,8 +2117,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2122,8 +2144,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2261,8 +2282,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1093",
@@ -2372,8 +2392,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -2430,8 +2449,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2553,8 +2571,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1095",
@@ -2619,8 +2636,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -2685,8 +2701,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

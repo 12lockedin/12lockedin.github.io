@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Telemática",
  "year": "2026",
- "generatedAt": "2026-07-13T07:56:41Z",
+ "generatedAt": "2026-07-20T07:47:58Z",
  "subjects": [
   {
    "code": "15364",
@@ -142,8 +142,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -179,8 +178,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1097",
@@ -212,8 +210,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -461,8 +458,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -490,6 +486,31 @@
        ]
       },
       {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "12:30",
        "end": "14:00",
@@ -506,8 +527,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -534,8 +554,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -773,8 +792,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -860,8 +878,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1044,8 +1061,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1085,8 +1101,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1097",
@@ -1118,8 +1133,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1245,8 +1259,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1490,8 +1503,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1552,8 +1564,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1736,8 +1747,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1803,8 +1813,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1850,8 +1859,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -1870,8 +1878,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2058,8 +2065,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1096",
@@ -2124,8 +2130,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2440,8 +2445,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "706",
@@ -2484,8 +2488,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "707",
@@ -2528,8 +2531,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2812,8 +2814,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3066,8 +3067,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3270,8 +3270,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "606",
@@ -3314,8 +3313,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3406,7 +3404,23 @@
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-22.sep",
+         "room": "Aula 4.1.E06"
+        },
+        {
+         "dates": "29.sep",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "06.oct",
+         "room": "Aula 4.1.E06"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "20.oct-01.dic",
          "room": "Aula 4.1.E06"
         }
        ]
@@ -3440,7 +3454,31 @@
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-24.sep",
+         "room": "Aula 2.3.A04"
+        },
+        {
+         "dates": "01.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "08.oct-15.oct",
+         "room": "Aula 2.3.A04"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aulas LAB 4.1.B02 (Telematica) y LAB 4.1.B01 (Telematica)"
+        },
+        {
+         "dates": "29.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "05.nov-19.nov",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "26.nov-10.dic",
          "room": "Aula 2.3.A04"
         }
        ]

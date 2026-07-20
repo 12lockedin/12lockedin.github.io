@@ -1,0 +1,978 @@
+{
+ "plan": 404,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Dirección de Empresas- Master in Management",
+ "year": "2026",
+ "generatedAt": "2026-07-20T08:14:56Z",
+ "subjects": [
+  {
+   "code": "17858",
+   "name": "Comportamiento Organizativo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "11:45",
+       "end": "13:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17853",
+   "name": "Contabilidad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16058",
+   "name": "Estrategia",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "05.nov-17.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17854",
+   "name": "Finanzas para la Empresa",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17855",
+   "name": "La Empresa y su Entorno",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16062",
+   "name": "Métodos Cuantitativos para la Empresa",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16059",
+   "name": "Métodos de Comercialización para la Empresa",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-17.nov",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "11:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-17.nov",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17861",
+   "name": "Emprendimiento",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:45",
+       "end": "13:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17868",
+   "name": "Finanzas Internacionales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.feb",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "23.feb-09.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.feb",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17867",
+   "name": "Gestión de la Cadena de Suministros",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.abr",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.abr",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr-23.abr",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "07.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr-23.abr",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "07.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "23.abr",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17859",
+   "name": "Gestión de la Innovación",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.feb",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "23.feb-09.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.feb",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17857",
+   "name": "Gestión de Personas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17862",
+   "name": "Gestión de Start-Ups",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:30",
+       "end": "12:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-12.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:15",
+       "end": "13:45",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr-12.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17863",
+   "name": "Gestión Internacional de la Empresa",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17865",
+   "name": "Gestión Internacional de los Recursos Humanos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "13:30",
+       "end": "15:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-22.abr",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "06.may-13.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:15",
+       "end": "16:45",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-22.abr",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "06.may-13.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "13:30",
+       "end": "15:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.abr",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "07.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:15",
+       "end": "16:45",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.abr",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "07.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17856",
+   "name": "Gobierno Corporativo",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17864",
+   "name": "Implementación de estrategias de internacionalización",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-11.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-11.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17866",
+   "name": "Liderazgo",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.abr-03.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-03.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-03.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17860",
+   "name": "Temas avanzados de estrategia de innovación",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-13.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr-13.may",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

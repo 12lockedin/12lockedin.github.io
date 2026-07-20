@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Matemáticas y Computación",
  "year": "2026",
- "generatedAt": "2026-07-13T08:11:31Z",
+ "generatedAt": "2026-07-20T08:03:02Z",
  "subjects": [
   {
    "code": "19893",
@@ -37,8 +37,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "404",
@@ -57,8 +56,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "405",
@@ -77,8 +75,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "406",
@@ -97,8 +94,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "407",
@@ -121,8 +117,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "408",
@@ -141,8 +136,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "409",
@@ -161,8 +155,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -231,8 +224,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -259,8 +251,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -287,8 +278,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "756",
@@ -311,8 +301,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "757",
@@ -331,8 +320,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "758",
@@ -359,8 +347,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "759",
@@ -379,8 +366,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -441,8 +427,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -541,13 +526,25 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1049",
      "kind": "reducido",
      "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula INF 4.S.D.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula INF 4.S.D.02"
+        }
+       ]
+      },
       {
        "day": 0,
        "start": "10:45",
@@ -571,27 +568,14 @@
       },
       {
        "day": 0,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula INF 4.S.D.02",
-       "type": null,
-       "slots": [
-        {
-         "dates": "05.oct",
-         "room": "Aula INF 4.S.D.02"
-        }
-       ]
-      },
-      {
-       "day": 0,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aulas INF 7.0.J03 DUAL + TEL y INF 7.0.J04 DUAL",
+       "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL",
        "type": null,
        "slots": [
         {
          "dates": "05.oct",
-         "room": "Aulas INF 7.0.J03 DUAL + TEL y INF 7.0.J04 DUAL"
+         "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
         }
        ]
       },
@@ -664,8 +648,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1050",
@@ -782,8 +765,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -810,8 +792,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -888,8 +869,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -950,8 +930,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "142",
@@ -996,8 +975,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1066,8 +1044,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1094,8 +1071,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1152,8 +1128,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1180,8 +1155,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1246,8 +1220,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1320,8 +1293,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1390,8 +1362,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1456,8 +1427,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1527,8 +1497,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1597,8 +1566,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1625,8 +1593,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1653,8 +1620,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1715,8 +1681,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1789,8 +1754,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1851,8 +1815,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

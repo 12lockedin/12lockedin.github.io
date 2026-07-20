@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Derecho y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-07-13T07:47:18Z",
+ "generatedAt": "2026-07-20T07:38:52Z",
  "subjects": [
   {
    "code": "13567",
@@ -80,8 +80,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -167,8 +166,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -262,8 +260,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -341,8 +338,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -711,8 +707,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "45",
@@ -739,8 +734,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -845,8 +839,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "45",
@@ -873,8 +866,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1032,19 +1024,6 @@
          "room": "Aula 10.2.5"
         }
        ]
-      },
-      {
-       "day": 4,
-       "start": "16:15",
-       "end": "17:45",
-       "room": "Aula 4.1.01",
-       "type": null,
-       "slots": [
-        {
-         "dates": "11.sep-11.dic",
-         "room": "Aula 4.1.01"
-        }
-       ]
       }
      ]
     },
@@ -1124,6 +1103,19 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 9.1.4"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "Aula 4.1.01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 4.1.01"
         }
        ]
       }
@@ -1332,8 +1324,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2042,8 +2033,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "45",
@@ -2062,8 +2052,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2400,8 +2389,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2514,8 +2502,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2884,8 +2871,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3450,8 +3436,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3572,8 +3557,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

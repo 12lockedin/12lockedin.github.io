@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-07-13T07:41:49Z",
+ "generatedAt": "2026-07-20T07:33:39Z",
  "subjects": [
   {
    "code": "13501",
@@ -82,8 +82,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "94",
@@ -179,8 +178,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -233,8 +231,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "41",
@@ -369,8 +366,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -410,8 +406,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "94",
@@ -507,8 +502,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -556,8 +550,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "41",
@@ -626,8 +619,8 @@
       },
       {
        "day": 1,
-       "start": "16:45",
-       "end": "18:15",
+       "start": "15:00",
+       "end": "16:30",
        "room": "Aula 17.0.02",
        "type": "Obligatoria",
        "slots": [
@@ -677,8 +670,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -726,8 +718,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "41",
@@ -796,8 +787,8 @@
       },
       {
        "day": 1,
-       "start": "15:00",
-       "end": "16:30",
+       "start": "16:45",
+       "end": "18:15",
        "room": "Aula 17.0.02",
        "type": "Obligatoria",
        "slots": [
@@ -847,8 +838,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -901,8 +891,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "41",
@@ -1041,8 +1030,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   }

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Mecánica",
  "year": "2026",
- "generatedAt": "2026-07-13T07:56:09Z",
+ "generatedAt": "2026-07-20T07:47:28Z",
  "subjects": [
   {
    "code": "13966",
@@ -46,8 +46,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1019",
@@ -79,8 +78,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1020",
@@ -116,8 +114,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1021",
@@ -157,8 +154,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -390,8 +386,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -694,8 +689,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -748,8 +742,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -815,8 +808,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1040",
@@ -895,8 +887,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1773,8 +1764,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1037",
@@ -1933,8 +1923,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -2080,8 +2069,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -2206,19 +2194,6 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "LAB 4.S.B01 (Fisica)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.nov",
-         "room": "LAB 4.S.B01 (Fisica)"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
@@ -2231,9 +2206,21 @@
          "room": "Aula 1.0.B03"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 4.S.B01 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "LAB 4.S.B01 (Fisica)"
+        }
+       ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1040",
@@ -2396,8 +2383,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1041",
@@ -2475,8 +2461,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1042",
@@ -2554,8 +2539,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -2840,8 +2824,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1019",
@@ -2949,8 +2932,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3178,8 +3160,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1037",
@@ -3211,8 +3192,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -3252,8 +3232,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -3289,8 +3268,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1040",
@@ -3330,8 +3308,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1041",
@@ -3367,8 +3344,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1042",
@@ -3404,8 +3380,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -3758,8 +3733,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -3841,8 +3815,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1039",
@@ -3924,8 +3897,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -4237,8 +4209,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1019",
@@ -4308,8 +4279,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -4967,8 +4937,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1019",
@@ -5055,8 +5024,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1020",
@@ -5143,8 +5111,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1021",
@@ -5231,8 +5198,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -5500,8 +5466,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "19",
@@ -5575,8 +5540,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -5825,8 +5789,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1019",
@@ -5879,8 +5842,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -5998,19 +5960,6 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 2.3.A06",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 2.3.A06"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "10:45",
-       "end": "12:15",
        "room": "LAB 1.1.M01 (Mec. Medios Con)",
        "type": "Obligatoria",
        "slots": [
@@ -6021,6 +5970,19 @@
         {
          "dates": "17.nov",
          "room": "LAB 1.1.M01 (Mec. Medios Con)"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.3.A06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.3.A06"
         }
        ]
       },
@@ -6712,8 +6674,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "19",
@@ -6766,8 +6727,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -7348,8 +7308,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "1038",
@@ -7440,8 +7399,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -8106,12 +8064,16 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aulas 1.0.H03 y INF 1.2.G.02",
+       "room": "Aula 2.3.B03",
        "type": "Obligatoria",
        "slots": [
         {
+         "dates": "24.nov",
+         "room": "Aula 2.3.B03"
+        },
+        {
          "dates": "01.dic",
-         "room": "Aulas 1.0.H03 y INF 1.2.G.02"
+         "room": "Aula 1.0.H03"
         }
        ]
       },
@@ -8144,6 +8106,19 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 2.3.C03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.D03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "03.dic-10.dic",
+         "room": "Aula 2.3.D03"
         }
        ]
       }

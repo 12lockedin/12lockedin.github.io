@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ciencias Políticas",
  "year": "2026",
- "generatedAt": "2026-07-13T08:09:13Z",
+ "generatedAt": "2026-07-20T08:00:36Z",
  "subjects": [
   {
    "code": "19408",
@@ -188,8 +188,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -547,8 +546,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },

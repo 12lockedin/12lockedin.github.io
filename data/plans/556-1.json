@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Sociología",
  "year": "2026",
- "generatedAt": "2026-07-13T08:08:36Z",
+ "generatedAt": "2026-07-20T08:00:00Z",
  "subjects": [
   {
    "code": "19408",
@@ -231,8 +231,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -431,8 +430,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },

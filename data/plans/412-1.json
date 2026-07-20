@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Estudios Internacionales y Derecho",
  "year": "2026",
- "generatedAt": "2026-07-13T07:48:10Z",
+ "generatedAt": "2026-07-20T07:39:41Z",
  "subjects": [
   {
    "code": "16627",
@@ -48,8 +48,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -282,8 +281,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -337,8 +335,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -377,8 +374,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     },
     {
      "id": "51",
@@ -401,8 +397,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -593,8 +588,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -640,8 +634,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -918,24 +911,20 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aulas 15.0.16 y 17.1.06",
+       "room": "Aula 9.2.12",
        "type": null,
        "slots": [
         {
-         "dates": "07.sep-14.sep",
-         "room": "Aulas 15.0.16 y 17.1.06"
-        },
-        {
-         "dates": "21.sep-05.oct",
-         "room": "Aula 17.1.06"
+         "dates": "07.sep-05.oct",
+         "room": "Aula 9.2.12"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 17.1.06"
+         "room": "Aula 9.2.12"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 17.1.06"
+         "room": "Aula 9.2.12"
         }
        ]
       }
@@ -1358,8 +1347,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },
@@ -1386,8 +1374,7 @@
         }
        ]
       }
-     ],
-     "english": true
+     ]
     }
    ]
   },

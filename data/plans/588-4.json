@@ -1,0 +1,349 @@
+{
+ "plan": 588,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Electrificación del Transporte",
+ "year": "2026",
+ "generatedAt": "2026-07-20T08:15:51Z",
+ "subjects": [
+  {
+   "code": "20856",
+   "name": "Arquitectura de cadenas de potencia y casos de estudio",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20858",
+   "name": "Convertidores electrónicos de potencia",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20854",
+   "name": "Dinámica de trenes",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20853",
+   "name": "Dinámica de vehículos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20857",
+   "name": "Máquinas eléctricas para trenes de potencia electrificados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20859",
+   "name": "Sistemas de almacenamiento de energía y su gestión",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20860",
+   "name": "Sistemas Eléctricos para la movilidad eléctrica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20855",
+   "name": "Tecnología aeronáutica",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "16.oct-18.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula Aula Multimedia 3.S1.19",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "16.oct-18.dic",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20861",
+   "name": "Control de máquinas eléctricas en el transporte",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "20862",
+   "name": "Dinámica y control de convertidores de potencia",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "20864",
+   "name": "Proyecto de electrificación de aviones",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "20865",
+   "name": "Proyecto de electrificación de vehículos y trenes: modelado y simulación",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "20863",
+   "name": "Sistemas integrados",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}
