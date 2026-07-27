@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Finanzas y Contabilidad",
  "year": "2026",
- "generatedAt": "2026-07-20T07:57:31Z",
+ "generatedAt": "2026-07-27T08:19:07Z",
  "subjects": [
   {
    "code": "19790",
@@ -370,12 +370,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 9.2.3",
+       "room": "Aula 10.2.10",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 9.2.3"
+         "room": "Aula 10.2.10"
         }
        ]
       },
@@ -383,12 +383,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 10.2.10",
+       "room": "Aula 9.2.3",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 10.2.10"
+         "room": "Aula 9.2.3"
         }
        ]
       }
@@ -474,7 +474,7 @@
   },
   {
    "code": "14441",
-   "name": "MATEMÁTICAS PARA LA ECONOMÍA I",
+   "name": "MATEMÁTICAS PARA LA ECONOMÍA I, 1º,1 er C (grupos 21 y 22) 10:45 a 12:15 09.sep-09.dic: Aula 10.2.10",
    "course": 1,
    "term": 1,
    "groups": [
@@ -606,7 +606,7 @@
   },
   {
    "code": "13741",
-   "name": "PRINCIPIOS DE ECONOMÍA, 1º,1 er C (grupos 20,90 y 800) 12:30 a 14:00 07.sep-05.oct: Aula 10.2.3 19.oct-26.oct: Aula 10.2.3 09.nov-30.nov: Aula 10.2.3",
+   "name": "PRINCIPIOS DE ECONOMÍA, 1º,1 er C (grupos 21 y 22) 09:00 a 10:30 10.sep-10.dic: Aula 10.2.10",
    "course": 1,
    "term": 1,
    "groups": [
@@ -727,7 +727,7 @@
   },
   {
    "code": "13752",
-   "name": "CONTABILIDAD FINANCIERA I, 2º,1 er C",
+   "name": "CONTABILIDAD FINANCIERA I",
    "course": 2,
    "term": 1,
    "groups": [
@@ -832,7 +832,7 @@
   },
   {
    "code": "13747",
-   "name": "ECONOMÍA FINANCIERA",
+   "name": "ECONOMÍA FINANCIERA, 2º,1 er C (grupos 21 y 22) 14:30 a 16:00 10.sep-10.dic: Aula 10.2.4",
    "course": 2,
    "term": 1,
    "groups": [
@@ -844,12 +844,12 @@
        "day": 3,
        "start": "14:30",
        "end": "16:00",
-       "room": "Aula 10.2.6",
+       "room": "Aula 10.2.4",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 10.2.6"
+         "room": "Aula 10.2.4"
         }
        ]
       },
@@ -857,12 +857,12 @@
        "day": 3,
        "start": "14:30",
        "end": "16:00",
-       "room": "Aula 10.2.4",
+       "room": "Aula 10.2.6",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 10.2.4"
+         "room": "Aula 10.2.6"
         }
        ]
       }
@@ -948,7 +948,7 @@
   },
   {
    "code": "13749",
-   "name": "ESTADÍSTICA II, 2º,1 er C",
+   "name": "ESTADÍSTICA II, 2º,1 er C (grupos 21 y 22) 18:00 a 19:30 07.sep-05.oct: Aula 10.2.2 19.oct-26.oct: Aula 10.2.2 09.nov-30.nov: Aula 10.2.2",
    "course": 2,
    "term": 1,
    "groups": [
@@ -1061,7 +1061,7 @@
   },
   {
    "code": "13748",
-   "name": "ORGANIZACIÓN Y DIRECCIÓN, 2º,1 er C",
+   "name": "ORGANIZACIÓN Y DIRECCIÓN",
    "course": 2,
    "term": 1,
    "groups": [
@@ -1177,7 +1177,7 @@
   },
   {
    "code": "19878",
-   "name": "PROGRAMACIÓN",
+   "name": "PROGRAMACIÓN, 2º,1 er C (grupos 21 y 22) 16:15 a 17:45 07.sep-05.oct: Aula 10.2.2 19.oct-26.oct: Aula 10.2.2 09.nov-30.nov: Aula 10.2.2",
    "course": 2,
    "term": 1,
    "groups": [
@@ -1282,7 +1282,7 @@
   },
   {
    "code": "13757",
-   "name": "GESTIÓN DE COSTES, 3º,1 er C",
+   "name": "GESTIÓN DE COSTES, 3º,1 er C (grupos 21 y 22) 12:30 a 14:00 08.sep-01.dic: Aula 10.2.5",
    "course": 3,
    "term": 1,
    "groups": [
@@ -1379,7 +1379,7 @@
   },
   {
    "code": "14443",
-   "name": "MACROECONOMÍA, 3º,1 er C",
+   "name": "MACROECONOMÍA, 3º,1 er C (grupos 21 y 22) 10:45 a 12:15 08.sep-01.dic: Aula 10.2.5",
    "course": 3,
    "term": 1,
    "groups": [

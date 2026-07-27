@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-07-20T07:57:59Z",
+ "generatedAt": "2026-07-27T08:19:33Z",
  "subjects": [
   {
    "code": "15532",
@@ -448,12 +448,12 @@
        "day": 0,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aulas INF 7.0.J03 DUAL + TEL y INF 7.0.J04 DUAL",
+       "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL",
        "type": null,
        "slots": [
         {
          "dates": "05.oct",
-         "room": "Aulas INF 7.0.J03 DUAL + TEL y INF 7.0.J04 DUAL"
+         "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
         }
        ]
       },
@@ -1191,7 +1191,11 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "22.oct",
+         "dates": "15.oct",
+         "room": "LAB 1.0.G10 (Bioingeniería)"
+        },
+        {
+         "dates": "29.oct-05.nov",
          "room": "LAB 1.0.G10 (Bioingeniería)"
         }
        ]
@@ -1397,7 +1401,7 @@
   },
   {
    "code": "15536",
-   "name": "FÍSICA III",
+   "name": "FÍSICA III, 2º,1 er C",
    "course": 2,
    "term": 1,
    "groups": [
@@ -1410,7 +1414,7 @@
        "start": "19:00",
        "end": "20:30",
        "room": "Aula 7.0.J01",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
@@ -1423,7 +1427,7 @@
        "start": "17:15",
        "end": "18:45",
        "room": "LAB 4.S.B03 (Fisica)",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "05.nov",
@@ -1440,7 +1444,7 @@
        "start": "19:00",
        "end": "20:30",
        "room": "LAB 4.S.B03 (Fisica)",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "05.nov",
@@ -1457,7 +1461,7 @@
        "start": "15:30",
        "end": "17:00",
        "room": "Aula 7.1.J01",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "11.sep-02.oct",
@@ -1480,7 +1484,7 @@
        "start": "19:00",
        "end": "20:30",
        "room": "Aula 7.0.J01",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
@@ -1501,7 +1505,7 @@
        "start": "17:15",
        "end": "18:45",
        "room": "LAB 4.S.B03 (Fisica)",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "03.nov",
@@ -1518,7 +1522,7 @@
        "start": "17:15",
        "end": "18:45",
        "room": "LAB 4.S.B03 (Fisica)",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "06.nov-04.dic",
@@ -1531,7 +1535,7 @@
        "start": "19:00",
        "end": "20:30",
        "room": "Aula 7.1.J02",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "11.sep-02.oct",

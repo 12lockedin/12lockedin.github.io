@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-07-20T08:02:15Z",
+ "generatedAt": "2026-07-27T08:23:41Z",
  "subjects": [
   {
    "code": "19408",
@@ -352,7 +352,7 @@
   },
   {
    "code": "13153",
-   "name": "FUND. ADMON. EMPRESAS, 1º,1 er C (grupos 70,71 y 72) 09:00 a 10:30 09.sep-09.dic: Aula 10.2.3",
+   "name": "FUND. ADMON. EMPRESAS, 1º,1 er C (grupos 75 y 76) 09:00 a 10:30 07.sep-05.oct: Aula 10.2.1 19.oct-26.oct: Aula 10.2.1 09.nov-30.nov: Aula 10.2.1",
    "course": 1,
    "term": 1,
    "groups": [
@@ -578,7 +578,7 @@
   },
   {
    "code": "13150",
-   "name": "INT.DCHO. CIVIL PATRIMONI, 1º,1 er C (grupos 70,71 y 72) 10:45 a 12:15 09.sep-09.dic: Aula 10.2.3",
+   "name": "INT.DCHO. CIVIL PATRIMONI",
    "course": 1,
    "term": 1,
    "groups": [
@@ -812,7 +812,7 @@
   },
   {
    "code": "13152",
-   "name": "MATEMÁTICAS ECONOMÍA I",
+   "name": "MATEMÁTICAS ECONOMÍA I, 1º,1 er C (grupos 75 y 76) 10:45 a 12:15 08.sep-01.dic: Aula 10.2.1",
    "course": 1,
    "term": 1,
    "groups": [
@@ -1050,7 +1050,7 @@
   },
   {
    "code": "13151",
-   "name": "PRINCIPIOS DE ECONOMÍA",
+   "name": "PRINCIPIOS DE ECONOMÍA, 1º,1 er C (grupos 27,75,76 y 801) 12:30 a 14:00 07.sep-05.oct: Aula 10.2.1 19.oct-26.oct: Aula 10.2.1 09.nov-30.nov: Aula 10.2.1",
    "course": 1,
    "term": 1,
    "groups": [
@@ -1284,7 +1284,7 @@
   },
   {
    "code": "13162",
-   "name": "CONTABILIDAD DE GESTIÓN, 2º,1 er C (grupos 70 y 71) 16:15 a 17:45 10.sep-10.dic: Aula 10.2.3",
+   "name": "CONTABILIDAD DE GESTIÓN",
    "course": 2,
    "term": 1,
    "groups": [
@@ -1555,7 +1555,7 @@
   },
   {
    "code": "13168",
-   "name": "ECONOMÍA DE LAS ORGANIZAC",
+   "name": "ECONOMÍA DE LAS ORGANIZAC, 2º,1 er C (grupos 75 y 801) 14:30 a 16:00 09.sep-09.dic: Aula 10.2.1",
    "course": 2,
    "term": 1,
    "groups": [
@@ -2313,7 +2313,7 @@
   },
   {
    "code": "13161",
-   "name": "TEORÍA DE LOS JUEGOS",
+   "name": "TEORÍA DE LOS JUEGOS, 2º,1 er C (grupos 75 y 801) 16:15 a 17:45 10.sep-10.dic: Aula 10.2.1",
    "course": 2,
    "term": 1,
    "groups": [
@@ -2579,7 +2579,7 @@
   },
   {
    "code": "13167",
-   "name": "MARKETING, 3º,1 er C",
+   "name": "MARKETING, 3º,1 er C (grupos 76 y 77) 12:30 a 14:00 07.sep-05.oct: Aula 10.2.9 19.oct-26.oct: Aula 10.2.9 09.nov-30.nov: Aula 10.2.9",
    "course": 3,
    "term": 1,
    "groups": [

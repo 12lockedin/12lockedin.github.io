@@ -4,11 +4,11 @@
  "type": "grado",
  "name": "Grado en Economía",
  "year": "2026",
- "generatedAt": "2026-07-20T08:04:17Z",
+ "generatedAt": "2026-07-27T08:25:39Z",
  "subjects": [
   {
    "code": "19408",
-   "name": "COMPETENCIAS DIGITALES USO INFORMAC",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC, 1º,1 er C",
    "course": 1,
    "term": 1,
    "groups": [
@@ -127,7 +127,7 @@
   },
   {
    "code": "13634",
-   "name": "FUND. ADMON. EMPRESAS, 1º,1 er C (grupos 60 y 61) 18:00 a 19:30 07.sep-05.oct: Aula 10.2.3 19.oct-26.oct: Aula 10.2.3 09.nov-30.nov: Aula 10.2.3",
+   "name": "FUND. ADMON. EMPRESAS",
    "course": 1,
    "term": 1,
    "groups": [
@@ -283,7 +283,7 @@
   },
   {
    "code": "13640",
-   "name": "HISTORIA ECONÓMICA, 1º,1 er C (grupos 60 y 61) 16:15 a 17:45 07.sep-05.oct: Aula 10.2.3 19.oct-26.oct: Aula 10.2.3 09.nov-30.nov: Aula 10.2.3",
+   "name": "HISTORIA ECONÓMICA",
    "course": 1,
    "term": 1,
    "groups": [
@@ -455,7 +455,7 @@
   },
   {
    "code": "13443",
-   "name": "INTRODUCCIÓN A LAS MATEMÁTICAS PARA, 1º,1 er C (grupos 60 y 61) 19:45 a 21:15 15.sep: Aula 10.2.2 29.sep: Aula 10.2.2 13.oct: Aula 10.2.2 27.oct: Aula 10.2.2 10.nov: Aula 10.2.2 24.nov: Aula 10.2.2",
+   "name": "INTRODUCCIÓN A LAS MATEMÁTICAS PARA",
    "course": 1,
    "term": 1,
    "groups": [
@@ -746,7 +746,7 @@
   },
   {
    "code": "14122",
-   "name": "MATEMÁTICAS PARA LA ECONOMÍA I, 1º,1 er C (grupos 60 y 61) 18:00 a 19:30 08.sep-01.dic: Aula 10.2.2",
+   "name": "MATEMÁTICAS PARA LA ECONOMÍA I",
    "course": 1,
    "term": 1,
    "groups": [
@@ -894,7 +894,7 @@
   },
   {
    "code": "13635",
-   "name": "PRINCIPIOS DE ECONOMÍA, 1º,1 er C (grupos 60 y 61) 16:15 a 17:45 08.sep-01.dic: Aula 10.2.2",
+   "name": "PRINCIPIOS DE ECONOMÍA",
    "course": 1,
    "term": 1,
    "groups": [
@@ -1072,7 +1072,7 @@
   },
   {
    "code": "13643",
-   "name": "ESTADÍSTICA II",
+   "name": "ESTADÍSTICA II, 2º,1 er C (grupos 63,64 y 65) 09:00 a 10:30 11.sep-11.dic: Aula 10.2.4",
    "course": 2,
    "term": 1,
    "groups": [
@@ -1207,7 +1207,7 @@
   },
   {
    "code": "13642",
-   "name": "MACROECONOMÍA, 2º,1 er C (grupos 60 y 61) 10:45 a 12:15 10.sep-10.dic: Aula 10.2.5",
+   "name": "MACROECONOMÍA, 2º,1 er C (grupos 63,64 y 65) 09:00 a 10:30 09.sep-02.dic: Aula 10.2.4",
    "course": 2,
    "term": 1,
    "groups": [
@@ -1354,12 +1354,12 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 10.2.2",
+       "room": "Aula 10.2.5",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 10.2.2"
+         "room": "Aula 10.2.5"
         }
        ]
       },
@@ -1367,12 +1367,12 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 10.2.5",
+       "room": "Aula 10.2.2",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 10.2.5"
+         "room": "Aula 10.2.2"
         }
        ]
       }
@@ -1477,7 +1477,7 @@
   },
   {
    "code": "13644",
-   "name": "TEORÍA DE LOS JUEGOS, 2º,1 er C (grupos 60,61 y 62) 09:00 a 10:30 10.sep-10.dic: Aula 10.2.5",
+   "name": "TEORÍA DE LOS JUEGOS, 2º,1 er C (grupos 63,64 y 65) 10:45 a 12:15 09.sep-09.dic: Aula 10.2.4",
    "course": 2,
    "term": 1,
    "groups": [
@@ -1854,7 +1854,7 @@
   },
   {
    "code": "13651",
-   "name": "ECONOMÍA PÚBLICA, 3º,1 er C",
+   "name": "ECONOMÍA PÚBLICA, 3º,1 er C (grupos 30,62 y 63) 09:00 a 10:30 08.sep-01.dic: Aula 9.2.6",
    "course": 3,
    "term": 1,
    "groups": [
@@ -1970,7 +1970,7 @@
   },
   {
    "code": "13150",
-   "name": "INT.DCHO. CIVIL PATRIMONI, 1º,1 er C (grupos 60,73 y 74) 18:00 a 19:30 09.sep-09.dic: Aula 10.2.3",
+   "name": "INT.DCHO. CIVIL PATRIMONI, 1º,1 er C",
    "course": 3,
    "term": 1,
    "groups": [
@@ -2056,7 +2056,7 @@
   },
   {
    "code": "13650",
-   "name": "TÉCNICAS ECONOMÉTRICAS, 3º,1 er C (grupos 33,60 y 61) 10:45 a 12:15 08.sep-01.dic: Aula 10.2.10",
+   "name": "TÉCNICAS ECONOMÉTRICAS, 3º,1 er C",
    "course": 3,
    "term": 1,
    "groups": [
@@ -2068,12 +2068,12 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 10.2.10",
+       "room": "Aula 9.2.6",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 10.2.10"
+         "room": "Aula 9.2.6"
         }
        ]
       },
@@ -2081,12 +2081,12 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 9.2.6",
+       "room": "Aula 10.2.10",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 9.2.6"
+         "room": "Aula 10.2.10"
         }
        ]
       }

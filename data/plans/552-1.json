@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Sostenibilidad Urbana",
  "year": "2026",
- "generatedAt": "2026-07-20T07:58:49Z",
+ "generatedAt": "2026-07-27T08:20:21Z",
  "subjects": [
   {
    "code": "20041",
@@ -24,23 +24,27 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "14.sep",
+         "dates": "07.sep",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "28.sep",
+         "dates": "21.sep",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "26.oct",
+         "dates": "05.oct",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "09.nov",
+         "dates": "19.oct",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "23.nov",
+         "dates": "16.nov",
+         "room": "Aula 4.1.08"
+        },
+        {
+         "dates": "30.nov",
          "room": "Aula 4.1.08"
         }
        ]
@@ -357,28 +361,36 @@
      "kind": "magistral",
      "sessions": [
       {
-       "day": 3,
-       "start": "15:00",
-       "end": "16:30",
-       "room": "Aula 14.0.9",
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.1.A02",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 14.0.9"
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.1.A02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.1.A02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.1.A02"
         }
        ]
       },
       {
-       "day": 4,
-       "start": "15:00",
-       "end": "16:30",
-       "room": "Aula 14.0.10",
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.1.A02",
        "type": null,
        "slots": [
         {
-         "dates": "11.sep-11.dic",
-         "room": "Aula 14.0.10"
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.1.A02"
         }
        ]
       }

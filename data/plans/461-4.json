@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Tecnologías del Sector Financiero: FinTech",
  "year": "2026",
- "generatedAt": "2026-07-20T07:50:10Z",
+ "generatedAt": "2026-07-27T08:12:02Z",
  "subjects": [
   {
    "code": "16751",
@@ -339,7 +339,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 1.A.08"
         }
        ]
@@ -378,7 +378,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 1.A.08"
         }
        ]
@@ -538,7 +538,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 1.A.08"
         }
        ]

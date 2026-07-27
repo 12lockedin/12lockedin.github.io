@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Investigación en Comunicación",
  "year": "2026",
- "generatedAt": "2026-07-20T07:57:06Z",
+ "generatedAt": "2026-07-27T08:18:47Z",
  "subjects": [
   {
    "code": "19741",
@@ -608,7 +608,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "12.abr-03.may",
+         "dates": "12.abr-10.may",
          "room": "Aula 18.0.A04"
         }
        ]
@@ -621,7 +621,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "12.abr-03.may",
+         "dates": "12.abr-10.may",
          "room": "Aula 18.0.A04"
         }
        ]

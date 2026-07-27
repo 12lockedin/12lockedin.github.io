@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Gestión y Desarrollo de Tecnologías Biomédicas",
  "year": "2026",
- "generatedAt": "2026-07-20T07:31:16Z",
+ "generatedAt": "2026-07-27T07:52:28Z",
  "subjects": [
   {
    "code": "12408",
@@ -258,7 +258,7 @@
          "room": "Aula 7.2.J08"
         },
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 7.2.J08"
         }
        ]

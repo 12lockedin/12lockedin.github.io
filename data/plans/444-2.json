@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Electrónica Industrial y Automática",
  "year": "2026",
- "generatedAt": "2026-07-20T07:46:03Z",
+ "generatedAt": "2026-07-27T08:07:49Z",
  "subjects": [
   {
    "code": "13966",
@@ -2246,42 +2246,23 @@
      ]
     },
     {
-     "id": "28",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 3,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 1.0.B03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 1.0.B03"
-        }
-       ]
-      }
-     ]
-    },
-    {
      "id": "29",
      "kind": "magistral",
      "sessions": [
       {
        "day": 4,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 1.0.H03",
-       "type": null,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.0.B01",
+       "type": "Obligatoria",
        "slots": [
         {
          "dates": "11.sep-02.oct",
-         "room": "Aula 1.0.H03"
+         "room": "Aula 1.0.B01"
         },
         {
          "dates": "16.oct-11.dic",
-         "room": "Aula 1.0.H03"
+         "room": "Aula 1.0.B01"
         }
        ]
       }
@@ -2803,7 +2784,11 @@
          "room": "Aula INF 1.2.G.02"
         },
         {
-         "dates": "03.nov-10.nov",
+         "dates": "10.nov",
+         "room": "Aula INF 2.2.C.04 DUAL"
+        },
+        {
+         "dates": "01.dic",
          "room": "Aula INF 2.2.C.04 DUAL"
         }
        ]
@@ -2833,12 +2818,12 @@
          "room": "Aula INF 1.2.G.01"
         },
         {
-         "dates": "05.nov",
-         "room": "Aula INF 1.2.G.02"
-        },
-        {
          "dates": "12.nov",
          "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "03.dic",
+         "room": "Aula INF 4.S.D.01"
         }
        ]
       }
@@ -3088,6 +3073,10 @@
         {
          "dates": "28.sep-05.oct",
          "room": "Aula INF 2.2.C.04 DUAL"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula INF 4.S.D.01"
         },
         {
          "dates": "30.nov",

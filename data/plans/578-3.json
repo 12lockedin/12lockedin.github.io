@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-07-20T08:06:09Z",
+ "generatedAt": "2026-07-27T08:27:22Z",
  "subjects": [
   {
    "code": "19408",
@@ -85,36 +85,36 @@
        "day": 3,
        "start": "14:00",
        "end": "15:00",
-       "room": "Aula TALLERES LABORATORIOS",
+       "room": "Aulas 17.1.02 y TALLERES LABORATORIOS",
        "type": "Básica",
        "slots": [
         {
          "dates": "17.sep",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         },
         {
          "dates": "01.oct",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         },
         {
          "dates": "15.oct",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         },
         {
          "dates": "29.oct",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         },
         {
          "dates": "12.nov",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         },
         {
          "dates": "26.nov",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         },
         {
          "dates": "10.dic",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         }
        ]
       },
@@ -338,36 +338,36 @@
        "day": 2,
        "start": "14:00",
        "end": "15:00",
-       "room": "Aula TALLERES LABORATORIOS",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
        "type": "Básica",
        "slots": [
         {
          "dates": "16.sep",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
         },
         {
          "dates": "30.sep",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
         },
         {
          "dates": "14.oct",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
         },
         {
          "dates": "28.oct",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
         },
         {
          "dates": "11.nov",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
         },
         {
          "dates": "25.nov",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
         },
         {
          "dates": "09.dic",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
         }
        ]
       }
@@ -381,32 +381,32 @@
        "day": 1,
        "start": "14:00",
        "end": "15:00",
-       "room": "Aula TALLERES LABORATORIOS",
+       "room": "Aulas 17.1.02 y TALLERES LABORATORIOS",
        "type": "Básica",
        "slots": [
         {
          "dates": "15.sep",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         },
         {
          "dates": "29.sep",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         },
         {
          "dates": "13.oct",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         },
         {
          "dates": "27.oct",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         },
         {
          "dates": "10.nov",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         },
         {
          "dates": "24.nov",
-         "room": "Aula TALLERES LABORATORIOS"
+         "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
         }
        ]
       },

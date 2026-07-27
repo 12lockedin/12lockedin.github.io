@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Economía",
  "year": "2026",
- "generatedAt": "2026-07-20T07:37:07Z",
+ "generatedAt": "2026-07-27T07:58:38Z",
  "subjects": [
   {
    "code": "19408",
@@ -62,7 +62,7 @@
   },
   {
    "code": "13150",
-   "name": "INT.DCHO. CIVIL PATRIMONI, 1º,1 er C (grupos 60,73 y 74) 18:00 a 19:30 09.sep-09.dic: Aula 10.2.3",
+   "name": "INT.DCHO. CIVIL PATRIMONI, 1º,1 er C",
    "course": 1,
    "term": 1,
    "groups": [
@@ -323,7 +323,7 @@
   },
   {
    "code": "13642",
-   "name": "MACROECONOMÍA, 2º,1 er C",
+   "name": "MACROECONOMÍA, 2º,1 er C (grupos 63,64 y 65) 09:00 a 10:30 09.sep-02.dic: Aula 10.2.4",
    "course": 2,
    "term": 1,
    "groups": [
@@ -401,7 +401,7 @@
   },
   {
    "code": "13644",
-   "name": "TEORÍA DE LOS JUEGOS, 2º,1 er C (grupos 60,61 y 62) 09:00 a 10:30 10.sep-10.dic: Aula 10.2.5",
+   "name": "TEORÍA DE LOS JUEGOS, 2º,1 er C",
    "course": 2,
    "term": 1,
    "groups": [
@@ -495,7 +495,7 @@
   },
   {
    "code": "13645",
-   "name": "TEORÍA MICROECONÓMICA, 2º,1 er C (grupos 60 y 61) 09:00 a 10:30 11.sep-11.dic: Aula 10.2.2",
+   "name": "TEORÍA MICROECONÓMICA, 2º,1 er C",
    "course": 2,
    "term": 1,
    "groups": [
@@ -589,7 +589,7 @@
   },
   {
    "code": "13651",
-   "name": "ECONOMÍA PÚBLICA, 3º,1 er C",
+   "name": "ECONOMÍA PÚBLICA, 3º,1 er C (grupos 30,62 y 63) 09:00 a 10:30 08.sep-01.dic: Aula 9.2.6",
    "course": 3,
    "term": 1,
    "groups": [
@@ -798,7 +798,7 @@
   },
   {
    "code": "13650",
-   "name": "TÉCNICAS ECONOMÉTRICAS, 3º,1 er C (grupos 33,60 y 61) 10:45 a 12:15 08.sep-01.dic: Aula 10.2.10",
+   "name": "TÉCNICAS ECONOMÉTRICAS, 3º,1 er C",
    "course": 3,
    "term": 1,
    "groups": [
@@ -810,12 +810,12 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 10.2.10",
+       "room": "Aula 9.2.6",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 10.2.10"
+         "room": "Aula 9.2.6"
         }
        ]
       },
@@ -823,12 +823,12 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 9.2.6",
+       "room": "Aula 10.2.10",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 9.2.6"
+         "room": "Aula 10.2.10"
         }
        ]
       }

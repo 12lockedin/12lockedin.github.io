@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Matemática Aplicada",
  "year": "2026",
- "generatedAt": "2026-07-20T07:59:18Z",
+ "generatedAt": "2026-07-27T08:20:47Z",
  "subjects": [
   {
    "code": "19893",
@@ -571,12 +571,12 @@
        "day": 0,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aulas INF 7.0.J03 DUAL + TEL y INF 7.0.J04 DUAL",
+       "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL",
        "type": null,
        "slots": [
         {
          "dates": "05.oct",
-         "room": "Aulas INF 7.0.J03 DUAL + TEL y INF 7.0.J04 DUAL"
+         "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
         }
        ]
       },

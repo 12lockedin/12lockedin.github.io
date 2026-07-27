@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Diseño Microelectrónico",
  "year": "2026",
- "generatedAt": "2026-07-20T07:58:34Z",
+ "generatedAt": "2026-07-27T08:20:06Z",
  "subjects": [
   {
    "code": "20087",
@@ -23,7 +23,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-22.sep",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "06.oct-01.dic",
          "room": "Aula 2.3.A03B"
         },
         {
@@ -103,14 +107,14 @@
      "sessions": [
       {
        "day": 1,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "* SIN AULA *",
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.A03B",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "08.sep-20.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.3.A03B"
         }
        ]
       },
@@ -118,12 +122,16 @@
        "day": 4,
        "start": "17:15",
        "end": "18:45",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.1.H01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-23.oct",
-         "room": "* SIN AULA *"
+         "dates": "11.sep-02.oct",
+         "room": "Aula 7.1.H01"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 7.1.H01"
         }
        ]
       }
@@ -338,6 +346,32 @@
        ]
       },
       {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.sep",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "15:30",
        "end": "17:00",
@@ -546,7 +580,7 @@
          "room": "Aula 2.3.A03B"
         },
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 2.3.A03B"
         }
        ]
@@ -623,7 +657,7 @@
          "room": "Aula 2.3.A03B"
         },
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 2.3.A03B"
         }
        ]

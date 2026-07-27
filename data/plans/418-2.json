@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería en Tecnologías Industriales",
  "year": "2026",
- "generatedAt": "2026-07-20T07:41:25Z",
+ "generatedAt": "2026-07-27T08:03:05Z",
  "subjects": [
   {
    "code": "15489",
@@ -5956,19 +5956,6 @@
        ]
       },
       {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aulas LAB 1.0.D04 (Ing Electrica) y LAB 1.0.D05 (Ing. Elec)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.nov",
-         "room": "Aulas LAB 1.0.D04 (Ing Electrica) y LAB 1.0.D05 (Ing. Elec)"
-        }
-       ]
-      },
-      {
        "day": 3,
        "start": "09:00",
        "end": "10:30",
@@ -6007,6 +5994,10 @@
         },
         {
          "dates": "16.oct",
+         "room": "Aulas LAB 1.0.D04 (Ing Electrica) y LAB 1.0.D05 (Ing. Elec)"
+        },
+        {
+         "dates": "27.nov",
          "room": "Aulas LAB 1.0.D04 (Ing Electrica) y LAB 1.0.D05 (Ing. Elec)"
         }
        ]
@@ -6975,16 +6966,16 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aulas 7.0.J06 y 7.1.J01",
+       "room": "Aulas INF 1.2.G.01 y INF 1.2.G.02",
        "type": null,
        "slots": [
         {
          "dates": "14.oct",
-         "room": "Aulas 7.0.J06 y 7.1.J01"
+         "room": "Aulas INF 1.2.G.01 y INF 1.2.G.02"
         },
         {
          "dates": "18.nov",
-         "room": "Aulas 7.0.J01 y 7.0.J06"
+         "room": "Aulas INF 1.2.G.01 y INF 1.2.G.02"
         }
        ]
       }
@@ -7032,12 +7023,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aulas 7.1.J04 y 7.1.J08",
+       "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL",
        "type": null,
        "slots": [
         {
          "dates": "15.oct",
-         "room": "Aulas 7.1.J04 y 7.1.J08"
+         "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL"
         }
        ]
       }
@@ -7051,16 +7042,16 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aulas 7.1.J01 y 7.1.J07",
+       "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL",
        "type": null,
        "slots": [
         {
          "dates": "13.oct",
-         "room": "Aulas 7.1.J01 y 7.1.J07"
+         "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL"
         },
         {
          "dates": "17.nov",
-         "room": "Aulas 2.3.C02 y 2.3.D03"
+         "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL"
         }
        ]
       },

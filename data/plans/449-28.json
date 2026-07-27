@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-07-20T07:48:11Z",
+ "generatedAt": "2026-07-27T08:09:54Z",
  "subjects": [
   {
    "code": "18647",
@@ -45,6 +45,31 @@
     {
      "id": "1",
      "sessions": [
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.1.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aula 4.1.E03"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 4.2.E04"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula 4.1.E03"
+        }
+       ]
+      },
       {
        "day": 2,
        "start": "15:30",
@@ -282,20 +307,20 @@
        "day": 0,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 1.0.C01",
+       "room": "Aula INF 7.0.J04 DUAL",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.0.C01"
+         "room": "Aula INF 7.0.J04 DUAL"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.0.C01"
+         "room": "Aula INF 7.0.J04 DUAL"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.0.C01"
+         "room": "Aula INF 7.0.J04 DUAL"
         }
        ]
       },
@@ -309,6 +334,19 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 1.0.B01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula INF 7.0.J04 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.oct-18.nov",
+         "room": "Aula INF 7.0.J04 DUAL"
         }
        ]
       }

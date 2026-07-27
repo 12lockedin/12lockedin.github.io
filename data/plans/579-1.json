@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ciencias Políticas y Sociología",
  "year": "2026",
- "generatedAt": "2026-07-20T08:06:20Z",
+ "generatedAt": "2026-07-27T08:27:33Z",
  "subjects": [
   {
    "code": "19408",
@@ -210,7 +210,7 @@
   },
   {
    "code": "13000",
-   "name": "INTROD. A LA SOCIOLOGÍA, 1º,1 er C",
+   "name": "INTROD. A LA SOCIOLOGÍA",
    "course": 1,
    "term": 1,
    "groups": [

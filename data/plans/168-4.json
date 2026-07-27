@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencias Actuariales y Financieras",
  "year": "2026",
- "generatedAt": "2026-07-20T07:28:18Z",
+ "generatedAt": "2026-07-27T07:49:33Z",
  "subjects": [
   {
    "code": "14248",
@@ -906,7 +906,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula -1.A.04"
         }
        ]
@@ -919,7 +919,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula -1.A.04"
         }
        ]

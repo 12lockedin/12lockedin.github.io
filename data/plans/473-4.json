@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Desarrollo Sostenible y Gobernanza Global/ Global Sustainable Development and Global Governance",
  "year": "2026",
- "generatedAt": "2026-07-20T07:51:14Z",
+ "generatedAt": "2026-07-27T08:13:04Z",
  "subjects": [
   {
    "code": "19157",
@@ -1353,7 +1353,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "12.abr-03.may",
+         "dates": "12.abr-10.may",
          "room": "Aula 0.A.05"
         }
        ]
@@ -1366,7 +1366,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "12.abr-03.may",
+         "dates": "12.abr-10.may",
          "room": "Aula 0.A.05"
         }
        ]

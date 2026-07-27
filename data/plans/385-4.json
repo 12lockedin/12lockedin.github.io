@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Análisis Político y Electoral",
  "year": "2026",
- "generatedAt": "2026-07-20T07:34:18Z",
+ "generatedAt": "2026-07-27T07:55:30Z",
  "subjects": [
   {
    "code": "17737",
@@ -836,7 +836,7 @@
          "room": "Aula 0.A.06"
         },
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 0.A.06"
         }
        ]
@@ -853,7 +853,7 @@
          "room": "Aula 0.A.06"
         },
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 0.A.06"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Industrial",
  "year": "2026",
- "generatedAt": "2026-07-20T07:28:32Z",
+ "generatedAt": "2026-07-27T07:49:47Z",
  "subjects": [
   {
    "code": "14283",
@@ -15,6 +15,69 @@
     {
      "id": "1",
      "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula INF 1.2.G.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep",
+         "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "16.nov",
+         "room": "LAB 1.1.N04 (Mecánica)"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula INF 1.2.G.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep",
+         "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "16.nov",
+         "room": "LAB 1.1.N04 (Mecánica)"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 1.1.N04 (Mecánica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "LAB 1.1.N04 (Mecánica)"
+        }
+       ]
+      },
       {
        "day": 1,
        "start": "12:30",
@@ -1225,16 +1288,16 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 1.0.F03",
+       "room": "LAB 1.0.B06 (Automatica)",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "11.sep-02.oct",
-         "room": "Aula 1.0.F03"
+         "room": "LAB 1.0.B06 (Automatica)"
         },
         {
          "dates": "16.oct-11.dic",
-         "room": "Aula 1.0.F03"
+         "room": "LAB 1.0.B06 (Automatica)"
         }
        ]
       }
@@ -1247,12 +1310,12 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 1.0.F03",
+       "room": "LAB 1.0.B06 (Automatica)",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 1.0.F03"
+         "room": "LAB 1.0.B06 (Automatica)"
         }
        ]
       }
@@ -1265,12 +1328,12 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 1.1.G02",
+       "room": "LAB 1.0.B06 (Automatica)",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 1.1.G02"
+         "room": "LAB 1.0.B06 (Automatica)"
         }
        ]
       }
@@ -1283,12 +1346,12 @@
        "day": 3,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 4.0.D03",
+       "room": "LAB 1.0.B06 (Automatica)",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 4.0.D03"
+         "room": "LAB 1.0.B06 (Automatica)"
         }
        ]
       }

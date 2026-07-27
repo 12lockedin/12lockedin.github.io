@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Telemática",
  "year": "2026",
- "generatedAt": "2026-07-20T07:47:58Z",
+ "generatedAt": "2026-07-27T08:09:44Z",
  "subjects": [
   {
    "code": "15364",
@@ -2190,8 +2190,48 @@
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-24.sep",
          "room": "Aula 4.1.E04"
+        },
+        {
+         "dates": "01.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "08.oct",
+         "room": "Aula 4.1.E04"
+        },
+        {
+         "dates": "15.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula 4.1.E04"
+        },
+        {
+         "dates": "29.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aula 4.1.E04"
+        },
+        {
+         "dates": "12.nov",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "19.nov-26.nov",
+         "room": "Aula 4.1.E04"
+        },
+        {
+         "dates": "03.dic",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
         }
        ]
       }

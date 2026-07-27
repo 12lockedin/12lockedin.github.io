@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ciencias",
  "year": "2026",
- "generatedAt": "2026-07-20T07:48:43Z",
+ "generatedAt": "2026-07-27T08:10:38Z",
  "subjects": [
   {
    "code": "18694",
@@ -162,23 +162,6 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.3.A05",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "11.sep-02.oct",
-         "room": "Aula 2.3.A05"
-        },
-        {
-         "dates": "16.oct-11.dic",
-         "room": "Aula 2.3.A05"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:30",
-       "end": "17:00",
        "room": "Aula 4.2.E05",
        "type": "Obligatoria",
        "slots": [
@@ -205,6 +188,23 @@
         {
          "dates": "27.nov-04.dic",
          "room": "Aula 7.1.J07"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.3.A05"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 2.3.A05"
         }
        ]
       }

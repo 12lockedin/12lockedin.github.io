@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería de Comunicaciones Móviles y Espaciales",
  "year": "2026",
- "generatedAt": "2026-07-20T08:01:29Z",
+ "generatedAt": "2026-07-27T08:22:56Z",
  "subjects": [
   {
    "code": "15364",
@@ -1353,12 +1353,12 @@
        "day": 1,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 1.0.F02",
+       "room": "LAB 4.1.B01 (Telematica)",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 1.0.F02"
+         "room": "LAB 4.1.B01 (Telematica)"
         }
        ]
       },

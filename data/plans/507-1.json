@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Estudios Internacionales y Derecho",
  "year": "2026",
- "generatedAt": "2026-07-20T07:54:50Z",
+ "generatedAt": "2026-07-27T08:16:41Z",
  "subjects": [
   {
    "code": "19408",
@@ -928,7 +928,7 @@
   },
   {
    "code": "13576",
-   "name": "DCHO UNIÓN EUROPEA",
+   "name": "DCHO UNIÓN EUROPEA, 3º,1 er C (grupos 19 y 119) 16:15 a 17:45 15.sep: Aula 9.2.9 29.sep: Aula 9.2.9 13.oct: Aula 9.2.9 27.oct: Aula 9.2.9 10.nov: Aula 9.2.9 24.nov: Aula 9.2.9",
    "course": 3,
    "term": 1,
    "groups": [

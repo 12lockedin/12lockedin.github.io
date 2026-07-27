@@ -1,0 +1,442 @@
+{
+ "plan": 606,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Formación del Profesorado. Especialidad Tecnología",
+ "year": "2026",
+ "generatedAt": "2026-07-27T08:37:08Z",
+ "subjects": [
+  {
+   "code": "20918",
+   "name": "Aprendizaje y desarrollo de la personalidad",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "2",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "14.dic-21.dic",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov-01.dic",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20921",
+   "name": "Competencias digitales en la función docente",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "2",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-10.nov",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20931",
+   "name": "Complementos para la formación disciplinar en Tecnología",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-02.dic",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "16.dic",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20922",
+   "name": "Metodologías de enseñanza para el aprendizaje activo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "2",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-11.nov",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20923",
+   "name": "Oratoria y liderazgo pedagógico en el aula",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "2",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-10.nov",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20919",
+   "name": "Procesos y contextos educativos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "2",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov-01.dic",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20920",
+   "name": "Sociedad, familia y educación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "2",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov-16.dic",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20939",
+   "name": "Aprendizaje y enseñanza de la Tecnología",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "05.abr-10.may",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-15.mar",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "05.abr-10.may",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20947",
+   "name": "Innovación docente e iniciación en la investigación educativa en Tecnología",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-16.mar",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-17.mar",
+         "room": "Aula 1.2.G04"
+        },
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

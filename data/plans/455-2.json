@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Física e Ingeniería en Tecnologías Industriales",
  "year": "2026",
- "generatedAt": "2026-07-20T07:49:07Z",
+ "generatedAt": "2026-07-27T08:11:01Z",
  "subjects": [
   {
    "code": "18296",
@@ -2128,16 +2128,16 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aulas 7.0.J06 y 7.1.J01",
+       "room": "Aulas INF 1.2.G.01 y INF 1.2.G.02",
        "type": null,
        "slots": [
         {
          "dates": "14.oct",
-         "room": "Aulas 7.0.J06 y 7.1.J01"
+         "room": "Aulas INF 1.2.G.01 y INF 1.2.G.02"
         },
         {
          "dates": "18.nov",
-         "room": "Aulas 7.0.J01 y 7.0.J06"
+         "room": "Aulas INF 1.2.G.01 y INF 1.2.G.02"
         }
        ]
       }
@@ -2185,12 +2185,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aulas 7.1.J04 y 7.1.J08",
+       "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL",
        "type": null,
        "slots": [
         {
          "dates": "15.oct",
-         "room": "Aulas 7.1.J04 y 7.1.J08"
+         "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL"
         }
        ]
       }
@@ -2204,16 +2204,16 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aulas 7.1.J01 y 7.1.J07",
+       "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL",
        "type": null,
        "slots": [
         {
          "dates": "13.oct",
-         "room": "Aulas 7.1.J01 y 7.1.J07"
+         "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL"
         },
         {
          "dates": "17.nov",
-         "room": "Aulas 2.3.C02 y 2.3.D03"
+         "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL"
         }
        ]
       },

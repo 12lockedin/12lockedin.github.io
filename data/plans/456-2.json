@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado Ciencia e Ingeniería de Datos - Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-07-20T07:49:37Z",
+ "generatedAt": "2026-07-27T08:11:30Z",
  "subjects": [
   {
    "code": "15364",
@@ -2343,79 +2343,6 @@
         {
          "dates": "03.nov",
          "room": "LAB 4.1.B01 (Telematica)"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "16498",
-   "name": "APRENDIZAJE AUTOMÁTICO II, 3º,1 er C",
-   "course": 4,
-   "term": 1,
-   "groups": [
-    {
-     "id": "96",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 4.0.E05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "07.sep-05.oct",
-         "room": "Aula 4.0.E05"
-        },
-        {
-         "dates": "19.oct-26.oct",
-         "room": "Aula 4.0.E05"
-        },
-        {
-         "dates": "09.nov-30.nov",
-         "room": "Aula 4.0.E05"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 4.1.D03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "22.sep",
-         "room": "Aula 4.1.D03"
-        },
-        {
-         "dates": "20.oct",
-         "room": "Aula 4.1.D03"
-        },
-        {
-         "dates": "10.nov",
-         "room": "Aula 4.1.D03"
-        },
-        {
-         "dates": "24.nov",
-         "room": "Aula 4.1.D03"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 4.1.E04",
-       "type": null,
-       "slots": [
-        {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 4.1.E04"
         }
        ]
       }

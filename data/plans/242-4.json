@@ -1,0 +1,502 @@
+{
+ "plan": 242,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Desarrollo y Crecimiento Económico/Master in Economic Development and Growth",
+ "year": "2026",
+ "generatedAt": "2026-07-27T08:35:42Z",
+ "subjects": [
+  {
+   "code": "15629",
+   "name": "Crecimiento Económico: Teoría y Métodos Empíricos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep-05.oct",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-29.sep",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "13.oct-27.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15631",
+   "name": "Econometría I: Series Temporales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-24.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov-09.dic",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-19.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15630",
+   "name": "Economía del Desarrollo",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "22.sep-03.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "23.sep-07.oct",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "21.oct-11.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15628",
+   "name": "Economía Internacional",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-23.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.dic",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-24.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15625",
+   "name": "Introducción a la Econometría",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep-30.sep",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "21.oct-28.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep-01.oct",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "22.oct-29.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15642",
+   "name": "Métodos de Investigación Avanzados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov-09.dic",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic-10.dic",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-26.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15626",
+   "name": "Microeconomía",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep-05.oct",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep-08.oct",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "22.oct-29.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "15633",
+   "name": "Crecimiento Económico, Convergencia y Globalización en el Largo Plazo",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "15637",
+   "name": "Desarrollo Agrícola e Instituciones Rurales",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "15634",
+   "name": "Desarrollo Económico de América Latina en el Largo Plazo",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "15635",
+   "name": "Econometría II: Micro-econometría",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "16011",
+   "name": "Historia Económica de los Siglos XIX y XX",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "15640",
+   "name": "Instituciones, Desarrollo y Crecimiento",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "15627",
+   "name": "Macroeconomía",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "15639",
+   "name": "Medición de Bienestar, Desigualdad y Pobreza",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "15636",
+   "name": "Mercados Laborales en Países en Desarrollo",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "15638",
+   "name": "Sistemas Financieros en Países en Desarrollo",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Sistemas Electrónicos y Aplicaciones",
  "year": "2026",
- "generatedAt": "2026-07-20T07:31:28Z",
+ "generatedAt": "2026-07-27T07:52:41Z",
  "subjects": [
   {
    "code": "12417",
@@ -122,20 +122,12 @@
       {
        "day": 4,
        "start": "16:00",
-       "end": "17:30",
+       "end": "19:00",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "18.sep-25.sep",
-         "room": "Aula 2.3.C02B"
-        },
-        {
-         "dates": "06.nov",
-         "room": "* SIN AULA *"
-        },
-        {
-         "dates": "27.nov",
+         "dates": "02.oct",
          "room": "Aula 2.3.C02B"
         }
        ]
@@ -156,12 +148,20 @@
       {
        "day": 4,
        "start": "16:00",
-       "end": "19:00",
+       "end": "17:30",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.oct",
+         "dates": "18.sep-25.sep",
+         "room": "Aula 2.3.C02B"
+        },
+        {
+         "dates": "06.nov",
+         "room": "* SIN AULA *"
+        },
+        {
+         "dates": "27.nov",
          "room": "Aula 2.3.C02B"
         }
        ]
@@ -229,6 +229,19 @@
        "day": 2,
        "start": "19:00",
        "end": "20:30",
+       "room": "LAB 1.0.E01 (Electrónica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "LAB 1.0.E01 (Electrónica)"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
        "slots": [
@@ -239,19 +252,6 @@
         {
          "dates": "21.oct",
          "room": "Aula 2.3.C02B"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "LAB 1.0.E01 (Electrónica)",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "14.oct",
-         "room": "LAB 1.0.E01 (Electrónica)"
         }
        ]
       }
@@ -876,7 +876,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 2.3.C02B"
         }
        ]
@@ -1045,7 +1045,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 2.3.C02B"
         }
        ]

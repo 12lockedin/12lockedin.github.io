@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Neurociencia",
  "year": "2026",
- "generatedAt": "2026-07-20T07:57:15Z",
+ "generatedAt": "2026-07-27T08:18:55Z",
  "subjects": [
   {
    "code": "19760",
@@ -388,19 +388,11 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "25.sep",
+         "dates": "06.nov-13.nov",
          "room": "Aula 20.1.D01"
         },
         {
-         "dates": "16.oct",
-         "room": "Aula 20.1.D01"
-        },
-        {
-         "dates": "06.nov",
-         "room": "Aula 20.1.D01"
-        },
-        {
-         "dates": "27.nov",
+         "dates": "27.nov-04.dic",
          "room": "Aula 20.1.D01"
         }
        ]
@@ -790,23 +782,6 @@
       {
        "day": 4,
        "start": "09:00",
-       "end": "11:00",
-       "room": "LAB-20.1.A01",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "09.oct",
-         "room": "LAB-20.1.A01"
-        },
-        {
-         "dates": "27.nov",
-         "room": "Aula INF-15.S.04"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "09:00",
        "end": "13:00",
        "room": "Aula INF-15.S.04",
        "type": "Obligatoria",
@@ -817,6 +792,23 @@
         },
         {
          "dates": "06.nov-20.nov",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "LAB-20.1.A01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.oct",
+         "room": "LAB-20.1.A01"
+        },
+        {
+         "dates": "27.nov",
          "room": "Aula INF-15.S.04"
         }
        ]

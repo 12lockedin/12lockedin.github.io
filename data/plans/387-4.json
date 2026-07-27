@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Geopolítica y Estudios Estratégicos",
  "year": "2026",
- "generatedAt": "2026-07-20T07:34:45Z",
+ "generatedAt": "2026-07-27T07:56:08Z",
  "subjects": [
   {
    "code": "17777",
@@ -369,7 +369,11 @@
          "room": "Aula -1.A.07"
         },
         {
-         "dates": "05.nov-17.dic",
+         "dates": "05.nov-19.nov",
+         "room": "Aula -1.A.07"
+        },
+        {
+         "dates": "03.dic-17.dic",
          "room": "Aula -1.A.07"
         }
        ]
@@ -386,7 +390,11 @@
          "room": "Aula -1.A.07"
         },
         {
-         "dates": "05.nov-17.dic",
+         "dates": "05.nov-19.nov",
+         "room": "Aula -1.A.07"
+        },
+        {
+         "dates": "03.dic-17.dic",
          "room": "Aula -1.A.07"
         }
        ]
@@ -399,15 +407,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "17.sep",
-         "room": "Aula -1.A.07"
-        },
-        {
          "dates": "01.oct",
          "room": "Aula -1.A.07"
         },
         {
          "dates": "15.oct",
+         "room": "Aula -1.A.07"
+        },
+        {
+         "dates": "03.dic-17.dic",
          "room": "Aula -1.A.07"
         }
        ]
@@ -579,7 +587,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula -1.A.07"
         }
        ]
@@ -592,7 +600,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula -1.A.07"
         }
        ]
@@ -721,7 +729,7 @@
          "room": "Aula -1.A.07"
         },
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula -1.A.07"
         }
        ]

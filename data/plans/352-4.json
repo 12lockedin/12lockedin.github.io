@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Métodos Analíticos para Datos Masivos: Big Data / Master in Big Data Analytics",
  "year": "2026",
- "generatedAt": "2026-07-20T07:32:03Z",
+ "generatedAt": "2026-07-27T07:53:14Z",
  "subjects": [
   {
    "code": "17234",
@@ -193,27 +193,27 @@
      "id": "1",
      "sessions": [
       {
-       "day": 2,
+       "day": 3,
        "start": "09:30",
        "end": "11:00",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "09.sep-21.oct",
+         "dates": "10.sep-22.oct",
          "room": "Aula 0.A.09"
         }
        ]
       },
       {
-       "day": 2,
+       "day": 3,
        "start": "11:15",
        "end": "12:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "09.sep-21.oct",
+         "dates": "10.sep-22.oct",
          "room": "Aula 0.A.09"
         }
        ]
@@ -337,11 +337,20 @@
        "type": null,
        "slots": [
         {
-         "dates": "16.nov-30.nov",
+         "dates": "16.nov-23.nov",
          "room": "Aula 0.A.09"
-        },
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "13:00",
+       "end": "14:30",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
         {
-         "dates": "14.dic",
+         "dates": "04.nov-11.nov",
          "room": "Aula 0.A.09"
         }
        ]
@@ -386,27 +395,27 @@
      "id": "1",
      "sessions": [
       {
-       "day": 3,
+       "day": 2,
        "start": "09:30",
        "end": "11:00",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-22.oct",
+         "dates": "09.sep-21.oct",
          "room": "Aula 0.A.09"
         }
        ]
       },
       {
-       "day": 3,
+       "day": 2,
        "start": "11:15",
        "end": "12:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-22.oct",
+         "dates": "09.sep-21.oct",
          "room": "Aula 0.A.09"
         }
        ]
@@ -549,7 +558,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 0.A.09"
         }
        ]
@@ -562,7 +571,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 0.A.09"
         }
        ]
@@ -575,7 +584,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "03.may",
+         "dates": "03.may-10.may",
          "room": "Aula 0.A.09"
         }
        ]

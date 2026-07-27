@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Derecho",
  "year": "2026",
- "generatedAt": "2026-07-20T08:00:16Z",
+ "generatedAt": "2026-07-27T08:21:46Z",
  "subjects": [
   {
    "code": "19408",
@@ -405,7 +405,7 @@
        "start": "19:45",
        "end": "21:15",
        "room": "Aula 5.1.03",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
@@ -662,7 +662,7 @@
        "start": "16:15",
        "end": "17:45",
        "room": "Aula 4.1.05",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "11.sep-11.dic",

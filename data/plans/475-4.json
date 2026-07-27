@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Inteligencia Artificial Aplicada",
  "year": "2026",
- "generatedAt": "2026-07-20T07:51:32Z",
+ "generatedAt": "2026-07-27T08:13:31Z",
  "subjects": [
   {
    "code": "19205",
@@ -700,7 +700,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 0.A.08"
         }
        ]
@@ -817,7 +817,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 0.A.08"
         }
        ]

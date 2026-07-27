@@ -4,8 +4,35 @@
  "type": "grado",
  "name": "Grado en Estadística y Empresa",
  "year": "2026",
- "generatedAt": "2026-07-20T07:37:35Z",
+ "generatedAt": "2026-07-27T07:59:07Z",
  "subjects": [
+  {
+   "code": "19408",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC, 1º,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "63",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 6.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 6.1.02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
   {
    "code": "14459",
    "name": "CÁLCULO I, 1º,1 er C (grupos 27 y 28) 16:15 a 17:45 08.sep-01.dic: Aula 10.2.4",

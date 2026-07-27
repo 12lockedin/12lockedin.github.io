@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería de la Energía",
  "year": "2026",
- "generatedAt": "2026-07-20T07:48:37Z",
+ "generatedAt": "2026-07-27T08:10:34Z",
  "subjects": [
   {
    "code": "13966",
@@ -1041,7 +1041,7 @@
   },
   {
    "code": "14360",
-   "name": "TÉCNICAS EXPRESIÓN ORAL Y ESCRITA, 1º,1 er C",
+   "name": "TÉCNICAS EXPRESIÓN ORAL Y ESCRITA",
    "course": 1,
    "term": 1,
    "groups": [
@@ -1050,38 +1050,15 @@
      "kind": "magistral",
      "sessions": [
       {
-       "day": 3,
-       "start": "09:00",
-       "end": "10:30",
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 1.0.B03",
-       "type": null,
+       "type": "Obligatoria",
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "08.sep-01.dic",
          "room": "Aula 1.0.B03"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "29",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 1.0.H03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "11.sep-02.oct",
-         "room": "Aula 1.0.H03"
-        },
-        {
-         "dates": "16.oct-11.dic",
-         "room": "Aula 1.0.H03"
         }
        ]
       }

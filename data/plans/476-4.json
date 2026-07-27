@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Tecnologías e Ingeniería Cuánticas",
  "year": "2026",
- "generatedAt": "2026-07-20T07:51:48Z",
+ "generatedAt": "2026-07-27T08:13:46Z",
  "subjects": [
   {
    "code": "19598",
@@ -19,24 +19,16 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 7.1.J01",
+       "room": "Aula 1.0.B01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.nov-10.nov",
-         "room": "Aula 7.1.J01"
-        },
-        {
-         "dates": "17.nov",
-         "room": "Aula 7.1.J03"
-        },
-        {
-         "dates": "24.nov-01.dic",
-         "room": "Aula 7.1.J01"
+         "dates": "03.nov-01.dic",
+         "room": "Aula 1.0.B01"
         },
         {
          "dates": "15.dic",
-         "room": "Aula 7.1.J01"
+         "room": "Aula 1.0.B01"
         }
        ]
       },
@@ -199,12 +191,8 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-01.oct",
+         "dates": "10.sep-22.oct",
          "room": "Aula 1.2.G04"
-        },
-        {
-         "dates": "08.oct-22.oct",
-         "room": "Aula 2.0.C15"
         }
        ]
       }
@@ -289,20 +277,12 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 7.1.J04",
+       "room": "* SIN AULA *",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-29.sep",
-         "room": "Aula 7.1.J04"
-        },
-        {
-         "dates": "06.oct",
-         "room": "Aula 7.1.J07"
-        },
-        {
-         "dates": "13.oct-20.oct",
-         "room": "Aula 7.1.J04"
+         "dates": "08.sep-20.oct",
+         "room": "* SIN AULA *"
         }
        ]
       }
@@ -574,12 +554,12 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 4.1.E02",
+       "room": "Aula 2.3.A04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.sep-21.oct",
-         "room": "Aula 4.1.E02"
+         "room": "Aula 2.3.A04"
         }
        ]
       }
@@ -715,28 +695,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.3.D01",
+       "room": "Aula 1.2.G04",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.nov",
-         "room": "Aula 2.3.D01"
-        },
-        {
-         "dates": "12.nov",
+         "dates": "05.nov-17.dic",
          "room": "Aula 1.2.G04"
-        },
-        {
-         "dates": "19.nov-26.nov",
-         "room": "Aula 2.3.D01"
-        },
-        {
-         "dates": "03.dic",
-         "room": "Aula 1.2.G04"
-        },
-        {
-         "dates": "10.dic-17.dic",
-         "room": "Aula 2.3.D01"
         }
        ]
       }
@@ -761,7 +725,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 4.2.E02"
         }
        ]
@@ -1037,7 +1001,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.abr-03.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 4.2.E02"
         }
        ]
