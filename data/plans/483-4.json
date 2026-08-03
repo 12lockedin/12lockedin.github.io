@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Finanzas / Master in Finance",
  "year": "2026",
- "generatedAt": "2026-07-27T08:36:49Z",
+ "generatedAt": "2026-08-03T08:08:53Z",
  "subjects": [
   {
    "code": "19328",
@@ -19,16 +19,16 @@
        "day": 1,
        "start": "09:00",
        "end": "10:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "03.nov-01.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         },
         {
          "dates": "15.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -36,16 +36,16 @@
        "day": 1,
        "start": "11:15",
        "end": "13:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "03.nov-01.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         },
         {
          "dates": "15.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       }
@@ -66,12 +66,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:15",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.sep-14.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -79,12 +79,12 @@
        "day": 4,
        "start": "11:00",
        "end": "12:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "11.sep-16.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       }
@@ -105,12 +105,12 @@
        "day": 1,
        "start": "14:00",
        "end": "15:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "15.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -118,12 +118,12 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -131,12 +131,12 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -144,12 +144,12 @@
        "day": 2,
        "start": "11:15",
        "end": "12:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "04.nov-02.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -157,12 +157,12 @@
        "day": 2,
        "start": "13:00",
        "end": "15:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "16.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -170,12 +170,12 @@
        "day": 2,
        "start": "13:15",
        "end": "14:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "04.nov-02.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -183,12 +183,12 @@
        "day": 4,
        "start": "09:00",
        "end": "11:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "18.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       }
@@ -209,12 +209,12 @@
        "day": 4,
        "start": "11:45",
        "end": "13:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "06.nov-11.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -222,12 +222,12 @@
        "day": 4,
        "start": "14:00",
        "end": "15:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "06.nov-11.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       }
@@ -248,20 +248,20 @@
        "day": 0,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "07.sep",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         },
         {
          "dates": "21.sep",
-         "room": "Aula 2.A.03"
+         "room": "Aula -1.A.01"
         },
         {
          "dates": "05.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -269,25 +269,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "29.sep-20.oct",
-         "room": "Aula 2.A.03"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "11:00",
-       "end": "12:45",
-       "room": "Aula 2.A.03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "20.oct",
-         "room": "Aula 2.A.03"
+         "dates": "29.sep-13.oct",
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -295,12 +282,25 @@
        "day": 1,
        "start": "13:00",
        "end": "14:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "08.sep-15.sep",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 1.A.07 INF",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 1.A.07 INF"
         }
        ]
       },
@@ -308,12 +308,25 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "06.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 1.A.07 INF",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 1.A.07 INF"
         }
        ]
       },
@@ -321,12 +334,12 @@
        "day": 2,
        "start": "15:00",
        "end": "16:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "23.sep",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -334,12 +347,12 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "01.oct-15.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -347,12 +360,12 @@
        "day": 3,
        "start": "13:00",
        "end": "14:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "17.sep",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -360,12 +373,12 @@
        "day": 3,
        "start": "15:00",
        "end": "16:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "24.sep",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -373,12 +386,12 @@
        "day": 4,
        "start": "13:30",
        "end": "15:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "02.oct-16.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       }
@@ -464,16 +477,16 @@
        "day": 0,
        "start": "09:00",
        "end": "10:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         },
         {
          "dates": "19.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -481,16 +494,33 @@
        "day": 0,
        "start": "11:00",
        "end": "12:15",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.sep-05.oct",
-         "room": "Aula 2.A.03"
+         "dates": "07.sep-14.sep",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula 1.A.04"
         },
         {
          "dates": "19.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:15",
+       "end": "12:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep",
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -498,12 +528,12 @@
        "day": 1,
        "start": "14:15",
        "end": "16:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "13.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -511,12 +541,12 @@
        "day": 1,
        "start": "16:30",
        "end": "17:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula -1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "13.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula -1.A.01"
         }
        ]
       }
@@ -537,16 +567,16 @@
        "day": 0,
        "start": "13:00",
        "end": "14:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         },
         {
          "dates": "19.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -554,12 +584,12 @@
        "day": 3,
        "start": "13:15",
        "end": "15:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "15.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -567,12 +597,12 @@
        "day": 4,
        "start": "09:00",
        "end": "10:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "11.sep-23.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       }
@@ -593,12 +623,12 @@
        "day": 2,
        "start": "09:00",
        "end": "10:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.sep-14.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -606,12 +636,12 @@
        "day": 2,
        "start": "11:00",
        "end": "12:15",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.sep-14.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -619,12 +649,12 @@
        "day": 2,
        "start": "13:00",
        "end": "14:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "21.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -632,12 +662,12 @@
        "day": 2,
        "start": "15:00",
        "end": "16:15",
-       "room": "Aula 2.A.03",
+       "room": "Aula -1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "21.oct",
-         "room": "Aula 2.A.03"
+         "room": "Aula -1.A.01"
         }
        ]
       }
@@ -658,12 +688,12 @@
        "day": 0,
        "start": "11:00",
        "end": "14:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "11.ene",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -671,16 +701,16 @@
        "day": 0,
        "start": "11:00",
        "end": "12:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "16.nov-30.nov",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         },
         {
          "dates": "14.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -688,16 +718,16 @@
        "day": 0,
        "start": "13:15",
        "end": "15:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "16.nov-30.nov",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         },
         {
          "dates": "14.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -705,12 +735,12 @@
        "day": 0,
        "start": "15:00",
        "end": "18:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 0.A.07",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "11.ene",
-         "room": "Aula 2.A.03"
+         "room": "Aula 0.A.07"
         }
        ]
       },
@@ -718,12 +748,12 @@
        "day": 1,
        "start": "14:00",
        "end": "15:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "10.nov",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -731,12 +761,12 @@
        "day": 1,
        "start": "16:00",
        "end": "17:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula -1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "10.nov",
-         "room": "Aula 2.A.03"
+         "room": "Aula -1.A.01"
         }
        ]
       },
@@ -744,12 +774,12 @@
        "day": 2,
        "start": "13:15",
        "end": "15:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -757,12 +787,12 @@
        "day": 2,
        "start": "15:15",
        "end": "17:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula -1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula -1.A.01"
         }
        ]
       },
@@ -770,12 +800,12 @@
        "day": 3,
        "start": "09:00",
        "end": "10:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "12.nov",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -783,12 +813,12 @@
        "day": 3,
        "start": "09:30",
        "end": "11:15",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "17.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -796,12 +826,12 @@
        "day": 3,
        "start": "10:00",
        "end": "11:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "10.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -809,16 +839,16 @@
        "day": 3,
        "start": "11:00",
        "end": "12:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "05.nov-03.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         },
         {
          "dates": "14.ene",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -826,12 +856,12 @@
        "day": 3,
        "start": "12:00",
        "end": "13:45",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "10.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -839,12 +869,12 @@
        "day": 3,
        "start": "12:45",
        "end": "14:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "17.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -852,16 +882,16 @@
        "day": 3,
        "start": "13:15",
        "end": "15:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "05.nov",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         },
         {
          "dates": "19.nov-03.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 1.A.04"
         }
        ]
       }

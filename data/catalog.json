@@ -1,7 +1,7 @@
 {
  "year": "2026",
- "generatedAt": "2026-07-27T07:49:20Z",
- "count": 210,
+ "generatedAt": "2026-08-03T07:45:20Z",
+ "count": 211,
  "programmes": [
   {
    "type": "grado",
@@ -342,6 +342,13 @@
   {
    "type": "grado",
    "plan": 571,
+   "centro": 1,
+   "name": "Grado en Economía",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 145,
    "centro": 1,
    "name": "Grado en Economía",
    "campus": "Getafe"

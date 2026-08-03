@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Industrial",
  "year": "2026",
- "generatedAt": "2026-07-27T07:49:47Z",
+ "generatedAt": "2026-08-03T07:45:49Z",
  "subjects": [
   {
    "code": "14283",
@@ -278,16 +278,16 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 4.0.E05",
+       "room": "Aula 4.0.E01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "11.sep-02.oct",
-         "room": "Aula 4.0.E05"
+         "room": "Aula 4.0.E01"
         },
         {
          "dates": "16.oct-11.dic",
-         "room": "Aula 4.0.E05"
+         "room": "Aula 4.0.E01"
         }
        ]
       }
@@ -713,12 +713,12 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 4.0.E05",
+       "room": "Aula 4.1.E04",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 4.0.E05"
+         "room": "Aula 4.1.E04"
         }
        ]
       },
@@ -744,12 +744,12 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 1.0.B01",
+       "room": "Aula 1.0.B02",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.B01"
+         "room": "Aula 1.0.B02"
         }
        ]
       },
@@ -757,12 +757,12 @@
        "day": 3,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 1.0.B01",
+       "room": "Aula 1.0.B02",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 1.0.B01"
+         "room": "Aula 1.0.B02"
         }
        ]
       }
@@ -1152,12 +1152,12 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 4.0.E04",
+       "room": "Aula 4.1.E06",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 4.0.E04"
+         "room": "Aula 4.1.E06"
         }
        ]
       },
@@ -1165,12 +1165,12 @@
        "day": 3,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 4.0.D01",
+       "room": "Aula 4.1.E05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 4.0.D01"
+         "room": "Aula 4.1.E05"
         }
        ]
       }

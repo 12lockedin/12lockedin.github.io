@@ -1,0 +1,2885 @@
+{
+ "plan": 311,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Derecho de los Sectores Regulados",
+ "year": "2026",
+ "generatedAt": "2026-08-03T08:30:03Z",
+ "subjects": [
+  {
+   "code": "12169",
+   "name": "Defensa de la Competencia",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "19.nov-26.nov",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "19.nov-26.nov",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.oct-13.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.oct-13.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12172",
+   "name": "Derecho de los consumidores y usuarios en los sectores regulados , curso º",
+   "course": null,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-29.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.sep",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep-01.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep-01.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12177",
+   "name": "Fundamentos de la Fiscalidad en los Sectores Regulados , curso º",
+   "course": null,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "12178",
+   "name": "Fundamentos técnicos de la contratación de sectores regulados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.dic",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.dic",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.dic",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.dic",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12176",
+   "name": "Fundamentos Técnicos de los Servicios en Red",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "12171",
+   "name": "Inversiones Internacionales en Sectores Regulados",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-23.nov",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-23.nov",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.oct-11.nov",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "09.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.oct-11.nov",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "09.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "03.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "03.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12170",
+   "name": "Régimen jurídico de los organismos reguladores: organización, potestades y control judicial , curso º",
+   "course": null,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct-21.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "18.nov-25.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct-21.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "18.nov-25.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-12.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-12.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "04.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "04.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12168",
+   "name": "Teoría Económica y Jurídica de la Regulación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep-28.sep",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.sep-28.sep",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-15.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "06.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-15.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "06.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.sep",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep-30.sep",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "08.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.sep",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "08.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep-02.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep-02.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12190",
+   "name": "Ayudas y fiscalidad de los sectores del transporte y postal",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-08.abr",
+         "room": "Aula 0.A.01"
+        },
+        {
+         "dates": "22.abr",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-08.abr",
+         "room": "Aula 0.A.01"
+        },
+        {
+         "dates": "22.abr",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-08.abr",
+         "room": "Aula 0.A.01"
+        },
+        {
+         "dates": "22.abr",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12188",
+   "name": "Ayudas y Fiscalidad en el Sector Energético",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr-29.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr-29.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr-29.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12189",
+   "name": "Ayudas y Fiscalidad en los Mercados Financieros",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr-29.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr-29.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr-29.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12173",
+   "name": "Crédito y Banca",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-01.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "22.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "15.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-01.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "22.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "15.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "09.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "09.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "03.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "03.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-04.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "25.feb",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-04.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "25.feb",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.feb",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.feb",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12179",
+   "name": "Defensa de la competencia en el sector energético",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.abr-28.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.abr-28.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.abr-28.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12180",
+   "name": "Defensa de la competencia en los mercados financieros",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.abr-28.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.abr-28.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.abr-28.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12181",
+   "name": "Defensa de la competencia en los sectores del transporte y servicio postal",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.abr",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-07.abr",
+         "room": "Aula 0.A.01"
+        },
+        {
+         "dates": "28.abr-05.may",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.abr",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-07.abr",
+         "room": "Aula 0.A.01"
+        },
+        {
+         "dates": "28.abr-05.may",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-07.abr",
+         "room": "Aula 0.A.01"
+        },
+        {
+         "dates": "28.abr-05.may",
+         "room": "Aula 0.A.01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12182",
+   "name": "Derecho de los Hidrocarburos y Minas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.abr-27.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.abr-27.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.abr-27.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "23.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "23.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12174",
+   "name": "Derecho del Sector Eléctrico",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "01.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "01.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-02.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "23.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "16.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-02.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "23.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "16.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "10.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "10.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "04.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "04.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-05.feb",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-05.feb",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12187",
+   "name": "Derecho y Mercados del Agua",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.feb-12.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.feb-12.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.feb-12.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12184",
+   "name": "Infraestructuras del Transporte",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-06.abr",
+         "room": "Aula 1.A.12"
+        },
+        {
+         "dates": "20.abr-04.may",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-06.abr",
+         "room": "Aula 1.A.12"
+        },
+        {
+         "dates": "20.abr-04.may",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-06.abr",
+         "room": "Aula 1.A.12"
+        },
+        {
+         "dates": "20.abr-27.abr",
+         "room": "Aula 1.A.12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12186",
+   "name": "Mercado de Seguros",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-26.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-26.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-26.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12183",
+   "name": "Mercado de Valores",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.abr-27.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.abr-27.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.abr-27.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.may",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "23.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "23.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr",
+         "room": "Aula 2.A.06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12185",
+   "name": "Principios e Instrumentos Generales del Derecho Ambiental",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-26.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-26.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr-26.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.may",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "12175",
+   "name": "Transporte y Sector Postal",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "08.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "02.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "02.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "24.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "17.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "24.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "17.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "11.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "11.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "19.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.feb",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "19.mar",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-07-27T08:28:11Z",
+ "generatedAt": "2026-08-03T08:22:48Z",
  "subjects": [
   {
    "code": "19826",
@@ -35,7 +35,7 @@
   },
   {
    "code": "19408",
-   "name": "COMPETENCIAS DIGITALES USO INFORMAC",
+   "name": "COMPETENCIAS DIGITALES USO INFORMAC, 1º,1 er C",
    "course": 1,
    "term": 1,
    "groups": [
@@ -48,7 +48,7 @@
        "start": "15:30",
        "end": "17:00",
        "room": "Aula 1.0.F03",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "08.sep-17.nov",
@@ -855,6 +855,42 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 2.3.B01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "84",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.D04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 2.3.D04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.D04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.3.D04"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 2.3.D04"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería en Tecnologías Cuánticas",
  "year": "2026",
- "generatedAt": "2026-07-27T08:30:27Z",
+ "generatedAt": "2026-08-03T08:24:52Z",
  "subjects": [
   {
    "code": "19893",
@@ -201,12 +201,12 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.1.B10",
+       "room": "Aula 1.1.A12",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 1.1.B10"
+         "room": "Aula 1.1.A12"
         }
        ]
       }

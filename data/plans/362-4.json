@@ -1,0 +1,1026 @@
+{
+ "plan": 362,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Economía de la Empresa y Finanzas/ Master in Business and Finance",
+ "year": "2026",
+ "generatedAt": "2026-08-03T08:30:50Z",
+ "subjects": [
+  {
+   "code": "17190",
+   "name": "Seminarios de Investigación en Management y Marketing",
+   "course": 2,
+   "term": 0,
+   "groups": []
+  },
+  {
+   "code": "17160",
+   "name": "Economía de la Empresa I",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-15.sep",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "13.oct-20.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:15",
+       "end": "17:15",
+       "room": "Aula 18.0.A03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula 18.0.A03"
+        },
+        {
+         "dates": "29.sep-06.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-22.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17163",
+   "name": "Economía de la Empresa II",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-18.nov",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "02.dic-16.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "20.nov-27.nov",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "11.dic-18.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:30",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17178",
+   "name": "Economía del Personal",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17165",
+   "name": "Economía Financiera",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17159",
+   "name": "Estadística para Economía y Empresa",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:30",
+       "end": "12:30",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17161",
+   "name": "Fundamentos Económicos de la Estrategia",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:45",
+       "end": "14:45",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-06.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.sep",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:30",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep-01.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "09.oct-23.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:15",
+       "end": "13:15",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17181",
+   "name": "Gobierno Corporativo y Auditoría",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:15",
+       "end": "14:15",
+       "room": "Aula 18.1.A06 (En forma de U)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov-23.nov",
+         "room": "Aula 18.1.A06 (En forma de U)"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 18.1.A06 (En forma de U)"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17179",
+   "name": "Gobierno Corporativo y Responsabilidad Social Corporativa",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov-16.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-27.nov",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "11.dic-18.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17183",
+   "name": "Información en Mercados y Microestructura de Mercados",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "Aula 18.0.A06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17182",
+   "name": "Investigación Contable",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.0.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-06.oct",
+         "room": "Aula 18.0.A08"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-15.sep",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "13.oct-20.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:30",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17176",
+   "name": "Investigación en Dirección Comercial",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 18.1.A05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.1.A05"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 18.1.A05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:15",
+       "end": "14:15",
+       "room": "Aula 18.1.A06 (En forma de U)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 18.1.A06 (En forma de U)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.1.A07",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-18.dic",
+         "room": "Aula 18.1.A07"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17162",
+   "name": "Métodos Cuantitativos I",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:30",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "13.nov-27.nov",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "11.dic-18.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17185",
+   "name": "Métodos Empíricos Avanzados en Finanzas",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-17.nov",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:30",
+       "end": "11:30",
+       "room": "Aula 18.0.A06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.dic",
+         "room": "Aula 18.0.A06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:15",
+       "end": "14:15",
+       "room": "Aula 18.0.A06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.nov",
+         "room": "Aula 18.0.A06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:30",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.nov",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "Aula 18.0.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov",
+         "room": "Aula 18.0.A08"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 18.0.A06"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aula 18.0.A06"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 18.0.A06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:00",
+       "end": "19:00",
+       "room": "Aula 18.0.A06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula 18.0.A06"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17197",
+   "name": "Banca",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17164",
+   "name": "Comportamiento Organizativo",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17172",
+   "name": "Contabilidad",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17195",
+   "name": "Contabilidad de Gestión",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17173",
+   "name": "Finanzas Corporativas I",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17174",
+   "name": "Finanzas Corporativas II",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17171",
+   "name": "Gestión de la Innovación",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17170",
+   "name": "Gestión de Recursos Humanos",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17168",
+   "name": "Marketing",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17166",
+   "name": "Métodos Cuantitativos II",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17169",
+   "name": "Métodos de Investigación",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17188",
+   "name": "Métodos para la Tesis",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17196",
+   "name": "Seminarios de Investigación en Contabilidad y Finanzas",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17193",
+   "name": "Temas Avanzados de Gobierno Corporativo y Rsc",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17189",
+   "name": "Temas Avanzados de Marketing",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17192",
+   "name": "Temas Avanzados de Recursos Humanos",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17191",
+   "name": "Temas Avanzados en Estrategia, Creación de Empresas e Innovación",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17199",
+   "name": "Temas Avanzados en Investigación Actuarial",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17198",
+   "name": "Temas Avanzados en Investigación de los Mercados Financieros",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17194",
+   "name": "Temas Avanzados en la Gestión de la Cadena de Suministro y Operaciones",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17167",
+   "name": "Teoría de la Organización",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17175",
+   "name": "Valoración de Activos Dinámica",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

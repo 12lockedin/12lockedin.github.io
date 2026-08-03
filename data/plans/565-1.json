@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-07-27T08:23:41Z",
+ "generatedAt": "2026-08-03T08:18:09Z",
  "subjects": [
   {
    "code": "19408",
@@ -992,7 +992,7 @@
        "start": "12:30",
        "end": "14:00",
        "room": "Aula 10.0.31",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "10.sep-01.oct",

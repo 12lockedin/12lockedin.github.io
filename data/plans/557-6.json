@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Derecho",
  "year": "2026",
- "generatedAt": "2026-07-27T08:21:55Z",
+ "generatedAt": "2026-08-03T08:16:24Z",
  "subjects": [
   {
    "code": "19408",
@@ -20,20 +20,20 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.1.A19",
+       "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.B03"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.B03"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.B03"
         }
        ]
       }
@@ -168,20 +168,20 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 1.1.A19",
+       "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.B03"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.B03"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.B03"
         }
        ]
       }
@@ -203,12 +203,12 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.1.A19",
+       "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.B03"
         }
        ]
       }
@@ -504,12 +504,12 @@
   },
   {
    "code": "13953",
-   "name": "CONTRATACIÓN Y MEDIOS DE LAS ADMINI, 3º,1 er C",
+   "name": "CONTRATACIÓN Y MEDIOS DE LAS ADMINI, 3º,1 er C (grupos 10 y 11) 09:00 a 10:30 09.sep-09.dic: Aula 1.0.B03",
    "course": 3,
    "term": 1,
    "groups": [
     {
-     "id": "10",
+     "id": "1",
      "kind": "magistral",
      "sessions": [
       {
@@ -524,7 +524,13 @@
          "room": "Aula 1.0.B03"
         }
        ]
-      },
+      }
+     ]
+    },
+    {
+     "id": "10",
+     "kind": "magistral",
+     "sessions": [
       {
        "day": 4,
        "start": "10:45",
@@ -535,6 +541,25 @@
         {
          "dates": "11.sep-11.dic",
          "room": "Aula 1.1.A17"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "11",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 1.1.A15",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 1.1.A15"
         }
        ]
       }
@@ -649,12 +674,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.1.A17",
+       "room": "Aula 1.0.B02",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.1.A17"
+         "room": "Aula 1.0.B02"
         }
        ]
       }

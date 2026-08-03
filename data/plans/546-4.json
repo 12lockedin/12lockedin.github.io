@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Diseño Microelectrónico",
  "year": "2026",
- "generatedAt": "2026-07-27T08:20:06Z",
+ "generatedAt": "2026-08-03T08:14:35Z",
  "subjects": [
   {
    "code": "20087",
@@ -126,12 +126,37 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-02.oct",
+         "dates": "11.sep",
          "room": "Aula 7.1.H01"
         },
         {
-         "dates": "16.oct-23.oct",
+         "dates": "25.sep",
          "room": "Aula 7.1.H01"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula 7.1.H01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "18:45",
+       "room": "LAB 1.1.I09 (Electrónica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "LAB 1.1.I09 (Electrónica)"
+        },
+        {
+         "dates": "02.oct",
+         "room": "LAB 1.1.I09 (Electrónica)"
+        },
+        {
+         "dates": "16.oct",
+         "room": "LAB 1.1.I09 (Electrónica)"
         }
        ]
       }

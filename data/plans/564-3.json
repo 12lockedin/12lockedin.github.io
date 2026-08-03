@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-07-27T08:23:20Z",
+ "generatedAt": "2026-08-03T08:17:48Z",
  "subjects": [
   {
    "code": "19408",
@@ -47,20 +47,20 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -74,20 +74,20 @@
        "day": 0,
        "start": "16:45",
        "end": "18:15",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -247,12 +247,12 @@
        "day": 1,
        "start": "15:00",
        "end": "16:30",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Básica",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       },
@@ -381,12 +381,12 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Básica",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       },
@@ -483,12 +483,12 @@
        "day": 3,
        "start": "16:45",
        "end": "18:15",
-       "room": "Aulas 17.1.04 y LAB-17.0.11 Redacción TV",
+       "room": "Aulas 17.1.06 y LAB-17.0.11 Redacción TV",
        "type": "Básica",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aulas 17.1.04 y LAB-17.0.11 Redacción TV"
+         "room": "Aulas 17.1.06 y LAB-17.0.11 Redacción TV"
         }
        ]
       },
@@ -555,12 +555,12 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Básica",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       },
@@ -568,12 +568,12 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Básica",
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -587,12 +587,12 @@
        "day": 2,
        "start": "16:45",
        "end": "18:15",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Básica",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       },
@@ -600,12 +600,12 @@
        "day": 4,
        "start": "16:45",
        "end": "18:15",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Básica",
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -654,20 +654,20 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -681,20 +681,20 @@
        "day": 0,
        "start": "15:00",
        "end": "16:30",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -748,12 +748,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Básica",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       },
@@ -761,12 +761,12 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Básica",
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -780,12 +780,12 @@
        "day": 2,
        "start": "15:00",
        "end": "16:30",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Básica",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       },
@@ -793,12 +793,12 @@
        "day": 4,
        "start": "15:00",
        "end": "16:30",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Básica",
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -852,12 +852,12 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       },
@@ -865,12 +865,12 @@
        "day": 4,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -884,12 +884,12 @@
        "day": 2,
        "start": "18:30",
        "end": "20:00",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       },
@@ -897,12 +897,12 @@
        "day": 4,
        "start": "18:30",
        "end": "20:00",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -1818,75 +1818,6 @@
        ]
       }
      ]
-    },
-    {
-     "id": "47",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 3,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 17.0.04",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 17.0.04"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 17.0.04",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 17.0.04"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "12:30",
-       "end": "13:30",
-       "room": "Aula 17.0.25 - SALAS POST.",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "17.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "01.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "15.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "29.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "12.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "26.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "10.dic",
-         "room": "Aula 17.0.25 - SALAS POST."
-        }
-       ]
-      }
-     ]
     }
    ]
   },
@@ -1990,6 +1921,19 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
+       "room": "LAB-17.0.11 Redacción TV",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "18.sep-02.oct",
+         "room": "LAB-17.0.11 Redacción TV"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aulas 17.1.03 y LAB-17.1.11 Multiusos",
        "type": "Obligatoria",
        "slots": [
@@ -2000,19 +1944,6 @@
         {
          "dates": "09.oct-11.dic",
          "room": "Aulas 17.1.03 y LAB-17.1.11 Multiusos"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "LAB-17.0.11 Redacción TV",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "18.sep-02.oct",
-         "room": "LAB-17.0.11 Redacción TV"
         }
        ]
       },
@@ -2451,92 +2382,6 @@
         {
          "dates": "23.nov",
          "room": "Aulas 17.0.04 y LAB-17.1.11 Multiusos"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "47",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 4,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 17.1.05",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "11.sep-11.dic",
-         "room": "Aula 17.1.05"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "11.sep",
-         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
-        },
-        {
-         "dates": "09.oct-11.dic",
-         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "LAB-17.0.11 Redacción TV",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "18.sep-02.oct",
-         "room": "LAB-17.0.11 Redacción TV"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "12:30",
-       "end": "13:30",
-       "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "18.sep",
-         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
-        },
-        {
-         "dates": "02.oct",
-         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
-        },
-        {
-         "dates": "16.oct",
-         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
-        },
-        {
-         "dates": "30.oct",
-         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
-        },
-        {
-         "dates": "13.nov",
-         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
-        },
-        {
-         "dates": "27.nov",
-         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
-        },
-        {
-         "dates": "11.dic",
-         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
         }
        ]
       }

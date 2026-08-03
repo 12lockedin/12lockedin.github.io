@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Estudios Internacionales",
  "year": "2026",
- "generatedAt": "2026-07-27T08:15:50Z",
+ "generatedAt": "2026-08-03T08:10:29Z",
  "subjects": [
   {
    "code": "19408",
@@ -708,7 +708,7 @@
        "start": "18:00",
        "end": "19:30",
        "room": "Aula 4.1.06",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",

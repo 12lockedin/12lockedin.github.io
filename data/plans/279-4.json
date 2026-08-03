@@ -1,0 +1,1178 @@
+{
+ "plan": 279,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Marketing - Presencial",
+ "year": "2026",
+ "generatedAt": "2026-08-03T08:31:40Z",
+ "subjects": [
+  {
+   "code": "16226",
+   "name": "Análisis de Datos en Marketing",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "11:30",
+       "end": "13:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-20.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16231",
+   "name": "Análisis del Mercado e Investigación Experimental",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-01.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "12.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "13:00",
+       "end": "15:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "12.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16228",
+   "name": "Comportamiento del Consumidor",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:30",
+       "end": "13:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:30",
+       "end": "13:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16248",
+   "name": "Desarrollo de Nuevos Productos",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula 2.A.01"
+        },
+        {
+         "dates": "23.nov-30.nov",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "11.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula 2.A.01"
+        },
+        {
+         "dates": "23.nov-30.nov",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "11.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16229",
+   "name": "Dirección de Marketing",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-17.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "14.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:30",
+       "end": "13:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-17.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "14.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16227",
+   "name": "Economía para la Empresa",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:30",
+       "end": "13:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16230",
+   "name": "Gestión de Canales de Distribución",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov-16.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "13.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:30",
+       "end": "13:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov-16.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "13.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16249",
+   "name": "Gestión de Precios",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "13:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "11.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "13:30",
+       "end": "15:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "11.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16224",
+   "name": "Márketing Estratégico",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:30",
+       "end": "11:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:30",
+       "end": "13:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:30",
+       "end": "11:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep-22.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:30",
+       "end": "13:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep-22.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17832",
+   "name": "Medios Digitales de Pago",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "13:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov-18.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "15.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "13:30",
+       "end": "15:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov-18.dic",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "15.ene",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16225",
+   "name": "Métodos Cualitativos y Análisis de Encuestas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:30",
+       "end": "13:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "13:00",
+       "end": "14:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep",
+         "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17831",
+   "name": "SEO Marketing",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov-18.dic",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov-18.dic",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17833",
+   "name": "Comercio Digital",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "13:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "13:30",
+       "end": "15:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17838",
+   "name": "Comercio y marketing internacional",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-10.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.abr-10.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16233",
+   "name": "Comunicación y Publicidad",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16234",
+   "name": "Control y Plan de Marketing",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16236",
+   "name": "Estrategia Corporativa",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr-07.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16237",
+   "name": "Gestión de la Fuerza de Ventas y Ejecutivo de Venta",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17830",
+   "name": "Gestión de las relaciones con los clientes y Inteligencia Empresarial",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-11.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17835",
+   "name": "Gestión de producto y marca",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16238",
+   "name": "Habilidades Empresariales y Liderazgo",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-06.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17834",
+   "name": "Marketing de contenidos y redes sociales",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.ene-12.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17837",
+   "name": "Marketing de Servicios",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "17836",
+   "name": "Marketing Digital",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "13:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "13:30",
+       "end": "15:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16242",
+   "name": "Temas Avanzados en Marketing",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:00",
+       "end": "12:00",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.mar-11.may",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

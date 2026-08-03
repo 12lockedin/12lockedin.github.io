@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ciencias Políticas y Sociología",
  "year": "2026",
- "generatedAt": "2026-07-27T08:27:33Z",
+ "generatedAt": "2026-08-03T08:22:12Z",
  "subjects": [
   {
    "code": "19408",
@@ -397,15 +397,15 @@
        ]
       },
       {
-       "day": 3,
+       "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 7.1.07",
+       "room": "Aula 7.1.02 BIS",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 7.1.07"
+         "dates": "11.sep-11.dic",
+         "room": "Aula 7.1.02 BIS"
         }
        ]
       }

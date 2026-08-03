@@ -1,0 +1,592 @@
+{
+ "plan": 345,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Mediación, Negociación y Resolución de Conflictos - Presencial",
+ "year": "2026",
+ "generatedAt": "2026-08-03T08:31:47Z",
+ "subjects": [
+  {
+   "code": "16839",
+   "name": "Métodos de estudio y Análisis",
+   "course": 1,
+   "term": 0,
+   "groups": []
+  },
+  {
+   "code": "16833",
+   "name": "Introducción a la Mediación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-15.sep",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.sep",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16835",
+   "name": "Introducción a la Negociación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-29.sep",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep-14.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16836",
+   "name": "Proceso de Negociación y Técnicas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct-15.oct",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16834",
+   "name": "Resolución de Conflictos en Ámbitos Sociales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "16:00",
+       "end": "18:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov-01.dic",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov-18.nov",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "02.dic",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov-19.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16837",
+   "name": "Técnicas para el Mediador",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct-10.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.oct-04.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct-05.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16840",
+   "name": "Justicia Restaurativa",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.feb-23.feb",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.feb-24.feb",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.feb",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16843",
+   "name": "La Negociación en el Siglo XXI",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.abr",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.abr",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16841",
+   "name": "Mediación civil y mercantil. Mediación y empresa",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-02.feb",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-03.feb",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-04.feb",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16842",
+   "name": "Otras formas de solución de conflictos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.mar-16.mar",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.mar-10.mar",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.mar-11.mar",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "16844",
+   "name": "Retos para Sociedades Competitivas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.abr-27.abr",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.abr-28.abr",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula 18.0.A12",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.abr",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

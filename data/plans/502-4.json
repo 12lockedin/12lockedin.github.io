@@ -1,0 +1,820 @@
+{
+ "plan": 502,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Mediación, Negociación y Resolución de Conflictos Online",
+ "year": "2026",
+ "generatedAt": "2026-08-03T08:31:54Z",
+ "subjects": [
+  {
+   "code": "14298",
+   "name": "Métodos de Estudio y Análisis",
+   "course": 1,
+   "term": 0,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-24.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:00",
+       "end": "18:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-17.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov-18.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14292",
+   "name": "Introducción a la Mediación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "21:00",
+       "end": "22:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "13:00",
+       "end": "16:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14294",
+   "name": "Introducción a la Negociación",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "20:00",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "20:00",
+       "end": "21:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14295",
+   "name": "Proceso de Negociación y Técnicas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14293",
+   "name": "Resolución de Conflictos en Ámbitos Sociales",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:30",
+       "end": "18:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic-17.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14296",
+   "name": "Técnicas para el Mediador",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:30",
+       "end": "18:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14299",
+   "name": "Justicia Restaurativa",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.feb-15.feb",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.feb-15.feb",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.feb",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14302",
+   "name": "La Negociación en el Siglo XXI",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.mar",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.mar",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14300",
+   "name": "Mediación civil y mercantil. Mediación y empresa",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-01.feb",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-01.feb",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.feb",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14301",
+   "name": "Otras formas de solución de conflictos",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:00",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "14304",
+   "name": "Retos para Sociedades Competitivas",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.mar-08.mar",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "16:30",
+       "end": "18:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.feb",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "18:00",
+       "end": "19:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.feb",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.feb",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:30",
+       "end": "17:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.feb",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

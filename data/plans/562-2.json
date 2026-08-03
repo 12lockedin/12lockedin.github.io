@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería de Comunicaciones Móviles y Espaciales",
  "year": "2026",
- "generatedAt": "2026-07-27T08:22:56Z",
+ "generatedAt": "2026-08-03T08:17:25Z",
  "subjects": [
   {
    "code": "15364",
@@ -1846,59 +1846,6 @@
         {
          "dates": "03.dic",
          "room": "Aula 4.0.D01"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "1093",
-     "kind": "reducido",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 4.0.E06",
-       "type": null,
-       "slots": [
-        {
-         "dates": "07.sep",
-         "room": "Aula 4.0.E06"
-        },
-        {
-         "dates": "16.nov",
-         "room": "Aula 4.0.E06"
-        },
-        {
-         "dates": "30.nov",
-         "room": "Aula 4.0.E06"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 4.2.E05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 4.2.E05"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 2.3.A03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "09.sep-09.dic",
-         "room": "Aula 2.3.A03"
         }
        ]
       }

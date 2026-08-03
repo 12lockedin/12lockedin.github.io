@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ciencias Políticas",
  "year": "2026",
- "generatedAt": "2026-07-27T07:57:57Z",
+ "generatedAt": "2026-08-03T07:53:23Z",
  "subjects": [
   {
    "code": "13208",
@@ -536,7 +536,7 @@
        "start": "12:30",
        "end": "14:00",
        "room": "Aula 10.1.5",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Formación del Profesorado. Especialidad Lengua Castellana y Literatura",
  "year": "2026",
- "generatedAt": "2026-07-27T08:37:01Z",
+ "generatedAt": "2026-08-03T08:26:12Z",
  "subjects": [
   {
    "code": "20918",
@@ -19,24 +19,24 @@
        "day": 0,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "14.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -44,12 +44,12 @@
        "day": 2,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "18.nov-16.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -57,16 +57,16 @@
        "day": 3,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "15.oct",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "05.nov",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       }
@@ -87,12 +87,12 @@
        "day": 2,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-11.nov",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       }
@@ -113,16 +113,16 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "15.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -130,16 +130,16 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.sep-02.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "16.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       }
@@ -160,12 +160,12 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-11.nov",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       }
@@ -186,12 +186,12 @@
        "day": 1,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-10.nov",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       }
@@ -212,24 +212,24 @@
        "day": 0,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "14.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -237,16 +237,16 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "18.nov-02.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "16.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -254,12 +254,12 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "09.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -267,16 +267,16 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "15.oct",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "05.nov",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       }
@@ -297,16 +297,16 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "15.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -314,16 +314,16 @@
        "day": 1,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "17.nov-01.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "15.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -331,12 +331,12 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": null,
        "slots": [
         {
          "dates": "09.dic",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       }
@@ -357,16 +357,16 @@
        "day": 0,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "25.ene-15.mar",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "05.abr-10.may",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -374,16 +374,16 @@
        "day": 0,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "25.ene-15.mar",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "05.abr-10.may",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -391,16 +391,16 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "26.ene-16.mar",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "30.mar-11.may",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -408,16 +408,16 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "27.ene-17.mar",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "31.mar-12.may",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       }
@@ -438,16 +438,16 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "26.ene-16.mar",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "30.mar-11.may",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       },
@@ -455,16 +455,16 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 20.1.D02",
+       "room": "Aula 20.0.D01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "27.ene-17.mar",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "31.mar-12.may",
-         "room": "Aula 20.1.D02"
+         "room": "Aula 20.0.D01"
         }
        ]
       }

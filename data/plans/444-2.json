@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Electrónica Industrial y Automática",
  "year": "2026",
- "generatedAt": "2026-07-27T08:07:49Z",
+ "generatedAt": "2026-08-03T08:02:39Z",
  "subjects": [
   {
    "code": "13966",
@@ -185,12 +185,12 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.0.F01",
+       "room": "Aula 1.1.G02",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 1.0.F01"
+         "room": "Aula 1.1.G02"
         }
        ]
       }
@@ -288,12 +288,12 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 7.1.J04",
+       "room": "Aula 7.1.J06",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 7.1.J04"
+         "room": "Aula 7.1.J06"
         }
        ]
       },
@@ -301,16 +301,16 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.0.B01",
+       "room": "Aula 1.1.G01",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-02.oct",
-         "room": "Aula 1.0.B01"
+         "room": "Aula 1.1.G01"
         },
         {
          "dates": "16.oct-11.dic",
-         "room": "Aula 1.0.B01"
+         "room": "Aula 1.1.G01"
         }
        ]
       }
@@ -1693,6 +1693,19 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
+       "room": "LAB 4.S.B01 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "LAB 4.S.B01 (Fisica)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
@@ -1703,19 +1716,6 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 1.0.B03"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "LAB 4.S.B01 (Fisica)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.nov",
-         "room": "LAB 4.S.B01 (Fisica)"
         }
        ]
       }
@@ -2035,6 +2035,74 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 2.3.D03"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1043",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.1.G01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.1.G01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.1.G01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.1.G01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1044",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.0.C02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.C02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.0.C01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 1.0.C01"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 1.0.C01"
         }
        ]
       }
@@ -2360,12 +2428,12 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 1.0.H03",
+       "room": "Aula 1.1.G01",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.H03"
+         "room": "Aula 1.1.G01"
         }
        ]
       },
@@ -2396,12 +2464,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.0.B01",
+       "room": "Aula 1.0.C02",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.B01"
+         "room": "Aula 1.0.C02"
         }
        ]
       },
@@ -2504,12 +2572,12 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.F02",
+       "room": "Aula 1.0.C01",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.F02"
+         "room": "Aula 1.0.C01"
         }
        ]
       },
@@ -4544,12 +4612,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.0.B02",
+       "room": "Aula 1.0.B03",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.B02"
+         "room": "Aula 1.0.B03"
         }
        ]
       },
@@ -5060,12 +5128,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.0.C02",
+       "room": "Aula 1.0.B01",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.C02"
+         "room": "Aula 1.0.B01"
         }
        ]
       }
@@ -6486,49 +6554,6 @@
         },
         {
          "dates": "09.dic",
-         "room": "Aula 2.3.A02"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "707",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 3,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula Virtual",
-       "type": null,
-       "slots": [
-        {
-         "dates": "17.sep",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "01.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "15.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "29.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "12.nov",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "26.nov",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "10.dic",
          "room": "Aula 2.3.A02"
         }
        ]

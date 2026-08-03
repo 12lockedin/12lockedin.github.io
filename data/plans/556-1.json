@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Sociología",
  "year": "2026",
- "generatedAt": "2026-07-27T08:21:26Z",
+ "generatedAt": "2026-08-03T08:15:56Z",
  "subjects": [
   {
    "code": "19408",
@@ -124,7 +124,7 @@
   },
   {
    "code": "20259",
-   "name": "HISTORIA SOCIAL DEL MUNDO CONTEMPOR",
+   "name": "HISTORIA SOCIAL DEL MUNDO CONTEMPOR, 1º,1 er C",
    "course": 1,
    "term": 1,
    "groups": [
@@ -137,7 +137,7 @@
        "start": "16:15",
        "end": "17:45",
        "room": "Aula 9.1.17",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
@@ -150,7 +150,7 @@
        "start": "16:15",
        "end": "17:45",
        "room": "Aula 5.1.02",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
@@ -418,15 +418,15 @@
        ]
       },
       {
-       "day": 3,
+       "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 7.1.07",
+       "room": "Aula 7.1.02 BIS",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 7.1.07"
+         "dates": "11.sep-11.dic",
+         "room": "Aula 7.1.02 BIS"
         }
        ]
       }

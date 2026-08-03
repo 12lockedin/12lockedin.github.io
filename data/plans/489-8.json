@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-07-27T08:15:00Z",
+ "generatedAt": "2026-08-03T08:09:42Z",
  "subjects": [
   {
    "code": "13866",
@@ -166,20 +166,20 @@
        "day": 0,
        "start": "14:30",
        "end": "16:00",
-       "room": "Aula 1.1.A19",
+       "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.B03"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.B03"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.1.A19"
+         "room": "Aula 1.0.B03"
         }
        ]
       }
@@ -235,36 +235,36 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.0.A03",
+       "room": "Aula 1.0.A05",
        "type": null,
        "slots": [
         {
          "dates": "10.sep",
-         "room": "Aula 1.0.A03"
+         "room": "Aula 1.0.A05"
         },
         {
          "dates": "24.sep",
-         "room": "Aula 1.0.A03"
+         "room": "Aula 1.0.A05"
         },
         {
          "dates": "08.oct",
-         "room": "Aula 1.0.A03"
+         "room": "Aula 1.0.A05"
         },
         {
          "dates": "22.oct",
-         "room": "Aula 1.0.A03"
+         "room": "Aula 1.0.A05"
         },
         {
          "dates": "05.nov",
-         "room": "Aula 1.0.A03"
+         "room": "Aula 1.0.A05"
         },
         {
          "dates": "19.nov",
-         "room": "Aula 1.0.A03"
+         "room": "Aula 1.0.A05"
         },
         {
          "dates": "03.dic",
-         "room": "Aula 1.0.A03"
+         "room": "Aula 1.0.A05"
         }
        ]
       }

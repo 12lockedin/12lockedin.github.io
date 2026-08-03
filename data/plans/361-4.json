@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencia e Ingeniería de Materiales",
  "year": "2026",
- "generatedAt": "2026-07-27T07:53:56Z",
+ "generatedAt": "2026-08-03T07:49:57Z",
  "subjects": [
   {
    "code": "17153",
@@ -122,12 +122,25 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-02.oct",
+         "dates": "11.sep-18.sep",
          "room": "Aula 7.2.J05"
         },
         {
          "dates": "16.oct-23.oct",
          "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "18:15",
+       "room": "Aula INF 4.S.D.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep-02.oct",
+         "room": "Aula INF 4.S.D.02"
         }
        ]
       }

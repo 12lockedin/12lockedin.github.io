@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Robótica y Automatización",
  "year": "2026",
- "generatedAt": "2026-07-27T07:51:14Z",
+ "generatedAt": "2026-08-03T07:47:23Z",
  "subjects": [
   {
    "code": "14922",
@@ -235,27 +235,6 @@
       {
        "day": 3,
        "start": "09:00",
-       "end": "11:00",
-       "room": "Aula INF 2.2.C.04 DUAL",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "24.sep",
-         "room": "Aula INF 2.2.C.04 DUAL"
-        },
-        {
-         "dates": "22.oct",
-         "room": "Aula INF 2.2.C.04 DUAL"
-        },
-        {
-         "dates": "19.nov-26.nov",
-         "room": "Aula INF 2.2.C.04 DUAL"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "09:00",
        "end": "10:30",
        "room": "Aula 2.0.C05",
        "type": "Máster oficial",
@@ -275,6 +254,27 @@
         {
          "dates": "03.dic-17.dic",
          "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula INF 2.2.C.04 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "Aula INF 2.2.C.04 DUAL"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula INF 2.2.C.04 DUAL"
+        },
+        {
+         "dates": "19.nov-26.nov",
+         "room": "Aula INF 2.2.C.04 DUAL"
         }
        ]
       },

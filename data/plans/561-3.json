@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Periodismo",
  "year": "2026",
- "generatedAt": "2026-07-27T08:22:39Z",
+ "generatedAt": "2026-08-03T08:17:08Z",
  "subjects": [
   {
    "code": "19408",
@@ -913,12 +913,12 @@
        "day": 1,
        "start": "16:45",
        "end": "18:15",
-       "room": "Aula 17.1.04",
+       "room": "Aula 17.1.06",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 17.1.04"
+         "room": "Aula 17.1.06"
         }
        ]
       },

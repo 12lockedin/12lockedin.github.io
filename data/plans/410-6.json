@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Derecho y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-07-27T08:00:54Z",
+ "generatedAt": "2026-08-03T07:56:05Z",
  "subjects": [
   {
    "code": "19408",
@@ -39,12 +39,12 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.1.B04",
+       "room": "Aula 1.1.B37",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 1.1.B04"
+         "room": "Aula 1.1.B37"
         }
        ]
       }
@@ -767,12 +767,12 @@
        "day": 3,
        "start": "14:30",
        "end": "16:00",
-       "room": "Aula 1.1.A21",
+       "room": "Aula 1.0.B02",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 1.1.A21"
+         "room": "Aula 1.0.B02"
         }
        ]
       }
@@ -855,7 +855,7 @@
   },
   {
    "code": "13162",
-   "name": "CONTABILIDAD DE GESTIÓN, 3º,1 er C (grupos 30 y 31) 10:45 a 12:15 07.sep-05.oct: Aula 1.0.B02 19.oct-26.oct: Aula 1.0.B02 09.nov-30.nov: Aula 1.0.B02",
+   "name": "CONTABILIDAD DE GESTIÓN, 3º,1 er C (grupos 30 y 31) 10:45 a 12:15 07.sep-05.oct: Aula 1.0.B06 19.oct-26.oct: Aula 1.0.B06 09.nov-30.nov: Aula 1.0.B06",
    "course": 3,
    "term": 1,
    "groups": [
@@ -867,20 +867,20 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 1.0.B02",
+       "room": "Aula 1.0.B06",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.0.B02"
+         "room": "Aula 1.0.B06"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.0.B02"
+         "room": "Aula 1.0.B06"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.0.B02"
+         "room": "Aula 1.0.B06"
         }
        ]
       }
@@ -1481,20 +1481,20 @@
        "day": 0,
        "start": "14:30",
        "end": "16:00",
-       "room": "Aula 1.0.B02",
+       "room": "Aula 1.0.B01",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.0.B02"
+         "room": "Aula 1.0.B01"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.0.B02"
+         "room": "Aula 1.0.B01"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.0.B02"
+         "room": "Aula 1.0.B01"
         }
        ]
       }
@@ -1914,12 +1914,12 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.1.B14",
+       "room": "Aula 1.1.B37",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 1.1.B14"
+         "room": "Aula 1.1.B37"
         }
        ]
       }
@@ -1948,7 +1948,7 @@
   },
   {
    "code": "13959",
-   "name": "DERECHO DE LA SEGURIDAD SOCIAL, 5º,1 er C (grupos 30 y 31) 10:45 a 12:15 09.sep-09.dic: Aula 1.0.B05",
+   "name": "DERECHO DE LA SEGURIDAD SOCIAL, 5º,1 er C (grupos 30 y 31) 10:45 a 12:15 09.sep-09.dic: Aula 1.0.B06",
    "course": 5,
    "term": 1,
    "groups": [
@@ -1960,12 +1960,12 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 1.0.B05",
+       "room": "Aula 1.0.B06",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.B05"
+         "room": "Aula 1.0.B06"
         }
        ]
       }
@@ -1979,12 +1979,12 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 1.1.B14",
+       "room": "Aula 1.1.A19",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 1.1.B14"
+         "room": "Aula 1.1.A19"
         }
        ]
       }
@@ -1998,12 +1998,12 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.1.B14",
+       "room": "Aula 1.1.A19",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 1.1.B14"
+         "room": "Aula 1.1.A19"
         }
        ]
       }
@@ -2064,36 +2064,36 @@
        "day": 3,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 1.1.B14",
+       "room": "Aula 1.1.B37",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "17.sep",
-         "room": "Aula 1.1.B14"
+         "room": "Aula 1.1.B37"
         },
         {
          "dates": "01.oct",
-         "room": "Aula 1.1.B14"
+         "room": "Aula 1.1.B37"
         },
         {
          "dates": "15.oct",
-         "room": "Aula 1.1.B14"
+         "room": "Aula 1.1.B37"
         },
         {
          "dates": "29.oct",
-         "room": "Aula 1.1.B14"
+         "room": "Aula 1.1.B37"
         },
         {
          "dates": "12.nov",
-         "room": "Aula 1.1.B14"
+         "room": "Aula 1.1.B37"
         },
         {
          "dates": "26.nov",
-         "room": "Aula 1.1.B14"
+         "room": "Aula 1.1.B37"
         },
         {
          "dates": "10.dic",
-         "room": "Aula 1.1.B14"
+         "room": "Aula 1.1.B37"
         }
        ]
       }
@@ -2295,20 +2295,20 @@
        "day": 0,
        "start": "16:15",
        "end": "17:45",
-       "room": "Aula 1.0.B04",
+       "room": "Aula 1.0.B01",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.0.B04"
+         "room": "Aula 1.0.B01"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.0.B04"
+         "room": "Aula 1.0.B01"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.0.B04"
+         "room": "Aula 1.0.B01"
         }
        ]
       }
@@ -2389,12 +2389,12 @@
        "day": 2,
        "start": "13:00",
        "end": "14:30",
-       "room": "Aula INF-1.1.A16",
+       "room": "Aula 1.0.B05",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula INF-1.1.A16"
+         "room": "Aula 1.0.B05"
         }
        ]
       }

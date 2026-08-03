@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Humanidades",
  "year": "2026",
- "generatedAt": "2026-07-27T08:01:51Z",
+ "generatedAt": "2026-08-03T07:57:02Z",
  "subjects": [
   {
    "code": "13501",
@@ -321,12 +321,12 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 14.1.11",
+       "room": "Aula 17.0.04",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 14.1.11"
+         "room": "Aula 17.0.04"
         }
        ]
       }
@@ -529,12 +529,12 @@
        "day": 3,
        "start": "10:45",
        "end": "12:15",
-       "room": "* SIN AULA *",
+       "room": "Aula 17.0.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 17.0.04"
         }
        ]
       }

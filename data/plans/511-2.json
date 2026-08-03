@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Programa Académico de Ingeniería de Telecomunicación vía Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-07-27T08:18:22Z",
+ "generatedAt": "2026-08-03T08:12:56Z",
  "subjects": [
   {
    "code": "15364",
@@ -1823,49 +1823,6 @@
         },
         {
          "dates": "09.dic",
-         "room": "Aula 2.3.A02"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "707",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 3,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula Virtual",
-       "type": null,
-       "slots": [
-        {
-         "dates": "17.sep",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "01.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "15.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "29.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "12.nov",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "26.nov",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "10.dic",
          "room": "Aula 2.3.A02"
         }
        ]

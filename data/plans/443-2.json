@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Eléctrica",
  "year": "2026",
- "generatedAt": "2026-07-27T08:06:48Z",
+ "generatedAt": "2026-08-03T08:01:46Z",
  "subjects": [
   {
    "code": "13966",
@@ -185,12 +185,12 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.0.F01",
+       "room": "Aula 1.1.G02",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 1.0.F01"
+         "room": "Aula 1.1.G02"
         }
        ]
       }
@@ -288,12 +288,12 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 7.1.J04",
+       "room": "Aula 7.1.J06",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 7.1.J04"
+         "room": "Aula 7.1.J06"
         }
        ]
       },
@@ -301,16 +301,16 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.0.B01",
+       "room": "Aula 1.1.G01",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-02.oct",
-         "room": "Aula 1.0.B01"
+         "room": "Aula 1.1.G01"
         },
         {
          "dates": "16.oct-11.dic",
-         "room": "Aula 1.0.B01"
+         "room": "Aula 1.1.G01"
         }
        ]
       }
@@ -2039,6 +2039,74 @@
        ]
       }
      ]
+    },
+    {
+     "id": "1043",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.1.G01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.1.G01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.1.G01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.1.G01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1044",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.0.C02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.C02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.0.C01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 1.0.C01"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 1.0.C01"
+        }
+       ]
+      }
+     ]
     }
    ]
   },
@@ -2525,12 +2593,12 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 1.0.H03",
+       "room": "Aula 1.1.G01",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.H03"
+         "room": "Aula 1.1.G01"
         }
        ]
       },
@@ -2561,12 +2629,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.0.B01",
+       "room": "Aula 1.0.C02",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.B01"
+         "room": "Aula 1.0.C02"
         }
        ]
       },
@@ -2669,12 +2737,12 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.F02",
+       "room": "Aula 1.0.C01",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.F02"
+         "room": "Aula 1.0.C01"
         }
        ]
       },

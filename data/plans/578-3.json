@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-07-27T08:27:22Z",
+ "generatedAt": "2026-08-03T08:22:01Z",
  "subjects": [
   {
    "code": "19408",
@@ -1084,12 +1084,12 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       },
@@ -1097,12 +1097,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       }
@@ -1116,20 +1116,20 @@
        "day": 0,
        "start": "18:30",
        "end": "20:00",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       },
@@ -1137,12 +1137,12 @@
        "day": 2,
        "start": "18:30",
        "end": "20:00",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       }
@@ -1229,20 +1229,20 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       },
@@ -1356,12 +1356,12 @@
        "day": 2,
        "start": "16:45",
        "end": "18:15",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       }
@@ -1437,75 +1437,6 @@
      ]
     },
     {
-     "id": "55",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 3,
-       "start": "14:00",
-       "end": "15:00",
-       "room": "Aula LAB-17.1.23 Est. Radio",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "17.sep",
-         "room": "Aula LAB-17.1.23 Est. Radio"
-        },
-        {
-         "dates": "01.oct",
-         "room": "Aula LAB-17.1.23 Est. Radio"
-        },
-        {
-         "dates": "15.oct",
-         "room": "Aula LAB-17.1.23 Est. Radio"
-        },
-        {
-         "dates": "29.oct",
-         "room": "Aula LAB-17.1.23 Est. Radio"
-        },
-        {
-         "dates": "12.nov",
-         "room": "Aula LAB-17.1.23 Est. Radio"
-        },
-        {
-         "dates": "26.nov",
-         "room": "Aula LAB-17.1.23 Est. Radio"
-        },
-        {
-         "dates": "10.dic",
-         "room": "Aula LAB-17.1.23 Est. Radio"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "15:00",
-       "end": "16:30",
-       "room": "Aula LAB-17.1.23 Est. Radio",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "10.sep-10.dic",
-         "room": "Aula LAB-17.1.23 Est. Radio"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "16:45",
-       "end": "18:15",
-       "room": "Aula 17.1.05",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 17.1.05"
-        }
-       ]
-      }
-     ]
-    },
-    {
      "id": "56",
      "kind": "magistral",
      "sessions": [
@@ -1567,20 +1498,20 @@
        "day": 0,
        "start": "16:45",
        "end": "18:15",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       }
@@ -1634,12 +1565,12 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Básica",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       },
@@ -1647,12 +1578,12 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Básica",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       }
@@ -1666,12 +1597,12 @@
        "day": 1,
        "start": "18:30",
        "end": "20:00",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Básica",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       },
@@ -1679,12 +1610,12 @@
        "day": 3,
        "start": "18:30",
        "end": "20:00",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Básica",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       }
@@ -1746,12 +1677,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       },
@@ -1759,12 +1690,12 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       }
@@ -1778,12 +1709,12 @@
        "day": 1,
        "start": "16:45",
        "end": "18:15",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       },
@@ -1791,12 +1722,12 @@
        "day": 3,
        "start": "16:45",
        "end": "18:15",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       }
@@ -1858,12 +1789,12 @@
        "day": 4,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Básica",
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       },
@@ -1871,12 +1802,12 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Básica",
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       }
@@ -1890,12 +1821,12 @@
        "day": 1,
        "start": "15:00",
        "end": "16:30",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Básica",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       },
@@ -1903,12 +1834,12 @@
        "day": 3,
        "start": "15:00",
        "end": "16:30",
-       "room": "Aula 17.1.06",
+       "room": "Aula 17.1.04",
        "type": "Básica",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 17.1.06"
+         "room": "Aula 17.1.04"
         }
        ]
       }
@@ -2212,71 +2143,6 @@
         },
         {
          "dates": "23.nov",
-         "room": "Aula LAB- 17.1.14 Informática"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "55",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 1,
-       "start": "14:00",
-       "end": "15:00",
-       "room": "Aula LAB- 17.1.14 Informática",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "15.sep",
-         "room": "Aula LAB- 17.1.14 Informática"
-        },
-        {
-         "dates": "29.sep",
-         "room": "Aula LAB- 17.1.14 Informática"
-        },
-        {
-         "dates": "13.oct",
-         "room": "Aula LAB- 17.1.14 Informática"
-        },
-        {
-         "dates": "27.oct",
-         "room": "Aula LAB- 17.1.14 Informática"
-        },
-        {
-         "dates": "10.nov",
-         "room": "Aula LAB- 17.1.14 Informática"
-        },
-        {
-         "dates": "24.nov",
-         "room": "Aula LAB- 17.1.14 Informática"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "15:00",
-       "end": "16:30",
-       "room": "Aula LAB- 17.1.14 Informática",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "08.sep-01.dic",
-         "room": "Aula LAB- 17.1.14 Informática"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "16:45",
-       "end": "18:15",
-       "room": "Aula LAB- 17.1.14 Informática",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "08.sep-01.dic",
          "room": "Aula LAB- 17.1.14 Informática"
         }
        ]

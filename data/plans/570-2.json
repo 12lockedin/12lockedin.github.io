@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-07-27T08:25:16Z",
+ "generatedAt": "2026-08-03T08:19:45Z",
  "subjects": [
   {
    "code": "19893",
@@ -1093,12 +1093,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 4.1.D01",
+       "room": "Aula 4.1.E06",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 4.1.D01"
+         "room": "Aula 4.1.E06"
         }
        ]
       },
@@ -1142,20 +1142,20 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 4.0.D01",
+       "room": "Aula 4.0.E03",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 4.0.D01"
+         "room": "Aula 4.0.E03"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 4.0.D01"
+         "room": "Aula 4.0.E03"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 4.0.D01"
+         "room": "Aula 4.0.E03"
         }
        ]
       },
@@ -1428,6 +1428,74 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 2.3.B01"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "84",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.D04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 2.3.D04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.D04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.3.D04"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 2.3.D04"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "1087",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.F03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.0.F03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.2.J08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 7.2.J08"
         }
        ]
       }

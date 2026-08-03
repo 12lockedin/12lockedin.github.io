@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencias Sociales Computacionales/ Computational Social Science",
  "year": "2026",
- "generatedAt": "2026-07-27T08:12:46Z",
+ "generatedAt": "2026-08-03T08:07:20Z",
  "subjects": [
   {
    "code": "19134",
@@ -518,7 +518,7 @@
       {
        "day": 2,
        "start": "19:30",
-       "end": "20:45",
+       "end": "21:00",
        "room": "Aula 2.A.04",
        "type": "Máster oficial",
        "slots": [

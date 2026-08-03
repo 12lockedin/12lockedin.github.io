@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Derecho y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-07-27T08:26:41Z",
+ "generatedAt": "2026-08-03T08:21:21Z",
  "subjects": [
   {
    "code": "13564",
@@ -445,12 +445,12 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.1.B04",
+       "room": "Aula 1.1.B37",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 1.1.B04"
+         "room": "Aula 1.1.B37"
         }
        ]
       }

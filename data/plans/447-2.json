@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Telemática",
  "year": "2026",
- "generatedAt": "2026-07-27T08:09:44Z",
+ "generatedAt": "2026-08-03T08:04:27Z",
  "subjects": [
   {
    "code": "15364",
@@ -1199,63 +1199,6 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 2.3.A06"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "1069",
-     "kind": "reducido",
-     "sessions": [
-      {
-       "day": 2,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 4.0.E03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "09.sep-09.dic",
-         "room": "Aula 4.0.E03"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula INF 7.0.J02 DUAL+ TEL",
-       "type": null,
-       "slots": [
-        {
-         "dates": "24.sep-01.oct",
-         "room": "Aula INF 7.0.J02 DUAL+ TEL"
-        },
-        {
-         "dates": "05.nov",
-         "room": "Aula INF 7.0.J02 DUAL+ TEL"
-        },
-        {
-         "dates": "03.dic",
-         "room": "Aula INF 7.0.J02 DUAL+ TEL"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 4.1.D01",
-       "type": null,
-       "slots": [
-        {
-         "dates": "11.sep-02.oct",
-         "room": "Aula 4.1.D01"
-        },
-        {
-         "dates": "16.oct-11.dic",
-         "room": "Aula 4.1.D01"
         }
        ]
       }
@@ -2524,49 +2467,6 @@
         },
         {
          "dates": "09.dic",
-         "room": "Aula 2.3.A02"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "707",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 3,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula Virtual",
-       "type": null,
-       "slots": [
-        {
-         "dates": "17.sep",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "01.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "15.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "29.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "12.nov",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "26.nov",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "10.dic",
          "room": "Aula 2.3.A02"
         }
        ]

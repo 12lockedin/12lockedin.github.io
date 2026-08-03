@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Programa Académico de Ingeniería Informática vía Grado en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-07-27T08:28:47Z",
+ "generatedAt": "2026-08-03T08:23:23Z",
  "subjects": [
   {
    "code": "19893",
@@ -630,12 +630,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 4.1.D01",
+       "room": "Aula 4.1.E06",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 4.1.D01"
+         "room": "Aula 4.1.E06"
         }
        ]
       },
@@ -679,20 +679,20 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 4.0.D01",
+       "room": "Aula 4.0.E03",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 4.0.D01"
+         "room": "Aula 4.0.E03"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 4.0.D01"
+         "room": "Aula 4.0.E03"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 4.0.D01"
+         "room": "Aula 4.0.E03"
         }
        ]
       },
@@ -847,6 +847,38 @@
    "course": 1,
    "term": 1,
    "groups": [
+    {
+     "id": "1087",
+     "kind": "reducido",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.F03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.0.F03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.2.J08",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 7.2.J08"
+        }
+       ]
+      }
+     ]
+    },
     {
      "id": "1088",
      "kind": "reducido",

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-07-27T08:03:20Z",
+ "generatedAt": "2026-08-03T07:58:26Z",
  "subjects": [
   {
    "code": "15541",
@@ -598,49 +598,6 @@
        ]
       }
      ]
-    },
-    {
-     "id": "707",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 3,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula Virtual",
-       "type": null,
-       "slots": [
-        {
-         "dates": "17.sep",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "01.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "15.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "29.oct",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "12.nov",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "26.nov",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "10.dic",
-         "room": "Aula 2.3.A02"
-        }
-       ]
-      }
-     ]
     }
    ]
   },
@@ -884,12 +841,12 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 7.2.J02",
+       "room": "Aula INF 7.0.J02 DUAL+ TEL",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 7.2.J02"
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
         }
        ]
       },
@@ -911,67 +868,6 @@
         {
          "dates": "04.nov-11.nov",
          "room": "Aula INF 7.0.J04 DUAL"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "49",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 7.2.J03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "07.sep-05.oct",
-         "room": "Aula 7.2.J03"
-        },
-        {
-         "dates": "19.oct-26.oct",
-         "room": "Aula 7.2.J03"
-        },
-        {
-         "dates": "09.nov-30.nov",
-         "room": "Aula 7.2.J03"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 7.0.J06",
-       "type": null,
-       "slots": [
-        {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 7.0.J06"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula INF 7.0.J03 DUAL + TEL",
-       "type": null,
-       "slots": [
-        {
-         "dates": "07.oct",
-         "room": "Aula INF 7.0.J03 DUAL + TEL"
-        },
-        {
-         "dates": "21.oct",
-         "room": "Aula INF 7.0.J05 DUAL"
-        },
-        {
-         "dates": "04.nov-11.nov",
-         "room": "Aula INF 7.0.J05 DUAL"
         }
        ]
       }

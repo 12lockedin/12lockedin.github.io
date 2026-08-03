@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-07-27T08:23:48Z",
+ "generatedAt": "2026-08-03T08:18:17Z",
  "subjects": [
   {
    "code": "19408",
@@ -246,7 +246,7 @@
   },
   {
    "code": "13152",
-   "name": "MATEMÁTICAS ECONOMÍA I, 1º,1 er C (grupos 70 y 71) 10:45 a 12:15 07.sep-05.oct: Aula 1.0.B06 19.oct-26.oct: Aula 1.0.B06 09.nov-30.nov: Aula 1.0.B06",
+   "name": "MATEMÁTICAS ECONOMÍA I, 1º,1 er C (grupos 70 y 71) 10:45 a 12:15 07.sep-05.oct: Aula 1.0.B02 19.oct-26.oct: Aula 1.0.B02 09.nov-30.nov: Aula 1.0.B02",
    "course": 1,
    "term": 1,
    "groups": [
@@ -258,20 +258,20 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 1.0.B06",
+       "room": "Aula 1.0.B02",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.0.B06"
+         "room": "Aula 1.0.B02"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.0.B06"
+         "room": "Aula 1.0.B02"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.0.B06"
+         "room": "Aula 1.0.B02"
         }
        ]
       }
@@ -710,12 +710,12 @@
        "day": 3,
        "start": "14:30",
        "end": "16:00",
-       "room": "Aula 1.1.A21",
+       "room": "Aula 1.0.B02",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 1.1.A21"
+         "room": "Aula 1.0.B02"
         }
        ]
       }

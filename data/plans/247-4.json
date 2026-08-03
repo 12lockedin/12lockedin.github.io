@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Prevención de Riesgos Laborales",
  "year": "2026",
- "generatedAt": "2026-07-27T07:50:22Z",
+ "generatedAt": "2026-08-03T07:46:32Z",
  "subjects": [
   {
    "code": "15673",
@@ -942,7 +942,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.feb-08.mar",
+         "dates": "08.feb-01.mar",
          "room": "Aula 0.A.02"
         }
        ]
@@ -955,7 +955,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.feb-03.mar",
+         "dates": "10.feb-10.mar",
          "room": "Aula 0.A.02"
         }
        ]
@@ -968,7 +968,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.feb-03.mar",
+         "dates": "10.feb-10.mar",
          "room": "Aula 0.A.02"
         }
        ]
@@ -982,6 +982,32 @@
        "slots": [
         {
          "dates": "10.feb-03.mar",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.mar",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.mar",
          "room": "Aula 0.A.02"
         }
        ]
