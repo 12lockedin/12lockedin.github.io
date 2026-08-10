@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Electrificación del Transporte",
  "year": "2026",
- "generatedAt": "2026-08-03T08:24:12Z",
+ "generatedAt": "2026-08-10T06:27:50Z",
  "subjects": [
   {
    "code": "20856",
@@ -23,7 +23,23 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-16.dic",
+         "dates": "09.sep-16.sep",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "30.sep-21.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 4.2.E02"
+        },
+        {
+         "dates": "04.nov-16.dic",
          "room": "Aula Aula Multimedia 3.S1.19"
         }
        ]
@@ -49,7 +65,23 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-16.dic",
+         "dates": "09.sep-16.sep",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "30.sep-21.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 4.2.E02"
+        },
+        {
+         "dates": "04.nov-16.dic",
          "room": "Aula Aula Multimedia 3.S1.19"
         }
        ]
@@ -62,7 +94,27 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-16.dic",
+         "dates": "09.sep-16.sep",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aulas Aula Multimedia 3.S1.19 y 4.1.E02"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "14.oct-21.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aulas Aula Multimedia 3.S1.19 y 4.2.E02"
+        },
+        {
+         "dates": "04.nov-16.dic",
          "room": "Aula Aula Multimedia 3.S1.19"
         }
        ]
@@ -88,7 +140,19 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-29.sep",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "13.oct-20.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aulas Aula Multimedia 3.S1.19 y 4.2.E02"
+        },
+        {
+         "dates": "03.nov-01.dic",
          "room": "Aula Aula Multimedia 3.S1.19"
         },
         {
@@ -118,7 +182,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-20.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula 4.2.E02"
+        },
+        {
+         "dates": "03.nov-01.dic",
          "room": "Aula Aula Multimedia 3.S1.19"
         },
         {
@@ -148,7 +220,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-20.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula 4.2.E02"
+        },
+        {
+         "dates": "03.nov-01.dic",
          "room": "Aula Aula Multimedia 3.S1.19"
         },
         {
@@ -178,12 +258,24 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.sep-05.oct",
+         "dates": "07.sep-14.sep",
          "room": "Aula Aula Multimedia 3.S1.19"
         },
         {
-         "dates": "19.oct-26.oct",
+         "dates": "21.sep",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "28.sep-05.oct",
          "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula 4.2.E02"
         },
         {
          "dates": "09.nov-30.nov",
@@ -203,12 +295,24 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.sep-05.oct",
+         "dates": "07.sep-14.sep",
          "room": "Aula Aula Multimedia 3.S1.19"
         },
         {
-         "dates": "19.oct-26.oct",
+         "dates": "21.sep",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "28.sep-05.oct",
          "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula 4.2.E02"
         },
         {
          "dates": "09.nov-30.nov",
@@ -241,7 +345,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-17.dic",
+         "dates": "10.sep-22.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula 4.2.E02"
+        },
+        {
+         "dates": "05.nov-17.dic",
          "room": "Aula Aula Multimedia 3.S1.19"
         }
        ]
@@ -254,7 +366,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-17.dic",
+         "dates": "10.sep-22.oct",
+         "room": "Aula Aula Multimedia 3.S1.19"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula 4.2.E02"
+        },
+        {
+         "dates": "05.nov-17.dic",
          "room": "Aula Aula Multimedia 3.S1.19"
         }
        ]

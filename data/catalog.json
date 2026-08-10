@@ -1,7 +1,7 @@
 {
  "year": "2026",
- "generatedAt": "2026-08-03T07:45:20Z",
- "count": 211,
+ "generatedAt": "2026-08-10T05:42:58Z",
+ "count": 214,
  "programmes": [
   {
    "type": "grado",
@@ -750,6 +750,27 @@
    "plan": 381,
    "centro": 1,
    "name": "Grado en Turismo",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 593,
+   "centro": 13,
+   "name": "Minor YUFE en Ciudades Inteligentes para una Cultura Sostenible",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 542,
+   "centro": 13,
+   "name": "Minor YUFE en Desarrollo Económico",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 592,
+   "centro": 13,
+   "name": "Minor YUFE en Sostenibilidad Energética en las Ciudades",
    "campus": "Getafe"
   },
   {

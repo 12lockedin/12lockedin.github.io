@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Aprendizaje Automático para la Salud",
  "year": "2026",
- "generatedAt": "2026-08-03T08:08:41Z",
+ "generatedAt": "2026-08-10T06:10:23Z",
  "subjects": [
   {
    "code": "19276",
@@ -272,27 +272,6 @@
        ]
       },
       {
-       "day": 2,
-       "start": "16:15",
-       "end": "17:45",
-       "room": "Aula 2.0.C05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "09.sep-23.sep",
-         "room": "Aula 2.0.C05"
-        },
-        {
-         "dates": "30.sep",
-         "room": "LAB 4.0.B01A (Tª Señal)"
-        },
-        {
-         "dates": "07.oct-09.dic",
-         "room": "Aula 2.0.C05"
-        }
-       ]
-      },
-      {
        "day": 3,
        "start": "12:30",
        "end": "14:00",
@@ -302,23 +281,6 @@
         {
          "dates": "10.sep-17.dic",
          "room": "Aula 2.0.C03"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "14:30",
-       "end": "16:00",
-       "room": "Aula 2.0.C05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "10.sep-24.sep",
-         "room": "Aula 2.0.C05"
-        },
-        {
-         "dates": "08.oct-10.dic",
-         "room": "Aula 2.0.C05"
         }
        ]
       }

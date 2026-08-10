@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Mecánica",
  "year": "2026",
- "generatedAt": "2026-08-03T08:04:00Z",
+ "generatedAt": "2026-08-10T06:05:04Z",
  "subjects": [
   {
    "code": "15489",
@@ -6036,6 +6036,19 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aula 2.3.A06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.3.A06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
        "room": "LAB 1.1.M01 (Mec. Medios Con)",
        "type": "Obligatoria",
        "slots": [
@@ -6046,19 +6059,6 @@
         {
          "dates": "17.nov",
          "room": "LAB 1.1.M01 (Mec. Medios Con)"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 2.3.A06",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 2.3.A06"
         }
        ]
       },

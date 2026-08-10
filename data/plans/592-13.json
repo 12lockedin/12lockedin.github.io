@@ -1,0 +1,77 @@
+{
+ "plan": 592,
+ "centro": 13,
+ "type": "grado",
+ "name": "Minor YUFE en Sostenibilidad Energética en las Ciudades",
+ "year": "2026",
+ "generatedAt": "2026-08-10T06:30:32Z",
+ "subjects": [
+  {
+   "code": "20789",
+   "name": "MINORUC3M2: ESTRATEGIAS ENERGÉTICAS, nullº,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.2.E02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 4.2.E02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.0.H03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.H03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20790",
+   "name": "MINORUC3M2: POBREZA ENERGÉTICA, nullº,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.2.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.2.E03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

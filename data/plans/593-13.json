@@ -1,0 +1,106 @@
+{
+ "plan": 593,
+ "centro": 13,
+ "type": "grado",
+ "name": "Minor YUFE en Ciudades Inteligentes para una Cultura Sostenible",
+ "year": "2026",
+ "generatedAt": "2026-08-10T06:30:29Z",
+ "subjects": [
+  {
+   "code": "20803",
+   "name": "MINORUC3M3: CHALLENGE: CULTURAS SOS, nullº,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.1.A02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.1.A02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.1.A02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.1.A02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "* SIN AULA *",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20802",
+   "name": "MINORUC3M3: SOSTENI PATRIM CULTURAL, nullº,1 er C",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "90",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 18.1.A02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 18.1.A02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 18.1.A02"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 18.1.A02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 18.1.A02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 18.1.A02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

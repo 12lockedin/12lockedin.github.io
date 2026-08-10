@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Robótica y Automatización",
  "year": "2026",
- "generatedAt": "2026-08-03T07:47:23Z",
+ "generatedAt": "2026-08-10T05:45:29Z",
  "subjects": [
   {
    "code": "14922",
@@ -53,7 +53,7 @@
         },
         {
          "dates": "07.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 1.2.G04"
         },
         {
          "dates": "14.oct-16.dic",
@@ -87,7 +87,7 @@
         },
         {
          "dates": "07.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         },
         {
          "dates": "14.oct-21.oct",
@@ -173,7 +173,7 @@
         },
         {
          "dates": "07.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 1.2.G04"
         },
         {
          "dates": "14.oct-21.oct",
@@ -220,7 +220,7 @@
         },
         {
          "dates": "06.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 1.2.G04"
         },
         {
          "dates": "13.oct-24.nov",
@@ -380,7 +380,7 @@
         },
         {
          "dates": "06.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 1.2.G04"
         },
         {
          "dates": "13.oct-01.dic",
@@ -405,7 +405,7 @@
         },
         {
          "dates": "06.oct",
-         "room": "* SIN AULA *"
+         "room": "Aula 2.0.C15"
         },
         {
          "dates": "13.oct-01.dic",

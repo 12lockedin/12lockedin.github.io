@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-08-03T08:14:05Z",
+ "generatedAt": "2026-08-10T06:16:53Z",
  "subjects": [
   {
    "code": "15532",
@@ -1009,7 +1009,11 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "28.oct",
+         "dates": "14.oct-21.oct",
+         "room": "LAB 1.0.G10 (Bioingeniería)"
+        },
+        {
+         "dates": "04.nov",
          "room": "LAB 1.0.G10 (Bioingeniería)"
         }
        ]
@@ -1191,11 +1195,7 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "15.oct",
-         "room": "LAB 1.0.G10 (Bioingeniería)"
-        },
-        {
-         "dates": "29.oct-05.nov",
+         "dates": "22.oct",
          "room": "LAB 1.0.G10 (Bioingeniería)"
         }
        ]

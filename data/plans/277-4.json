@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Iniciativa Emprendedora y Creación de Empresas",
  "year": "2026",
- "generatedAt": "2026-08-03T07:47:10Z",
+ "generatedAt": "2026-08-10T05:44:57Z",
  "subjects": [
   {
    "code": "16186",
@@ -72,6 +72,10 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 18.0.A11"
         }
        ]
       },
@@ -121,47 +125,8 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "15.sep",
+         "dates": "15.sep-22.sep",
          "room": "Aula 18.0.A11"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "15:00",
-       "end": "16:30",
-       "room": "Aula 18.0.A14",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "15.dic",
-         "room": "Aula 18.0.A14"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "16:45",
-       "end": "18:15",
-       "room": "Aula 18.0.A14",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "15.dic",
-         "room": "Aula 18.0.A14"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "18:30",
-       "end": "20:00",
-       "room": "Aula 18.0.A14",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "15.dic",
-         "room": "Aula 18.0.A14"
         }
        ]
       },
@@ -175,10 +140,6 @@
         {
          "dates": "16.sep",
          "room": "Aula 18.0.A11"
-        },
-        {
-         "dates": "18.nov",
-         "room": "Aula 18.0.A11"
         }
        ]
       },
@@ -190,11 +151,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "17.sep-05.nov",
+         "dates": "10.sep-01.oct",
          "room": "Aula 18.0.A11"
         },
         {
-         "dates": "19.nov-10.dic",
+         "dates": "15.oct",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "29.oct-17.dic",
          "room": "Aula 18.0.A11"
         }
        ]
@@ -207,28 +172,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "24.sep-15.oct",
+         "dates": "10.sep-01.oct",
          "room": "Aula 18.0.A11"
         },
         {
-         "dates": "29.oct-05.nov",
-         "room": "Aula 18.0.A11"
-        },
-        {
-         "dates": "26.nov-10.dic",
-         "room": "Aula 18.0.A11"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "18:30",
-       "end": "20:00",
-       "room": "Aula 18.0.A11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "03.dic",
+         "dates": "15.oct-17.dic",
          "room": "Aula 18.0.A11"
         }
        ]
@@ -256,6 +204,10 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 18.0.A11"
         }
        ]
       },
@@ -268,6 +220,10 @@
        "slots": [
         {
          "dates": "08.sep-01.dic",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "15.dic",
          "room": "Aula 18.0.A11"
         }
        ]
@@ -286,19 +242,6 @@
      "id": "1",
      "sessions": [
       {
-       "day": 0,
-       "start": "18:30",
-       "end": "20:00",
-       "room": "Aula 18.0.A11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "21.sep-28.sep",
-         "room": "Aula 18.0.A11"
-        }
-       ]
-      },
-      {
        "day": 1,
        "start": "14:30",
        "end": "16:00",
@@ -310,7 +253,11 @@
          "room": "Aula 18.0.A11"
         },
         {
-         "dates": "22.sep-01.dic",
+         "dates": "29.sep-01.dic",
+         "room": "Aula 18.0.A11"
+        },
+        {
+         "dates": "15.dic",
          "room": "Aula 18.0.A11"
         }
        ]
@@ -327,11 +274,24 @@
          "room": "Aula 18.0.A11"
         },
         {
-         "dates": "23.sep-11.nov",
+         "dates": "23.sep-16.dic",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct",
          "room": "Aula 18.0.A11"
         },
         {
-         "dates": "25.nov-09.dic",
+         "dates": "22.oct",
          "room": "Aula 18.0.A11"
         }
        ]
@@ -344,7 +304,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "19.nov",
+         "dates": "08.oct",
          "room": "Aula 18.0.A11"
         }
        ]
