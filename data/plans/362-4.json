@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Economía de la Empresa y Finanzas/ Master in Business and Finance",
  "year": "2026",
- "generatedAt": "2026-08-10T05:49:12Z",
+ "generatedAt": "2026-08-17T05:02:37Z",
  "subjects": [
   {
    "code": "17190",
@@ -572,6 +572,19 @@
        "day": 1,
        "start": "12:00",
        "end": "14:00",
+       "room": "Aula 18.0.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-06.oct",
+         "room": "Aula 18.0.A08"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
        "room": "Aula 18.0.A01",
        "type": "Máster oficial",
        "slots": [
@@ -582,19 +595,6 @@
         {
          "dates": "13.oct-20.oct",
          "room": "Aula 18.0.A01"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "12:00",
-       "end": "14:00",
-       "room": "Aula 18.0.A08",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "22.sep-06.oct",
-         "room": "Aula 18.0.A08"
         }
        ]
       },

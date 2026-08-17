@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Biomecánica y Dispositivos Médicos",
  "year": "2026",
- "generatedAt": "2026-08-10T06:17:17Z",
+ "generatedAt": "2026-08-17T05:28:26Z",
  "subjects": [
   {
    "code": "20077",
@@ -318,23 +318,6 @@
       {
        "day": 3,
        "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 7.2.H03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "01.oct",
-         "room": "Aula 7.2.H03"
-        },
-        {
-         "dates": "29.oct-05.nov",
-         "room": "Aula 7.2.H03"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "17:15",
        "end": "20:30",
        "room": "Aula 7.2.H03",
        "type": "Máster oficial",
@@ -353,6 +336,23 @@
         },
         {
          "dates": "19.nov-17.dic",
+         "room": "Aula 7.2.H03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.H03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.oct",
+         "room": "Aula 7.2.H03"
+        },
+        {
+         "dates": "29.oct-05.nov",
          "room": "Aula 7.2.H03"
         }
        ]

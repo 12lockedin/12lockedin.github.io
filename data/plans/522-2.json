@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-08-10T06:16:53Z",
+ "generatedAt": "2026-08-17T05:28:02Z",
  "subjects": [
   {
    "code": "15532",
@@ -414,19 +414,6 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula INF 4.S.D.02",
-       "type": null,
-       "slots": [
-        {
-         "dates": "05.oct",
-         "room": "Aula INF 4.S.D.02"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "10:45",
-       "end": "12:15",
        "room": "Aulas INF 4.S.D.01, INF 7.0.J04 DUAL y INF 7.0.J05 DUAL",
        "type": null,
        "slots": [
@@ -441,6 +428,19 @@
         {
          "dates": "16.nov",
          "room": "Aulas INF 4.S.D.01, INF 4.S.D.02, INF 7.0.J04 DUAL y INF 7.0.J05 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula INF 4.S.D.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula INF 4.S.D.02"
         }
        ]
       },
@@ -1195,7 +1195,11 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "22.oct",
+         "dates": "15.oct",
+         "room": "LAB 1.0.G10 (Bioingeniería)"
+        },
+        {
+         "dates": "29.oct-05.nov",
          "room": "LAB 1.0.G10 (Bioingeniería)"
         }
        ]
