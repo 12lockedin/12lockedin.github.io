@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Sostenibilidad Urbana",
  "year": "2026",
- "generatedAt": "2026-08-17T05:28:51Z",
+ "generatedAt": "2026-08-24T05:31:27Z",
  "subjects": [
   {
    "code": "20041",
@@ -24,27 +24,23 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "07.sep",
+         "dates": "14.sep",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "21.sep",
+         "dates": "28.sep",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "05.oct",
+         "dates": "26.oct",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "19.oct",
+         "dates": "09.nov",
          "room": "Aula 4.1.08"
         },
         {
-         "dates": "16.nov",
-         "room": "Aula 4.1.08"
-        },
-        {
-         "dates": "30.nov",
+         "dates": "23.nov",
          "room": "Aula 4.1.08"
         }
        ]

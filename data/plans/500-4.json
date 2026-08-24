@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Bibliotecas, Archivos y Continuidad Digital Online",
  "year": "2026",
- "generatedAt": "2026-08-17T05:24:04Z",
+ "generatedAt": "2026-08-24T05:26:31Z",
  "subjects": [
   {
    "code": "17880",
@@ -456,6 +456,19 @@
       {
        "day": 4,
        "start": "19:00",
+       "end": "19:45",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.ene",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
        "end": "20:00",
        "room": "Aula Sala Polivalente 1.A.14",
        "type": "Máster oficial",
@@ -470,19 +483,6 @@
         },
         {
          "dates": "11.dic",
-         "room": "Aula Sala Polivalente 1.A.14"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "19:00",
-       "end": "19:45",
-       "room": "Aula Sala Polivalente 1.A.14",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "15.ene",
          "room": "Aula Sala Polivalente 1.A.14"
         }
        ]
