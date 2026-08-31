@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Economía",
  "year": "2026",
- "generatedAt": "2026-08-24T05:36:50Z",
+ "generatedAt": "2026-08-31T11:29:48Z",
  "subjects": [
   {
    "code": "19408",
@@ -625,31 +625,31 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "11.sep",
+         "dates": "18.sep",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "25.sep",
+         "dates": "02.oct",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "09.oct",
+         "dates": "16.oct",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "23.oct",
+         "dates": "30.oct",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "06.nov",
+         "dates": "13.nov",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "20.nov",
+         "dates": "27.nov",
          "room": "Aula 6.1.07"
         },
         {
-         "dates": "04.dic",
+         "dates": "11.dic",
          "room": "Aula 6.1.07"
         }
        ]

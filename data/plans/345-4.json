@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Mediación, Negociación y Resolución de Conflictos - Presencial",
  "year": "2026",
- "generatedAt": "2026-08-24T05:04:21Z",
+ "generatedAt": "2026-08-31T10:55:21Z",
  "subjects": [
   {
    "code": "16839",
@@ -99,7 +99,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "23.sep-14.oct",
+         "dates": "30.sep",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "14.oct",
          "room": "Aula 18.0.A12"
         }
        ]
@@ -116,20 +120,7 @@
          "room": "Aula 18.0.A12"
         },
         {
-         "dates": "01.oct",
-         "room": "Aula 18.0.A12"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "18:00",
-       "end": "20:00",
-       "room": "Aula 18.0.A12",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "24.sep",
+         "dates": "01.oct-08.oct",
          "room": "Aula 18.0.A12"
         }
        ]
@@ -172,6 +163,14 @@
        "type": "Máster oficial",
        "slots": [
         {
+         "dates": "23.sep",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aula 18.0.A12"
+        },
+        {
          "dates": "21.oct",
          "room": "Aula 18.0.A12"
         }
@@ -185,20 +184,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.oct-15.oct",
-         "room": "Aula 18.0.A12"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "16:00",
-       "end": "18:00",
-       "room": "Aula 18.0.A12",
-       "type": "Máster oficial",
-       "slots": [
-        {
          "dates": "24.sep",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "15.oct",
          "room": "Aula 18.0.A12"
         }
        ]

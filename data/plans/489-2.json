@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-08-24T05:25:46Z",
+ "generatedAt": "2026-08-31T11:18:30Z",
  "subjects": [
   {
    "code": "13866",
@@ -2037,16 +2037,16 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 2.3.C04",
+       "room": "Aula 4.0.E04",
        "type": null,
        "slots": [
         {
          "dates": "30.oct",
-         "room": "Aula 2.3.C04"
+         "room": "Aula 4.0.E04"
         },
         {
          "dates": "13.nov",
-         "room": "Aula 2.3.C04"
+         "room": "Aula 4.0.E04"
         },
         {
          "dates": "20.nov",
@@ -2054,7 +2054,7 @@
         },
         {
          "dates": "04.dic",
-         "room": "Aula 2.3.C04"
+         "room": "Aula 4.0.E04"
         }
        ]
       }

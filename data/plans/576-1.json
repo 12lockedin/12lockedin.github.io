@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Derecho y Economía",
  "year": "2026",
- "generatedAt": "2026-08-24T05:38:08Z",
+ "generatedAt": "2026-08-31T11:31:04Z",
  "subjects": [
   {
    "code": "13634",
@@ -462,27 +462,31 @@
        "type": null,
        "slots": [
         {
-         "dates": "15.sep",
+         "dates": "08.sep",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "29.sep",
+         "dates": "22.sep",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "13.oct",
+         "dates": "06.oct",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "27.oct",
+         "dates": "20.oct",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "10.nov",
+         "dates": "03.nov",
          "room": "Aula 9.1.7"
         },
         {
-         "dates": "24.nov",
+         "dates": "17.nov",
+         "room": "Aula 9.1.7"
+        },
+        {
+         "dates": "01.dic",
          "room": "Aula 9.1.7"
         }
        ]

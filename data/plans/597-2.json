@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Robótica",
  "year": "2026",
- "generatedAt": "2026-08-24T05:42:03Z",
+ "generatedAt": "2026-08-31T11:35:16Z",
  "subjects": [
   {
    "code": "19893",
@@ -2575,7 +2575,7 @@
         },
         {
          "dates": "15.oct",
-         "room": "Aula INF 1.2.G.01"
+         "room": "Aula INF 2.2.C.04 DUAL"
         },
         {
          "dates": "22.oct-10.dic",

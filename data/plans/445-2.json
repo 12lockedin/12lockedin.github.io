@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-08-24T05:19:04Z",
+ "generatedAt": "2026-08-31T11:11:16Z",
  "subjects": [
   {
    "code": "15364",
@@ -116,12 +116,12 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 4.1.D01",
+       "room": "Aula 2.3.C04",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 4.1.D01"
+         "room": "Aula 2.3.C04"
         }
        ]
       },
@@ -129,16 +129,16 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 4.0.E04",
+       "room": "Aula 2.3.C04",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-02.oct",
-         "room": "Aula 4.0.E04"
+         "room": "Aula 2.3.C04"
         },
         {
          "dates": "16.oct-11.dic",
-         "room": "Aula 4.0.E04"
+         "room": "Aula 2.3.C04"
         }
        ]
       }
@@ -3944,12 +3944,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 4.0.E01",
+       "room": "Aula 4.0.E05",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 4.0.E01"
+         "room": "Aula 4.0.E05"
         }
        ]
       },

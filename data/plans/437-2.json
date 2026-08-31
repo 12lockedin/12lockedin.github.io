@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-08-24T05:15:52Z",
+ "generatedAt": "2026-08-31T11:07:43Z",
  "subjects": [
   {
    "code": "19408",
@@ -1320,16 +1320,16 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 2.3.C04",
+       "room": "Aula 4.0.E04",
        "type": null,
        "slots": [
         {
          "dates": "30.oct",
-         "room": "Aula 2.3.C04"
+         "room": "Aula 4.0.E04"
         },
         {
          "dates": "13.nov",
-         "room": "Aula 2.3.C04"
+         "room": "Aula 4.0.E04"
         },
         {
          "dates": "20.nov",
@@ -1337,7 +1337,7 @@
         },
         {
          "dates": "04.dic",
-         "room": "Aula 2.3.C04"
+         "room": "Aula 4.0.E04"
         }
        ]
       }

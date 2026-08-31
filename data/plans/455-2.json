@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Física e Ingeniería en Tecnologías Industriales",
  "year": "2026",
- "generatedAt": "2026-08-24T05:21:40Z",
+ "generatedAt": "2026-08-31T11:13:59Z",
  "subjects": [
   {
    "code": "18296",
@@ -2185,12 +2185,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL",
+       "room": "Aulas INF 1.2.G.01 y INF 1.2.G.03 DUAL",
        "type": null,
        "slots": [
         {
          "dates": "15.oct",
-         "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL"
+         "room": "Aulas INF 1.2.G.01 y INF 1.2.G.03 DUAL"
         }
        ]
       }

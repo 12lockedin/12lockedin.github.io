@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Programa Académico de Ingeniería Industrial vía Grado en Ingeniería en Tecnologías Industriales",
  "year": "2026",
- "generatedAt": "2026-08-24T05:28:55Z",
+ "generatedAt": "2026-08-31T11:21:54Z",
  "subjects": [
   {
    "code": "15489",
@@ -4750,11 +4750,11 @@
         },
         {
          "dates": "12.nov",
-         "room": "Aula INF 1.2.G.02"
+         "room": "Aula INF 4.S.D.03"
         },
         {
          "dates": "03.dic",
-         "room": "Aula INF 1.2.G.02"
+         "room": "Aula INF 4.S.D.03"
         }
        ]
       },
@@ -6504,12 +6504,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula INF 1.2.G.02",
+       "room": "Aula INF 4.S.D.03",
        "type": null,
        "slots": [
         {
          "dates": "08.oct",
-         "room": "Aula INF 1.2.G.02"
+         "room": "Aula INF 4.S.D.03"
         },
         {
          "dates": "22.oct",
@@ -7091,12 +7091,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL",
+       "room": "Aulas INF 1.2.G.01 y INF 1.2.G.03 DUAL",
        "type": null,
        "slots": [
         {
          "dates": "15.oct",
-         "room": "Aulas INF 1.2.G.02 y INF 1.2.G.03 DUAL"
+         "room": "Aulas INF 1.2.G.01 y INF 1.2.G.03 DUAL"
         }
        ]
       }

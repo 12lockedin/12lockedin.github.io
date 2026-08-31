@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Eléctrica",
  "year": "2026",
- "generatedAt": "2026-08-24T05:17:42Z",
+ "generatedAt": "2026-08-31T11:09:44Z",
  "subjects": [
   {
    "code": "13966",
@@ -5148,19 +5148,6 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula INF 1.2.G.01",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "05.nov",
-         "room": "Aula INF 1.2.G.01"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula INF 2.2.C.04 DUAL",
        "type": "Obligatoria",
        "slots": [
@@ -5171,6 +5158,19 @@
         {
          "dates": "03.dic",
          "room": "Aula INF 2.2.C.04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula INF 1.2.G.01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "05.nov",
+         "room": "Aula INF 1.2.G.01"
         }
        ]
       },

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Industrial",
  "year": "2026",
- "generatedAt": "2026-08-24T05:00:29Z",
+ "generatedAt": "2026-08-31T10:50:59Z",
  "subjects": [
   {
    "code": "14283",
@@ -114,6 +114,57 @@
      "id": "3",
      "sessions": [
       {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 1.2.G.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "16.nov",
+         "room": "LAB 1.1.N04 (Mecánica)"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "LAB 1.1.N04 (Mecánica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "LAB 1.1.N04 (Mecánica)"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "LAB 1.1.N04 (Mecánica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "LAB 1.1.N04 (Mecánica)"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "17:15",
        "end": "18:45",
@@ -121,7 +172,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep-23.sep",
+         "room": "Aula 4.1.E05"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aulas INF 1.2.G.01 y 4.1.E05"
+        },
+        {
+         "dates": "07.oct-09.dic",
          "room": "Aula 4.1.E05"
         }
        ]
@@ -134,8 +193,29 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-24.sep",
          "room": "Aula 4.0.E06"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aulas 4.0.E06 y INF 7.0.J04 DUAL"
+        },
+        {
+         "dates": "08.oct-10.dic",
+         "room": "Aula 4.0.E06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula INF 7.0.J04 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.oct",
+         "room": "Aula INF 7.0.J04 DUAL"
         }
        ]
       }
@@ -144,6 +224,61 @@
     {
      "id": "4",
      "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "LAB 1.1.N04 (Mecánica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "LAB 1.1.N04 (Mecánica)"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula INF 1.2.G.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep",
+         "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "23.nov",
+         "room": "LAB 1.1.N04 (Mecánica)"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula INF 1.2.G.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.sep",
+         "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      },
       {
        "day": 2,
        "start": "15:30",
@@ -154,6 +289,23 @@
         {
          "dates": "09.sep-09.dic",
          "room": "Aula 4.1.E05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "LAB 1.1.N04 (Mecánica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov",
+         "room": "LAB 1.1.N04 (Mecánica)"
+        },
+        {
+         "dates": "02.dic",
+         "room": "Aula INF 1.2.G.03 DUAL"
         }
        ]
       },

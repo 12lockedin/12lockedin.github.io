@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Gestión de la Información y Contenidos Digitales",
  "year": "2026",
- "generatedAt": "2026-08-24T05:36:59Z",
+ "generatedAt": "2026-08-31T11:29:56Z",
  "subjects": [
   {
    "code": "17355",
@@ -367,12 +367,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "* SIN AULA *",
+       "room": "Aula 17.0.02",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 17.0.02"
         }
        ]
       },

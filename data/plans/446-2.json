@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Mecánica",
  "year": "2026",
- "generatedAt": "2026-08-24T05:19:55Z",
+ "generatedAt": "2026-08-31T11:12:07Z",
  "subjects": [
   {
    "code": "15489",
@@ -2194,19 +2194,6 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "LAB 4.S.B01 (Fisica)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.nov",
-         "room": "LAB 4.S.B01 (Fisica)"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
@@ -2217,6 +2204,19 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 1.0.B03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 4.S.B01 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "LAB 4.S.B01 (Fisica)"
         }
        ]
       }
@@ -5953,6 +5953,19 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aula 2.3.D05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "08.sep-01.dic",
+         "room": "Aula 2.3.D05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
        "room": "LAB 1.1.M01 (Mec. Medios Con)",
        "type": "Obligatoria",
        "slots": [
@@ -5963,19 +5976,6 @@
         {
          "dates": "17.nov",
          "room": "LAB 1.1.M01 (Mec. Medios Con)"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 2.3.D05",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 2.3.D05"
         }
        ]
       },
@@ -6976,12 +6976,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula INF 1.2.G.02",
+       "room": "Aula INF 4.S.D.03",
        "type": null,
        "slots": [
         {
          "dates": "08.oct",
-         "room": "Aula INF 1.2.G.02"
+         "room": "Aula INF 4.S.D.03"
         },
         {
          "dates": "22.oct",

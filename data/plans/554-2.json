@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Matemática Aplicada",
  "year": "2026",
- "generatedAt": "2026-08-24T05:31:53Z",
+ "generatedAt": "2026-08-31T11:24:54Z",
  "subjects": [
   {
    "code": "19893",
@@ -398,33 +398,6 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 2.3.A03"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "20131",
-   "name": "PROBABILIDAD Y ESTADÍSTICA",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "151",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 2.3.B05",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 2.3.B05"
         }
        ]
       }

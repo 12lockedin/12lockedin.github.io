@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencias Sociales Computacionales/ Computational Social Science",
  "year": "2026",
- "generatedAt": "2026-08-24T05:23:20Z",
+ "generatedAt": "2026-08-31T11:15:49Z",
  "subjects": [
   {
    "code": "19134",
@@ -23,7 +23,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "19.oct",
+         "dates": "26.oct",
          "room": "Aula 2.A.04"
         }
        ]
@@ -36,7 +36,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "19.oct",
+         "dates": "26.oct",
          "room": "Aula 2.A.04"
         }
        ]
@@ -49,7 +49,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "19.oct",
+         "dates": "26.oct",
          "room": "Aula 2.A.04"
         }
        ]
@@ -62,7 +62,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "19.oct",
+         "dates": "26.oct",
          "room": "Aula 2.A.04"
         }
        ]

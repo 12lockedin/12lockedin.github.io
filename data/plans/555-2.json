@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Inteligencia Artificial",
  "year": "2026",
- "generatedAt": "2026-08-24T05:32:16Z",
+ "generatedAt": "2026-08-31T11:25:19Z",
  "subjects": [
   {
    "code": "19893",
@@ -202,6 +202,25 @@
        ]
       }
      ]
+    },
+    {
+     "id": "418",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "* SIN AULA *",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      }
+     ]
     }
    ]
   },
@@ -257,12 +276,12 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 2.3.C04",
+       "room": "Aula 4.1.D01",
        "type": "Básica",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 2.3.C04"
+         "room": "Aula 4.1.D01"
         }
        ]
       }

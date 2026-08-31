@@ -4,35 +4,8 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-08-24T05:39:22Z",
+ "generatedAt": "2026-08-31T11:32:15Z",
  "subjects": [
-  {
-   "code": "19826",
-   "name": "COMPETENCIAS DIGITALES DATOS. AVANZ",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "801",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 2.3.A06",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 2.3.A06"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
   {
    "code": "19408",
    "name": "COMPETENCIAS DIGITALES USO INFORMAC, 1º,1 er C",

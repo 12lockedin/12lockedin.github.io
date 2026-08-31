@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Historia y Política",
  "year": "2026",
- "generatedAt": "2026-08-24T05:35:55Z",
+ "generatedAt": "2026-08-31T11:28:51Z",
  "subjects": [
   {
    "code": "19408",
@@ -175,12 +175,12 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
-       "room": "* SIN AULA *",
+       "room": "Aula 17.0.04",
        "type": "Básica",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 17.0.04"
         }
        ]
       }
