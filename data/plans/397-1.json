@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Derecho",
  "year": "2026",
- "generatedAt": "2026-08-31T11:00:45Z",
+ "generatedAt": "2026-09-07T09:29:17Z",
  "subjects": [
   {
    "code": "13565",
@@ -246,7 +246,7 @@
   },
   {
    "code": "13945",
-   "name": "DERECHO INTERNACIONAL PÚBLICO, 2º,1 er C (grupos 12,13 y 14) 10:45 a 12:15 08.sep-01.dic: Aula 9.2.11",
+   "name": "DERECHO INTERNACIONAL PÚBLICO, 2º,1 er C (grupos 12,13 y 14) 10:45 a 12:15 08.sep-01.dic: Aula 9.2.3",
    "course": 2,
    "term": 1,
    "groups": [
@@ -258,12 +258,12 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 9.2.11",
+       "room": "Aula 9.2.3",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 9.2.11"
+         "room": "Aula 9.2.3"
         }
        ]
       }

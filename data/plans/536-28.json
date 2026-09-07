@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Doble Máster en Ingeniería de Telecomunicación y Métodos Analíticos para Datos Masivos: Big Data",
  "year": "2026",
- "generatedAt": "2026-08-31T11:37:34Z",
+ "generatedAt": "2026-09-07T09:52:27Z",
  "subjects": [
   {
    "code": "17234",
@@ -276,32 +276,6 @@
        "slots": [
         {
          "dates": "05.nov-19.nov",
-         "room": "Aula 0.A.09"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "09:30",
-       "end": "11:00",
-       "room": "Aula 0.A.09",
-       "type": null,
-       "slots": [
-        {
-         "dates": "15.ene",
-         "room": "Aula 0.A.09"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "11:15",
-       "end": "12:45",
-       "room": "Aula 0.A.09",
-       "type": null,
-       "slots": [
-        {
-         "dates": "15.ene",
          "room": "Aula 0.A.09"
         }
        ]

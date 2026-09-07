@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Industria Conectada 4.0",
  "year": "2026",
- "generatedAt": "2026-08-31T11:06:26Z",
+ "generatedAt": "2026-09-07T09:34:54Z",
  "subjects": [
   {
    "code": "18043",
@@ -514,6 +514,32 @@
         },
         {
          "dates": "22.oct",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
          "room": "Aula 0.A.05"
         }
        ]

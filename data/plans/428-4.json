@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas",
  "year": "2026",
- "generatedAt": "2026-08-31T11:06:39Z",
+ "generatedAt": "2026-09-07T09:35:07Z",
  "subjects": [
   {
    "code": "18113",
@@ -197,13 +197,50 @@
      "sessions": [
       {
        "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.07 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.oct",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 1.A.07 INF"
+        }
+       ]
+      },
+      {
+       "day": 4,
        "start": "17:45",
        "end": "19:15",
        "room": "Aula -1.A.05",
        "type": null,
        "slots": [
         {
-         "dates": "11.sep-11.dic",
+         "dates": "11.sep-02.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "06.nov-13.nov",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "27.nov-11.dic",
          "room": "Aula -1.A.05"
         }
        ]
@@ -223,13 +260,30 @@
      "sessions": [
       {
        "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.dic",
+         "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
        "start": "19:30",
        "end": "21:00",
        "room": "Aula -1.A.05",
        "type": null,
        "slots": [
         {
-         "dates": "09.sep-14.oct",
+         "dates": "09.sep-23.sep",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "07.oct-14.oct",
          "room": "Aula -1.A.05"
         },
         {

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-08-31T11:31:29Z",
+ "generatedAt": "2026-09-07T10:01:18Z",
  "subjects": [
   {
    "code": "19408",
@@ -40,7 +40,7 @@
        "start": "10:45",
        "end": "12:15",
        "room": "Aula 17.1.01",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "11.sep-11.dic",

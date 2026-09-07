@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Aeroespacial",
  "year": "2026",
- "generatedAt": "2026-08-31T11:06:13Z",
+ "generatedAt": "2026-09-07T09:34:43Z",
  "subjects": [
   {
    "code": "15321",
@@ -383,20 +383,20 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 7.2.J04",
+       "room": "Aula 7.2.J01",
        "type": "Básica",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 7.2.J04"
+         "room": "Aula 7.2.J01"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 7.2.J04"
+         "room": "Aula 7.2.J01"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 7.2.J04"
+         "room": "Aula 7.2.J01"
         }
        ]
       },
@@ -429,16 +429,16 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 7.1.J08",
+       "room": "Aula 7.2.J06",
        "type": "Básica",
        "slots": [
         {
          "dates": "11.sep-02.oct",
-         "room": "Aula 7.1.J08"
+         "room": "Aula 7.2.J06"
         },
         {
          "dates": "16.oct-11.dic",
-         "room": "Aula 7.1.J08"
+         "room": "Aula 7.2.J06"
         }
        ]
       }
@@ -1504,12 +1504,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 7.1.H01",
+       "room": "Aula 7.1.J07",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 7.1.H01"
+         "room": "Aula 7.1.J07"
         }
        ]
       }

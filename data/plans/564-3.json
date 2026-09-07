@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-08-31T11:27:25Z",
+ "generatedAt": "2026-09-07T09:57:20Z",
  "subjects": [
   {
    "code": "19408",
@@ -1378,23 +1378,11 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "14.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "28.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
          "dates": "26.oct",
          "room": "Aula 17.0.25 - SALAS POST."
         },
         {
-         "dates": "09.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "23.nov",
+         "dates": "09.nov-30.nov",
          "room": "Aula 17.0.25 - SALAS POST."
         }
        ]
@@ -1413,31 +1401,7 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "16.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "30.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "14.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "28.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "11.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "25.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "09.dic",
+         "dates": "28.oct-09.dic",
          "room": "Aula 17.0.25 - SALAS POST."
         }
        ]
@@ -1524,23 +1488,11 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "14.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "28.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
          "dates": "26.oct",
          "room": "Aula 17.0.25 - SALAS POST."
         },
         {
-         "dates": "09.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "23.nov",
+         "dates": "09.nov-30.nov",
          "room": "Aula 17.0.25 - SALAS POST."
         }
        ]
@@ -1585,27 +1537,7 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "15.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "29.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "13.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "27.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "10.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "24.nov",
+         "dates": "27.oct-01.dic",
          "room": "Aula 17.0.25 - SALAS POST."
         }
        ]
@@ -1624,31 +1556,7 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "18.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "02.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "16.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "30.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "13.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "27.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "11.dic",
+         "dates": "30.oct-11.dic",
          "room": "Aula 17.0.25 - SALAS POST."
         }
        ]
@@ -1719,31 +1627,7 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "18.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "02.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "16.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "30.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "13.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "27.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "11.dic",
+         "dates": "30.oct-11.dic",
          "room": "Aula 17.0.25 - SALAS POST."
         }
        ]
@@ -1788,31 +1672,7 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "16.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "30.sep",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "14.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "28.oct",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "11.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "25.nov",
-         "room": "Aula 17.0.25 - SALAS POST."
-        },
-        {
-         "dates": "09.dic",
+         "dates": "28.oct-09.dic",
          "room": "Aula 17.0.25 - SALAS POST."
         }
        ]
@@ -2002,10 +1862,6 @@
          "room": "Aula 17.1.03"
         },
         {
-         "dates": "16.sep-30.sep",
-         "room": "Aulas 17.1.03 y LAB-17.0.11 Redacción TV"
-        },
-        {
          "dates": "07.oct-09.dic",
          "room": "Aula 17.1.03"
         }
@@ -2019,7 +1875,15 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep",
+         "room": "Aulas 17.1.03 y LAB-17.1.11 Multiusos"
+        },
+        {
+         "dates": "16.sep-30.sep",
+         "room": "Aulas LAB-17.0.11 Redacción TV, 17.1.03 y LAB-17.1.11 Multiusos"
+        },
+        {
+         "dates": "07.oct-09.dic",
          "room": "Aulas 17.1.03 y LAB-17.1.11 Multiusos"
         }
        ]
@@ -2154,42 +2018,8 @@
      "sessions": [
       {
        "day": 2,
-       "start": "09:00",
+       "start": "09:30",
        "end": "10:30",
-       "room": "Aula 17.0.04",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "09.sep-09.dic",
-         "room": "Aula 17.0.04"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aulas 17.0.04 y LAB-17.1.11 Multiusos",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "09.sep",
-         "room": "Aulas 17.0.04 y LAB-17.1.11 Multiusos"
-        },
-        {
-         "dates": "16.sep-30.sep",
-         "room": "LAB-17.0.11 Redacción TV"
-        },
-        {
-         "dates": "07.oct-09.dic",
-         "room": "Aulas 17.0.04 y LAB-17.1.11 Multiusos"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "12:30",
-       "end": "13:30",
        "room": "Aulas 17.0.04 y LAB-17.1.11 Multiusos",
        "type": "Obligatoria",
        "slots": [
@@ -2222,6 +2052,44 @@
          "room": "Aulas 17.0.04 y LAB-17.1.11 Multiusos"
         }
        ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aulas 17.0.04 y LAB-17.1.11 Multiusos",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aulas 17.0.04 y LAB-17.1.11 Multiusos"
+        },
+        {
+         "dates": "16.sep-30.sep",
+         "room": "Aulas 17.0.04, LAB-17.1.11 Multiusos y LAB-17.0.11 Redacción TV"
+        },
+        {
+         "dates": "07.oct-09.dic",
+         "room": "Aulas 17.0.04 y LAB-17.1.11 Multiusos"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 17.0.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula 17.0.04"
+        },
+        {
+         "dates": "07.oct-09.dic",
+         "room": "Aula 17.0.04"
+        }
+       ]
       }
      ]
     },
@@ -2231,8 +2099,8 @@
      "sessions": [
       {
        "day": 3,
-       "start": "09:00",
-       "end": "10:30",
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 17.0.01",
        "type": "Obligatoria",
        "slots": [
@@ -2244,8 +2112,8 @@
       },
       {
        "day": 3,
-       "start": "10:45",
-       "end": "12:15",
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aulas 17.0.01 y LAB-17.1.11 Multiusos",
        "type": "Obligatoria",
        "slots": [
@@ -2265,8 +2133,8 @@
       },
       {
        "day": 3,
-       "start": "12:30",
-       "end": "13:30",
+       "start": "14:00",
+       "end": "15:00",
        "room": "Aulas 17.0.01 y LAB-17.1.11 Multiusos",
        "type": "Obligatoria",
        "slots": [
@@ -2318,10 +2186,6 @@
          "room": "Aula 17.0.04"
         },
         {
-         "dates": "14.sep-28.sep",
-         "room": "Aulas 17.0.04 y LAB-17.0.11 Redacción TV"
-        },
-        {
          "dates": "05.oct",
          "room": "Aula 17.0.04"
         },
@@ -2343,7 +2207,15 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "07.sep-05.oct",
+         "dates": "07.sep",
+         "room": "Aulas 17.0.04 y LAB-17.1.11 Multiusos"
+        },
+        {
+         "dates": "14.sep-28.sep",
+         "room": "Aulas LAB-17.0.11 Redacción TV, 17.0.04 y LAB-17.1.11 Multiusos"
+        },
+        {
+         "dates": "05.oct",
          "room": "Aulas 17.0.04 y LAB-17.1.11 Multiusos"
         },
         {

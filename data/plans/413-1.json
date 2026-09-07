@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Derecho y Ciencias Políticas",
  "year": "2026",
- "generatedAt": "2026-08-31T11:04:19Z",
+ "generatedAt": "2026-09-07T09:32:56Z",
  "subjects": [
   {
    "code": "13565",
@@ -108,7 +108,7 @@
   },
   {
    "code": "20294",
-   "name": "INTRODUCCIÓN A LA SOCIOLOGÍA, 1º,1 er C (grupos 49 y 86) 12:30 a 14:00 08.sep-01.dic: Aula 18.0.A14",
+   "name": "INTRODUCCIÓN A LA SOCIOLOGÍA, 1º,1 er C (grupos 49 y 86) 12:30 a 14:00 08.sep-01.dic: Aula 17.0.04",
    "course": 1,
    "term": 1,
    "groups": [
@@ -120,12 +120,12 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 18.0.A14",
+       "room": "Aula 17.0.04",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 18.0.A14"
+         "room": "Aula 17.0.04"
         }
        ]
       },

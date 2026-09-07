@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Física e Ingeniería en Tecnologías Industriales",
  "year": "2026",
- "generatedAt": "2026-08-31T11:13:59Z",
+ "generatedAt": "2026-09-07T09:42:14Z",
  "subjects": [
   {
    "code": "18296",
@@ -832,12 +832,76 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.F01",
+       "room": "Aula 7.1.J06",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 1.0.F01"
+         "room": "Aula 7.1.J06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "LAB 1.1.S02 (Ing Electrica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        },
+        {
+         "dates": "24.nov",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "LAB 1.1.S02 (Ing Electrica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        },
+        {
+         "dates": "27.oct",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "LAB 1.1.S02 (Ing Electrica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        },
+        {
+         "dates": "09.dic",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "LAB 1.1.S02 (Ing Electrica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
         }
        ]
       },
@@ -845,56 +909,6 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "08.oct",
-         "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)"
-        },
-        {
-         "dates": "29.oct",
-         "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)"
-        },
-        {
-         "dates": "26.nov",
-         "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)"
-        },
-        {
-         "dates": "10.dic",
-         "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "08.oct",
-         "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)"
-        },
-        {
-         "dates": "29.oct",
-         "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)"
-        },
-        {
-         "dates": "26.nov",
-         "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)"
-        },
-        {
-         "dates": "10.dic",
-         "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)",
        "type": null,
        "slots": [
@@ -978,28 +992,40 @@
        ]
       },
       {
-       "day": 1,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)",
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 1.1.S02 (Ing Electrica)",
        "type": null,
        "slots": [
         {
-         "dates": "24.nov",
-         "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)"
+         "dates": "07.oct",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        },
+        {
+         "dates": "28.oct",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        },
+        {
+         "dates": "09.dic",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
         }
        ]
       },
       {
-       "day": 3,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)",
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB 1.1.S02 (Ing Electrica)",
        "type": null,
        "slots": [
         {
-         "dates": "08.oct",
-         "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)"
+         "dates": "27.nov",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        },
+        {
+         "dates": "11.dic",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
         }
        ]
       },
@@ -1020,9 +1046,21 @@
        "day": 4,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)",
+       "room": "LAB 1.1.S02 (Ing Electrica)",
        "type": null,
        "slots": [
+        {
+         "dates": "02.oct",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        },
+        {
+         "dates": "30.oct",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        },
+        {
+         "dates": "27.nov",
+         "room": "LAB 1.1.S02 (Ing Electrica)"
+        },
         {
          "dates": "11.dic",
          "room": "Aulas LAB 1.1.S02 (Ing Electrica), LAB 1.1.S05 (Ing. Electrica) y LAB 1.1.S06 (Ing Electrica)"
@@ -2115,12 +2153,12 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 7.2.J02",
+       "room": "Aula 7.1.J07",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 7.2.J02"
+         "room": "Aula 7.1.J07"
         }
        ]
       },

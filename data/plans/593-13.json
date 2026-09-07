@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Minor YUFE en Ciudades Inteligentes para una Cultura Sostenible",
  "year": "2026",
- "generatedAt": "2026-08-31T11:34:30Z",
+ "generatedAt": "2026-09-07T10:04:06Z",
  "subjects": [
   {
    "code": "20803",
@@ -41,12 +41,12 @@
        "day": 2,
        "start": "15:00",
        "end": "16:30",
-       "room": "* SIN AULA *",
+       "room": "Aula 15.1.03",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 15.1.03"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Neurociencia",
  "year": "2026",
- "generatedAt": "2026-08-31T11:22:56Z",
+ "generatedAt": "2026-09-07T09:51:01Z",
  "subjects": [
   {
    "code": "19760",
@@ -641,19 +641,6 @@
        "day": 0,
        "start": "09:30",
        "end": "13:30",
-       "room": "Aula INF-15.S.04",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "23.nov",
-         "room": "Aula INF-15.S.04"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "09:30",
-       "end": "13:30",
        "room": "LAB-20.1.A01",
        "type": "Obligatoria",
        "slots": [
@@ -664,6 +651,19 @@
         {
          "dates": "09.nov-16.nov",
          "room": "LAB-20.1.A01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "13:30",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "Aula INF-15.S.04"
         }
        ]
       },
@@ -765,6 +765,23 @@
       {
        "day": 4,
        "start": "09:00",
+       "end": "11:00",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.oct",
+         "room": "Aula INF-15.S.04"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
        "end": "13:00",
        "room": "Aula INF-15.S.04",
        "type": "Obligatoria",
@@ -781,31 +798,14 @@
       },
       {
        "day": 4,
-       "start": "09:00",
-       "end": "11:00",
-       "room": "LAB-20.1.A01",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "09.oct",
-         "room": "LAB-20.1.A01"
-        },
-        {
-         "dates": "27.nov",
-         "room": "Aula INF-15.S.04"
-        }
-       ]
-      },
-      {
-       "day": 4,
        "start": "11:00",
        "end": "13:00",
-       "room": "LAB-20.1.A01",
+       "room": "Aula INF-15.S.04",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.oct",
-         "room": "LAB-20.1.A01"
+         "room": "Aula INF-15.S.04"
         }
        ]
       }
@@ -977,8 +977,8 @@
       },
       {
        "day": 3,
-       "start": "10:45",
-       "end": "12:15",
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 20.1.D02",
        "type": "Obligatoria",
        "slots": [
@@ -1121,24 +1121,19 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "05.oct",
+         "dates": "14.sep",
          "room": "Aula INF-15.S.04"
         },
         {
-         "dates": "19.oct-26.oct",
+         "dates": "28.sep",
          "room": "Aula INF-15.S.04"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "15:00",
-       "end": "19:00",
-       "room": "Aula INF-15.S.04",
-       "type": "Obligatoria",
-       "slots": [
+        },
         {
-         "dates": "13.oct-20.oct",
+         "dates": "09.nov-16.nov",
+         "room": "Aula INF-15.S.04"
+        },
+        {
+         "dates": "30.nov",
          "room": "Aula INF-15.S.04"
         }
        ]
@@ -1171,19 +1166,6 @@
      "kind": "magistral",
      "sessions": [
       {
-       "day": 0,
-       "start": "15:00",
-       "end": "19:00",
-       "room": "Aula INF-15.S.04",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "09.nov-16.nov",
-         "room": "Aula INF-15.S.04"
-        }
-       ]
-      },
-      {
        "day": 1,
        "start": "09:00",
        "end": "10:30",
@@ -1204,7 +1186,15 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "27.oct-10.nov",
+         "dates": "22.sep",
+         "room": "Aula INF-15.S.04"
+        },
+        {
+         "dates": "03.nov-17.nov",
+         "room": "Aula INF-15.S.04"
+        },
+        {
+         "dates": "01.dic",
          "room": "Aula INF-15.S.04"
         }
        ]

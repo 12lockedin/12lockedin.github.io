@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Robótica y Automatización",
  "year": "2026",
- "generatedAt": "2026-08-31T10:53:04Z",
+ "generatedAt": "2026-09-07T09:21:47Z",
  "subjects": [
   {
    "code": "14922",
@@ -219,10 +219,6 @@
          "room": "Aula 2.0.C05"
         },
         {
-         "dates": "06.oct",
-         "room": "Aula 1.2.G04"
-        },
-        {
          "dates": "13.oct-24.nov",
          "room": "Aula 2.0.C05"
         },
@@ -244,8 +240,16 @@
          "room": "Aula INF 2.2.C.04 DUAL"
         },
         {
+         "dates": "08.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
          "dates": "22.oct",
          "room": "Aula INF 2.2.C.04 DUAL"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
         },
         {
          "dates": "19.nov-26.nov",
@@ -265,11 +269,19 @@
          "room": "Aula 2.0.C05"
         },
         {
-         "dates": "01.oct-15.oct",
+         "dates": "01.oct",
          "room": "Aula 2.0.C05"
         },
         {
-         "dates": "29.oct-12.nov",
+         "dates": "15.oct",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "12.nov",
          "room": "Aula 2.0.C05"
         },
         {
@@ -282,9 +294,25 @@
        "day": 4,
        "start": "09:00",
        "end": "11:00",
-       "room": "Aula INF 1.2.G.01",
+       "room": "Aula INF 7.0.J02 DUAL+ TEL",
        "type": "Máster oficial",
        "slots": [
+        {
+         "dates": "25.sep",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
         {
          "dates": "27.nov",
          "room": "Aula INF 1.2.G.01"

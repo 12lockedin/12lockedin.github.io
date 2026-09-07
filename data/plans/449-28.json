@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-08-31T11:12:49Z",
+ "generatedAt": "2026-09-07T09:41:01Z",
  "subjects": [
   {
    "code": "18647",
@@ -125,6 +125,23 @@
          "room": "Aula 1.0.B01"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.0.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 1.0.B01"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 1.0.B01"
+        }
+       ]
       }
      ]
     }
@@ -225,15 +242,15 @@
         },
         {
          "dates": "12.nov",
-         "room": "Aula 4.2.E03"
+         "room": "Aula 4.1.E04"
         },
         {
          "dates": "26.nov",
-         "room": "Aula 4.2.E03"
+         "room": "Aula 4.1.E04"
         },
         {
          "dates": "10.dic",
-         "room": "Aula 4.2.E03"
+         "room": "Aula 4.1.E04"
         }
        ]
       }
@@ -332,20 +349,20 @@
        "day": 0,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula INF 7.0.J04 DUAL",
+       "room": "Aula 7.2.J01",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula INF 7.0.J04 DUAL"
+         "room": "Aula 7.2.J01"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula INF 7.0.J04 DUAL"
+         "room": "Aula 7.2.J01"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula INF 7.0.J04 DUAL"
+         "room": "Aula 7.2.J01"
         }
        ]
       },
@@ -353,12 +370,20 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 1.0.B01",
+       "room": "Aula INF 7.0.J03 DUAL + TEL",
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 1.0.B01"
+         "dates": "08.sep-27.oct",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula INF 7.0.J04 DUAL"
+        },
+        {
+         "dates": "10.nov-01.dic",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
         }
        ]
       },
@@ -466,6 +491,27 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 4.0.E06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.0.E05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 4.0.E05"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 4.0.E05"
+        },
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 4.0.E05"
         }
        ]
       }

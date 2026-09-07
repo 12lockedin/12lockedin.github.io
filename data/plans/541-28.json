@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Doble Máster en Ingeniería Informática y Ciencia y Métodos Analíticos para Datos Masivos: Big Data",
  "year": "2026",
- "generatedAt": "2026-08-31T11:38:52Z",
+ "generatedAt": "2026-09-07T09:53:41Z",
  "subjects": [
   {
    "code": "17234",
@@ -244,32 +244,6 @@
        "slots": [
         {
          "dates": "05.nov-19.nov",
-         "room": "Aula 0.A.09"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "09:30",
-       "end": "11:00",
-       "room": "Aula 0.A.09",
-       "type": null,
-       "slots": [
-        {
-         "dates": "15.ene",
-         "room": "Aula 0.A.09"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "11:15",
-       "end": "12:45",
-       "room": "Aula 0.A.09",
-       "type": null,
-       "slots": [
-        {
-         "dates": "15.ene",
          "room": "Aula 0.A.09"
         }
        ]
@@ -675,12 +649,12 @@
       {
        "day": 2,
        "start": "11:15",
-       "end": "12:45",
+       "end": "14:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "27.ene-10.mar",
+         "dates": "31.mar-12.may",
          "room": "Aula 0.A.09"
         }
        ]
@@ -688,12 +662,12 @@
       {
        "day": 2,
        "start": "11:15",
-       "end": "14:45",
+       "end": "12:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "31.mar-12.may",
+         "dates": "27.ene-10.mar",
          "room": "Aula 0.A.09"
         }
        ]

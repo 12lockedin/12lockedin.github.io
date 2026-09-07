@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Asesoría Jurídica de Empresas",
  "year": "2026",
- "generatedAt": "2026-08-31T10:55:14Z",
+ "generatedAt": "2026-09-07T09:23:53Z",
  "subjects": [
   {
    "code": "16820",
@@ -755,11 +755,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-23.sep",
-         "room": "Aula 1.A.03"
-        },
-        {
-         "dates": "07.oct-14.oct",
+         "dates": "09.sep-14.oct",
          "room": "Aula 1.A.03"
         },
         {
@@ -796,10 +792,6 @@
        "room": "Aula 1.A.03",
        "type": "Máster oficial",
        "slots": [
-        {
-         "dates": "01.oct",
-         "room": "Aula 1.A.03"
-        },
         {
          "dates": "26.nov-10.dic",
          "room": "Aula 1.A.03"

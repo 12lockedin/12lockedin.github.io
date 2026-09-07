@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-08-31T10:51:29Z",
+ "generatedAt": "2026-09-07T09:20:15Z",
  "subjects": [
   {
    "code": "16101",
@@ -295,15 +295,19 @@
        "day": 2,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 4.0.E01",
+       "room": "Aula 4.0.D01",
        "type": null,
        "slots": [
         {
-         "dates": "04.nov",
-         "room": "Aula 4.0.E01"
+         "dates": "21.oct",
+         "room": "Aula 4.0.D01"
         },
         {
-         "dates": "11.nov-25.nov",
+         "dates": "28.oct",
+         "room": "Aula 4.0.E06"
+        },
+        {
+         "dates": "11.nov-18.nov",
          "room": "Aula 4.0.D01"
         }
        ]
@@ -325,15 +329,11 @@
        "day": 3,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 4.1.E03",
+       "room": "Aula 4.0.E05",
        "type": null,
        "slots": [
         {
-         "dates": "05.nov",
-         "room": "Aula 4.1.E03"
-        },
-        {
-         "dates": "12.nov-26.nov",
+         "dates": "12.nov-19.nov",
          "room": "Aula 4.0.E05"
         }
        ]
@@ -1246,12 +1246,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 4.0.E01",
+       "room": "Aula 4.0.E05",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 4.0.E01"
+         "room": "Aula 4.0.E05"
         }
        ]
       },

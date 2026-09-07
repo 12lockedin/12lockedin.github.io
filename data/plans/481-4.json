@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencias Sociales/ Master in Social Sciences",
  "year": "2026",
- "generatedAt": "2026-08-31T11:17:35Z",
+ "generatedAt": "2026-09-07T09:45:41Z",
  "subjects": [
   {
    "code": "19301",
@@ -65,13 +65,6 @@
      ]
     }
    ]
-  },
-  {
-   "code": "19311",
-   "name": "Aplicaciones de Teoría de Juegos en Ciencia Política",
-   "course": 2,
-   "term": 1,
-   "groups": []
   },
   {
    "code": "19309",
@@ -306,32 +299,6 @@
         {
          "dates": "14.dic",
          "room": "Aula 18.1.A01"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "20770",
-   "name": "Temas en la Historia Económica de las Instituciones",
-   "course": 2,
-   "term": 1,
-   "groups": [
-    {
-     "id": "1",
-     "sessions": [
-      {
-       "day": 3,
-       "start": "10:00",
-       "end": "13:00",
-       "room": "Aula 18.1.A03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "10.sep-17.dic",
-         "room": "Aula 18.1.A03"
         }
        ]
       }

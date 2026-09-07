@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería de la Energía",
  "year": "2026",
- "generatedAt": "2026-08-31T11:13:29Z",
+ "generatedAt": "2026-09-07T09:41:43Z",
  "subjects": [
   {
    "code": "13966",
@@ -1148,20 +1148,20 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.C02",
+       "room": "Aula 1.1.G02",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.0.C02"
+         "room": "Aula 1.1.G02"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.0.C02"
+         "room": "Aula 1.1.G02"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.0.C02"
+         "room": "Aula 1.1.G02"
         }
        ]
       },
@@ -1605,7 +1605,7 @@
       {
        "day": 1,
        "start": "10:45",
-       "end": "12:30",
+       "end": "12:15",
        "room": "Aula 2.3.A05",
        "type": null,
        "slots": [
@@ -1697,12 +1697,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.B01",
+       "room": "Aula 1.0.F03",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 1.0.B01"
+         "room": "Aula 1.0.F03"
         }
        ]
       },
@@ -2065,6 +2065,19 @@
         },
         {
          "dates": "09.nov-30.nov",
+         "room": "Aula 1.0.H03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.0.H03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
          "room": "Aula 1.0.H03"
         }
        ]

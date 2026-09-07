@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Asesoramiento y Consultoría Jurídico Laboral",
  "year": "2026",
- "generatedAt": "2026-08-31T11:07:05Z",
+ "generatedAt": "2026-09-07T09:35:31Z",
  "subjects": [
   {
    "code": "12254",
@@ -64,19 +64,6 @@
      "sessions": [
       {
        "day": 0,
-       "start": "16:00",
-       "end": "17:30",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "26.oct",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      },
-      {
-       "day": 0,
        "start": "19:15",
        "end": "20:45",
        "room": "Aula 1.A.11",
@@ -111,19 +98,6 @@
      "id": "2",
      "sessions": [
       {
-       "day": 1,
-       "start": "16:00",
-       "end": "17:30",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "27.oct",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      },
-      {
        "day": 2,
        "start": "19:15",
        "end": "20:45",
@@ -144,11 +118,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-17.sep",
-         "room": "Aula 1.A.11"
-        },
-        {
-         "dates": "01.oct-22.oct",
+         "dates": "10.sep-22.oct",
          "room": "Aula 1.A.11"
         }
        ]
@@ -289,7 +259,7 @@
          "room": "Aula 1.A.11"
         },
         {
-         "dates": "23.nov-30.nov",
+         "dates": "16.nov-30.nov",
          "room": "Aula 1.A.11"
         }
        ]
@@ -319,7 +289,7 @@
          "room": "Aula 1.A.11"
         },
         {
-         "dates": "05.nov-17.dic",
+         "dates": "05.nov-10.dic",
          "room": "Aula 1.A.11"
         }
        ]
@@ -336,7 +306,7 @@
          "room": "Aula 1.A.11"
         },
         {
-         "dates": "05.nov-17.dic",
+         "dates": "05.nov-10.dic",
          "room": "Aula 1.A.11"
         }
        ]
@@ -440,11 +410,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-02.oct",
-         "room": "Aula 1.A.11"
-        },
-        {
-         "dates": "16.oct-23.oct",
+         "dates": "11.sep-23.oct",
          "room": "Aula 1.A.11"
         },
         {
@@ -461,11 +427,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-02.oct",
-         "room": "Aula 1.A.11"
-        },
-        {
-         "dates": "16.oct-23.oct",
+         "dates": "11.sep-23.oct",
          "room": "Aula 1.A.11"
         },
         {
@@ -820,7 +782,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.abr-05.may",
+         "dates": "07.abr-28.abr",
          "room": "Aula 1.A.11"
         }
        ]
@@ -833,7 +795,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.abr-05.may",
+         "dates": "07.abr-28.abr",
          "room": "Aula 1.A.11"
         }
        ]

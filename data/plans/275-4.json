@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Máquinas y Transportes",
  "year": "2026",
- "generatedAt": "2026-08-31T10:52:15Z",
+ "generatedAt": "2026-09-07T09:21:02Z",
  "subjects": [
   {
    "code": "16091",
@@ -219,7 +219,27 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-16.dic",
+         "dates": "09.sep-14.oct",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula INF 2.2.C.04 DUAL"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "11.nov",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        },
+        {
+         "dates": "18.nov-16.dic",
          "room": "Aula 2.0.C15"
         }
        ]
@@ -232,7 +252,31 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-16.dic",
+         "dates": "09.sep",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "16.sep-30.sep",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        },
+        {
+         "dates": "07.oct-14.oct",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "21.oct-28.oct",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "11.nov-18.nov",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        },
+        {
+         "dates": "25.nov-16.dic",
          "room": "Aula 2.0.C15"
         }
        ]

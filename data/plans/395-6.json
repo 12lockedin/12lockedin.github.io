@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-08-31T11:00:17Z",
+ "generatedAt": "2026-09-07T09:28:51Z",
  "subjects": [
   {
    "code": "19408",
@@ -773,7 +773,7 @@
   },
   {
    "code": "13171",
-   "name": "DIRECCIÓN ESTRATÉGICA",
+   "name": "DIRECCIÓN ESTRATÉGICA, 4º,1 er C",
    "course": 4,
    "term": 1,
    "groups": [
@@ -786,7 +786,7 @@
        "start": "17:45",
        "end": "19:15",
        "room": "Aula 1.0.B04",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
@@ -807,7 +807,7 @@
        "start": "18:00",
        "end": "19:30",
        "room": "Aula 1.1.A21",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",

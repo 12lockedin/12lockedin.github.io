@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-08-31T11:23:36Z",
+ "generatedAt": "2026-09-07T09:51:39Z",
  "subjects": [
   {
    "code": "15532",
@@ -206,11 +206,15 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 7.1.J02",
+       "room": "Aula INF 7.0.J05 DUAL",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep-16.sep",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "23.sep-09.dic",
          "room": "Aula 7.1.J02"
         }
        ]
@@ -271,11 +275,15 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 7.1.J05",
+       "room": "Aula INF 7.0.J05 DUAL",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep-16.sep",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "23.sep-09.dic",
          "room": "Aula 7.1.J05"
         }
        ]
@@ -336,24 +344,24 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aulas INF 4.S.D.01, INF 4.S.D.02, INF 7.0.J03 DUAL + TEL y INF 7.0.J05 DUAL",
+       "room": "Aula 7.0.J06",
        "type": null,
        "slots": [
         {
          "dates": "07.oct",
-         "room": "Aulas INF 4.S.D.01, INF 4.S.D.02, INF 7.0.J03 DUAL + TEL y INF 7.0.J05 DUAL"
+         "room": "Aula 7.0.J06"
         },
         {
          "dates": "28.oct",
-         "room": "Aulas INF 4.S.D.01, INF 4.S.D.02, INF 7.0.J03 DUAL + TEL y INF 7.0.J05 DUAL"
+         "room": "Aula 7.0.J06"
         },
         {
          "dates": "18.nov",
-         "room": "Aulas INF 4.S.D.01, INF 4.S.D.02, INF 7.0.J03 DUAL + TEL y INF 7.0.J05 DUAL"
+         "room": "Aula 7.0.J06"
         },
         {
          "dates": "09.dic",
-         "room": "Aulas INF 4.S.D.01, INF 4.S.D.02, INF 7.0.J03 DUAL + TEL y INF 7.0.J05 DUAL"
+         "room": "Aula 7.0.J06"
         }
        ]
       },
@@ -414,12 +422,20 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula INF 4.S.D.02",
+       "room": "Aula 2.3.B04",
        "type": null,
        "slots": [
         {
          "dates": "05.oct",
-         "room": "Aula INF 4.S.D.02"
+         "room": "Aula 2.3.B04"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula 2.3.B04"
+        },
+        {
+         "dates": "16.nov",
+         "room": "Aula 2.3.B04"
         }
        ]
       },
@@ -427,20 +443,12 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aulas INF 4.S.D.01, INF 7.0.J04 DUAL y INF 7.0.J05 DUAL",
+       "room": "Aula INF 4.S.D.02",
        "type": null,
        "slots": [
         {
          "dates": "05.oct",
-         "room": "Aulas INF 4.S.D.01, INF 7.0.J04 DUAL y INF 7.0.J05 DUAL"
-        },
-        {
-         "dates": "26.oct",
-         "room": "Aulas INF 4.S.D.01, INF 4.S.D.02, INF 7.0.J04 DUAL y INF 7.0.J05 DUAL"
-        },
-        {
-         "dates": "16.nov",
-         "room": "Aulas INF 4.S.D.01, INF 4.S.D.02, INF 7.0.J04 DUAL y INF 7.0.J05 DUAL"
+         "room": "Aula INF 4.S.D.02"
         }
        ]
       },
@@ -517,12 +525,12 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aulas INF 7.0.J03 DUAL + TEL, INF 7.0.J04 DUAL y INF 7.0.J05 DUAL",
+       "room": "Aula 2.3.B04",
        "type": null,
        "slots": [
         {
          "dates": "11.dic",
-         "room": "Aulas INF 7.0.J03 DUAL + TEL, INF 7.0.J04 DUAL y INF 7.0.J05 DUAL"
+         "room": "Aula 2.3.B04"
         }
        ]
       }
@@ -1009,11 +1017,7 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "14.oct-21.oct",
-         "room": "LAB 1.0.G10 (Bioingeniería)"
-        },
-        {
-         "dates": "04.nov",
+         "dates": "28.oct",
          "room": "LAB 1.0.G10 (Bioingeniería)"
         }
        ]
@@ -2214,12 +2218,12 @@
        "day": 3,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 7.1.J08",
+       "room": "Aula 7.0.J06",
        "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 7.1.J08"
+         "room": "Aula 7.0.J06"
         }
        ]
       },

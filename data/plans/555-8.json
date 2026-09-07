@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Inteligencia Artificial",
  "year": "2026",
- "generatedAt": "2026-08-31T11:25:29Z",
+ "generatedAt": "2026-09-07T09:55:26Z",
  "subjects": [
   {
    "code": "19893",
@@ -687,27 +687,11 @@
        "type": null,
        "slots": [
         {
-         "dates": "11.sep",
+         "dates": "02.oct",
          "room": "Aula 1.0.A05"
         },
         {
-         "dates": "25.sep",
-         "room": "Aula 1.0.A05"
-        },
-        {
-         "dates": "09.oct",
-         "room": "Aula 1.0.A05"
-        },
-        {
-         "dates": "23.oct",
-         "room": "Aula 1.0.A05"
-        },
-        {
-         "dates": "06.nov",
-         "room": "Aula 1.0.A05"
-        },
-        {
-         "dates": "20.nov",
+         "dates": "30.oct-06.nov",
          "room": "Aula 1.0.A05"
         },
         {
@@ -1072,36 +1056,24 @@
        "day": 4,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.A06",
+       "room": "Aula 1.0.A05",
        "type": null,
        "slots": [
         {
-         "dates": "18.sep",
-         "room": "Aula 1.0.A06"
+         "dates": "09.oct",
+         "room": "Aula 1.0.A05"
         },
         {
-         "dates": "02.oct",
-         "room": "Aula 1.0.A06"
-        },
-        {
-         "dates": "16.oct",
-         "room": "Aula 1.0.A06"
-        },
-        {
-         "dates": "30.oct",
-         "room": "Aula 1.0.A06"
-        },
-        {
-         "dates": "13.nov",
-         "room": "Aula 1.0.A06"
+         "dates": "23.oct",
+         "room": "Aula 1.0.A05"
         },
         {
          "dates": "27.nov",
-         "room": "Aula 1.0.A06"
+         "room": "Aula 1.0.A05"
         },
         {
          "dates": "11.dic",
-         "room": "Aula 1.0.A06"
+         "room": "Aula 1.0.A05"
         }
        ]
       },

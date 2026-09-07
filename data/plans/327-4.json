@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Sistemas Electrónicos y Aplicaciones",
  "year": "2026",
- "generatedAt": "2026-08-31T10:54:51Z",
+ "generatedAt": "2026-09-07T09:23:30Z",
  "subjects": [
   {
    "code": "12417",
@@ -43,8 +43,8 @@
       },
       {
        "day": 4,
-       "start": "09:15",
-       "end": "10:45",
+       "start": "09:00",
+       "end": "11:00",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
        "slots": [
@@ -57,13 +57,26 @@
       {
        "day": 4,
        "start": "11:00",
-       "end": "21:00",
+       "end": "19:30",
        "room": "Aula INF 4.S.D.03",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "04.dic",
          "room": "Aula INF 4.S.D.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:00",
+       "end": "13:30",
+       "room": "Aula 2.3.C02B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 2.3.C02B"
         }
        ]
       },
@@ -83,59 +96,20 @@
          "room": "Aula 2.3.C02B"
         },
         {
-         "dates": "13.nov-27.nov",
+         "dates": "06.nov-20.nov",
          "room": "Aula 2.3.C02B"
         }
        ]
       },
       {
        "day": 4,
-       "start": "16:00",
-       "end": "19:00",
+       "start": "15:30",
+       "end": "18:30",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.oct",
-         "room": "Aula 2.3.C02B"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "16:00",
-       "end": "17:30",
-       "room": "Aula 2.3.C02B",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "25.sep",
-         "room": "Aula 2.3.C02B"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "16:30",
-       "end": "19:30",
-       "room": "Aula 2.3.C02B",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "16.oct",
-         "room": "Aula 2.3.C02B"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "17:15",
-       "end": "20:15",
-       "room": "Aula 2.3.C02B",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "23.oct",
+         "dates": "25.sep-02.oct",
          "room": "Aula 2.3.C02B"
         }
        ]
@@ -177,19 +151,6 @@
        "day": 2,
        "start": "19:00",
        "end": "20:30",
-       "room": "LAB 1.0.E01 (Electrónica)",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "14.oct",
-         "room": "LAB 1.0.E01 (Electrónica)"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "19:00",
-       "end": "20:30",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
        "slots": [
@@ -200,6 +161,19 @@
         {
          "dates": "21.oct",
          "room": "Aula 2.3.C02B"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "LAB 1.0.E01 (Electrónica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "LAB 1.0.E01 (Electrónica)"
         }
        ]
       }

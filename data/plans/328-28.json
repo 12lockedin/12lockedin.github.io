@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Aeronáutica / Master in Aeronautical Engineering",
  "year": "2026",
- "generatedAt": "2026-08-31T10:55:04Z",
+ "generatedAt": "2026-09-07T09:23:43Z",
  "subjects": [
   {
    "code": "12435",
@@ -15,6 +15,23 @@
     {
      "id": "1",
      "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.J04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.sep",
+         "room": "Aula 7.1.J04"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 7.1.J04"
+        }
+       ]
+      },
       {
        "day": 2,
        "start": "09:00",
@@ -46,6 +63,23 @@
     {
      "id": "2",
      "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula 7.2.J02"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 7.2.J02"
+        }
+       ]
+      },
       {
        "day": 2,
        "start": "15:30",
@@ -90,6 +124,58 @@
      "id": "1",
      "sessions": [
       {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.J04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 7.1.J04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
        "day": 1,
        "start": "10:45",
        "end": "12:15",
@@ -101,12 +187,128 @@
          "room": "Aula 7.2.J03"
         }
        ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula INF 7.0.J05 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula INF 7.0.J05 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "12.nov",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "12.nov",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "12.nov",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
       }
      ]
     },
     {
      "id": "2",
      "sessions": [
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.1.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 7.1.J05"
+        }
+       ]
+      },
       {
        "day": 2,
        "start": "15:30",
@@ -117,6 +319,121 @@
         {
          "dates": "09.sep-09.dic",
          "room": "Aula 7.1.J07"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula INF 7.0.J04 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.sep",
+         "room": "Aula INF 7.0.J04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "12.nov",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "12.nov",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "12.nov",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "30.oct",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "30.oct",
+         "room": "LAB 7.0.H03 (Aero)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "30.oct",
+         "room": "LAB 7.0.H03 (Aero)"
         }
        ]
       }
@@ -147,6 +464,27 @@
        ]
       },
       {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.2.J03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aula 7.2.J03"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 7.2.J03"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula 7.2.J03"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "09:00",
        "end": "10:30",
@@ -159,6 +497,19 @@
         },
         {
          "dates": "16.oct-11.dic",
+         "room": "Aula 7.2.J03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.2.J03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.dic",
          "room": "Aula 7.2.J03"
         }
        ]
@@ -205,6 +556,19 @@
          "room": "Aula 7.2.J03"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.1.J03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.oct-04.dic",
+         "room": "Aula 7.1.J03"
+        }
+       ]
       }
      ]
     }
@@ -241,6 +605,23 @@
        ]
       },
       {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.J04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 7.1.J04"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 7.2.J04"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "09:00",
        "end": "10:30",
@@ -249,6 +630,91 @@
        "slots": [
         {
          "dates": "09.sep-09.dic",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula INF 7.0.J05 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula INF 7.0.J05 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula INF 7.0.J05 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula INF 7.0.J05 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula INF 7.0.J05 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula INF 7.0.J05 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula INF 7.0.J05 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula INF 7.0.J05 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "20.nov-27.nov",
          "room": "Aula 7.2.J05"
         }
        ]
@@ -280,6 +746,36 @@
        ]
       },
       {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.1.J07",
+       "type": null,
+       "slots": [
+        {
+         "dates": "17.nov-24.nov",
+         "room": "Aula 7.1.J07"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.1.J05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 7.1.J05"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 7.1.J05"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "17:15",
        "end": "18:45",
@@ -289,6 +785,78 @@
         {
          "dates": "09.sep-09.dic",
          "room": "Aula 7.1.J07"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula INF 7.0.J02 DUAL+ TEL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula INF 7.0.J04 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "02.oct",
+         "room": "Aula INF 7.0.J04 DUAL"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula INF 7.0.J04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 7.0.J02 DUAL+ TEL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "02.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.1.J05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.sep",
+         "room": "Aula 7.1.J05"
         }
        ]
       }
@@ -306,6 +874,19 @@
      "id": "1",
      "sessions": [
       {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.J03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 7.1.J03"
+        }
+       ]
+      },
+      {
        "day": 1,
        "start": "10:45",
        "end": "12:15",
@@ -315,6 +896,19 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 7.1.J04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.J03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "Aula 7.1.J03"
         }
        ]
       },
@@ -330,12 +924,38 @@
          "room": "Aula 7.1.J04"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.J04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula 7.1.J04"
+        }
+       ]
       }
      ]
     },
     {
      "id": "2",
      "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 7.2.J04"
+        }
+       ]
+      },
       {
        "day": 1,
        "start": "17:15",
@@ -350,6 +970,19 @@
        ]
       },
       {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.2.J04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "Aula 7.2.J04"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "17:15",
        "end": "18:45",
@@ -359,6 +992,19 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 7.1.J04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.2.J04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula 7.2.J04"
         }
        ]
       }
@@ -651,6 +1297,45 @@
          "room": "Aula 7.1.J04"
         }
        ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.J03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 7.1.J03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.1.J03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 7.1.J03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.J04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.oct",
+         "room": "Aula 7.1.J04"
+        }
+       ]
       }
      ]
     },
@@ -674,6 +1359,62 @@
         },
         {
          "dates": "09.nov-30.nov",
+         "room": "Aula 7.1.J05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.0.B01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 1.0.B01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.1.J04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep",
+         "room": "Aula 7.1.J04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.oct",
+         "room": "Aula 7.2.J04"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula 7.2.J04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.1.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.oct",
          "room": "Aula 7.1.J05"
         }
        ]
@@ -925,7 +1666,7 @@
        "start": "17:15",
        "end": "18:45",
        "room": "Aula 7.1.H01",
-       "type": null,
+       "type": "Máster oficial",
        "slots": [
         {
          "dates": "26.ene-16.mar",
@@ -942,7 +1683,7 @@
        "start": "17:15",
        "end": "18:45",
        "room": "Aula 7.1.H01",
-       "type": null,
+       "type": "Máster oficial",
        "slots": [
         {
          "dates": "28.ene-18.mar",

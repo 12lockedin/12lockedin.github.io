@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Inteligencia Artificial Aplicada",
  "year": "2026",
- "generatedAt": "2026-08-31T11:16:34Z",
+ "generatedAt": "2026-09-07T09:44:45Z",
  "subjects": [
   {
    "code": "19205",
@@ -36,12 +36,12 @@
        "day": 2,
        "start": "17:45",
        "end": "19:15",
-       "room": "Aula 1.A.06 INF",
+       "room": "Aula 0.A.08",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-21.oct",
-         "room": "Aula 1.A.06 INF"
+         "room": "Aula 0.A.08"
         }
        ]
       }
@@ -227,19 +227,6 @@
      "id": "1",
      "sessions": [
       {
-       "day": 0,
-       "start": "14:30",
-       "end": "16:00",
-       "room": "Aula 0.A.07",
-       "type": null,
-       "slots": [
-        {
-         "dates": "28.sep",
-         "room": "Aula 0.A.07"
-        }
-       ]
-      },
-      {
        "day": 3,
        "start": "16:00",
        "end": "17:30",
@@ -247,7 +234,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "17.sep-22.oct",
+         "dates": "10.sep-22.oct",
          "room": "Aula 0.A.07"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-08-31T10:57:35Z",
+ "generatedAt": "2026-09-07T09:26:12Z",
  "subjects": [
   {
    "code": "13501",
@@ -854,8 +854,21 @@
      "sessions": [
       {
        "day": 3,
-       "start": "09:00",
+       "start": "09:30",
        "end": "10:30",
+       "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 17.1.05",
        "type": "Obligatoria",
        "slots": [
@@ -867,27 +880,14 @@
       },
       {
        "day": 3,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "10.sep-10.dic",
-         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
-        }
-       ]
-      },
-      {
-       "day": 3,
        "start": "12:30",
-       "end": "13:30",
-       "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos",
+       "end": "14:00",
+       "room": "Aula 17.1.05",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aulas 17.1.05 y LAB-17.1.11 Multiusos"
+         "room": "Aula 17.1.05"
         }
        ]
       }

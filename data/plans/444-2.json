@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Electrónica Industrial y Automática",
  "year": "2026",
- "generatedAt": "2026-08-31T11:10:42Z",
+ "generatedAt": "2026-09-07T09:38:54Z",
  "subjects": [
   {
    "code": "13966",
@@ -668,20 +668,20 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.F01",
+       "room": "Aula 2.3.D01",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.0.F01"
+         "room": "Aula 2.3.D01"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.0.F01"
+         "room": "Aula 2.3.D01"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.0.F01"
+         "room": "Aula 2.3.D01"
         }
        ]
       },
@@ -2604,20 +2604,20 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.C02",
+       "room": "Aula 1.1.G02",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 1.0.C02"
+         "room": "Aula 1.1.G02"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 1.0.C02"
+         "room": "Aula 1.1.G02"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 1.0.C02"
+         "room": "Aula 1.1.G02"
         }
        ]
       },
@@ -3550,16 +3550,16 @@
        "day": 4,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 1.0.F02",
+       "room": "Aula 1.1.G02",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-02.oct",
-         "room": "Aula 1.0.F02"
+         "room": "Aula 1.1.G02"
         },
         {
          "dates": "16.oct-11.dic",
-         "room": "Aula 1.0.F02"
+         "room": "Aula 1.1.G02"
         }
        ]
       }
@@ -3659,7 +3659,7 @@
       {
        "day": 1,
        "start": "10:45",
-       "end": "12:30",
+       "end": "12:15",
        "room": "Aula 2.3.A05",
        "type": null,
        "slots": [
@@ -3751,12 +3751,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.B01",
+       "room": "Aula 1.0.F03",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 1.0.B01"
+         "room": "Aula 1.0.F03"
         }
        ]
       },
@@ -4038,6 +4038,32 @@
        ]
       },
       {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.3.B03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.3.B03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.B03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.3.B03"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "19:00",
        "end": "20:30",
@@ -4114,6 +4140,19 @@
        "day": 0,
        "start": "17:15",
        "end": "18:45",
+       "room": "Aula 2.3.B03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.3.B03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
        "room": "Aula 2.3.C02",
        "type": null,
        "slots": [
@@ -4128,6 +4167,19 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 2.3.C02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.B03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.3.B03"
         }
        ]
       },
@@ -4317,6 +4369,19 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 2.3.C04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 1.0.H03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.0.H03"
         }
        ]
       },
@@ -4514,6 +4579,19 @@
      "id": "28",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB 1.1.N04 (Mecánica)",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "21.sep-28.sep",
+         "room": "LAB 1.1.N04 (Mecánica)"
+        }
+       ]
+      },
       {
        "day": 0,
        "start": "10:45",
@@ -4718,12 +4796,28 @@
        "day": 3,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 2.3.A03B",
+       "room": "Aula INF 1.2.G.02",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 2.3.A03B"
+         "dates": "10.sep-15.oct",
+         "room": "Aula INF 1.2.G.02"
+        },
+        {
+         "dates": "22.oct-29.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aula INF 1.2.G.02"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "19.nov-10.dic",
+         "room": "Aula INF 1.2.G.02"
         }
        ]
       },
@@ -5424,6 +5518,27 @@
      "id": "1022",
      "kind": "reducido",
      "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "LAB 1.1.F32",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.sep-06.oct",
+         "room": "LAB 1.1.F32"
+        },
+        {
+         "dates": "03.nov-10.nov",
+         "room": "LAB 1.1.F32"
+        },
+        {
+         "dates": "24.nov",
+         "room": "LAB 1.1.F32"
+        }
+       ]
+      },
       {
        "day": 1,
        "start": "17:15",
@@ -6576,6 +6691,23 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aula INF 7.0.J03 DUAL + TEL",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "20.oct-27.oct",
+         "room": "LAB 1.1.F34"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 1.0.H03",
        "type": "Obligatoria",
        "slots": [
@@ -6608,6 +6740,19 @@
        "day": 0,
        "start": "15:30",
        "end": "17:00",
+       "room": "LAB 1.1.F34",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "19.oct-26.oct",
+         "room": "LAB 1.1.F34"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
        "room": "Aula 1.0.F02",
        "type": "Obligatoria",
        "slots": [
@@ -6635,6 +6780,10 @@
         {
          "dates": "22.sep-29.sep",
          "room": "Aula 1.0.C02"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula INF 7.0.J04 DUAL"
         }
        ]
       }

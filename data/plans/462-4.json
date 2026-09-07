@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencia y Tecnología Informática",
  "year": "2026",
- "generatedAt": "2026-08-31T11:15:13Z",
+ "generatedAt": "2026-09-07T09:43:28Z",
  "subjects": [
   {
    "code": "18836",
@@ -129,6 +129,23 @@
         },
         {
          "dates": "16.oct-11.dic",
+         "room": "Aula 1.0.B01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.0.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 1.0.B01"
+        },
+        {
+         "dates": "11.dic",
          "room": "Aula 1.0.B01"
         }
        ]
@@ -271,20 +288,20 @@
        "day": 0,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula INF 7.0.J04 DUAL",
+       "room": "Aula 7.2.J01",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula INF 7.0.J04 DUAL"
+         "room": "Aula 7.2.J01"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula INF 7.0.J04 DUAL"
+         "room": "Aula 7.2.J01"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula INF 7.0.J04 DUAL"
+         "room": "Aula 7.2.J01"
         }
        ]
       },
@@ -292,12 +309,20 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 1.0.B01",
+       "room": "Aula INF 7.0.J03 DUAL + TEL",
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 1.0.B01"
+         "dates": "08.sep-27.oct",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula INF 7.0.J04 DUAL"
+        },
+        {
+         "dates": "10.nov-01.dic",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
         }
        ]
       },
@@ -330,17 +355,17 @@
       {
        "day": 4,
        "start": "15:30",
-       "end": "18:30",
-       "room": "* SIN AULA *",
+       "end": "17:00",
+       "room": "Aula 1.1.G03",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "06.nov-27.nov",
-         "room": "* SIN AULA *"
+         "room": "Aula 1.1.G03"
         },
         {
          "dates": "11.dic-18.dic",
-         "room": "* SIN AULA *"
+         "room": "Aula 1.1.G03"
         }
        ]
       }
@@ -390,6 +415,27 @@
          "room": "Aula 4.0.E06"
         }
        ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.0.E05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 4.0.E05"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 4.0.E05"
+        },
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 4.0.E05"
+        }
+       ]
       }
      ]
     }
@@ -404,6 +450,19 @@
     {
      "id": "1",
      "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.1.G03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 1.1.G03"
+        }
+       ]
+      },
       {
        "day": 0,
        "start": "17:15",
@@ -421,6 +480,23 @@
         },
         {
          "dates": "09.nov-30.nov",
+         "room": "Aula 1.1.G03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.1.G03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.nov",
+         "room": "Aula 1.1.G03"
+        },
+        {
+         "dates": "14.dic",
          "room": "Aula 1.1.G03"
         }
        ]
