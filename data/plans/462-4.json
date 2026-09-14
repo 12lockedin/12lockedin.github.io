@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencia y Tecnología Informática",
  "year": "2026",
- "generatedAt": "2026-09-07T09:43:28Z",
+ "generatedAt": "2026-09-14T10:15:28Z",
  "subjects": [
   {
    "code": "18836",
@@ -360,7 +360,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "06.nov-27.nov",
+         "dates": "16.oct-27.nov",
          "room": "Aula 1.1.G03"
         },
         {

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Física e Ingeniería en Tecnologías Industriales",
  "year": "2026",
- "generatedAt": "2026-09-07T09:42:14Z",
+ "generatedAt": "2026-09-14T10:14:12Z",
  "subjects": [
   {
    "code": "18296",
@@ -568,12 +568,12 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "LAB 4.S.D04 (Física)",
+       "room": "Aulas INF 4.S.D.02 y LAB 4.S.D04 (Física)",
        "type": null,
        "slots": [
         {
          "dates": "05.oct",
-         "room": "LAB 4.S.D04 (Física)"
+         "room": "Aulas INF 4.S.D.02 y LAB 4.S.D04 (Física)"
         },
         {
          "dates": "19.oct",
@@ -593,12 +593,12 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "LAB 4.S.D04 (Física)",
+       "room": "Aulas INF 4.S.D.02 y INF 7.0.J04 DUAL",
        "type": null,
        "slots": [
         {
          "dates": "05.oct",
-         "room": "LAB 4.S.D04 (Física)"
+         "room": "Aulas INF 4.S.D.02 y INF 7.0.J04 DUAL"
         },
         {
          "dates": "19.oct",
@@ -1534,6 +1534,19 @@
        ]
       },
       {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.B02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aula 2.3.B02"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "09:00",
        "end": "10:30",
@@ -1922,6 +1935,36 @@
       },
       {
        "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.0.B03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "12.nov",
+         "room": "Aula 1.0.B03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.1.E02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 3,
        "start": "15:30",
        "end": "17:00",
        "room": "Aulas LAB 1.0.D04 (Ing Electrica) y LAB 1.0.D05 (Ing. Elec)",
@@ -2043,6 +2086,45 @@
          "room": "Aula INF 1.2.G.01"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.0.B02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.dic",
+         "room": "Aula 1.0.B02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula 2.3.D03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.0.B02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "23.oct",
+         "room": "Aula 1.0.B02"
+        }
+       ]
       }
      ]
     },
@@ -2050,6 +2132,19 @@
      "id": "1038",
      "kind": "reducido",
      "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.C01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 1.0.C01"
+        }
+       ]
+      },
       {
        "day": 0,
        "start": "17:15",
@@ -2560,20 +2655,20 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 2.3.A04",
+       "room": "Aula 2.3.D02",
        "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 2.3.A04"
+         "room": "Aula 2.3.D02"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 2.3.A04"
+         "room": "Aula 2.3.D02"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 2.3.A04"
+         "room": "Aula 2.3.D02"
         }
        ]
       },

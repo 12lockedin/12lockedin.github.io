@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Matemática Aplicada y Computacional",
  "year": "2026",
- "generatedAt": "2026-09-07T09:42:57Z",
+ "generatedAt": "2026-09-14T10:14:54Z",
  "subjects": [
   {
    "code": "18768",
@@ -438,7 +438,39 @@
    "name": "Tratamiento Estadístico de Señales",
    "course": 1,
    "term": 1,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.0.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.0.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-17.dic",
+         "room": "Aula 2.0.C03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "18779",

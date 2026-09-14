@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Investigación en Comunicación",
  "year": "2026",
- "generatedAt": "2026-09-07T09:50:54Z",
+ "generatedAt": "2026-09-14T10:23:19Z",
  "subjects": [
   {
    "code": "19741",
@@ -263,26 +263,7 @@
    "name": "Nuevos Modelos de Negocios en la Comunicación",
    "course": 1,
    "term": 1,
-   "groups": [
-    {
-     "id": "1",
-     "sessions": [
-      {
-       "day": 1,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 18.0.A04",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 18.0.A04"
-        }
-       ]
-      }
-     ]
-    }
-   ]
+   "groups": []
   },
   {
    "code": "19744",

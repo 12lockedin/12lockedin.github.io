@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Gestión y Desarrollo de Tecnologías Biomédicas",
  "year": "2026",
- "generatedAt": "2026-09-07T09:23:18Z",
+ "generatedAt": "2026-09-14T09:54:41Z",
  "subjects": [
   {
    "code": "12408",
@@ -147,11 +147,23 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.sep-05.oct",
+         "dates": "07.sep-14.sep",
          "room": "Aula 7.2.J08"
         },
         {
-         "dates": "19.oct-26.oct",
+         "dates": "21.sep",
+         "room": "Aulas INF 4.S.D.01 y 7.2.J08"
+        },
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aulas INF 4.S.D.01 y 7.2.J08"
+        },
+        {
+         "dates": "26.oct",
          "room": "Aula 7.2.J08"
         },
         {
@@ -172,7 +184,23 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-16.dic",
+         "dates": "09.sep-16.sep",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "23.sep",
+         "room": "Aulas INF 4.S.D.01 y 7.2.J08"
+        },
+        {
+         "dates": "30.sep-07.oct",
+         "room": "Aula 7.2.J08"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aulas 7.2.J08 y INF 2.2.C.03 DUAL"
+        },
+        {
+         "dates": "21.oct-16.dic",
          "room": "Aula 7.2.J08"
         }
        ]

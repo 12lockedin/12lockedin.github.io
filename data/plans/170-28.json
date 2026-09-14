@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Industrial",
  "year": "2026",
- "generatedAt": "2026-09-07T09:19:43Z",
+ "generatedAt": "2026-09-14T09:51:06Z",
  "subjects": [
   {
    "code": "14283",
@@ -705,6 +705,19 @@
      "id": "1",
      "sessions": [
       {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.B05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula 2.3.B05"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "09:00",
        "end": "10:30",
@@ -758,6 +771,19 @@
      "sessions": [
       {
        "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.C02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula 2.3.C02"
+        }
+       ]
+      },
+      {
+       "day": 1,
        "start": "15:30",
        "end": "17:00",
        "room": "Aula 4.0.E05",
@@ -787,6 +813,19 @@
     {
      "id": "4",
      "sessions": [
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.C03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula 2.3.C03"
+        }
+       ]
+      },
       {
        "day": 2,
        "start": "17:15",
@@ -818,6 +857,19 @@
     {
      "id": "5",
      "sessions": [
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.A06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula 2.3.A06"
+        }
+       ]
+      },
       {
        "day": 2,
        "start": "17:15",
@@ -957,12 +1009,12 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 4.0.D01",
+       "room": "Aula 1.0.B02",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "15.dic",
-         "room": "Aula 4.0.D01"
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.0.B02"
         }
        ]
       },
@@ -970,12 +1022,12 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 4.0.D01",
+       "room": "Aula 1.0.B02",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 4.0.D01"
+         "dates": "15.dic",
+         "room": "Aula 1.0.B02"
         }
        ]
       }
@@ -1263,6 +1315,19 @@
        ]
       },
       {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.0.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
        "day": 1,
        "start": "15:30",
        "end": "17:00",
@@ -1427,16 +1492,41 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.sep-05.oct",
+         "dates": "07.sep-28.sep",
          "room": "Aula 4.0.E05"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aulas LAB 1.0.E01 (Electrónica) y 4.0.E05"
         },
         {
          "dates": "19.oct-26.oct",
          "room": "Aula 4.0.E05"
         },
         {
-         "dates": "09.nov-30.nov",
+         "dates": "09.nov-23.nov",
+         "room": "Aulas LAB 1.0.E01 (Electrónica) y 4.0.E05"
+        },
+        {
+         "dates": "30.nov",
          "room": "Aula 4.0.E05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.E06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 4.0.E06"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula 4.0.E06"
         }
        ]
       },
@@ -1456,6 +1546,23 @@
          "room": "Aula 2.3.D05"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.D05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 2.3.D05"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 2.3.D05"
+        }
+       ]
       }
      ]
     },
@@ -1470,15 +1577,44 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.sep-05.oct",
+         "dates": "07.sep-28.sep",
          "room": "Aula 2.3.D05"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aulas LAB 1.0.E01 (Electrónica) y 2.3.D05"
         },
         {
          "dates": "19.oct-26.oct",
          "room": "Aula 2.3.D05"
         },
         {
-         "dates": "09.nov-30.nov",
+         "dates": "09.nov-23.nov",
+         "room": "Aulas LAB 1.0.E01 (Electrónica) y 2.3.D05"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula 2.3.D05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.D05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 2.3.D05"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula 1.0.H03"
+        },
+        {
+         "dates": "30.nov",
          "room": "Aula 2.3.D05"
         }
        ]
@@ -1509,7 +1645,23 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep-30.sep",
+         "room": "Aula 4.1.E06"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aulas LAB 1.0.E01 (Electrónica) y 4.1.E06"
+        },
+        {
+         "dates": "14.oct-11.nov",
+         "room": "Aula 4.1.E06"
+        },
+        {
+         "dates": "18.nov-25.nov",
+         "room": "Aulas LAB 1.0.E01 (Electrónica) y 4.1.E06"
+        },
+        {
+         "dates": "02.dic-09.dic",
          "room": "Aula 4.1.E06"
         }
        ]
@@ -1522,7 +1674,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-29.oct",
+         "room": "Aula 4.1.E05"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aulas LAB 1.0.E01 (Electrónica) y 4.1.E05"
+        },
+        {
+         "dates": "12.nov-10.dic",
          "room": "Aula 4.1.E05"
         }
        ]
@@ -1540,7 +1700,23 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep-30.sep",
+         "room": "Aula 4.0.E06"
+        },
+        {
+         "dates": "07.oct",
+         "room": "Aulas LAB 1.0.E01 (Electrónica) y 4.0.E06"
+        },
+        {
+         "dates": "14.oct-11.nov",
+         "room": "Aula 4.0.E06"
+        },
+        {
+         "dates": "18.nov-25.nov",
+         "room": "Aulas LAB 1.0.E01 (Electrónica) y 4.0.E06"
+        },
+        {
+         "dates": "02.dic-09.dic",
          "room": "Aula 4.0.E06"
         }
        ]
@@ -1553,7 +1729,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-29.oct",
+         "room": "Aula 4.0.E04"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aulas LAB 1.0.E01 (Electrónica) y 4.0.E04"
+        },
+        {
+         "dates": "12.nov-10.dic",
          "room": "Aula 4.0.E04"
         }
        ]
@@ -1634,28 +1818,6 @@
    "course": 2,
    "term": 1,
    "groups": [
-    {
-     "id": "1",
-     "sessions": [
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "LAB 1.0.B06 (Automatica)",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "11.sep-02.oct",
-         "room": "LAB 1.0.B06 (Automatica)"
-        },
-        {
-         "dates": "16.oct-11.dic",
-         "room": "LAB 1.0.B06 (Automatica)"
-        }
-       ]
-      }
-     ]
-    },
     {
      "id": "2",
      "sessions": [

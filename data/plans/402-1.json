@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Sociología",
  "year": "2026",
- "generatedAt": "2026-09-07T09:30:23Z",
+ "generatedAt": "2026-09-14T10:01:45Z",
  "subjects": [
   {
    "code": "20259",
@@ -109,14 +109,14 @@
       },
       {
        "day": 4,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 7.1.02 BIS",
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 5.1.02",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 7.1.02 BIS"
+         "room": "Aula 5.1.02"
         }
        ]
       }

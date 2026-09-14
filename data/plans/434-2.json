@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Física",
  "year": "2026",
- "generatedAt": "2026-09-07T09:35:41Z",
+ "generatedAt": "2026-09-14T10:07:28Z",
  "subjects": [
   {
    "code": "18296",
@@ -568,12 +568,12 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "LAB 4.S.D04 (Física)",
+       "room": "Aulas INF 4.S.D.02 y LAB 4.S.D04 (Física)",
        "type": null,
        "slots": [
         {
          "dates": "05.oct",
-         "room": "LAB 4.S.D04 (Física)"
+         "room": "Aulas INF 4.S.D.02 y LAB 4.S.D04 (Física)"
         },
         {
          "dates": "19.oct",
@@ -593,12 +593,12 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "LAB 4.S.D04 (Física)",
+       "room": "Aulas INF 4.S.D.02 y INF 7.0.J04 DUAL",
        "type": null,
        "slots": [
         {
          "dates": "05.oct",
-         "room": "LAB 4.S.D04 (Física)"
+         "room": "Aulas INF 4.S.D.02 y INF 7.0.J04 DUAL"
         },
         {
          "dates": "19.oct",

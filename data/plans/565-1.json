@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-09-07T09:57:40Z",
+ "generatedAt": "2026-09-14T10:30:28Z",
  "subjects": [
   {
    "code": "19408",
@@ -119,8 +119,12 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep",
          "room": "Aula 6.1.01 BIS"
+        },
+        {
+         "dates": "16.sep-09.dic",
+         "room": "Aula 10.1.7"
         }
        ]
       }
@@ -138,8 +142,12 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep",
          "room": "Aula 6.1.02"
+        },
+        {
+         "dates": "17.sep-10.dic",
+         "room": "Aulas 6.1.02 y 6.1.04"
         }
        ]
       }
@@ -995,11 +1003,11 @@
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-01.oct",
+         "dates": "10.sep",
          "room": "Aula 10.0.31"
         },
         {
-         "dates": "08.oct-10.dic",
+         "dates": "17.sep-10.dic",
          "room": "Aula 5.1.03"
         }
        ]
@@ -2188,7 +2196,7 @@
        "start": "12:30",
        "end": "14:00",
        "room": "Aula 6.1.07",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",

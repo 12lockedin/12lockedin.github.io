@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-09-07T09:26:39Z",
+ "generatedAt": "2026-09-14T09:58:02Z",
  "subjects": [
   {
    "code": "13501",
@@ -1171,15 +1171,19 @@
      "kind": "magistral",
      "sessions": [
       {
-       "day": 1,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 14.1.4",
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 14.1.5",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 14.1.4"
+         "dates": "09.sep",
+         "room": "Aula 14.1.5"
+        },
+        {
+         "dates": "16.sep-09.dic",
+         "room": "Aula 17.1.05"
         }
        ]
       },
@@ -1418,16 +1422,20 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "07.sep-05.oct",
+         "dates": "07.sep",
          "room": "Aula 14.1.5"
+        },
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 14.1.12"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         }
        ]
       },
@@ -1439,8 +1447,12 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep",
          "room": "Aula 14.1.5"
+        },
+        {
+         "dates": "15.sep-01.dic",
+         "room": "Aula 14.1.12"
         }
        ]
       }
@@ -1546,16 +1558,20 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "07.sep-05.oct",
+         "dates": "07.sep",
          "room": "Aula 14.1.5"
+        },
+        {
+         "dates": "14.sep-05.oct",
+         "room": "Aula 14.1.12"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         }
        ]
       },
@@ -1567,8 +1583,12 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep",
          "room": "Aula 14.1.5"
+        },
+        {
+         "dates": "15.sep-01.dic",
+         "room": "Aula 14.1.12"
         }
        ]
       }
@@ -1662,12 +1682,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 14.1.5",
+       "room": "Aula 14.1.12",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         }
        ]
       },
@@ -1675,12 +1695,12 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 14.1.5",
+       "room": "Aula 14.1.12",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         }
        ]
       }
@@ -1774,20 +1794,20 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 14.1.5",
+       "room": "Aula 14.1.12",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         }
        ]
       },
@@ -1795,12 +1815,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 14.1.5",
+       "room": "Aula 14.1.12",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         }
        ]
       }
@@ -1894,12 +1914,12 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 14.1.5",
+       "room": "Aula 14.1.12",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         }
        ]
       },
@@ -1907,12 +1927,12 @@
        "day": 3,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 14.1.5",
+       "room": "Aula 14.1.12",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "10.sep-10.dic",
-         "room": "Aula 14.1.5"
+         "room": "Aula 14.1.12"
         }
        ]
       }

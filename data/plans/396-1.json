@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ciencias Políticas",
  "year": "2026",
- "generatedAt": "2026-09-07T09:29:01Z",
+ "generatedAt": "2026-09-14T10:00:24Z",
  "subjects": [
   {
    "code": "13208",
@@ -74,12 +74,12 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 17.0.04",
+       "room": "Aula 17.1.06",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 17.0.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -125,12 +125,12 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 18.0.A14",
+       "room": "Aula 14.0.4",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 18.0.A14"
+         "room": "Aula 14.0.4"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-09-07T09:46:47Z",
+ "generatedAt": "2026-09-14T10:18:55Z",
  "subjects": [
   {
    "code": "13866",
@@ -1209,6 +1209,19 @@
      "sessions": [
       {
        "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 0,
        "start": "14:30",
        "end": "16:00",
        "room": "Aula 1.0.A04",
@@ -1442,19 +1455,6 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.A04",
-       "type": null,
-       "slots": [
-        {
-         "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.A04"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:15",
        "room": "Aula 1.0.A03",
        "type": null,
        "slots": [
@@ -1485,6 +1485,19 @@
         {
          "dates": "02.dic-09.dic",
          "room": "Aula 1.0.A03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.A04"
         }
        ]
       },
@@ -1607,8 +1620,8 @@
       },
       {
        "day": 2,
-       "start": "10:45",
-       "end": "12:15",
+       "start": "09:00",
+       "end": "10:30",
        "room": "Aula 1.0.A04",
        "type": null,
        "slots": [

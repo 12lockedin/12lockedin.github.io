@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Mecánica Industrial",
  "year": "2026",
- "generatedAt": "2026-09-07T09:20:56Z",
+ "generatedAt": "2026-09-14T09:52:14Z",
  "subjects": [
   {
    "code": "16158",
@@ -72,8 +72,8 @@
      "sessions": [
       {
        "day": 1,
-       "start": "15:30",
-       "end": "17:00",
+       "start": "17:15",
+       "end": "18:45",
        "room": "Aula 2.0.C04",
        "type": "Máster oficial",
        "slots": [
@@ -147,12 +147,45 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-02.oct",
+         "dates": "11.sep-18.sep",
          "room": "Aula 2.0.C04"
         },
         {
-         "dates": "16.oct-18.dic",
+         "dates": "25.sep-02.oct",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        },
+        {
+         "dates": "16.oct",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        },
+        {
+         "dates": "23.oct",
+         "room": "Aula INF 4.S.D.03"
+        },
+        {
+         "dates": "30.oct",
          "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "06.nov-13.nov",
+         "room": "Aula INF 4.S.D.03"
+        },
+        {
+         "dates": "20.nov-18.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 1.2.G.03 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula INF 1.2.G.03 DUAL"
         }
        ]
       }
@@ -222,18 +255,38 @@
      "sessions": [
       {
        "day": 1,
-       "start": "17:15",
-       "end": "18:45",
+       "start": "15:30",
+       "end": "17:00",
        "room": "Aula 2.0.C04",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-22.sep",
          "room": "Aula 2.0.C04"
         },
         {
-         "dates": "15.dic",
+         "dates": "29.sep-06.oct",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        },
+        {
+         "dates": "13.oct",
          "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        },
+        {
+         "dates": "27.oct-24.nov",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aulas 1.1.G03 y 2.0.C04"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aulas 1.1.G03 y 2.0.C04"
         }
        ]
       }

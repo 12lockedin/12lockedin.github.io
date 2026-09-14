@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Circular",
  "year": "2026",
- "generatedAt": "2026-09-07T09:46:56Z",
+ "generatedAt": "2026-09-14T10:19:05Z",
  "subjects": [
   {
    "code": "19531",
@@ -211,31 +211,31 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep",
+         "dates": "18.sep",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "25.sep",
+         "dates": "02.oct",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "23.oct",
+         "dates": "16.oct",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "06.nov",
+         "dates": "30.oct",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "20.nov",
+         "dates": "13.nov",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "04.dic",
+         "dates": "27.nov",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "18.dic",
+         "dates": "11.dic",
          "room": "Aula 2.0.C03"
         }
        ]
@@ -248,31 +248,31 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep",
+         "dates": "18.sep",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "25.sep",
+         "dates": "02.oct",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "23.oct",
+         "dates": "16.oct",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "06.nov",
+         "dates": "30.oct",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "20.nov",
+         "dates": "13.nov",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "04.dic",
+         "dates": "27.nov",
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "18.dic",
+         "dates": "11.dic",
          "room": "Aula 2.0.C03"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Neurociencia",
  "year": "2026",
- "generatedAt": "2026-09-07T09:51:01Z",
+ "generatedAt": "2026-09-14T10:23:25Z",
  "subjects": [
   {
    "code": "19760",
@@ -105,19 +105,6 @@
       {
        "day": 2,
        "start": "15:00",
-       "end": "17:00",
-       "room": "LAB-20.1.A01",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "28.oct-25.nov",
-         "room": "LAB-20.1.A01"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "17:00",
        "end": "19:00",
        "room": "LAB-20.1.A01",
        "type": "Básica",
@@ -144,7 +131,7 @@
       {
        "day": 3,
        "start": "15:00",
-       "end": "17:00",
+       "end": "19:00",
        "room": "LAB-20.1.A01",
        "type": "Básica",
        "slots": [
@@ -155,15 +142,28 @@
        ]
       },
       {
-       "day": 3,
-       "start": "17:00",
-       "end": "19:00",
-       "room": "LAB-20.1.A01",
+       "day": 4,
+       "start": "10:30",
+       "end": "12:30",
+       "room": "Aula 20.1.D01",
        "type": "Básica",
        "slots": [
         {
-         "dates": "29.oct-26.nov",
-         "room": "LAB-20.1.A01"
+         "dates": "30.oct",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:30",
+       "room": "Aula 20.1.D01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "04.dic",
+         "room": "Aula 20.1.D01"
         }
        ]
       }
@@ -574,19 +574,6 @@
       {
        "day": 2,
        "start": "09:00",
-       "end": "11:00",
-       "room": "LAB-20.1.E05",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "14.oct-11.nov",
-         "room": "LAB-20.1.E05"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "11:00",
        "end": "13:00",
        "room": "LAB-20.1.E05",
        "type": "Obligatoria",
@@ -600,19 +587,6 @@
       {
        "day": 3,
        "start": "09:00",
-       "end": "11:00",
-       "room": "LAB-20.1.E05",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "15.oct-12.nov",
-         "room": "LAB-20.1.E05"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "11:00",
        "end": "13:00",
        "room": "LAB-20.1.E05",
        "type": "Obligatoria",
@@ -641,6 +615,19 @@
        "day": 0,
        "start": "09:30",
        "end": "13:30",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "13:30",
        "room": "LAB-20.1.A01",
        "type": "Obligatoria",
        "slots": [
@@ -651,19 +638,6 @@
         {
          "dates": "09.nov-16.nov",
          "room": "LAB-20.1.A01"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "09:30",
-       "end": "13:30",
-       "room": "Aula INF-15.S.04",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "23.nov",
-         "room": "Aula INF-15.S.04"
         }
        ]
       },
@@ -765,23 +739,6 @@
       {
        "day": 4,
        "start": "09:00",
-       "end": "11:00",
-       "room": "Aula INF-15.S.04",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "09.oct",
-         "room": "Aula INF-15.S.04"
-        },
-        {
-         "dates": "27.nov",
-         "room": "Aula INF-15.S.04"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "09:00",
        "end": "13:00",
        "room": "Aula INF-15.S.04",
        "type": "Obligatoria",
@@ -792,6 +749,23 @@
         },
         {
          "dates": "06.nov-20.nov",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "11:00",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "09.oct",
+         "room": "Aula INF-15.S.04"
+        },
+        {
+         "dates": "27.nov",
          "room": "Aula INF-15.S.04"
         }
        ]
@@ -996,10 +970,6 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "25.sep",
-         "room": "Aula 20.1.D02"
-        },
-        {
          "dates": "09.oct",
          "room": "Aula 20.1.D02"
         },
@@ -1009,6 +979,19 @@
         },
         {
          "dates": "06.nov",
+         "room": "Aula 20.1.D02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 20.1.D02",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "13.nov",
          "room": "Aula 20.1.D02"
         }
        ]
@@ -1234,7 +1217,7 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "04.dic-11.dic",
+         "dates": "13.nov-11.dic",
          "room": "Aula 20.1.D02"
         }
        ]
@@ -1247,7 +1230,11 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "11.sep-11.dic",
+         "dates": "25.sep-06.nov",
+         "room": "Aula 20.1.D02"
+        },
+        {
+         "dates": "20.nov-11.dic",
          "room": "Aula 20.1.D02"
         }
        ]

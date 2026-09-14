@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Master in Business Administration (MBA)",
  "year": "2026",
- "generatedAt": "2026-09-07T09:43:46Z",
+ "generatedAt": "2026-09-14T10:15:47Z",
  "subjects": [
   {
    "code": "18933",
@@ -19,11 +19,23 @@
        "day": 4,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula -1.A.05",
+       "room": "Aula -1.A.07",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-13.nov",
+         "dates": "11.sep",
+         "room": "Aula -1.A.07"
+        },
+        {
+         "dates": "18.sep",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "02.oct-13.nov",
          "room": "Aula -1.A.05"
         }
        ]
@@ -32,11 +44,23 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula -1.A.05",
+       "room": "Aula -1.A.07",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-13.nov",
+         "dates": "11.sep",
+         "room": "Aula -1.A.07"
+        },
+        {
+         "dates": "18.sep",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "02.oct-13.nov",
          "room": "Aula -1.A.05"
         }
        ]
@@ -100,7 +124,7 @@
         },
         {
          "dates": "15.dic",
-         "room": "Aula 1.A.06 INF"
+         "room": "Aula -1.A.08 INF"
         }
        ]
       }
@@ -291,11 +315,15 @@
        "day": 4,
        "start": "13:45",
        "end": "15:00",
-       "room": "Aula -1.A.05",
+       "room": "Aula -1.A.06",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-18.sep",
+         "dates": "11.sep",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "18.sep",
          "room": "Aula -1.A.05"
         }
        ]
@@ -304,11 +332,15 @@
        "day": 4,
        "start": "15:00",
        "end": "17:00",
-       "room": "Aula -1.A.05",
+       "room": "Aula -1.A.06",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-18.sep",
+         "dates": "11.sep",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "18.sep",
          "room": "Aula -1.A.05"
         }
        ]
@@ -385,19 +417,6 @@
       {
        "day": 3,
        "start": "15:30",
-       "end": "18:30",
-       "room": "Aula 2.A.01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "10.dic",
-         "room": "Aula 2.A.01"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "15:30",
        "end": "17:00",
        "room": "Aula -1.A.05",
        "type": "Máster oficial",
@@ -405,6 +424,19 @@
         {
          "dates": "08.oct-03.dic",
          "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "18:30",
+       "room": "Aula 2.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic",
+         "room": "Aula 2.A.01"
         }
        ]
       }
@@ -425,11 +457,15 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula -1.A.05",
+       "room": "Aula -1.A.07",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-12.nov",
+         "dates": "10.sep",
+         "room": "Aula -1.A.07"
+        },
+        {
+         "dates": "17.sep-12.nov",
          "room": "Aula -1.A.05"
         }
        ]
@@ -438,11 +474,15 @@
        "day": 3,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula -1.A.05",
+       "room": "Aula -1.A.07",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-12.nov",
+         "dates": "10.sep",
+         "room": "Aula -1.A.07"
+        },
+        {
+         "dates": "17.sep-12.nov",
          "room": "Aula -1.A.05"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Turismo",
  "year": "2026",
- "generatedAt": "2026-09-07T09:57:05Z",
+ "generatedAt": "2026-09-14T10:29:52Z",
  "subjects": [
   {
    "code": "14063",
@@ -279,8 +279,12 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep",
          "room": "Aula 5.1.01"
+        },
+        {
+         "dates": "16.sep-09.dic",
+         "room": "Aula 4.1.08"
         }
        ]
       }

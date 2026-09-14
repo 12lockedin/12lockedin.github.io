@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-09-07T09:19:59Z",
+ "generatedAt": "2026-09-14T09:51:21Z",
  "subjects": [
   {
    "code": "17053",
@@ -85,6 +85,19 @@
        ]
       },
       {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.E04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 4.1.E04"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "17:15",
        "end": "18:45",
@@ -157,11 +170,15 @@
        "day": 3,
        "start": "17:45",
        "end": "19:15",
-       "room": "Aula -1.A.05",
+       "room": "Aula -1.A.06",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-19.nov",
+         "dates": "10.sep",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "17.sep-19.nov",
          "room": "Aula -1.A.05"
         },
         {
@@ -612,12 +629,12 @@
        "day": 3,
        "start": "16:00",
        "end": "17:30",
-       "room": "Aula -1.A.05",
+       "room": "Aula -1.A.06",
        "type": null,
        "slots": [
         {
          "dates": "10.sep",
-         "room": "Aula -1.A.05"
+         "room": "Aula -1.A.06"
         }
        ]
       }
@@ -695,6 +712,40 @@
        ]
       },
       {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.0.E05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 4.0.E05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.1.E04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.sep",
+         "room": "Aula 4.1.E04"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 4.1.E04"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula 4.1.E04"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "15:30",
        "end": "17:00",
@@ -704,6 +755,27 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.1.E05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.oct",
+         "room": "Aula 4.1.E05"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula 4.1.E05"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula 4.1.E05"
         }
        ]
       }

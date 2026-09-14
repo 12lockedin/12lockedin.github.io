@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Doble Máster en Ingeniería de Telecomunicación y Métodos Analíticos para Datos Masivos: Big Data",
  "year": "2026",
- "generatedAt": "2026-09-07T09:52:27Z",
+ "generatedAt": "2026-09-14T10:24:55Z",
  "subjects": [
   {
    "code": "17234",
@@ -50,7 +50,39 @@
    "name": "Back-end para análisis de Big Data",
    "course": 2,
    "term": 1,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-23.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17231",
@@ -209,7 +241,64 @@
    "name": "Fundamentos tecnológicos en el mundo Big Data",
    "course": 2,
    "term": 1,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "11:00",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "13:00",
+       "end": "14:30",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17236",

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Asesoramiento y Consultoría Jurídico Laboral",
  "year": "2026",
- "generatedAt": "2026-09-07T09:35:31Z",
+ "generatedAt": "2026-09-14T10:07:16Z",
  "subjects": [
   {
    "code": "12254",
@@ -98,6 +98,19 @@
      "id": "2",
      "sessions": [
       {
+       "day": 1,
+       "start": "19:15",
+       "end": "20:45",
+       "room": "Aula 1.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula 1.A.09"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "19:15",
        "end": "20:45",
@@ -105,7 +118,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-21.oct",
+         "dates": "09.sep",
+         "room": "Aula 1.A.11"
+        },
+        {
+         "dates": "23.sep-21.oct",
          "room": "Aula 1.A.11"
         }
        ]

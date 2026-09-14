@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-09-07T10:02:04Z",
+ "generatedAt": "2026-09-14T10:35:06Z",
  "subjects": [
   {
    "code": "19408",
@@ -613,20 +613,20 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula INF 4.S.D.03",
+       "room": "Aula INF 7.0.J05 DUAL",
        "type": null,
        "slots": [
         {
          "dates": "24.sep",
-         "room": "Aula INF 4.S.D.03"
+         "room": "Aula INF 7.0.J05 DUAL"
         },
         {
          "dates": "29.oct",
-         "room": "Aula INF 4.S.D.03"
+         "room": "Aula INF 7.0.J05 DUAL"
         },
         {
          "dates": "19.nov",
-         "room": "Aula INF 4.S.D.03"
+         "room": "Aula INF 7.0.J05 DUAL"
         }
        ]
       },
@@ -634,12 +634,28 @@
        "day": 3,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula INF 4.S.D.01",
+       "room": "Aula INF 7.0.J05 DUAL",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula INF 4.S.D.01"
+         "dates": "10.sep",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "17.sep",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "24.sep",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        },
+        {
+         "dates": "08.oct-10.dic",
+         "room": "Aula INF 7.0.J05 DUAL"
         }
        ]
       }

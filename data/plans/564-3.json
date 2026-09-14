@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-09-07T09:57:20Z",
+ "generatedAt": "2026-09-14T10:30:09Z",
  "subjects": [
   {
    "code": "19408",
@@ -1781,19 +1781,6 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
-       "room": "LAB-17.0.11 Redacción TV",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "18.sep-02.oct",
-         "room": "LAB-17.0.11 Redacción TV"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
        "room": "Aulas 17.1.03 y LAB-17.1.11 Multiusos",
        "type": "Obligatoria",
        "slots": [
@@ -1804,6 +1791,19 @@
         {
          "dates": "09.oct-11.dic",
          "room": "Aulas 17.1.03 y LAB-17.1.11 Multiusos"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB-17.0.11 Redacción TV",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "18.sep-02.oct",
+         "room": "LAB-17.0.11 Redacción TV"
         }
        ]
       },
@@ -1858,11 +1858,7 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "09.sep",
-         "room": "Aula 17.1.03"
-        },
-        {
-         "dates": "07.oct-09.dic",
+         "dates": "09.sep-09.dic",
          "room": "Aula 17.1.03"
         }
        ]
@@ -2082,11 +2078,7 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "09.sep",
-         "room": "Aula 17.0.04"
-        },
-        {
-         "dates": "07.oct-09.dic",
+         "dates": "09.sep-09.dic",
          "room": "Aula 17.0.04"
         }
        ]
@@ -2182,11 +2174,7 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "07.sep",
-         "room": "Aula 17.0.04"
-        },
-        {
-         "dates": "05.oct",
+         "dates": "07.sep-05.oct",
          "room": "Aula 17.0.04"
         },
         {

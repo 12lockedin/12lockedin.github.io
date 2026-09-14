@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Asesoría Jurídica de Empresas",
  "year": "2026",
- "generatedAt": "2026-09-07T09:23:53Z",
+ "generatedAt": "2026-09-14T09:55:15Z",
  "subjects": [
   {
    "code": "16820",
@@ -126,10 +126,6 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "30.sep",
-         "room": "Aula 1.A.03"
-        },
-        {
          "dates": "21.oct-04.nov",
          "room": "Aula 1.A.03"
         }
@@ -142,10 +138,6 @@
        "room": "Aula 1.A.03",
        "type": "Máster oficial",
        "slots": [
-        {
-         "dates": "30.sep",
-         "room": "Aula 1.A.03"
-        },
         {
          "dates": "21.oct-28.oct",
          "room": "Aula 1.A.03"
@@ -173,7 +165,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.oct-29.oct",
+         "dates": "01.oct-29.oct",
          "room": "Aula 1.A.03"
         }
        ]
@@ -186,7 +178,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.oct-29.oct",
+         "dates": "01.oct-29.oct",
          "room": "Aula 1.A.03"
         }
        ]
@@ -291,6 +283,19 @@
        "slots": [
         {
          "dates": "08.sep-22.sep",
+         "room": "Aula 1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
          "room": "Aula 1.A.03"
         }
        ]
@@ -730,11 +735,7 @@
          "room": "Aula 1.A.03"
         },
         {
-         "dates": "23.sep",
-         "room": "Aula 1.A.03"
-        },
-        {
-         "dates": "07.oct-14.oct",
+         "dates": "23.sep-14.oct",
          "room": "Aula 1.A.03"
         },
         {
@@ -775,10 +776,6 @@
        "room": "Aula 1.A.03",
        "type": "Máster oficial",
        "slots": [
-        {
-         "dates": "01.oct",
-         "room": "Aula 1.A.03"
-        },
         {
          "dates": "26.nov-10.dic",
          "room": "Aula 1.A.03"

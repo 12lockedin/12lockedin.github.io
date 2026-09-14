@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Dirección de Empresas- Master in Management",
  "year": "2026",
- "generatedAt": "2026-09-07T09:30:36Z",
+ "generatedAt": "2026-09-14T10:01:58Z",
  "subjects": [
   {
    "code": "17858",
@@ -264,6 +264,48 @@
         },
         {
          "dates": "14.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "13:00",
+       "end": "14:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "05.nov-12.nov",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "05.nov-12.nov",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "10.dic",
          "room": "Aula 0.A.04"
         }
        ]

@@ -1,7 +1,7 @@
 {
  "year": "2026",
- "generatedAt": "2026-09-07T09:19:13Z",
- "count": 214,
+ "generatedAt": "2026-09-14T09:50:39Z",
+ "count": 216,
  "programmes": [
   {
    "type": "grado",
@@ -807,6 +807,20 @@
    "centro": 2,
    "name": "Programa Académico de Ingeniería Informática vía Grado en Ingeniería Informática",
    "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 533,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería de Telecomunicación y Aprendizaje Automático para la Salud",
+   "campus": "Leganés"
+  },
+  {
+   "type": "master",
+   "plan": 533,
+   "centro": 28,
+   "name": "Doble Máster en Ingeniería de Telecomunicación y Aprendizaje Automático para la Salud",
+   "campus": "Puerta de Toledo"
   },
   {
    "type": "master",

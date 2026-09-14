@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-09-07T09:36:20Z",
+ "generatedAt": "2026-09-14T10:08:08Z",
  "subjects": [
   {
    "code": "19408",
@@ -1191,8 +1191,12 @@
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep",
          "room": "Aula 1.1.B04"
+        },
+        {
+         "dates": "17.sep-10.dic",
+         "room": "Aula 1.1.B37"
         }
        ]
       },
@@ -1204,8 +1208,12 @@
        "type": null,
        "slots": [
         {
-         "dates": "11.sep-11.dic",
+         "dates": "11.sep",
          "room": "Aula 1.1.B04"
+        },
+        {
+         "dates": "18.sep-11.dic",
+         "room": "Aula 1.1.B37"
         }
        ]
       }
@@ -1675,8 +1683,8 @@
       },
       {
        "day": 2,
-       "start": "10:45",
-       "end": "12:15",
+       "start": "09:00",
+       "end": "10:30",
        "room": "Aula 1.0.A04",
        "type": null,
        "slots": [
@@ -1737,6 +1745,19 @@
      "id": "80",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.0.A04"
+        }
+       ]
+      },
       {
        "day": 0,
        "start": "14:30",
@@ -1972,19 +1993,6 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.0.A04",
-       "type": null,
-       "slots": [
-        {
-         "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.A04"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:15",
        "room": "Aula 1.0.A03",
        "type": null,
        "slots": [
@@ -2015,6 +2023,19 @@
         {
          "dates": "02.dic-09.dic",
          "room": "Aula 1.0.A03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.A04"
         }
        ]
       },

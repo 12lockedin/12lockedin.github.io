@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Clínica",
  "year": "2026",
- "generatedAt": "2026-09-07T09:27:28Z",
+ "generatedAt": "2026-09-14T09:58:51Z",
  "subjects": [
   {
    "code": "17798",
@@ -187,7 +187,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "13.nov",
+         "dates": "20.nov",
          "room": "Aula 4.0.E02"
         }
        ]
@@ -363,15 +363,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-01.oct",
-         "room": "Aula 4.0.E02"
-        },
-        {
-         "dates": "15.oct-22.oct",
-         "room": "Aula 4.0.E02"
-        },
-        {
-         "dates": "05.nov-17.dic",
+         "dates": "10.sep-17.dic",
          "room": "Aula 4.0.E02"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Robótica",
  "year": "2026",
- "generatedAt": "2026-09-07T10:04:49Z",
+ "generatedAt": "2026-09-14T10:38:06Z",
  "subjects": [
   {
    "code": "19893",
@@ -633,6 +633,19 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
+       "room": "LAB 4.S.B01 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "LAB 4.S.B01 (Fisica)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
@@ -648,14 +661,14 @@
       },
       {
        "day": 4,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "LAB 4.S.B01 (Fisica)",
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.1.G02",
        "type": null,
        "slots": [
         {
-         "dates": "27.nov",
-         "room": "LAB 4.S.B01 (Fisica)"
+         "dates": "25.sep-02.oct",
+         "room": "Aula 1.1.G02"
         }
        ]
       }
@@ -994,6 +1007,19 @@
         {
          "dates": "09.sep-09.dic",
          "room": "Aula 1.0.C02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.H03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.sep-02.oct",
+         "room": "Aula 1.0.H03"
         }
        ]
       },
@@ -1575,6 +1601,31 @@
       },
       {
        "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)"
+        }
+       ]
+      },
+      {
+       "day": 4,
        "start": "15:30",
        "end": "17:00",
        "room": "Aula 7.1.H01",
@@ -1739,20 +1790,20 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aulas 4.0.D03 y 4.0.E01",
+       "room": "Aulas 4.0.D03 y 4.1.E01",
        "type": null,
        "slots": [
         {
          "dates": "20.oct",
-         "room": "Aulas 4.0.D03 y 4.0.E01"
+         "room": "Aulas 4.0.D03 y 4.1.E01"
         },
         {
          "dates": "10.nov",
-         "room": "Aulas 4.0.D03 y 4.0.E01"
+         "room": "Aulas 4.0.D03 y 4.1.E01"
         },
         {
          "dates": "24.nov",
-         "room": "Aulas 4.0.D03 y 4.0.E01"
+         "room": "Aulas 4.0.D03 y 4.1.E01"
         }
        ]
       },
@@ -1945,6 +1996,19 @@
          "room": "Aula 7.0.J01"
         }
        ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "18.nov-25.nov",
+         "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)"
+        }
+       ]
       }
      ]
     }
@@ -2073,20 +2137,41 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "15.sep",
+         "dates": "22.sep",
          "room": "Aula 7.1.J07"
         },
         {
-         "dates": "29.sep",
+         "dates": "06.oct",
          "room": "Aula 7.1.J07"
         },
         {
-         "dates": "13.oct",
+         "dates": "20.oct",
          "room": "Aula 7.1.J07"
         },
         {
-         "dates": "27.oct",
+         "dates": "03.nov",
          "room": "Aula 7.1.J07"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 7.1.J07"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 1.1.F28",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "LAB 1.1.F28"
+        },
+        {
+         "dates": "29.oct-26.nov",
+         "room": "LAB 1.1.F28"
         }
        ]
       },
@@ -2098,7 +2183,15 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-08.oct",
+         "room": "Aula 7.1.J07"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula 7.1.J07"
+        },
+        {
+         "dates": "03.dic-10.dic",
          "room": "Aula 7.1.J07"
         }
        ]
@@ -2568,6 +2661,19 @@
      "sessions": [
       {
        "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB 1.0.B06 (Automatica)",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "LAB 1.0.B06 (Automatica)"
+        }
+       ]
+      },
+      {
+       "day": 0,
        "start": "12:30",
        "end": "14:00",
        "room": "Aula INF 7.0.J04 DUAL",
@@ -2576,6 +2682,10 @@
         {
          "dates": "07.sep-14.sep",
          "room": "Aula INF 7.0.J04 DUAL"
+        },
+        {
+         "dates": "30.nov",
+         "room": "LAB 1.0.B06 (Automatica)"
         }
        ]
       },

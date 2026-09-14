@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Inteligencia Artificial",
  "year": "2026",
- "generatedAt": "2026-09-07T09:55:17Z",
+ "generatedAt": "2026-09-14T10:27:55Z",
  "subjects": [
   {
    "code": "19893",
@@ -340,6 +340,19 @@
      "kind": "reducido",
      "sessions": [
       {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.3.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 2.3.B04"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "12:30",
        "end": "14:00",
@@ -588,6 +601,32 @@
          "room": "Aula 1.0.F02"
         }
        ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.0.F02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.0.F02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 1.0.F02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 1.0.F02"
+        }
+       ]
       }
      ]
     },
@@ -696,12 +735,12 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula INF 4.S.D.01",
+       "room": "Aula 1.1.G02",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula INF 4.S.D.01"
+         "room": "Aula 1.1.G02"
         }
        ]
       },
@@ -1470,23 +1509,6 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 2.3.A04",
-       "type": null,
-       "slots": [
-        {
-         "dates": "11.sep-02.oct",
-         "room": "Aula 2.3.A04"
-        },
-        {
-         "dates": "16.oct-11.dic",
-         "room": "Aula 2.3.A04"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
        "room": "Aula INF 7.0.J03 DUAL + TEL",
        "type": null,
        "slots": [
@@ -1497,6 +1519,23 @@
         {
          "dates": "27.nov",
          "room": "Aula INF 7.0.J03 DUAL + TEL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.3.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.3.A04"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 2.3.A04"
         }
        ]
       }

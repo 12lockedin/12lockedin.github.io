@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Sociología",
  "year": "2026",
- "generatedAt": "2026-09-07T09:55:36Z",
+ "generatedAt": "2026-09-14T10:28:14Z",
  "subjects": [
   {
    "code": "19408",
@@ -222,12 +222,12 @@
        "day": 2,
        "start": "14:30",
        "end": "16:00",
-       "room": "Aula 18.0.A04",
+       "room": "Aula 15.0.05",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 18.0.A04"
+         "room": "Aula 15.0.05"
         }
        ]
       }
@@ -237,7 +237,7 @@
   },
   {
    "code": "20294",
-   "name": "INTRODUCCIÓN A LA SOCIOLOGÍA, 1º,1 er C (grupos 49 y 86) 12:30 a 14:00 08.sep-01.dic: Aula 17.0.04",
+   "name": "INTRODUCCIÓN A LA SOCIOLOGÍA, 1º,1 er C (grupos 49 y 86) 12:30 a 14:00 08.sep-01.dic: Aula 17.1.06",
    "course": 1,
    "term": 1,
    "groups": [
@@ -249,12 +249,12 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 17.0.04",
+       "room": "Aula 17.1.06",
        "type": null,
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 17.0.04"
+         "room": "Aula 17.1.06"
         }
        ]
       }
@@ -419,14 +419,14 @@
       },
       {
        "day": 4,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 7.1.02 BIS",
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 5.1.02",
        "type": null,
        "slots": [
         {
          "dates": "11.sep-11.dic",
-         "room": "Aula 7.1.02 BIS"
+         "room": "Aula 5.1.02"
         }
        ]
       }

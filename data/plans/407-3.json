@@ -4,8 +4,48 @@
  "type": "grado",
  "name": "Grado en Humanidades",
  "year": "2026",
- "generatedAt": "2026-09-07T09:30:58Z",
+ "generatedAt": "2026-09-14T10:02:20Z",
  "subjects": [
+  {
+   "code": "13803",
+   "name": "GEOGRAFÍA REGIONAL, 3º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "61",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 17.1.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 17.1.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 17.0.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 17.0.05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
   {
    "code": "13812",
    "name": "ESTÉTICA, 3º,1 er C",
@@ -289,12 +329,12 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 14.1.12",
+       "room": "Aula 14.1.5",
        "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 14.1.12"
+         "room": "Aula 14.1.5"
         }
        ]
       }

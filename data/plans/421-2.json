@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Aeroespacial",
  "year": "2026",
- "generatedAt": "2026-09-07T09:34:43Z",
+ "generatedAt": "2026-09-14T10:06:26Z",
  "subjects": [
   {
    "code": "15321",
@@ -460,12 +460,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 7.2.J02",
+       "room": "Aula 7.2.J07",
        "type": "Básica",
        "slots": [
         {
          "dates": "08.sep-01.dic",
-         "room": "Aula 7.2.J02"
+         "room": "Aula 7.2.J07"
         }
        ]
       },
@@ -490,12 +490,12 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 7.2.J08",
+       "room": "Aula 7.2.J07",
        "type": "Básica",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 7.2.J08"
+         "room": "Aula 7.2.J07"
         }
        ]
       },
@@ -1227,6 +1227,19 @@
      "sessions": [
       {
        "day": 0,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 7.0.J06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      },
+      {
+       "day": 0,
        "start": "17:15",
        "end": "18:45",
        "room": "Aula 7.2.J06",
@@ -1300,6 +1313,19 @@
          "room": "Aula INF 7.0.J05 DUAL"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.2.J06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula 7.2.J06"
+        }
+       ]
       }
      ]
     },
@@ -1307,6 +1333,32 @@
      "id": "46",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 0,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 7.1.J07",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 7.1.J07"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.2.J01"
+        }
+       ]
+      },
       {
        "day": 0,
        "start": "15:30",
@@ -1380,6 +1432,19 @@
         {
          "dates": "20.nov",
          "room": "Aula INF 7.0.J04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.1.J08",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula 7.1.J08"
         }
        ]
       }

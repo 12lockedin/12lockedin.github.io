@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Iniciativa Emprendedora y Creación de Empresas",
  "year": "2026",
- "generatedAt": "2026-09-07T09:21:17Z",
+ "generatedAt": "2026-09-14T09:52:36Z",
  "subjects": [
   {
    "code": "16186",
@@ -196,7 +196,7 @@
      "sessions": [
       {
        "day": 1,
-       "start": "16:15",
+       "start": "16:00",
        "end": "17:45",
        "room": "Aula 18.0.A14",
        "type": "Máster oficial",

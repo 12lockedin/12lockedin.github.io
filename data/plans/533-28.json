@@ -1,58 +1,15 @@
 {
- "plan": 480,
- "centro": 4,
+ "plan": 533,
+ "centro": 28,
  "type": "master",
- "name": "Máster Universitario en Aprendizaje Automático para la Salud",
+ "name": "Doble Máster en Ingeniería de Telecomunicación y Aprendizaje Automático para la Salud",
  "year": "2026",
- "generatedAt": "2026-09-14T10:17:34Z",
+ "generatedAt": "2026-09-14T10:40:08Z",
  "subjects": [
-  {
-   "code": "19276",
-   "name": "Aprendizaje Automático",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "1",
-     "sessions": [
-      {
-       "day": 1,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 2.0.C03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 2.0.C03"
-        },
-        {
-         "dates": "15.dic",
-         "room": "Aula 2.0.C03"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 2.0.C03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "10.sep-17.dic",
-         "room": "Aula 2.0.C03"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
   {
    "code": "19277",
    "name": "Aprendizaje Profundo",
-   "course": 1,
+   "course": 2,
    "term": 1,
    "groups": [
     {
@@ -107,7 +64,7 @@
   {
    "code": "19275",
    "name": "Bioseñales y Bioimágenes",
-   "course": 1,
+   "course": 2,
    "term": 1,
    "groups": [
     {
@@ -156,9 +113,30 @@
    ]
   },
   {
+   "code": "19281",
+   "name": "Computación Intensiva en Datos",
+   "course": 2,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "14309",
+   "name": "Diseño de Circuitos Electrónicos para Comunicaciones",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "14307",
+   "name": "Diseño y Operación de Redes de Comunicaciones",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
    "code": "19279",
    "name": "Optimización",
-   "course": 1,
+   "course": 2,
    "term": 1,
    "groups": [
     {
@@ -207,9 +185,30 @@
    ]
   },
   {
+   "code": "14308",
+   "name": "Servicios Multimedia Avanzados",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "14310",
+   "name": "Subsistemas de Radiofrecuencia y Antenas",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "14311",
+   "name": "Tratamiento de Datos",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
    "code": "19278",
    "name": "Tratamiento de Imágenes Biomédicas",
-   "course": 1,
+   "course": 2,
    "term": 1,
    "groups": [
     {
@@ -250,47 +249,29 @@
    ]
   },
   {
-   "code": "19274",
-   "name": "Tratamiento Estadístico de Señales",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "1",
-     "sessions": [
-      {
-       "day": 2,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 2.0.C03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "09.sep-16.dic",
-         "room": "Aula 2.0.C03"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 2.0.C03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "10.sep-17.dic",
-         "room": "Aula 2.0.C03"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "20249",
    "name": "Aprendizaje Automático Probabilístico y Generativo",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "14312",
+   "name": "Diseño de Aplicaciones Telemáticas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "14314",
+   "name": "Diseño y Simulación de Sistemas de Comunicaciones",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "14316",
+   "name": "Gestión de Proyectos y Normativa de Telecomunicaciones",
    "course": 1,
    "term": 2,
    "groups": []
@@ -298,6 +279,13 @@
   {
    "code": "19284",
    "name": "Imágenes y Navegación Quirúrgica",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "14313",
+   "name": "Instrumentación Electrónica y Optoelectrónica",
    "course": 1,
    "term": 2,
    "groups": []
@@ -305,41 +293,48 @@
   {
    "code": "19289",
    "name": "Inteligencia Artificial en radiología y microscopía",
-   "course": 1,
+   "course": 2,
    "term": 2,
    "groups": []
   },
   {
    "code": "19292",
    "name": "Medicina Personalizada",
-   "course": 1,
+   "course": 2,
    "term": 2,
    "groups": []
   },
   {
    "code": "19283",
    "name": "Metodologías de Investigación",
-   "course": 1,
+   "course": 2,
    "term": 2,
    "groups": []
   },
   {
    "code": "19285",
    "name": "Neuroimagen",
-   "course": 1,
+   "course": 2,
    "term": 2,
    "groups": []
   },
   {
    "code": "20646",
    "name": "Procesado del Lenguaje Natural",
-   "course": 1,
+   "course": 2,
    "term": 2,
    "groups": []
   },
   {
    "code": "19282",
    "name": "Reconstrucción de Imágenes Médicas",
+   "course": 2,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "14315",
+   "name": "Técnicas Avanzadas en Tratamiento de Señal y Comunicaciones",
    "course": 1,
    "term": 2,
    "groups": []
@@ -347,21 +342,21 @@
   {
    "code": "19293",
    "name": "Tecnologías del habla para salud",
-   "course": 1,
+   "course": 2,
    "term": 2,
    "groups": []
   },
   {
    "code": "19288",
    "name": "Teoría de la información para el aprendizaje automático",
-   "course": 1,
+   "course": 2,
    "term": 2,
    "groups": []
   },
   {
    "code": "19286",
    "name": "Visión por Ordenador",
-   "course": 1,
+   "course": 2,
    "term": 2,
    "groups": []
   }

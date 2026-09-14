@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Gobernanza Económica Europea: Derecho, Política y Economía/ European Economic Governance",
  "year": "2026",
- "generatedAt": "2026-09-07T09:44:28Z",
+ "generatedAt": "2026-09-14T10:16:32Z",
  "subjects": [
   {
    "code": "19186",
@@ -387,10 +387,6 @@
          "room": "Aula 2.1.A.02"
         },
         {
-         "dates": "23.sep",
-         "room": "Aula 2.1.A.02"
-        },
-        {
          "dates": "25.nov",
          "room": "Aula 2.1.A.02"
         }
@@ -418,6 +414,19 @@
        "slots": [
         {
          "dates": "10.sep-22.oct",
+         "room": "Aula 2.1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 2.1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep",
          "room": "Aula 2.1.A.02"
         }
        ]

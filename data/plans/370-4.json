@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Abogacía Internacional - Presencial",
  "year": "2026",
- "generatedAt": "2026-09-07T09:25:29Z",
+ "generatedAt": "2026-09-14T09:56:54Z",
  "subjects": [
   {
    "code": "17262",
@@ -23,7 +23,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "23.nov-30.nov",
+         "dates": "23.nov",
          "room": "Aula 1.A.10"
         }
        ]
@@ -36,7 +36,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "23.nov-30.nov",
+         "dates": "23.nov",
          "room": "Aula 1.A.10"
         }
        ]
@@ -48,6 +48,10 @@
        "room": "Aula 1.A.10",
        "type": "Máster oficial",
        "slots": [
+        {
+         "dates": "11.nov",
+         "room": "Aula 1.A.10"
+        },
         {
          "dates": "16.dic",
          "room": "Aula 1.A.10"
@@ -62,6 +66,10 @@
        "type": "Máster oficial",
        "slots": [
         {
+         "dates": "11.nov",
+         "room": "Aula 1.A.10"
+        },
+        {
          "dates": "16.dic",
          "room": "Aula 1.A.10"
         }
@@ -75,7 +83,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.dic-10.dic",
+         "dates": "10.dic",
          "room": "Aula 1.A.10"
         }
        ]
@@ -88,7 +96,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.dic-10.dic",
+         "dates": "10.dic",
          "room": "Aula 1.A.10"
         }
        ]
@@ -100,6 +108,10 @@
        "room": "Aula 1.A.10",
        "type": "Máster oficial",
        "slots": [
+        {
+         "dates": "09.oct",
+         "room": "Aula 1.A.10"
+        },
         {
          "dates": "06.nov",
          "room": "Aula 1.A.10"
@@ -117,6 +129,10 @@
        "room": "Aula 1.A.10",
        "type": "Máster oficial",
        "slots": [
+        {
+         "dates": "09.oct",
+         "room": "Aula 1.A.10"
+        },
         {
          "dates": "06.nov",
          "room": "Aula 1.A.10"
@@ -762,6 +778,32 @@
      "id": "1",
      "sessions": [
       {
+       "day": 0,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 1.A.10"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "16:00",
        "end": "17:30",
@@ -773,7 +815,11 @@
          "room": "Aula 1.A.10"
         },
         {
-         "dates": "04.nov-18.nov",
+         "dates": "04.nov",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "18.nov",
          "room": "Aula 1.A.10"
         }
        ]
@@ -790,7 +836,11 @@
          "room": "Aula 1.A.10"
         },
         {
-         "dates": "04.nov-18.nov",
+         "dates": "04.nov",
+         "room": "Aula 1.A.10"
+        },
+        {
+         "dates": "18.nov",
          "room": "Aula 1.A.10"
         }
        ]
