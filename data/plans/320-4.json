@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Cine y Televisión",
  "year": "2026",
- "generatedAt": "2026-09-14T09:54:00Z",
+ "generatedAt": "2026-09-21T09:58:31Z",
  "subjects": [
   {
    "code": "12307",
@@ -175,6 +175,45 @@
      "id": "1",
      "sessions": [
       {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep-24.sep",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "10:45",
        "end": "12:15",
@@ -182,7 +221,20 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-24.sep",
+         "dates": "10.sep",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:45",
+       "end": "13:45",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep-24.sep",
          "room": "Aula -1.A.06"
         }
        ]
@@ -195,7 +247,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-24.sep",
+         "dates": "10.sep",
          "room": "Aula -1.A.06"
         }
        ]

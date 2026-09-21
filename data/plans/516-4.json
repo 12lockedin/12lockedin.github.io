@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Investigación en Comunicación",
  "year": "2026",
- "generatedAt": "2026-09-14T10:23:19Z",
+ "generatedAt": "2026-09-21T10:27:59Z",
  "subjects": [
   {
    "code": "19741",
@@ -31,13 +31,6 @@
      ]
     }
    ]
-  },
-  {
-   "code": "19746",
-   "name": "Investigación para la Optimización de Recursos en la Empresa Multimedia",
-   "course": 1,
-   "term": 1,
-   "groups": []
   },
   {
    "code": "19737",
@@ -259,13 +252,6 @@
    ]
   },
   {
-   "code": "19743",
-   "name": "Nuevos Modelos de Negocios en la Comunicación",
-   "course": 1,
-   "term": 1,
-   "groups": []
-  },
-  {
    "code": "19744",
    "name": "Perfiles Periodísticos Emergentes",
    "course": 1,
@@ -329,13 +315,6 @@
      ]
     }
    ]
-  },
-  {
-   "code": "19745",
-   "name": "Sistemas de Comunicación en las Organizaciones",
-   "course": 1,
-   "term": 1,
-   "groups": []
   },
   {
    "code": "19753",

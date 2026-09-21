@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-09-14T10:30:09Z",
+ "generatedAt": "2026-09-21T10:35:17Z",
  "subjects": [
   {
    "code": "19408",
@@ -1642,12 +1642,12 @@
        "day": 2,
        "start": "15:00",
        "end": "16:30",
-       "room": "Aula 17.0.04",
+       "room": "Aula 20.0.D02",
        "type": "Básica",
        "slots": [
         {
          "dates": "09.sep-09.dic",
-         "room": "Aula 17.0.04"
+         "room": "Aula 20.0.D02"
         }
        ]
       },
@@ -1655,12 +1655,20 @@
        "day": 2,
        "start": "16:45",
        "end": "18:15",
-       "room": "Aula 17.0.04",
+       "room": "Aula 20.0.D02",
        "type": "Básica",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
-         "room": "Aula 17.0.04"
+         "dates": "09.sep-18.nov",
+         "room": "Aula 20.0.D02"
+        },
+        {
+         "dates": "25.nov",
+         "room": "Aula 20.1.C01"
+        },
+        {
+         "dates": "02.dic-09.dic",
+         "room": "Aula 20.0.D02"
         }
        ]
       },
@@ -1781,6 +1789,19 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
+       "room": "LAB-17.0.11 Redacción TV",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "18.sep-02.oct",
+         "room": "LAB-17.0.11 Redacción TV"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aulas 17.1.03 y LAB-17.1.11 Multiusos",
        "type": "Obligatoria",
        "slots": [
@@ -1791,19 +1812,6 @@
         {
          "dates": "09.oct-11.dic",
          "room": "Aulas 17.1.03 y LAB-17.1.11 Multiusos"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "LAB-17.0.11 Redacción TV",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "18.sep-02.oct",
-         "room": "LAB-17.0.11 Redacción TV"
         }
        ]
       },

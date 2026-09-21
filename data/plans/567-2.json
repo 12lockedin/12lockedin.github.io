@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Matemáticas y Computación",
  "year": "2026",
- "generatedAt": "2026-09-14T10:31:12Z",
+ "generatedAt": "2026-09-21T10:36:26Z",
  "subjects": [
   {
    "code": "19893",
@@ -680,6 +680,19 @@
       },
       {
        "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.3.C03",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "30.sep",
+         "room": "Aula 2.3.C03"
+        }
+       ]
+      },
+      {
+       "day": 2,
        "start": "12:30",
        "end": "14:00",
        "room": "Aula 2.3.A02",
@@ -785,12 +798,12 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.3.B03",
+       "room": "Aula INF 2.2.C.04 DUAL",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "04.nov",
-         "room": "Aula 2.3.B03"
+         "dates": "09.sep",
+         "room": "Aula INF 2.2.C.04 DUAL"
         }
        ]
       },
@@ -798,12 +811,12 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula INF 2.2.C.04 DUAL",
+       "room": "Aula 2.3.B03",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "09.sep",
-         "room": "Aula INF 2.2.C.04 DUAL"
+         "dates": "04.nov",
+         "room": "Aula 2.3.B03"
         }
        ]
       },
@@ -902,21 +915,43 @@
       },
       {
        "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.A04",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula 2.3.A04"
+        }
+       ]
+      },
+      {
+       "day": 1,
        "start": "17:15",
        "end": "18:45",
        "room": "Aula INF 2.2.C.04 DUAL",
        "type": "Básica",
        "slots": [
         {
-         "dates": "06.oct",
-         "room": "Aula INF 2.2.C.04 DUAL"
-        },
-        {
          "dates": "20.oct-27.oct",
          "room": "Aula INF 2.2.C.04 DUAL"
         },
         {
          "dates": "17.nov",
+         "room": "Aula INF 2.2.C.04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula INF 2.2.C.04 DUAL",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "23.sep",
          "room": "Aula INF 2.2.C.04 DUAL"
         }
        ]
@@ -931,6 +966,19 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 2.3.A01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.C03",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 2.3.C03"
         }
        ]
       }
@@ -975,6 +1023,19 @@
      "id": "141",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 2.3.D01"
+        }
+       ]
+      },
       {
        "day": 1,
        "start": "17:15",
@@ -1081,6 +1142,23 @@
         {
          "dates": "01.dic",
          "room": "Aula 2.3.C01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.C03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 2.3.C03"
+        },
+        {
+         "dates": "09.dic",
+         "room": "Aula 2.3.C03"
         }
        ]
       },
@@ -1396,6 +1474,23 @@
         {
          "dates": "19.nov-26.nov",
          "room": "Aula 4.1.D03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.2.E03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 4.2.E03"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 4.1.E05"
         }
        ]
       },

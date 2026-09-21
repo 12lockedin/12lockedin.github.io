@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-09-14T09:57:35Z",
+ "generatedAt": "2026-09-21T10:02:11Z",
  "subjects": [
   {
    "code": "13501",
@@ -39,6 +39,59 @@
         {
          "dates": "11.sep-11.dic",
          "room": "Aula 14.0.4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "13509",
+   "name": "Tª Y TCA. REALIZACIÓN I, 3º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "52",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "16:30",
+       "room": "Aulas LAB-17.0.09 Plató Grande, LAB-17.0.13 Redacción TV y LAB-17.0.33 Plató Pequeño",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aulas LAB-17.0.09 Plató Grande, LAB-17.0.13 Redacción TV y LAB-17.0.33 Plató Pequeño"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:45",
+       "end": "18:15",
+       "room": "Aulas LAB-17.0.09 Plató Grande, LAB-17.0.13 Redacción TV y LAB-17.0.33 Plató Pequeño",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aulas LAB-17.0.09 Plató Grande, LAB-17.0.13 Redacción TV y LAB-17.0.33 Plató Pequeño"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aulas LAB-17.0.09 Plató Grande, LAB-17.0.13 Redacción TV y LAB-17.0.33 Plató Pequeño",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aulas LAB-17.0.09 Plató Grande, LAB-17.0.13 Redacción TV y LAB-17.0.33 Plató Pequeño"
         }
        ]
       }

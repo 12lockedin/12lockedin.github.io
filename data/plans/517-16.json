@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Neurociencia",
  "year": "2026",
- "generatedAt": "2026-09-14T10:23:25Z",
+ "generatedAt": "2026-09-21T10:28:06Z",
  "subjects": [
   {
    "code": "19760",
@@ -739,23 +739,6 @@
       {
        "day": 4,
        "start": "09:00",
-       "end": "13:00",
-       "room": "Aula INF-15.S.04",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "23.oct",
-         "room": "Aula INF-15.S.04"
-        },
-        {
-         "dates": "06.nov-20.nov",
-         "room": "Aula INF-15.S.04"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "09:00",
        "end": "11:00",
        "room": "Aula INF-15.S.04",
        "type": "Obligatoria",
@@ -766,6 +749,23 @@
         },
         {
          "dates": "27.nov",
+         "room": "Aula INF-15.S.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "13:00",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "23.oct",
+         "room": "Aula INF-15.S.04"
+        },
+        {
+         "dates": "06.nov-20.nov",
          "room": "Aula INF-15.S.04"
         }
        ]
@@ -811,6 +811,19 @@
        ]
       },
       {
+       "day": 2,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "16:45",
        "end": "18:15",
@@ -819,6 +832,19 @@
        "slots": [
         {
          "dates": "10.sep-10.dic",
+         "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:30",
+       "end": "20:00",
+       "room": "Aula 20.1.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.dic",
          "room": "Aula 20.1.D01"
         }
        ]
@@ -833,10 +859,6 @@
         {
          "dates": "30.oct",
          "room": "Aula 20.1.D01"
-        },
-        {
-         "dates": "20.nov",
-         "room": "Aula 20.1.D01"
         }
        ]
       },
@@ -849,10 +871,6 @@
        "slots": [
         {
          "dates": "30.oct",
-         "room": "Aula 20.1.D01"
-        },
-        {
-         "dates": "20.nov",
          "room": "Aula 20.1.D01"
         }
        ]

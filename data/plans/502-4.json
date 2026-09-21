@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Mediación, Negociación y Resolución de Conflictos Online",
  "year": "2026",
- "generatedAt": "2026-09-14T10:19:41Z",
+ "generatedAt": "2026-09-21T10:24:28Z",
  "subjects": [
   {
    "code": "14298",
@@ -44,12 +44,12 @@
       {
        "day": 2,
        "start": "15:00",
-       "end": "16:00",
+       "end": "17:00",
        "room": "Aula Virtual",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "25.nov-02.dic",
+         "dates": "04.nov-18.nov",
          "room": "Aula Virtual"
         }
        ]
@@ -70,12 +70,12 @@
       {
        "day": 2,
        "start": "15:00",
-       "end": "17:00",
+       "end": "16:00",
        "room": "Aula Virtual",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "04.nov-18.nov",
+         "dates": "25.nov-02.dic",
          "room": "Aula Virtual"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Historia y Política",
  "year": "2026",
- "generatedAt": "2026-09-14T09:59:41Z",
+ "generatedAt": "2026-09-21T10:04:19Z",
  "subjects": [
   {
    "code": "13810",
@@ -24,8 +24,12 @@
        "type": null,
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep",
          "room": "Aula 14.1.1"
+        },
+        {
+         "dates": "16.sep-09.dic",
+         "room": "Aula 15.0.14"
         }
        ]
       },
@@ -37,8 +41,12 @@
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep",
          "room": "Aula 17.1.04"
+        },
+        {
+         "dates": "17.sep-10.dic",
+         "room": "Aula 20.0.D01"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Biomecánica y Dispositivos Médicos",
  "year": "2026",
- "generatedAt": "2026-09-14T10:26:36Z",
+ "generatedAt": "2026-09-21T10:31:39Z",
  "subjects": [
   {
    "code": "20077",
@@ -322,41 +322,53 @@
       {
        "day": 3,
        "start": "17:15",
-       "end": "20:30",
+       "end": "18:45",
        "room": "Aula 7.2.H03",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-24.sep",
+         "dates": "24.sep",
          "room": "Aula 7.2.H03"
         },
         {
-         "dates": "08.oct-22.oct",
+         "dates": "08.oct",
+         "room": "Aula 7.2.H03"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "29.oct-05.nov",
          "room": "Aula 7.2.H03"
         },
         {
          "dates": "12.nov",
          "room": "Aula INF 1.2.G.02"
-        },
-        {
-         "dates": "19.nov-17.dic",
-         "room": "Aula 7.2.H03"
         }
        ]
       },
       {
        "day": 3,
        "start": "17:15",
-       "end": "18:45",
+       "end": "20:30",
        "room": "Aula 7.2.H03",
        "type": "Máster oficial",
        "slots": [
+        {
+         "dates": "10.sep-17.sep",
+         "room": "Aula 7.2.H03"
+        },
         {
          "dates": "01.oct",
          "room": "Aula 7.2.H03"
         },
         {
-         "dates": "29.oct-05.nov",
+         "dates": "22.oct",
+         "room": "Aula 7.2.H03"
+        },
+        {
+         "dates": "19.nov-17.dic",
          "room": "Aula 7.2.H03"
         }
        ]
@@ -369,12 +381,24 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "01.oct",
+         "dates": "24.sep",
          "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "08.oct",
+         "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula 7.2.H03"
         },
         {
          "dates": "29.oct-05.nov",
          "room": "Aula INF 1.2.G.01"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula 7.2.H03"
         }
        ]
       }

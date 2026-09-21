@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencia e Ingeniería de Materiales",
  "year": "2026",
- "generatedAt": "2026-09-14T09:56:18Z",
+ "generatedAt": "2026-09-21T10:00:53Z",
  "subjects": [
   {
    "code": "17153",
@@ -272,16 +272,12 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula INF 4.S.D.03",
+       "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "25.nov",
-         "room": "Aula INF 4.S.D.03"
-        },
-        {
-         "dates": "02.dic",
-         "room": "Aula INF 4.S.D.02"
+         "dates": "04.nov-16.dic",
+         "room": "Aula 7.2.J05"
         }
        ]
       },
@@ -289,12 +285,20 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 7.2.J05",
+       "room": "LAB 1.1.E03 (Materiales)",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "04.nov-16.dic",
-         "room": "Aula 7.2.J05"
+         "dates": "11.nov-18.nov",
+         "room": "LAB 1.1.E03 (Materiales)"
+        },
+        {
+         "dates": "25.nov",
+         "room": "Aula INF 4.S.D.03"
+        },
+        {
+         "dates": "02.dic",
+         "room": "Aula INF 4.S.D.02"
         }
        ]
       },
@@ -308,6 +312,19 @@
         {
          "dates": "05.nov-17.dic",
          "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "LAB 1.1.E01 (Quim-Mat)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic",
+         "room": "LAB 1.1.E01 (Quim-Mat)"
         }
        ]
       }
@@ -376,7 +393,43 @@
    "name": "Comportamiento de Materiales en Condiciones Extremas",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.ene-18.feb",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "04.mar-11.mar",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17157",
@@ -411,21 +464,169 @@
    "name": "Técnicas de Microscopía",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.ene-09.mar",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "31.mar-12.may",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr-13.may",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17148",
    "name": "Tecnología de Polvos",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.feb",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "17147",
    "name": "Tecnología de Recubrimientos y Tratamientos Superficiales",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.ene-08.mar",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.ene-10.mar",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.feb",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   }
  ]
 }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Derecho de los Sectores Regulados",
  "year": "2026",
- "generatedAt": "2026-09-14T09:53:23Z",
+ "generatedAt": "2026-09-21T09:57:53Z",
  "subjects": [
   {
    "code": "12169",
@@ -700,6 +700,19 @@
        ]
       },
       {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
        "day": 1,
        "start": "16:00",
        "end": "17:30",
@@ -754,7 +767,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "23.sep-30.sep",
+         "dates": "30.sep",
          "room": "Aula 0.A.03"
         }
        ]
@@ -767,7 +780,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "23.sep",
+         "dates": "30.sep",
          "room": "Aula 0.A.03"
         }
        ]

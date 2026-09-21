@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Tributación",
  "year": "2026",
- "generatedAt": "2026-09-14T09:59:02Z",
+ "generatedAt": "2026-09-21T10:03:41Z",
  "subjects": [
   {
    "code": "14571",
@@ -866,8 +866,12 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-29.sep",
+         "dates": "08.sep-22.sep",
          "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aulas 2.A.01 y 2.A.03"
         }
        ]
       },

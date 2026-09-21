@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-09-14T10:35:06Z",
+ "generatedAt": "2026-09-21T10:40:32Z",
  "subjects": [
   {
    "code": "19408",
@@ -65,6 +65,23 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 2.3.C03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.3.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "20.oct-27.oct",
+         "room": "Aula 2.3.B04"
+        },
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 2.3.B04"
         }
        ]
       },
@@ -389,6 +406,65 @@
        ]
       },
       {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 4.S.B02 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 4.S.B02 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.sep-21.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "04.nov-11.nov",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "25.nov",
+         "room": "LAB 4.S.B02 (Fisica)"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 4.S.B02 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "15.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "12.nov",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "03.dic",
+         "room": "LAB 4.S.B02 (Fisica)"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "09:00",
        "end": "10:30",
@@ -429,6 +505,52 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 2.3.C04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB 4.S.B02 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.sep",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "13.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "27.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "10.nov",
+         "room": "LAB 4.S.B02 (Fisica)"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 4.S.B02 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.oct-22.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "05.nov-12.nov",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "26.nov-03.dic",
+         "room": "LAB 4.S.B02 (Fisica)"
         }
        ]
       },
@@ -477,6 +599,48 @@
        ]
       },
       {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "LAB 4.S.B02 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.sep",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "14.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "28.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "11.nov",
+         "room": "LAB 4.S.B02 (Fisica)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 4.S.B02 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "02.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "16.oct-20.nov",
+         "room": "LAB 4.S.B02 (Fisica)"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "12:30",
        "end": "14:00",
@@ -509,6 +673,31 @@
         {
          "dates": "09.sep-09.dic",
          "room": "Aula 2.3.D01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "LAB 4.S.B02 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.sep",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "14.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "28.oct",
+         "room": "LAB 4.S.B02 (Fisica)"
+        },
+        {
+         "dates": "11.nov",
+         "room": "LAB 4.S.B02 (Fisica)"
         }
        ]
       },
@@ -758,6 +947,23 @@
      "kind": "magistral",
      "sessions": [
       {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula 4.0.D03"
+        },
+        {
+         "dates": "06.oct-13.oct",
+         "room": "Aula 4.0.D03"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "10:45",
        "end": "12:15",
@@ -790,6 +996,31 @@
      "kind": "magistral",
      "sessions": [
       {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.sep",
+         "room": "Aula 2.3.C03"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 2.3.C03"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 2.3.C03"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 2.3.C03"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "09:00",
        "end": "10:30",
@@ -821,6 +1052,27 @@
      "id": "83",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.B03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "21.sep-28.sep",
+         "room": "Aula 2.3.B03"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula 2.3.B03"
+        },
+        {
+         "dates": "23.nov",
+         "room": "Aula 2.3.B03"
+        }
+       ]
+      },
       {
        "day": 2,
        "start": "15:30",
@@ -976,6 +1228,27 @@
          "room": "Aula 2.3.C03"
         }
        ]
+      },
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aulas LAB 2.2.C.05 (Informática) y LAB 2.2.C.06 (Informática)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "Aulas LAB 2.2.C.05 (Informática) y LAB 2.2.C.06 (Informática)"
+        },
+        {
+         "dates": "22.oct-29.oct",
+         "room": "Aulas LAB 2.2.C.05 (Informática) y LAB 2.2.C.06 (Informática)"
+        },
+        {
+         "dates": "19.nov",
+         "room": "Aulas LAB 2.2.C.05 (Informática) y LAB 2.2.C.06 (Informática)"
+        }
+       ]
       }
      ]
     },
@@ -993,6 +1266,27 @@
         {
          "dates": "09.sep-09.dic",
          "room": "Aula 2.3.A01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aulas INF 7.0.J04 DUAL y INF 7.0.J05 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "24.sep",
+         "room": "Aulas INF 7.0.J04 DUAL y INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "22.oct-29.oct",
+         "room": "Aulas INF 7.0.J04 DUAL y INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "19.nov",
+         "room": "Aulas INF 7.0.J04 DUAL y INF 7.0.J05 DUAL"
         }
        ]
       },
@@ -1303,8 +1597,8 @@
       },
       {
        "day": 4,
-       "start": "17:15",
-       "end": "18:45",
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 4.1.E06",
        "type": null,
        "slots": [
@@ -1333,27 +1627,6 @@
      "kind": "magistral",
      "sessions": [
       {
-       "day": 0,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 2.3.C03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "28.sep",
-         "room": "Aula 2.3.C03"
-        },
-        {
-         "dates": "26.oct",
-         "room": "Aula 2.3.C03"
-        },
-        {
-         "dates": "16.nov",
-         "room": "Aula 2.3.C03"
-        }
-       ]
-      },
-      {
        "day": 1,
        "start": "19:00",
        "end": "20:30",
@@ -1363,6 +1636,31 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 2.3.A04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.2.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.sep",
+         "room": "Aula 7.2.J01"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 7.2.J01"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 7.2.J01"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula 7.2.J01"
         }
        ]
       },
@@ -1624,19 +1922,6 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula INF 7.0.J04 DUAL",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.nov",
-         "room": "Aula INF 7.0.J04 DUAL"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
        "room": "Aula 2.3.C03",
        "type": null,
        "slots": [
@@ -1651,6 +1936,19 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 2.3.C03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula INF 7.0.J04 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula INF 7.0.J04 DUAL"
         }
        ]
       },

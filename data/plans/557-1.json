@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Derecho",
  "year": "2026",
- "generatedAt": "2026-09-14T10:28:34Z",
+ "generatedAt": "2026-09-21T10:33:37Z",
  "subjects": [
   {
    "code": "19408",
@@ -1354,8 +1354,12 @@
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep",
          "room": "Aula 5.1.02"
+        },
+        {
+         "dates": "17.sep-10.dic",
+         "room": "Aula 10.0.30"
         }
        ]
       }

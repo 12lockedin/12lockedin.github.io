@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Estudios Internacionales",
  "year": "2026",
- "generatedAt": "2026-09-14T10:19:57Z",
+ "generatedAt": "2026-09-21T10:24:43Z",
  "subjects": [
   {
    "code": "19408",
@@ -189,7 +189,7 @@
   },
   {
    "code": "16616",
-   "name": "METODOLOGÍA Y CULTURA JURÍDICA, 1º,1 er C (grupos 45,55 y 56) 10:45 a 12:15 07.sep-05.oct: Aula 9.2.9 19.oct-26.oct: Aula 9.2.9 09.nov-30.nov: Aula 9.2.9",
+   "name": "METODOLOGÍA Y CULTURA JURÍDICA, 1º,1 er C (grupos 45,55 y 56) 10:45 a 12:15 07.sep-14.sep: Aula 9.2.9 21.sep-05.oct: Aula 20.0.D01 19.oct-26.oct: Aula 20.0.D01 09.nov-30.nov: Aula 20.0.D01",
    "course": 1,
    "term": 1,
    "groups": [
@@ -205,16 +205,20 @@
        "type": null,
        "slots": [
         {
-         "dates": "07.sep-05.oct",
+         "dates": "07.sep-14.sep",
          "room": "Aula 9.2.9"
+        },
+        {
+         "dates": "21.sep-05.oct",
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 9.2.9"
+         "room": "Aula 20.0.D01"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 9.2.9"
+         "room": "Aula 20.0.D01"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Prevención de Riesgos Laborales",
  "year": "2026",
- "generatedAt": "2026-09-14T09:51:54Z",
+ "generatedAt": "2026-09-21T09:56:23Z",
  "subjects": [
   {
    "code": "15673",
@@ -491,6 +491,10 @@
         {
          "dates": "29.sep-06.oct",
          "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 0.A.02"
         }
        ]
       },
@@ -503,6 +507,10 @@
        "slots": [
         {
          "dates": "29.sep-06.oct",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "20.oct",
          "room": "Aula 0.A.02"
         }
        ]
@@ -528,7 +536,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "14.oct-21.oct",
+         "dates": "14.oct",
          "room": "Aula 0.A.02"
         }
        ]
@@ -541,7 +549,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "14.oct-21.oct",
+         "dates": "14.oct",
          "room": "Aula 0.A.02"
         }
        ]
@@ -670,7 +678,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "13.oct-20.oct",
+         "dates": "13.oct",
          "room": "Aula 0.A.02"
         }
        ]
@@ -683,7 +691,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "13.oct-20.oct",
+         "dates": "13.oct",
          "room": "Aula 0.A.02"
         }
        ]
@@ -697,6 +705,32 @@
        "slots": [
         {
          "dates": "13.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
          "room": "Aula 0.A.02"
         }
        ]

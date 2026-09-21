@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-09-14T09:58:02Z",
+ "generatedAt": "2026-09-21T10:02:39Z",
  "subjects": [
   {
    "code": "13501",
@@ -730,7 +730,7 @@
        "start": "15:30",
        "end": "16:30",
        "room": "Aulas LAB-17.0.09 Plató Grande, LAB-17.0.13 Redacción TV y LAB-17.0.33 Plató Pequeño",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
@@ -743,7 +743,7 @@
        "start": "16:45",
        "end": "18:15",
        "room": "Aulas LAB-17.0.09 Plató Grande, LAB-17.0.13 Redacción TV y LAB-17.0.33 Plató Pequeño",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
@@ -756,7 +756,7 @@
        "start": "18:30",
        "end": "20:00",
        "room": "Aulas LAB-17.0.09 Plató Grande, LAB-17.0.13 Redacción TV y LAB-17.0.33 Plató Pequeño",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",
@@ -990,20 +990,20 @@
        "day": 0,
        "start": "16:45",
        "end": "18:15",
-       "room": "Aula 14.1.4",
+       "room": "Aula 14.1.1",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "07.sep-05.oct",
-         "room": "Aula 14.1.4"
+         "room": "Aula 14.1.1"
         },
         {
          "dates": "19.oct-26.oct",
-         "room": "Aula 14.1.4"
+         "room": "Aula 14.1.1"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 14.1.4"
+         "room": "Aula 14.1.1"
         }
        ]
       },

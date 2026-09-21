@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-09-14T10:39:22Z",
+ "generatedAt": "2026-09-21T10:44:44Z",
  "subjects": [
   {
    "code": "18647",
@@ -250,6 +250,19 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
+       "room": "Aula INF 7.0.J04 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula INF 7.0.J04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
        "room": "Aula INF 7.0.J03 DUAL + TEL",
        "type": null,
        "slots": [
@@ -277,6 +290,19 @@
         {
          "dates": "28.oct-18.nov",
          "room": "Aula INF 7.0.J04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula INF 7.0.J05 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula INF 7.0.J05 DUAL"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Desarrollo y Crecimiento Económico/Master in Economic Development and Growth",
  "year": "2026",
- "generatedAt": "2026-09-14T09:51:45Z",
+ "generatedAt": "2026-09-21T09:56:15Z",
  "subjects": [
   {
    "code": "15629",
@@ -169,7 +169,11 @@
          "room": "Aula 18.0.A12"
         },
         {
-         "dates": "21.oct-11.nov",
+         "dates": "21.oct",
+         "room": "Aula 18.0.A12"
+        },
+        {
+         "dates": "04.nov-11.nov",
          "room": "Aula 18.0.A12"
         }
        ]

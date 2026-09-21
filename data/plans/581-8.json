@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-09-14T10:35:17Z",
+ "generatedAt": "2026-09-21T10:40:44Z",
  "subjects": [
   {
    "code": "19408",
@@ -303,6 +303,31 @@
      "sessions": [
       {
        "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 1.1.B22 (Física)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "LAB 1.1.B22 (Física)"
+        },
+        {
+         "dates": "19.oct",
+         "room": "LAB 1.1.B22 (Física)"
+        },
+        {
+         "dates": "16.nov",
+         "room": "LAB 1.1.B22 (Física)"
+        },
+        {
+         "dates": "30.nov",
+         "room": "LAB 1.1.B22 (Física)"
+        }
+       ]
+      },
+      {
+       "day": 0,
        "start": "16:15",
        "end": "17:45",
        "room": "Aula 1.0.A05",
@@ -327,6 +352,31 @@
         {
          "dates": "23.nov",
          "room": "Aula 1.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:15",
+       "end": "17:45",
+       "room": "LAB 1.1.B22 (Física)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "LAB 1.1.B22 (Física)"
+        },
+        {
+         "dates": "19.oct",
+         "room": "LAB 1.1.B22 (Física)"
+        },
+        {
+         "dates": "16.nov",
+         "room": "LAB 1.1.B22 (Física)"
+        },
+        {
+         "dates": "30.nov",
+         "room": "LAB 1.1.B22 (Física)"
         }
        ]
       },

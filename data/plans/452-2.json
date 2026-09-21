@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería de la Energía",
  "year": "2026",
- "generatedAt": "2026-09-14T10:13:42Z",
+ "generatedAt": "2026-09-21T10:18:22Z",
  "subjects": [
   {
    "code": "13966",
@@ -92,7 +92,15 @@
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-06.oct",
+         "room": "Aula 1.0.C02"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 2.3.C01"
+        },
+        {
+         "dates": "20.oct-01.dic",
          "room": "Aula 1.0.C02"
         }
        ]
@@ -236,7 +244,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "29.sep-27.oct",
+         "dates": "29.sep-03.nov",
          "room": "LAB 4.S.B01 (Fisica)"
         },
         {
@@ -403,7 +411,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "29.sep-27.oct",
+         "dates": "29.sep-03.nov",
          "room": "LAB 4.S.B01 (Fisica)"
         },
         {
@@ -541,7 +549,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "29.sep-27.oct",
+         "dates": "29.sep-03.nov",
          "room": "LAB 4.S.B01 (Fisica)"
         },
         {
@@ -713,7 +721,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "29.sep-27.oct",
+         "dates": "29.sep-03.nov",
          "room": "LAB 4.S.B01 (Fisica)"
         },
         {
@@ -732,6 +740,19 @@
         {
          "dates": "09.sep-09.dic",
          "room": "Aula 1.0.B03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 4.S.B01 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.oct",
+         "room": "LAB 4.S.B01 (Fisica)"
         }
        ]
       },
@@ -806,6 +827,19 @@
          "room": "LAB 4.S.B01 (Fisica)"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "LAB 4.S.B01 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "LAB 4.S.B01 (Fisica)"
+        }
+       ]
       }
      ]
     },
@@ -835,22 +869,18 @@
        ]
       },
       {
-       "day": 0,
+       "day": 2,
        "start": "19:00",
        "end": "20:30",
        "room": "LAB 4.S.B01 (Fisica)",
        "type": null,
        "slots": [
         {
-         "dates": "28.sep-05.oct",
+         "dates": "30.sep-28.oct",
          "room": "LAB 4.S.B01 (Fisica)"
         },
         {
-         "dates": "19.oct-26.oct",
-         "room": "LAB 4.S.B01 (Fisica)"
-        },
-        {
-         "dates": "09.nov-30.nov",
+         "dates": "11.nov-25.nov",
          "room": "LAB 4.S.B01 (Fisica)"
         }
        ]
@@ -863,7 +893,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "01.oct-29.oct",
+         "dates": "01.oct-05.nov",
          "room": "LAB 4.S.B01 (Fisica)"
         },
         {
@@ -913,22 +943,18 @@
        ]
       },
       {
-       "day": 0,
+       "day": 2,
        "start": "19:00",
        "end": "20:30",
        "room": "LAB 4.S.B01 (Fisica)",
        "type": null,
        "slots": [
         {
-         "dates": "28.sep-05.oct",
+         "dates": "30.sep-28.oct",
          "room": "LAB 4.S.B01 (Fisica)"
         },
         {
-         "dates": "19.oct-26.oct",
-         "room": "LAB 4.S.B01 (Fisica)"
-        },
-        {
-         "dates": "09.nov-30.nov",
+         "dates": "11.nov-25.nov",
          "room": "LAB 4.S.B01 (Fisica)"
         }
        ]
@@ -943,6 +969,19 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 1.0.C02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "LAB 4.S.B01 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.nov",
+         "room": "LAB 4.S.B01 (Fisica)"
         }
        ]
       },
@@ -1381,6 +1420,40 @@
      "sessions": [
       {
        "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)"
+        },
+        {
+         "dates": "09.nov-16.nov",
+         "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)"
+        },
+        {
+         "dates": "09.nov-16.nov",
+         "room": "Aulas LAB 1.1.L01 (Automatica) y LAB 1.1.L02 (Automatica)"
+        }
+       ]
+      },
+      {
+       "day": 0,
        "start": "19:00",
        "end": "20:30",
        "room": "Aula 2.3.A05",
@@ -1447,6 +1520,10 @@
         {
          "dates": "14.oct",
          "room": "Aula INF 7.0.J04 DUAL"
+        },
+        {
+         "dates": "11.nov",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
         }
        ]
       }
@@ -1465,6 +1542,19 @@
      "kind": "reducido",
      "sessions": [
       {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.A06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "24.nov",
+         "room": "Aula 2.3.A06"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "09:00",
        "end": "10:30",
@@ -1474,6 +1564,32 @@
         {
          "dates": "09.sep-09.dic",
          "room": "Aula 2.3.A05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.C02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 1.0.C02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.D02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.oct",
+         "room": "Aula 2.3.D02"
         }
        ]
       },
@@ -2539,6 +2655,19 @@
       },
       {
        "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.C04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 2.3.C04"
+        }
+       ]
+      },
+      {
+       "day": 2,
        "start": "15:30",
        "end": "17:00",
        "room": "Aula INF 1.2.G.03 DUAL",
@@ -2693,6 +2822,19 @@
         {
          "dates": "24.nov",
          "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 2.3.D01"
         }
        ]
       },

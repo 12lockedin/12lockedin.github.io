@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Estudios Internacionales y Derecho",
  "year": "2026",
- "generatedAt": "2026-09-14T10:03:59Z",
+ "generatedAt": "2026-09-21T10:08:40Z",
  "subjects": [
   {
    "code": "16627",
@@ -259,6 +259,25 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 10.2.10"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "18",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "18:00",
+       "end": "19:30",
+       "room": "Aula 9.1.5",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 9.1.5"
         }
        ]
       }

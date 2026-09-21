@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Responsabilidad Civil",
  "year": "2026",
- "generatedAt": "2026-09-14T09:57:08Z",
+ "generatedAt": "2026-09-21T10:01:44Z",
  "subjects": [
   {
    "code": "17379",
@@ -65,6 +65,10 @@
        "type": "Máster oficial",
        "slots": [
         {
+         "dates": "28.sep-05.oct",
+         "room": "Aula 2.A.02"
+        },
+        {
          "dates": "19.oct",
          "room": "Aula 2.A.02"
         },
@@ -75,27 +79,14 @@
        ]
       },
       {
-       "day": 4,
-       "start": "16:00",
-       "end": "17:30",
+       "day": 0,
+       "start": "19:00",
+       "end": "20:00",
        "room": "Aula 2.A.02",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "16.oct",
-         "room": "Aula 2.A.02"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "17:30",
-       "end": "19:00",
-       "room": "Aula 2.A.02",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "16.oct",
+         "dates": "21.sep",
          "room": "Aula 2.A.02"
         }
        ]
@@ -252,32 +243,6 @@
        "slots": [
         {
          "dates": "17.sep-29.oct",
-         "room": "Aula 2.A.02"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "17:30",
-       "end": "19:00",
-       "room": "Aula 2.A.02",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "30.oct",
-         "room": "Aula 2.A.02"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "Aula 2.A.02",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "30.oct",
          "room": "Aula 2.A.02"
         }
        ]

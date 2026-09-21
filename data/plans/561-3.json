@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Periodismo",
  "year": "2026",
- "generatedAt": "2026-09-14T10:29:27Z",
+ "generatedAt": "2026-09-21T10:34:34Z",
  "subjects": [
   {
    "code": "19408",
@@ -737,33 +737,6 @@
         {
          "dates": "11.sep-11.dic",
          "room": "Aula 14.1.10"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "20390",
-   "name": "PERIODISMO AUDIOVISUAL, 2º,2ºC",
-   "course": 2,
-   "term": 1,
-   "groups": [
-    {
-     "id": "32",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "15:00",
-       "end": "16:30",
-       "room": "Aula 17.0.04",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 17.0.04"
         }
        ]
       }

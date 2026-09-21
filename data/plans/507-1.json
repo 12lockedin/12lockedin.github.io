@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Estudios Internacionales y Derecho",
  "year": "2026",
- "generatedAt": "2026-09-14T10:20:48Z",
+ "generatedAt": "2026-09-21T10:25:35Z",
  "subjects": [
   {
    "code": "19408",
@@ -1126,7 +1126,7 @@
   },
   {
    "code": "16634",
-   "name": "DERECHOS HUMANOS",
+   "name": "DERECHOS HUMANOS, 3º,1 er C",
    "course": 3,
    "term": 1,
    "groups": [
@@ -1166,7 +1166,7 @@
        "start": "18:00",
        "end": "19:30",
        "room": "Aula 9.1.5",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "09.sep-09.dic",

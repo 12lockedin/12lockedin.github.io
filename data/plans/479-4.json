@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Espacial",
  "year": "2026",
- "generatedAt": "2026-09-14T10:17:22Z",
+ "generatedAt": "2026-09-21T10:22:05Z",
  "subjects": [
   {
    "code": "19239",
@@ -334,6 +334,19 @@
        ]
       },
       {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.sep",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "17:15",
        "end": "18:45",
@@ -358,7 +371,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-02.oct",
+         "dates": "11.sep",
+         "room": "Aula 7.2.H01"
+        },
+        {
+         "dates": "25.sep-02.oct",
          "room": "Aula 7.2.H01"
         },
         {

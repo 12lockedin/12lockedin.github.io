@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Derecho de las Telecomunicaciones, Protección de Datos, Audiovisual y Sociedad de la Información",
  "year": "2026",
- "generatedAt": "2026-09-14T09:53:41Z",
+ "generatedAt": "2026-09-21T09:58:11Z",
  "subjects": [
   {
    "code": "20312",
@@ -498,6 +498,32 @@
        "slots": [
         {
          "dates": "10.sep-17.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep",
          "room": "Aula 1.A.04"
         }
        ]

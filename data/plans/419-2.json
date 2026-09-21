@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-09-14T10:05:56Z",
+ "generatedAt": "2026-09-21T10:10:39Z",
  "subjects": [
   {
    "code": "15541",
@@ -667,6 +667,10 @@
         {
          "dates": "01.oct",
          "room": "Aula 7.0.J01"
+        },
+        {
+         "dates": "03.dic",
+         "room": "Aula 7.0.J06"
         }
        ]
       },
