@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Historia y Política",
  "year": "2026",
- "generatedAt": "2026-09-21T10:36:49Z",
+ "generatedAt": "2026-09-28T11:32:34Z",
  "subjects": [
   {
    "code": "19408",
@@ -75,7 +75,7 @@
   },
   {
    "code": "19790",
-   "name": "ESTRATEGIAS DE EXPRESIÓN",
+   "name": "ESTRATEGIAS DE EXPRESIÓN, 1º,1 er C",
    "course": 1,
    "term": 1,
    "groups": [
@@ -88,7 +88,7 @@
        "start": "09:00",
        "end": "10:30",
        "room": "Aula 14.0.7",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",

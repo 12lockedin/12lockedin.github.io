@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Tecnologías e Ingeniería Cuánticas",
  "year": "2026",
- "generatedAt": "2026-09-21T10:21:48Z",
+ "generatedAt": "2026-09-28T11:18:18Z",
  "subjects": [
   {
    "code": "19598",
@@ -407,13 +407,6 @@
      ]
     }
    ]
-  },
-  {
-   "code": "19594",
-   "name": "Métodos numéricos para mecánica cuántica",
-   "course": 2,
-   "term": 1,
-   "groups": []
   },
   {
    "code": "19596",

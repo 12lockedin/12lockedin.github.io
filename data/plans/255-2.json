@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Telemática",
  "year": "2026",
- "generatedAt": "2026-09-21T09:56:34Z",
+ "generatedAt": "2026-09-28T10:54:16Z",
  "subjects": [
   {
    "code": "13426",
@@ -235,6 +235,19 @@
         {
          "dates": "19.oct",
          "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.sep",
+         "room": "Aula 4.0.E03"
         }
        ]
       },
@@ -641,9 +654,13 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 4.2.E04",
+       "room": "Aula 4.2.E05",
        "type": null,
        "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 4.2.E05"
+        },
         {
          "dates": "09.dic",
          "room": "Aula 4.2.E04"
@@ -669,6 +686,19 @@
      "id": "1092",
      "kind": "reducido",
      "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 4.0.E05"
+        }
+       ]
+      },
       {
        "day": 1,
        "start": "12:30",

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Sociología",
  "year": "2026",
- "generatedAt": "2026-09-21T10:06:26Z",
+ "generatedAt": "2026-09-28T11:03:38Z",
  "subjects": [
   {
    "code": "20259",
@@ -588,8 +588,12 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep-23.sep",
          "room": "Aula 9.2.2"
+        },
+        {
+         "dates": "30.sep-09.dic",
+         "room": "Aula 5.1.03"
         }
        ]
       },

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Herencia Cultural Hispánica",
  "year": "2026",
- "generatedAt": "2026-09-21T10:00:31Z",
+ "generatedAt": "2026-09-28T10:57:58Z",
  "subjects": [
   {
    "code": "17495",
@@ -64,6 +64,19 @@
         {
          "dates": "09.sep-09.dic",
          "room": "Aula 18.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "20:00",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct",
+         "room": "* SIN AULA *"
         }
        ]
       }
@@ -239,6 +252,58 @@
         {
          "dates": "14.dic",
          "room": "Aula 18.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 18.0.A05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.sep",
+         "room": "Aula 18.0.A05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:30",
+       "end": "12:00",
+       "room": "Aula 18.0.A07",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct-23.oct",
+         "room": "Aula 18.0.A07"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "11:00",
+       "room": "Aula 18.0.A07",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula 18.0.A07"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:00",
+       "end": "12:00",
+       "room": "Aula 18.0.A07",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula 18.0.A07"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Máquinas y Transportes",
  "year": "2026",
- "generatedAt": "2026-09-21T09:56:49Z",
+ "generatedAt": "2026-09-28T10:54:30Z",
  "subjects": [
   {
    "code": "16091",
@@ -94,7 +94,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-06.oct",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "20.oct-01.dic",
          "room": "Aula 2.0.C15"
         },
         {
@@ -111,11 +115,28 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-06.oct",
+         "room": "Aula 2.0.C15"
+        },
+        {
+         "dates": "20.oct-01.dic",
          "room": "Aula 2.0.C15"
         },
         {
          "dates": "15.dic",
+         "room": "Aula 2.0.C15"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "20:30",
+       "room": "Aula 2.0.C15",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.oct-22.oct",
          "room": "Aula 2.0.C15"
         }
        ]
@@ -197,6 +218,19 @@
      "id": "1",
      "sessions": [
       {
+       "day": 1,
+       "start": "17:15",
+       "end": "20:30",
+       "room": "Aula INF 4.S.D.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula INF 4.S.D.02"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "17:15",
        "end": "18:45",
@@ -204,7 +238,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-17.dic",
+         "dates": "10.sep-08.oct",
+         "room": "Aula INF 2.2.C.03 DUAL"
+        },
+        {
+         "dates": "22.oct-17.dic",
          "room": "Aula INF 2.2.C.03 DUAL"
         }
        ]
@@ -217,7 +255,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-17.dic",
+         "dates": "10.sep-08.oct",
+         "room": "Aula INF 2.2.C.03 DUAL"
+        },
+        {
+         "dates": "22.oct-17.dic",
          "room": "Aula INF 2.2.C.03 DUAL"
         }
        ]

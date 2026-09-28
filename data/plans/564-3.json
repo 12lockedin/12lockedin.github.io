@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-09-21T10:35:17Z",
+ "generatedAt": "2026-09-28T11:31:05Z",
  "subjects": [
   {
    "code": "19408",
@@ -487,8 +487,12 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-17.sep",
          "room": "Aulas 17.1.06 y LAB-17.0.11 Redacción TV"
+        },
+        {
+         "dates": "24.sep-10.dic",
+         "room": "Aulas 17.0.01 y LAB-17.0.11 Redacción TV"
         }
        ]
       },
@@ -1789,19 +1793,6 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
-       "room": "LAB-17.0.11 Redacción TV",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "18.sep-02.oct",
-         "room": "LAB-17.0.11 Redacción TV"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
        "room": "Aulas 17.1.03 y LAB-17.1.11 Multiusos",
        "type": "Obligatoria",
        "slots": [
@@ -1812,6 +1803,19 @@
         {
          "dates": "09.oct-11.dic",
          "room": "Aulas 17.1.03 y LAB-17.1.11 Multiusos"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB-17.0.11 Redacción TV",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "18.sep-02.oct",
+         "room": "LAB-17.0.11 Redacción TV"
         }
        ]
       },

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Geopolítica y Estudios Estratégicos",
  "year": "2026",
- "generatedAt": "2026-09-21T10:03:18Z",
+ "generatedAt": "2026-09-28T11:00:36Z",
  "subjects": [
   {
    "code": "17777",
@@ -193,7 +193,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-21.oct",
+         "dates": "09.sep-14.oct",
          "room": "Aula -1.A.07"
         },
         {
@@ -210,11 +210,37 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-21.oct",
+         "dates": "09.sep-14.oct",
          "room": "Aula -1.A.07"
         },
         {
          "dates": "04.nov-16.dic",
+         "room": "Aula -1.A.07"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula -1.A.07",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula -1.A.07"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.07",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
          "room": "Aula -1.A.07"
         }
        ]
@@ -358,6 +384,32 @@
      "id": "1",
      "sessions": [
       {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula -1.A.07",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula -1.A.07"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.07",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula -1.A.07"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "16:00",
        "end": "17:30",
@@ -365,7 +417,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-22.oct",
+         "dates": "10.sep-15.oct",
          "room": "Aula -1.A.07"
         },
         {
@@ -386,7 +438,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-22.oct",
+         "dates": "10.sep-15.oct",
          "room": "Aula -1.A.07"
         },
         {

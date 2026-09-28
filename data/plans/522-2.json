@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-09-21T10:28:47Z",
+ "generatedAt": "2026-09-28T11:24:52Z",
  "subjects": [
   {
    "code": "15532",
@@ -1499,23 +1499,6 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 7.2.J07",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "06.oct",
-         "room": "Aula 7.2.J07"
-        },
-        {
-         "dates": "13.oct",
-         "room": "Aula 7.0.J06"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "17:15",
-       "end": "18:45",
        "room": "Aula INF 7.0.J04 DUAL",
        "type": "Obligatoria",
        "slots": [
@@ -1530,6 +1513,23 @@
         {
          "dates": "10.nov-17.nov",
          "room": "Aula INF 7.0.J04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J07",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 7.2.J07"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 7.0.J06"
         }
        ]
       },
@@ -2193,6 +2193,19 @@
        ]
       },
       {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "10:45",
        "end": "12:15",
@@ -2209,9 +2222,13 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 7.0.J01",
+       "room": "Aula 7.0.J06",
        "type": null,
        "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 7.0.J06"
+        },
         {
          "dates": "22.oct",
          "room": "Aula 7.0.J01"
@@ -2436,6 +2453,27 @@
        "slots": [
         {
          "dates": "08.sep-01.dic",
+         "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.0.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aula 7.0.J01"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula 7.0.J01"
+        },
+        {
+         "dates": "25.nov",
          "room": "Aula 7.0.J01"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Dirección de Recursos Humanos - Master in Human Resources Management",
  "year": "2026",
- "generatedAt": "2026-09-21T10:32:17Z",
+ "generatedAt": "2026-09-28T11:28:11Z",
  "subjects": [
   {
    "code": "17869",
@@ -132,6 +132,19 @@
      "id": "1",
      "sessions": [
       {
+       "day": 0,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
        "day": 1,
        "start": "09:30",
        "end": "11:30",
@@ -181,7 +194,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "18.sep-02.oct",
+         "dates": "18.sep",
+         "room": "Aula -1.A.03"
+        },
+        {
+         "dates": "02.oct",
          "room": "Aula -1.A.03"
         }
        ]

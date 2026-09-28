@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-09-21T09:56:04Z",
+ "generatedAt": "2026-09-28T10:53:44Z",
  "subjects": [
   {
    "code": "16101",
@@ -28,7 +28,15 @@
          "room": "Aula 4.0.D03"
         },
         {
-         "dates": "16.sep-09.dic",
+         "dates": "16.sep-21.oct",
+         "room": "LAB 4.1.B01 (Telematica)"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 4.2.E04"
+        },
+        {
+         "dates": "04.nov-09.dic",
          "room": "LAB 4.1.B01 (Telematica)"
         }
        ]
@@ -415,6 +423,19 @@
          "room": "Aula 4.0.D03"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.1.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "Aula 4.1.D03"
+        }
+       ]
       }
      ]
     }
@@ -452,6 +473,19 @@
         {
          "dates": "19.oct",
          "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.sep",
+         "room": "Aula 4.0.E03"
         }
        ]
       },
@@ -789,9 +823,13 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 4.2.E04",
+       "room": "Aula 4.2.E05",
        "type": null,
        "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 4.2.E05"
+        },
         {
          "dates": "09.dic",
          "room": "Aula 4.2.E04"
@@ -817,6 +855,19 @@
      "id": "1092",
      "kind": "reducido",
      "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 4.0.E05"
+        }
+       ]
+      },
       {
        "day": 1,
        "start": "12:30",

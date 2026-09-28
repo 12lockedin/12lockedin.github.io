@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Mecánica Industrial",
  "year": "2026",
- "generatedAt": "2026-09-21T09:56:44Z",
+ "generatedAt": "2026-09-28T10:54:25Z",
  "subjects": [
   {
    "code": "16158",
@@ -223,6 +223,19 @@
         },
         {
          "dates": "14.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
          "room": "Aula 2.0.C04"
         }
        ]

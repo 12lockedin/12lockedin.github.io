@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Cine y Televisión",
  "year": "2026",
- "generatedAt": "2026-09-21T09:58:31Z",
+ "generatedAt": "2026-09-28T10:56:06Z",
  "subjects": [
   {
    "code": "12307",
@@ -57,7 +57,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "01.oct-29.oct",
+         "dates": "01.oct-15.oct",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "29.oct",
          "room": "Aula -1.A.06"
         }
        ]
@@ -70,7 +74,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "01.oct-29.oct",
+         "dates": "01.oct-15.oct",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "29.oct",
          "room": "Aula -1.A.06"
         }
        ]
@@ -129,17 +137,43 @@
      "sessions": [
       {
        "day": 0,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 0,
        "start": "10:45",
        "end": "12:15",
        "room": "Aula -1.A.06",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.sep-05.oct",
+         "dates": "07.sep-21.sep",
          "room": "Aula -1.A.06"
         },
         {
          "dates": "19.oct-26.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:45",
+       "end": "13:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep-05.oct",
          "room": "Aula -1.A.06"
         }
        ]
@@ -152,11 +186,63 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.sep-05.oct",
+         "dates": "07.sep-21.sep",
          "room": "Aula -1.A.06"
         },
         {
          "dates": "19.oct-26.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:30",
+       "end": "12:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:15",
+       "end": "13:45",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:45",
+       "end": "13:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
          "room": "Aula -1.A.06"
         }
        ]
@@ -303,7 +389,11 @@
          "room": "Aula -1.A.06"
         },
         {
-         "dates": "29.sep-27.oct",
+         "dates": "29.sep",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "27.oct",
          "room": "Aula -1.A.06"
         }
        ]
@@ -320,7 +410,11 @@
          "room": "Aula -1.A.06"
         },
         {
-         "dates": "29.sep-27.oct",
+         "dates": "29.sep",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "27.oct",
          "room": "Aula -1.A.06"
         }
        ]
@@ -347,6 +441,32 @@
        "slots": [
         {
          "dates": "16.sep",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:45",
+       "end": "14:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct",
          "room": "Aula -1.A.06"
         }
        ]

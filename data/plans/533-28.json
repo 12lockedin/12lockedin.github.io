@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Doble Máster en Ingeniería de Telecomunicación y Aprendizaje Automático para la Salud",
  "year": "2026",
- "generatedAt": "2026-09-21T10:29:03Z",
+ "generatedAt": "2026-09-28T11:25:08Z",
  "subjects": [
   {
    "code": "19277",
@@ -98,12 +98,29 @@
       {
        "day": 2,
        "start": "10:45",
+       "end": "12:30",
+       "room": "Aula INF 7.0.J03 DUAL + TEL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "23.sep",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
        "end": "12:15",
        "room": "Aula 2.0.C03",
        "type": null,
        "slots": [
         {
-         "dates": "09.sep-16.dic",
+         "dates": "09.sep-16.sep",
+         "room": "Aula 2.0.C03"
+        },
+        {
+         "dates": "30.sep-16.dic",
          "room": "Aula 2.0.C03"
         }
        ]

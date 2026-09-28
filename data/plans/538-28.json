@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Doble Máster en Ingeniería Informática / e Internet de las Cosas: Tecnologías Aplicadas",
  "year": "2026",
- "generatedAt": "2026-09-21T10:30:37Z",
+ "generatedAt": "2026-09-28T11:26:36Z",
  "subjects": [
   {
    "code": "18113",
@@ -87,11 +87,7 @@
          "room": "Aula -1.A.06"
         },
         {
-         "dates": "17.sep-19.nov",
-         "room": "Aula -1.A.05"
-        },
-        {
-         "dates": "03.dic-17.dic",
+         "dates": "17.sep-17.dic",
          "room": "Aula -1.A.05"
         }
        ]

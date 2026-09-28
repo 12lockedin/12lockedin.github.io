@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Asesoramiento y Consultoría Jurídico Laboral",
  "year": "2026",
- "generatedAt": "2026-09-21T10:11:43Z",
+ "generatedAt": "2026-09-28T11:08:45Z",
  "subjects": [
   {
    "code": "12254",
@@ -467,40 +467,18 @@
      "id": "1",
      "sessions": [
       {
-       "day": 2,
+       "day": 1,
        "start": "19:15",
        "end": "20:45",
        "room": "Aula 1.A.11",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "27.ene-10.mar",
+         "dates": "26.ene-09.mar",
          "room": "Aula 1.A.11"
         },
         {
-         "dates": "31.mar",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "2",
-     "sessions": [
-      {
-       "day": 4,
-       "start": "19:15",
-       "end": "20:45",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "29.ene-12.mar",
-         "room": "Aula 1.A.11"
-        },
-        {
-         "dates": "02.abr",
+         "dates": "30.mar",
          "room": "Aula 1.A.11"
         }
        ]
@@ -553,47 +531,7 @@
    "name": "Derecho Laboral del Empleo Público",
    "course": 1,
    "term": 2,
-   "groups": [
-    {
-     "id": "1",
-     "sessions": [
-      {
-       "day": 4,
-       "start": "15:45",
-       "end": "17:15",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "26.feb-12.mar",
-         "room": "Aula 1.A.11"
-        },
-        {
-         "dates": "02.abr",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "17:30",
-       "end": "19:00",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "26.feb-12.mar",
-         "room": "Aula 1.A.11"
-        },
-        {
-         "dates": "02.abr",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      }
-     ]
-    }
-   ]
+   "groups": []
   },
   {
    "code": "18212",
@@ -639,37 +577,6 @@
        ]
       }
      ]
-    },
-    {
-     "id": "2",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "19:15",
-       "end": "20:45",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "05.abr-26.abr",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "19:15",
-       "end": "20:45",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "30.mar-20.abr",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      }
-     ]
     }
    ]
   },
@@ -704,37 +611,6 @@
        "slots": [
         {
          "dates": "28.ene-11.mar",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "2",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "19:15",
-       "end": "20:45",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "25.ene-08.mar",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "19:15",
-       "end": "20:45",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "26.ene-09.mar",
          "room": "Aula 1.A.11"
         }
        ]
@@ -977,39 +853,7 @@
    "name": "Previsión Social Complementaria",
    "course": 1,
    "term": 2,
-   "groups": [
-    {
-     "id": "1",
-     "sessions": [
-      {
-       "day": 4,
-       "start": "15:45",
-       "end": "17:15",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "29.ene-19.feb",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "17:30",
-       "end": "19:00",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "29.ene-19.feb",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      }
-     ]
-    }
-   ]
+   "groups": []
   },
   {
    "code": "12256",
@@ -1055,39 +899,7 @@
    "name": "Técnica de los recursos en la jurisdicción social",
    "course": 1,
    "term": 2,
-   "groups": [
-    {
-     "id": "1",
-     "sessions": [
-      {
-       "day": 4,
-       "start": "15:45",
-       "end": "17:15",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "09.abr-30.abr",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "17:30",
-       "end": "19:00",
-       "room": "Aula 1.A.11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "09.abr-30.abr",
-         "room": "Aula 1.A.11"
-        }
-       ]
-      }
-     ]
-    }
-   ]
+   "groups": []
   },
   {
    "code": "12267",

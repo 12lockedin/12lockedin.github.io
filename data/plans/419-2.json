@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-09-21T10:10:39Z",
+ "generatedAt": "2026-09-28T11:07:45Z",
  "subjects": [
   {
    "code": "15541",
@@ -339,6 +339,19 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 7.0.J01",
        "type": null,
        "slots": [
@@ -373,9 +386,13 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 7.0.J01",
+       "room": "Aula 7.0.J06",
        "type": null,
        "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 7.0.J06"
+        },
         {
          "dates": "22.oct",
          "room": "Aula 7.0.J01"
@@ -641,6 +658,27 @@
        "slots": [
         {
          "dates": "08.sep-01.dic",
+         "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.0.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aula 7.0.J01"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula 7.0.J01"
+        },
+        {
+         "dates": "25.nov",
          "room": "Aula 7.0.J01"
         }
        ]

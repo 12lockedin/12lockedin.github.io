@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Espacial",
  "year": "2026",
- "generatedAt": "2026-09-21T10:22:05Z",
+ "generatedAt": "2026-09-28T11:18:35Z",
  "subjects": [
   {
    "code": "19239",
@@ -203,7 +203,15 @@
        "type": null,
        "slots": [
         {
-         "dates": "18.sep-02.oct",
+         "dates": "18.sep",
+         "room": "Aula 7.2.H01"
+        },
+        {
+         "dates": "25.sep",
+         "room": "Aula 7.0.J06"
+        },
+        {
+         "dates": "02.oct",
          "room": "Aula 7.2.H01"
         }
        ]
@@ -653,6 +661,10 @@
         {
          "dates": "21.sep",
          "room": "Aula 7.2.H01"
+        },
+        {
+         "dates": "05.oct",
+         "room": "Aula 7.2.H01"
         }
        ]
       },
@@ -679,6 +691,23 @@
       },
       {
        "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.dic",
+         "room": "Aula 7.2.H01"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 1,
        "start": "15:30",
        "end": "17:00",
        "room": "Aula 7.2.J03",
@@ -687,6 +716,75 @@
         {
          "dates": "01.dic",
          "room": "Aula 7.2.J03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "13:30",
+       "end": "15:30",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "13:30",
+       "end": "15:30",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aula 7.2.H01"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic-17.dic",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "13:30",
+       "end": "15:30",
+       "room": "Aula 7.1.J08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 7.1.J08"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.dic",
+         "room": "Aula 7.2.H01"
         }
        ]
       }

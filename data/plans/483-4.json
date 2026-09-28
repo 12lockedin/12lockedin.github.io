@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Finanzas / Master in Finance",
  "year": "2026",
- "generatedAt": "2026-09-21T10:22:46Z",
+ "generatedAt": "2026-09-28T11:19:12Z",
  "subjects": [
   {
    "code": "19328",
@@ -246,6 +246,32 @@
      "sessions": [
       {
        "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 1.A.07 INF",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.07 INF"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.A.07 INF",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.A.07 INF"
+        }
+       ]
+      },
+      {
+       "day": 0,
        "start": "15:30",
        "end": "17:00",
        "room": "Aula -1.A.01",
@@ -483,10 +509,6 @@
         {
          "dates": "07.sep-05.oct",
          "room": "Aula 1.A.04"
-        },
-        {
-         "dates": "19.oct",
-         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -503,10 +525,6 @@
         },
         {
          "dates": "28.sep-05.oct",
-         "room": "Aula 1.A.04"
-        },
-        {
-         "dates": "19.oct",
          "room": "Aula 1.A.04"
         }
        ]
@@ -547,6 +565,32 @@
         {
          "dates": "13.oct",
          "room": "Aula -1.A.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:45",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:15",
+       "end": "12:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 1.A.04"
         }
        ]
       }
@@ -670,32 +714,6 @@
          "room": "Aula 1.A.04"
         }
        ]
-      },
-      {
-       "day": 2,
-       "start": "13:00",
-       "end": "14:45",
-       "room": "Aula 1.A.04",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "21.oct",
-         "room": "Aula 1.A.04"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "15:00",
-       "end": "16:15",
-       "room": "Aula -1.A.01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "21.oct",
-         "room": "Aula -1.A.01"
-        }
-       ]
       }
      ]
     }
@@ -713,6 +731,19 @@
       {
        "day": 0,
        "start": "11:00",
+       "end": "14:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.ene",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:00",
        "end": "12:45",
        "room": "Aula 1.A.04",
        "type": "Máster oficial",
@@ -723,19 +754,6 @@
         },
         {
          "dates": "14.dic",
-         "room": "Aula 1.A.04"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "11:00",
-       "end": "14:30",
-       "room": "Aula 1.A.04",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "11.ene",
          "room": "Aula 1.A.04"
         }
        ]

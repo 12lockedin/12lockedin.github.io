@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Responsabilidad Civil",
  "year": "2026",
- "generatedAt": "2026-09-21T10:01:44Z",
+ "generatedAt": "2026-09-28T10:59:06Z",
  "subjects": [
   {
    "code": "17379",
@@ -74,6 +74,10 @@
         },
         {
          "dates": "16.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "30.nov",
          "room": "Aula 2.A.02"
         }
        ]

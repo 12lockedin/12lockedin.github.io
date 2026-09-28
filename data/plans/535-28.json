@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Doble Máster en Ingeniería de Telecomunicación y Ciberseguridad",
  "year": "2026",
- "generatedAt": "2026-09-21T10:29:37Z",
+ "generatedAt": "2026-09-28T11:25:39Z",
  "subjects": [
   {
    "code": "18222",
@@ -37,6 +37,32 @@
      "id": "1",
      "sessions": [
       {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "17:45",
        "end": "19:15",
@@ -44,7 +70,11 @@
        "type": null,
        "slots": [
         {
-         "dates": "11.sep-27.nov",
+         "dates": "11.sep-09.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "23.oct-27.nov",
          "room": "Aula 0.A.04"
         }
        ]
@@ -57,7 +87,11 @@
        "type": null,
        "slots": [
         {
-         "dates": "11.sep-27.nov",
+         "dates": "11.sep-09.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "23.oct-27.nov",
          "room": "Aula 0.A.04"
         }
        ]
@@ -97,7 +131,11 @@
        "type": null,
        "slots": [
         {
-         "dates": "01.oct-05.nov",
+         "dates": "01.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "15.oct-05.nov",
          "room": "Aula 0.A.04"
         }
        ]
@@ -110,7 +148,37 @@
        "type": null,
        "slots": [
         {
-         "dates": "01.oct-05.nov",
+         "dates": "01.oct",
+         "room": "Aula 0.A.04"
+        },
+        {
+         "dates": "15.oct-05.nov",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
          "room": "Aula 0.A.04"
         }
        ]
