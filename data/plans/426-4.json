@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Industria Conectada 4.0",
  "year": "2026",
- "generatedAt": "2026-09-28T11:08:09Z",
+ "generatedAt": "2026-10-05T11:41:31Z",
  "subjects": [
   {
    "code": "18043",
@@ -435,6 +435,32 @@
          "room": "Aula 0.A.05"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 1.0.B06 (Automatica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "LAB 1.0.B06 (Automatica)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB 1.0.B06 (Automatica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "LAB 1.0.B06 (Automatica)"
+        }
+       ]
       }
      ]
     }
@@ -483,7 +509,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "30.sep-21.oct",
+         "dates": "30.sep-07.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "21.oct",
          "room": "Aula 0.A.05"
         }
        ]
@@ -496,7 +530,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "07.oct-21.oct",
+         "dates": "07.oct",
+         "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "21.oct",
          "room": "Aula 0.A.05"
         }
        ]
@@ -647,6 +689,19 @@
          "room": "Aula 0.A.05"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "14:00",
+       "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.oct",
+         "room": "Aulas LAB 4.1.B01 (Telematica) y LAB 4.1.B02 (Telematica)"
+        }
+       ]
       }
      ]
     }
@@ -688,6 +743,19 @@
         {
          "dates": "05.nov-17.dic",
          "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "15:00",
+       "room": "LAB 1.0.B06 (Automatica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-04.dic",
+         "room": "LAB 1.0.B06 (Automatica)"
         }
        ]
       },

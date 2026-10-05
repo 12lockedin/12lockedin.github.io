@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Estadística para la Ciencia de Datos",
  "year": "2026",
- "generatedAt": "2026-09-28T11:00:24Z",
+ "generatedAt": "2026-10-05T11:34:11Z",
  "subjects": [
   {
    "code": "17756",
@@ -87,8 +87,20 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-21.oct",
+         "dates": "09.sep-23.sep",
          "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula -1.A.01"
+        },
+        {
+         "dates": "07.oct-14.oct",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula -1.A.01"
         }
        ]
       },
@@ -100,8 +112,20 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-21.oct",
+         "dates": "09.sep-23.sep",
          "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "30.sep",
+         "room": "Aula -1.A.01"
+        },
+        {
+         "dates": "07.oct-14.oct",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula -1.A.01"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Documental y Reportaje Transmedia",
  "year": "2026",
- "generatedAt": "2026-09-28T11:38:04Z",
+ "generatedAt": "2026-10-05T12:10:07Z",
  "subjects": [
   {
    "code": "20901",
@@ -75,7 +75,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-09.oct",
+         "dates": "11.sep-16.oct",
          "room": "Aula 2.A.02"
         }
        ]
@@ -88,7 +88,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-09.oct",
+         "dates": "11.sep-16.oct",
          "room": "Aula 2.A.02"
         }
        ]
@@ -101,7 +101,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.sep-09.oct",
+         "dates": "11.sep-16.oct",
          "room": "Aula 2.A.02"
         }
        ]

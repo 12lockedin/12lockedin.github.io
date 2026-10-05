@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ciencia e Ingeniería de Datos",
  "year": "2026",
- "generatedAt": "2026-09-28T11:31:51Z",
+ "generatedAt": "2026-10-05T12:04:00Z",
  "subjects": [
   {
    "code": "15364",
@@ -169,6 +169,23 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 4.0.E04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.C02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 2.3.C02"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 2.3.C02"
         }
        ]
       },
@@ -391,6 +408,23 @@
        ]
       },
       {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.1.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.nov",
+         "room": "Aula 7.1.J06"
+        },
+        {
+         "dates": "23.nov",
+         "room": "Aula 4.1.E04"
+        }
+       ]
+      },
+      {
        "day": 1,
        "start": "15:30",
        "end": "17:00",
@@ -400,6 +434,19 @@
         {
          "dates": "29.sep",
          "room": "Aula 4.1.E03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "Aula 2.3.B01"
         }
        ]
       },
@@ -495,6 +542,19 @@
         {
          "dates": "09.dic",
          "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.0.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula 4.0.D03"
         }
        ]
       },
@@ -682,12 +742,24 @@
        "type": null,
        "slots": [
         {
-         "dates": "11.sep-02.oct",
+         "dates": "11.sep-25.sep",
          "room": "Aula INF 4.S.D.01"
         },
         {
-         "dates": "16.oct-11.dic",
-         "room": "Aula INF 4.S.D.01"
+         "dates": "02.oct",
+         "room": "Aula INF 2.2.C.03 DUAL"
+        },
+        {
+         "dates": "16.oct-20.nov",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "27.nov",
+         "room": "Aula INF 7.0.J04 DUAL"
+        },
+        {
+         "dates": "04.dic-11.dic",
+         "room": "Aula INF 7.0.J05 DUAL"
         }
        ]
       }
@@ -731,12 +803,24 @@
        "type": null,
        "slots": [
         {
-         "dates": "11.sep-02.oct",
+         "dates": "11.sep-25.sep",
          "room": "Aula INF 4.S.D.01"
         },
         {
-         "dates": "16.oct-11.dic",
-         "room": "Aula INF 4.S.D.01"
+         "dates": "02.oct",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "16.oct-13.nov",
+         "room": "Aula INF 7.0.J05 DUAL"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula INF 7.0.J04 DUAL"
+        },
+        {
+         "dates": "27.nov-11.dic",
+         "room": "Aula INF 7.0.J05 DUAL"
         }
        ]
       }
@@ -957,6 +1041,19 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
        "room": "Aula 4.0.E06",
        "type": null,
        "slots": [
@@ -1072,6 +1169,19 @@
         {
          "dates": "03.dic",
          "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 7.2.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 7.2.J06"
         }
        ]
       },

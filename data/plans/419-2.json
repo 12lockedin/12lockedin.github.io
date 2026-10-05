@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-09-28T11:07:45Z",
+ "generatedAt": "2026-10-05T11:41:09Z",
  "subjects": [
   {
    "code": "15541",
@@ -163,6 +163,19 @@
      "kind": "magistral",
      "sessions": [
       {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.0.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "19:00",
        "end": "20:30",
@@ -177,8 +190,8 @@
       },
       {
        "day": 3,
-       "start": "17:15",
-       "end": "18:45",
+       "start": "15:30",
+       "end": "17:00",
        "room": "LAB 4.S.B03 (Fisica)",
        "type": null,
        "slots": [
@@ -194,8 +207,8 @@
       },
       {
        "day": 3,
-       "start": "19:00",
-       "end": "20:30",
+       "start": "17:15",
+       "end": "18:45",
        "room": "LAB 4.S.B03 (Fisica)",
        "type": null,
        "slots": [
@@ -254,6 +267,19 @@
        ]
       },
       {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      },
+      {
        "day": 1,
        "start": "17:15",
        "end": "18:45",
@@ -288,6 +314,23 @@
         {
          "dates": "09.dic",
          "room": "Aula 7.0.J06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "LAB 4.S.B03 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.nov",
+         "room": "LAB 4.S.B03 (Fisica)"
+        },
+        {
+         "dates": "19.nov-03.dic",
+         "room": "LAB 4.S.B03 (Fisica)"
         }
        ]
       },
@@ -339,19 +382,6 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 7.0.J06",
-       "type": null,
-       "slots": [
-        {
-         "dates": "14.dic",
-         "room": "Aula 7.0.J06"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 7.0.J01",
        "type": null,
        "slots": [
@@ -366,6 +396,19 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.0.J06"
         }
        ]
       },
@@ -915,6 +958,19 @@
       },
       {
        "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.2.H03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula 7.2.H03"
+        }
+       ]
+      },
+      {
+       "day": 2,
        "start": "17:15",
        "end": "18:45",
        "room": "Aula INF 7.0.J04 DUAL",
@@ -931,6 +987,19 @@
         {
          "dates": "04.nov-11.nov",
          "room": "Aula INF 7.0.J04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula INF 7.0.J03 DUAL + TEL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
         }
        ]
       }
@@ -985,6 +1054,32 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "LAB 1.0.B06 (Automatica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.nov-24.nov",
+         "room": "LAB 1.0.B06 (Automatica)"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 1.0.B06 (Automatica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "LAB 1.0.B06 (Automatica)"
         }
        ]
       },

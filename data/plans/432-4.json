@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Asesoramiento y Consultoría Jurídico Laboral",
  "year": "2026",
- "generatedAt": "2026-09-28T11:08:45Z",
+ "generatedAt": "2026-10-05T11:42:06Z",
  "subjects": [
   {
    "code": "12254",
@@ -899,7 +899,39 @@
    "name": "Técnica de los recursos en la jurisdicción social",
    "course": 1,
    "term": 2,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 4,
+       "start": "15:45",
+       "end": "17:15",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr-30.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.abr-30.abr",
+         "room": "Aula 1.A.11"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "12267",

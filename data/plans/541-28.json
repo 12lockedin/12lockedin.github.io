@@ -2,9 +2,9 @@
  "plan": 541,
  "centro": 28,
  "type": "master",
- "name": "Doble Máster en Ingeniería Informática y Ciencia y Métodos Analíticos para Datos Masivos: Big Data",
+ "name": "Doble Máster en Ingeniería Informática y Métodos Analíticos para Datos Masivos: Big Data",
  "year": "2026",
- "generatedAt": "2026-09-28T11:27:10Z",
+ "generatedAt": "2026-10-05T11:59:31Z",
  "subjects": [
   {
    "code": "17234",
@@ -649,12 +649,12 @@
       {
        "day": 2,
        "start": "11:15",
-       "end": "14:45",
+       "end": "12:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "31.mar-12.may",
+         "dates": "27.ene-10.mar",
          "room": "Aula 0.A.09"
         }
        ]
@@ -662,12 +662,12 @@
       {
        "day": 2,
        "start": "11:15",
-       "end": "12:45",
+       "end": "14:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "27.ene-10.mar",
+         "dates": "31.mar-12.may",
          "room": "Aula 0.A.09"
         }
        ]
@@ -726,13 +726,6 @@
    "code": "18653",
    "name": "Planificación Estratégica de Sistemas de Información",
    "course": 1,
-   "term": 2,
-   "groups": []
-  },
-  {
-   "code": "17240",
-   "name": "Seguridad de la información y gestión de riesgos tecnológicos empresariales",
-   "course": 2,
    "term": 2,
    "groups": []
   },

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Biomecánica y Dispositivos Médicos",
  "year": "2026",
- "generatedAt": "2026-09-28T11:27:34Z",
+ "generatedAt": "2026-10-05T11:59:53Z",
  "subjects": [
   {
    "code": "20077",
@@ -18,6 +18,19 @@
       {
        "day": 2,
        "start": "15:30",
+       "end": "18:45",
+       "room": "Aula 7.2.H03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep",
+         "room": "Aula 7.2.H03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
        "end": "17:00",
        "room": "Aula 7.2.H03",
        "type": "Máster oficial",
@@ -28,19 +41,6 @@
         },
         {
          "dates": "30.sep-16.dic",
-         "room": "Aula 7.2.H03"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "15:30",
-       "end": "18:45",
-       "room": "Aula 7.2.H03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "23.sep",
          "room": "Aula 7.2.H03"
         }
        ]
@@ -78,6 +78,19 @@
       {
        "day": 0,
        "start": "15:30",
+       "end": "20:30",
+       "room": "Aula 7.2.H03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep-05.oct",
+         "room": "Aula 7.2.H03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:30",
        "end": "18:45",
        "room": "Aula 7.2.H03",
        "type": "Máster oficial",
@@ -88,19 +101,6 @@
         },
         {
          "dates": "19.oct",
-         "room": "Aula 7.2.H03"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "15:30",
-       "end": "20:30",
-       "room": "Aula 7.2.H03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "28.sep-05.oct",
          "room": "Aula 7.2.H03"
         }
        ]
@@ -164,20 +164,24 @@
          "room": "Aula INF 2.2.C.03 DUAL"
         },
         {
-         "dates": "22.sep-29.sep",
+         "dates": "22.sep",
          "room": "Aula 7.2.H03"
+        },
+        {
+         "dates": "29.sep",
+         "room": "Aulas INF 1.2.G.01 y 7.2.H03"
         },
         {
          "dates": "06.oct",
-         "room": "Aula INF 2.2.C.03 DUAL"
-        },
-        {
-         "dates": "13.oct",
          "room": "Aula 7.2.H03"
         },
         {
+         "dates": "13.oct",
+         "room": "Aula INF 7.0.J04 DUAL"
+        },
+        {
          "dates": "20.oct",
-         "room": "Aula INF 4.S.D.03"
+         "room": "Aulas INF 4.S.D.02 y INF 4.S.D.03"
         },
         {
          "dates": "27.oct-03.nov",

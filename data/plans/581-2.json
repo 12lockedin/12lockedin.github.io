@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-09-28T11:36:06Z",
+ "generatedAt": "2026-10-05T12:08:12Z",
  "subjects": [
   {
    "code": "19408",
@@ -532,19 +532,6 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 2.3.B05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "08.oct",
-         "room": "Aula 2.3.B05"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "09:00",
-       "end": "10:30",
        "room": "LAB 4.S.B02 (Fisica)",
        "type": null,
        "slots": [
@@ -563,6 +550,19 @@
         {
          "dates": "03.dic",
          "room": "LAB 4.S.B02 (Fisica)"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.3.B05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aula 2.3.B05"
         }
        ]
       },
@@ -607,6 +607,19 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 2.3.C04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 7.0.J06"
         }
        ]
       },
@@ -933,6 +946,19 @@
      "id": "81",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.D02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 2.3.D02"
+        }
+       ]
+      },
       {
        "day": 2,
        "start": "09:00",

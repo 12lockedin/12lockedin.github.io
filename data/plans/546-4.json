@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Diseño Microelectrónico",
  "year": "2026",
- "generatedAt": "2026-09-28T11:27:44Z",
+ "generatedAt": "2026-10-05T12:00:04Z",
  "subjects": [
   {
    "code": "20087",
@@ -23,7 +23,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-27.oct",
+         "dates": "08.sep-22.sep",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "06.oct-27.oct",
          "room": "Aula 2.3.A03B"
         }
        ]
@@ -106,6 +110,19 @@
        ]
       },
       {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "17:15",
        "end": "18:45",
@@ -145,6 +162,19 @@
         {
          "dates": "08.sep-20.oct",
          "room": "Aula 7.2.J06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.1.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.oct",
+         "room": "Aula 7.1.H01"
         }
        ]
       },
@@ -287,8 +317,8 @@
      "sessions": [
       {
        "day": 1,
-       "start": "17:15",
-       "end": "18:45",
+       "start": "15:30",
+       "end": "17:00",
        "room": "Aula 2.3.A03B",
        "type": "Máster oficial",
        "slots": [

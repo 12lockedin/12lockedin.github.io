@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Matemática Aplicada",
  "year": "2026",
- "generatedAt": "2026-09-28T11:28:28Z",
+ "generatedAt": "2026-10-05T12:00:45Z",
  "subjects": [
   {
    "code": "19893",
@@ -190,7 +190,7 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "11.sep-02.oct",
+         "dates": "23.oct-06.nov",
          "room": "Aula 2.3.B03"
         }
        ]
@@ -371,19 +371,6 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 2.3.C04",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "07.sep-28.sep",
-         "room": "Aula 2.3.C04"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 1.0.F03",
        "type": "Básica",
        "slots": [
@@ -394,6 +381,19 @@
         {
          "dates": "16.nov",
          "room": "Aula 1.0.F03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.C04",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-28.sep",
+         "room": "Aula 2.3.C04"
         }
        ]
       },
@@ -418,7 +418,15 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-01.oct",
+         "room": "Aula 2.3.A03"
+        },
+        {
+         "dates": "08.oct",
+         "room": "Aula 7.0.J06"
+        },
+        {
+         "dates": "15.oct-10.dic",
          "room": "Aula 2.3.A03"
         }
        ]
@@ -582,6 +590,23 @@
        ]
       },
       {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.C02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 2.3.C02"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula 2.3.C02"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "09:00",
        "end": "10:30",
@@ -637,31 +662,6 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 2.3.C01",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "14.sep",
-         "room": "Aula 2.3.C01"
-        },
-        {
-         "dates": "05.oct",
-         "room": "Aula 2.3.C02"
-        },
-        {
-         "dates": "09.nov",
-         "room": "Aula 2.3.C01"
-        },
-        {
-         "dates": "23.nov",
-         "room": "Aula 2.3.C01"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "09:00",
-       "end": "10:30",
        "room": "Aula 2.3.C02",
        "type": "Básica",
        "slots": [
@@ -680,6 +680,40 @@
         {
          "dates": "30.nov",
          "room": "Aula 2.3.D05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 2.3.C01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aula 2.3.C01"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aula 2.3.C01"
+        },
+        {
+         "dates": "23.nov",
+         "room": "Aula 2.3.C01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.1.G02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 1.1.G02"
         }
        ]
       },
@@ -706,6 +740,14 @@
         {
          "dates": "01.oct",
          "room": "Aula 2.3.A04"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aula 2.3.C01"
         }
        ]
       },
@@ -915,14 +957,14 @@
      "sessions": [
       {
        "day": 0,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "LAB 4.S.B03 (Fisica)",
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB 4.S.B01 (Fisica)",
        "type": "Básica",
        "slots": [
         {
-         "dates": "16.nov",
-         "room": "LAB 4.S.B03 (Fisica)"
+         "dates": "19.oct",
+         "room": "LAB 4.S.B01 (Fisica)"
         }
        ]
       },
@@ -934,11 +976,11 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "29.sep-03.nov",
+         "dates": "29.sep-06.oct",
          "room": "LAB 4.S.B03 (Fisica)"
         },
         {
-         "dates": "17.nov",
+         "dates": "20.oct-17.nov",
          "room": "LAB 4.S.B03 (Fisica)"
         }
        ]

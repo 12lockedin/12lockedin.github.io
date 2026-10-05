@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Sistemas Electrónicos y Aplicaciones",
  "year": "2026",
- "generatedAt": "2026-09-28T10:56:56Z",
+ "generatedAt": "2026-10-05T11:30:52Z",
  "subjects": [
   {
    "code": "12417",
@@ -70,23 +70,6 @@
       {
        "day": 4,
        "start": "15:30",
-       "end": "18:30",
-       "room": "Aula 2.3.C02B",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "25.sep-02.oct",
-         "room": "Aula 2.3.C02B"
-        },
-        {
-         "dates": "23.oct",
-         "room": "Aula 2.3.C02B"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:30",
        "end": "17:00",
        "room": "Aula 2.3.C02B",
        "type": "Máster oficial",
@@ -97,6 +80,23 @@
         },
         {
          "dates": "06.nov-20.nov",
+         "room": "Aula 2.3.C02B"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "18:30",
+       "room": "Aula 2.3.C02B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep-02.oct",
+         "room": "Aula 2.3.C02B"
+        },
+        {
+         "dates": "23.oct",
          "room": "Aula 2.3.C02B"
         }
        ]

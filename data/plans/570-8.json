@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-09-28T11:33:16Z",
+ "generatedAt": "2026-10-05T12:05:27Z",
  "subjects": [
   {
    "code": "19893",
@@ -228,12 +228,12 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "LAB 1.1.B22 (Física)",
+       "room": "Aula 1.0.A04",
        "type": null,
        "slots": [
         {
          "dates": "05.oct",
-         "room": "LAB 1.1.B22 (Física)"
+         "room": "Aula 1.0.A04"
         },
         {
          "dates": "19.oct",
@@ -257,37 +257,8 @@
        "type": null,
        "slots": [
         {
-         "dates": "14.sep",
-         "room": "Aula 1.0.A05"
-        },
-        {
-         "dates": "28.sep",
-         "room": "Aula 1.0.A05"
-        },
-        {
-         "dates": "26.oct",
-         "room": "Aula 1.0.A05"
-        },
-        {
-         "dates": "09.nov",
-         "room": "Aula 1.0.A05"
-        },
-        {
-         "dates": "23.nov",
-         "room": "Aula 1.0.A05"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "16:15",
-       "end": "17:45",
-       "room": "LAB 1.1.B22 (Física)",
-       "type": null,
-       "slots": [
-        {
          "dates": "05.oct",
-         "room": "LAB 1.1.B22 (Física)"
+         "room": "Aula 1.0.A05"
         },
         {
          "dates": "19.oct",
@@ -786,7 +757,23 @@
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-08.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "22.oct-05.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "19.nov-10.dic",
          "room": "Aula 1.0.A05"
         }
        ]

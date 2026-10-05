@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Estudios Avanzados de Derecho Público",
  "year": "2026",
- "generatedAt": "2026-09-28T11:08:32Z",
+ "generatedAt": "2026-10-05T11:41:53Z",
  "subjects": [
   {
    "code": "18129",
@@ -381,7 +381,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.nov-26.nov",
+         "dates": "05.nov-03.dic",
          "room": "Aula 1.A.12"
         }
        ]
@@ -394,7 +394,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "12.nov-26.nov",
+         "dates": "19.nov-26.nov",
          "room": "Aula 1.A.12"
         }
        ]
@@ -517,9 +517,18 @@
         {
          "dates": "09.sep-16.sep",
          "room": "Aula 1.A.12"
-        },
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "18:00",
+       "end": "20:00",
+       "room": "Aula 1.A.12",
+       "type": "Máster oficial",
+       "slots": [
         {
-         "dates": "30.sep",
+         "dates": "08.oct",
          "room": "Aula 1.A.12"
         }
        ]

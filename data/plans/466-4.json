@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Master in Business Administration (MBA)",
  "year": "2026",
- "generatedAt": "2026-09-28T11:17:05Z",
+ "generatedAt": "2026-10-05T11:49:48Z",
  "subjects": [
   {
    "code": "18933",
@@ -417,19 +417,6 @@
       {
        "day": 3,
        "start": "15:30",
-       "end": "18:30",
-       "room": "Aula 2.A.01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "10.dic",
-         "room": "Aula 2.A.01"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "15:30",
        "end": "17:00",
        "room": "Aula -1.A.05",
        "type": "Máster oficial",
@@ -437,6 +424,19 @@
         {
          "dates": "08.oct-03.dic",
          "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "18:30",
+       "room": "Aula 2.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic",
+         "room": "Aula 2.A.01"
         }
        ]
       }
@@ -504,11 +504,15 @@
        "day": 4,
        "start": "13:45",
        "end": "15:15",
-       "room": "Aula -1.A.05",
+       "room": "Aula -1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.oct-23.oct",
+         "dates": "02.oct",
+         "room": "Aula -1.A.04"
+        },
+        {
+         "dates": "09.oct-23.oct",
          "room": "Aula -1.A.05"
         },
         {
@@ -521,11 +525,15 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula -1.A.05",
+       "room": "Aula -1.A.04",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.oct-23.oct",
+         "dates": "02.oct",
+         "room": "Aula -1.A.04"
+        },
+        {
+         "dates": "09.oct-23.oct",
          "room": "Aula -1.A.05"
         },
         {

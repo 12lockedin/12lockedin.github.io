@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-09-28T11:09:37Z",
+ "generatedAt": "2026-10-05T11:42:55Z",
  "subjects": [
   {
    "code": "19408",
@@ -245,7 +245,23 @@
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-08.oct",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "22.oct-05.nov",
+         "room": "Aula 1.0.A05"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula 1.0.B07"
+        },
+        {
+         "dates": "19.nov-10.dic",
          "room": "Aula 1.0.A05"
         }
        ]
@@ -1435,6 +1451,19 @@
      "sessions": [
       {
        "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.0.A04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 1.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 0,
        "start": "14:30",
        "end": "16:00",
        "room": "Aula 1.0.A04",
@@ -1484,6 +1513,19 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 1.0.A04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.0.A01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "20.oct-10.nov",
+         "room": "Aula 1.0.A01"
         }
        ]
       },
