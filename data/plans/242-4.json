@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Desarrollo y Crecimiento Económico/Master in Economic Development and Growth",
  "year": "2026",
- "generatedAt": "2026-10-05T11:28:01Z",
+ "generatedAt": "2026-10-12T11:57:58Z",
  "subjects": [
   {
    "code": "15629",
@@ -61,6 +61,10 @@
        "type": "Máster oficial",
        "slots": [
         {
+         "dates": "14.oct",
+         "room": "Aula 18.0.A12"
+        },
+        {
          "dates": "04.nov",
          "room": "Aula 18.0.A12"
         }
@@ -74,7 +78,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.oct",
+         "dates": "08.oct-15.oct",
          "room": "Aula 18.0.A12"
         }
        ]
@@ -145,6 +149,19 @@
      "id": "1",
      "sessions": [
       {
+       "day": 0,
+       "start": "11:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A12",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.nov",
+         "room": "Aula 18.0.A12"
+        }
+       ]
+      },
+      {
        "day": 1,
        "start": "11:00",
        "end": "13:00",
@@ -169,11 +186,7 @@
          "room": "Aula 18.0.A12"
         },
         {
-         "dates": "21.oct",
-         "room": "Aula 18.0.A12"
-        },
-        {
-         "dates": "04.nov-11.nov",
+         "dates": "21.oct-11.nov",
          "room": "Aula 18.0.A12"
         }
        ]
@@ -419,11 +432,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "24.sep-08.oct",
-         "room": "Aula 18.0.A12"
-        },
-        {
-         "dates": "22.oct-29.oct",
+         "dates": "24.sep-29.oct",
          "room": "Aula 18.0.A12"
         }
        ]

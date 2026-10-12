@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Derecho de los Sectores Regulados",
  "year": "2026",
- "generatedAt": "2026-10-05T11:29:30Z",
+ "generatedAt": "2026-10-12T11:59:27Z",
  "subjects": [
   {
    "code": "12169",
@@ -305,14 +305,266 @@
    "name": "Fundamentos técnicos de la contratación de sectores regulados",
    "course": 1,
    "term": 1,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-17.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-17.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula 0.A.10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "12176",
    "name": "Fundamentos Técnicos de los Servicios en Red",
    "course": 1,
    "term": 1,
-   "groups": []
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-17.nov",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-17.nov",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "15.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula 0.A.03"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula 0.A.03"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "code": "12171",

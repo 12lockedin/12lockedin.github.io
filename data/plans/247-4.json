@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Prevención de Riesgos Laborales",
  "year": "2026",
- "generatedAt": "2026-10-05T11:28:08Z",
+ "generatedAt": "2026-10-12T11:58:06Z",
  "subjects": [
   {
    "code": "15673",
@@ -426,6 +426,45 @@
         {
          "dates": "10.sep-08.oct",
          "room": "Aula 0.A.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula Virtual"
         }
        ]
       }

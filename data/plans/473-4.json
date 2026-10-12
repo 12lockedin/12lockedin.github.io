@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Desarrollo Sostenible y Gobernanza Global/ Global Sustainable Development and Global Governance",
  "year": "2026",
- "generatedAt": "2026-10-05T11:50:21Z",
+ "generatedAt": "2026-10-12T12:20:41Z",
  "subjects": [
   {
    "code": "19157",
@@ -16,69 +16,61 @@
      "id": "1",
      "sessions": [
       {
-       "day": 0,
+       "day": 2,
        "start": "16:00",
        "end": "17:30",
        "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "26.oct",
+         "dates": "28.oct-18.nov",
          "room": "Aula 2.-1.A.01"
         },
         {
-         "dates": "16.nov-30.nov",
-         "room": "Aula 2.-1.A.01"
-        },
-        {
-         "dates": "14.dic",
+         "dates": "02.dic",
          "room": "Aula 2.-1.A.01"
         }
        ]
       },
       {
-       "day": 0,
+       "day": 2,
        "start": "17:45",
        "end": "19:15",
        "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "26.oct",
+         "dates": "28.oct-18.nov",
          "room": "Aula 2.-1.A.01"
         },
         {
-         "dates": "16.nov-30.nov",
-         "room": "Aula 2.-1.A.01"
-        },
-        {
-         "dates": "14.dic",
+         "dates": "02.dic",
          "room": "Aula 2.-1.A.01"
         }
        ]
       },
       {
-       "day": 2,
+       "day": 3,
        "start": "16:00",
-       "end": "18:00",
+       "end": "17:30",
        "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.dic",
+         "dates": "26.nov",
          "room": "Aula 2.-1.A.01"
         }
        ]
       },
       {
-       "day": 2,
-       "start": "18:00",
-       "end": "20:00",
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
        "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.dic",
+         "dates": "26.nov",
          "room": "Aula 2.-1.A.01"
         }
        ]
@@ -671,6 +663,32 @@
      "id": "1",
      "sessions": [
       {
+       "day": 2,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.-1.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "Aula 2.-1.A.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.-1.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "Aula 2.-1.A.01"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "16:00",
        "end": "17:30",
@@ -678,7 +696,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "29.oct-03.dic",
+         "dates": "29.oct-19.nov",
+         "room": "Aula 2.-1.A.01"
+        },
+        {
+         "dates": "03.dic",
          "room": "Aula 2.-1.A.01"
         }
        ]
@@ -691,7 +713,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "29.oct-03.dic",
+         "dates": "29.oct-19.nov",
+         "room": "Aula 2.-1.A.01"
+        },
+        {
+         "dates": "03.dic",
          "room": "Aula 2.-1.A.01"
         }
        ]
@@ -719,6 +745,18 @@
         {
          "dates": "07.sep",
          "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula 2.-1.A.01"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.-1.A.01"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -732,6 +770,18 @@
         {
          "dates": "07.sep",
          "room": "Aula 0.A.05"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aula 2.-1.A.01"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 2.-1.A.01"
+        },
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -744,14 +794,6 @@
        "slots": [
         {
          "dates": "16.sep-14.oct",
-         "room": "Aula 2.-1.A.01"
-        },
-        {
-         "dates": "28.oct-11.nov",
-         "room": "Aula 2.-1.A.01"
-        },
-        {
-         "dates": "25.nov-02.dic",
          "room": "Aula 2.-1.A.01"
         }
        ]
@@ -766,9 +808,31 @@
         {
          "dates": "16.sep-14.oct",
          "room": "Aula 2.-1.A.01"
-        },
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 2.-1.A.01",
+       "type": "Máster oficial",
+       "slots": [
         {
-         "dates": "28.oct-02.dic",
+         "dates": "10.dic",
+         "room": "Aula 2.-1.A.01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 2.-1.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic",
          "room": "Aula 2.-1.A.01"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Abogacía Internacional - Presencial",
  "year": "2026",
- "generatedAt": "2026-10-05T11:32:46Z",
+ "generatedAt": "2026-10-12T12:02:45Z",
  "subjects": [
   {
    "code": "17262",
@@ -117,7 +117,7 @@
          "room": "Aula 1.A.10"
         },
         {
-         "dates": "20.nov",
+         "dates": "20.nov-27.nov",
          "room": "Aula 1.A.10"
         }
        ]
@@ -138,7 +138,7 @@
          "room": "Aula 1.A.10"
         },
         {
-         "dates": "20.nov",
+         "dates": "20.nov-27.nov",
          "room": "Aula 1.A.10"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Estadística para la Ciencia de Datos",
  "year": "2026",
- "generatedAt": "2026-10-05T11:34:11Z",
+ "generatedAt": "2026-10-12T12:04:10Z",
  "subjects": [
   {
    "code": "17756",
@@ -342,13 +342,51 @@
      "sessions": [
       {
        "day": 1,
+       "start": "10:00",
+       "end": "11:30",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.sep",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
        "start": "10:45",
        "end": "12:15",
        "room": "Aula -1.A.02",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-20.oct",
+         "dates": "08.sep",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "22.sep-06.oct",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula -1.A.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "11:45",
+       "end": "13:15",
+       "room": "Aula -1.A.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
          "room": "Aula -1.A.02"
         }
        ]
@@ -361,7 +399,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-20.oct",
+         "dates": "08.sep-06.oct",
+         "room": "Aula -1.A.02"
+        },
+        {
+         "dates": "20.oct",
          "room": "Aula -1.A.02"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Diseño Microelectrónico",
  "year": "2026",
- "generatedAt": "2026-10-05T12:00:04Z",
+ "generatedAt": "2026-10-12T12:30:38Z",
  "subjects": [
   {
    "code": "20087",
@@ -27,7 +27,7 @@
          "room": "Aula 2.3.A03B"
         },
         {
-         "dates": "06.oct-27.oct",
+         "dates": "06.oct-20.oct",
          "room": "Aula 2.3.A03B"
         }
        ]

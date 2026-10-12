@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Matemáticas y Computación",
  "year": "2026",
- "generatedAt": "2026-10-05T12:04:20Z",
+ "generatedAt": "2026-10-12T12:34:54Z",
  "subjects": [
   {
    "code": "19893",
@@ -404,6 +404,19 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aula 1.1.G02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "19.oct",
+         "room": "Aula 1.1.G02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 2.3.A05",
        "type": "Básica",
        "slots": [
@@ -422,15 +435,15 @@
        ]
       },
       {
-       "day": 0,
+       "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.1.G02",
+       "room": "Aula 2.3.A06",
        "type": "Básica",
        "slots": [
         {
-         "dates": "19.oct",
-         "room": "Aula 1.1.G02"
+         "dates": "30.sep",
+         "room": "Aula 2.3.A06"
         }
        ]
       },
@@ -444,19 +457,6 @@
         {
          "dates": "18.nov-09.dic",
          "room": "Aula 2.3.A02"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 2.3.A06",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "30.sep",
-         "room": "Aula 2.3.A06"
         }
        ]
       },
@@ -738,13 +738,9 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.3.D03",
+       "room": "Aula 4.0.D01",
        "type": "Básica",
        "slots": [
-        {
-         "dates": "13.oct",
-         "room": "Aula 2.3.D03"
-        },
         {
          "dates": "27.oct",
          "room": "Aula 4.0.D01"
@@ -759,6 +755,10 @@
         },
         {
          "dates": "17.nov",
+         "room": "Aula 2.3.D03"
+        },
+        {
+         "dates": "01.dic",
          "room": "Aula 2.3.D03"
         }
        ]
@@ -798,6 +798,23 @@
         {
          "dates": "21.oct",
          "room": "Aula 2.3.A02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A04",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 2.3.A04"
+        },
+        {
+         "dates": "25.nov",
+         "room": "Aula 2.3.A04"
         }
        ]
       },
@@ -1015,23 +1032,6 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 4.1.D01",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "03.nov-10.nov",
-         "room": "Aula 4.1.D01"
-        },
-        {
-         "dates": "24.nov",
-         "room": "Aula 4.1.D01"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "17:15",
-       "end": "18:45",
        "room": "Aula INF 2.2.C.04 DUAL",
        "type": "Básica",
        "slots": [
@@ -1046,15 +1046,19 @@
        ]
       },
       {
-       "day": 2,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula INF 2.2.C.04 DUAL",
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.D01",
        "type": "Básica",
        "slots": [
         {
-         "dates": "23.sep",
-         "room": "Aula INF 2.2.C.04 DUAL"
+         "dates": "03.nov-10.nov",
+         "room": "Aula 4.1.D01"
+        },
+        {
+         "dates": "24.nov",
+         "room": "Aula 4.1.D01"
         }
        ]
       },
@@ -1068,6 +1072,19 @@
         {
          "dates": "09.dic",
          "room": "Aula 2.3.D03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula INF 2.2.C.04 DUAL",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "23.sep",
+         "room": "Aula INF 2.2.C.04 DUAL"
         }
        ]
       },
@@ -1146,12 +1163,12 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.3.A03",
+       "room": "Aula 2.3.D01",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "08.sep-29.sep",
-         "room": "Aula 2.3.A03"
+         "dates": "13.oct",
+         "room": "Aula 2.3.D01"
         }
        ]
       },
@@ -1159,12 +1176,12 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.3.D01",
+       "room": "Aula 2.3.A03",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "13.oct",
-         "room": "Aula 2.3.D01"
+         "dates": "08.sep-29.sep",
+         "room": "Aula 2.3.A03"
         }
        ]
       },

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Propiedad Intelectual",
  "year": "2026",
- "generatedAt": "2026-10-05T11:29:36Z",
+ "generatedAt": "2026-10-12T11:59:34Z",
  "subjects": [
   {
    "code": "12196",
@@ -433,6 +433,23 @@
         {
          "dates": "16.oct-23.oct",
          "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "06.nov",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:30",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 2.A.05"
         }
        ]
       },
@@ -807,7 +824,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "06.nov-04.dic",
+         "dates": "13.nov-04.dic",
          "room": "Aula 2.A.05"
         },
         {
@@ -824,7 +841,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "06.nov-04.dic",
+         "dates": "13.nov-04.dic",
          "room": "Aula 2.A.05"
         },
         {

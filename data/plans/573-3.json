@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Estudios Culturales",
  "year": "2026",
- "generatedAt": "2026-10-05T12:06:03Z",
+ "generatedAt": "2026-10-12T12:36:55Z",
  "subjects": [
   {
    "code": "18359",
@@ -411,20 +411,16 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "07.sep-21.sep",
+         "dates": "07.sep-05.oct",
          "room": "Aula 14.1.13"
         },
         {
-         "dates": "28.sep-05.oct",
-         "room": "Aula 14.1.10"
-        },
-        {
          "dates": "19.oct-26.oct",
-         "room": "Aula 14.1.10"
+         "room": "Aula 14.1.13"
         },
         {
          "dates": "09.nov-30.nov",
-         "room": "Aula 14.1.10"
+         "room": "Aula 14.1.13"
         }
        ]
       },
@@ -436,12 +432,8 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "08.sep-22.sep",
+         "dates": "08.sep-01.dic",
          "room": "Aula 14.1.13"
-        },
-        {
-         "dates": "29.sep-01.dic",
-         "room": "Aula 14.1.4"
         }
        ]
       }

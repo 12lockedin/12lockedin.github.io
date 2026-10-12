@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Telemática",
  "year": "2026",
- "generatedAt": "2026-10-05T11:28:19Z",
+ "generatedAt": "2026-10-12T11:58:16Z",
  "subjects": [
   {
    "code": "13426",
@@ -646,7 +646,19 @@
        "type": null,
        "slots": [
         {
-         "dates": "29.sep",
+         "dates": "15.sep",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 4.0.E06"
+        },
+        {
+         "dates": "17.nov",
          "room": "Aula 4.0.E01"
         }
        ]

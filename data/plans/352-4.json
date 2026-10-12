@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Métodos Analíticos para Datos Masivos: Big Data / Master in Big Data Analytics",
  "year": "2026",
- "generatedAt": "2026-10-05T11:31:31Z",
+ "generatedAt": "2026-10-12T12:01:29Z",
  "subjects": [
   {
    "code": "17234",
@@ -114,7 +114,20 @@
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-20.oct",
+         "dates": "08.sep-29.sep",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 0.A.09",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.oct-20.oct",
          "room": "Aula 0.A.09"
         }
        ]
@@ -735,12 +748,12 @@
       {
        "day": 2,
        "start": "11:15",
-       "end": "12:45",
+       "end": "14:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "27.ene-10.mar",
+         "dates": "31.mar-12.may",
          "room": "Aula 0.A.09"
         }
        ]
@@ -748,12 +761,12 @@
       {
        "day": 2,
        "start": "11:15",
-       "end": "14:45",
+       "end": "12:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "31.mar-12.may",
+         "dates": "27.ene-10.mar",
          "room": "Aula 0.A.09"
         }
        ]

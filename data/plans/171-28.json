@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-10-05T11:27:38Z",
+ "generatedAt": "2026-10-12T11:57:36Z",
  "subjects": [
   {
    "code": "17053",
@@ -323,19 +323,6 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 4.1.D01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "09.sep-09.dic",
-         "room": "Aula 4.1.D01"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "15:30",
-       "end": "17:00",
        "room": "Aula INF 4.S.D.03",
        "type": "Máster oficial",
        "slots": [
@@ -346,6 +333,19 @@
         {
          "dates": "02.dic",
          "room": "Aula INF 7.0.J05 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.1.D01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.1.D01"
         }
        ]
       }
@@ -829,6 +829,19 @@
        "day": 1,
        "start": "19:00",
        "end": "20:30",
+       "room": "Aula 4.0.E05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 4.0.E05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
        "room": "Aula 4.1.E04",
        "type": "Máster oficial",
        "slots": [
@@ -839,19 +852,6 @@
         {
          "dates": "10.nov",
          "room": "Aula 4.1.E04"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "Aula 4.0.E05",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "17.nov",
-         "room": "Aula 4.0.E05"
         }
        ]
       },

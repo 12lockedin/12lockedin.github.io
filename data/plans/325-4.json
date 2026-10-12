@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciberseguridad",
  "year": "2026",
- "generatedAt": "2026-10-05T11:30:35Z",
+ "generatedAt": "2026-10-12T12:00:33Z",
  "subjects": [
   {
    "code": "18222",
@@ -501,19 +501,15 @@
          "room": "Aula 0.A.04"
         },
         {
+         "dates": "13.oct",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
          "dates": "20.oct",
          "room": "Aula 0.A.04"
         },
         {
-         "dates": "03.nov",
-         "room": "Aula 0.A.04"
-        },
-        {
-         "dates": "10.nov",
-         "room": "Aulas 0.A.04 y 1.A.07 INF"
-        },
-        {
-         "dates": "17.nov",
+         "dates": "03.nov-17.nov",
          "room": "Aula 0.A.04"
         },
         {
@@ -534,7 +530,7 @@
          "room": "Aula 0.A.04"
         },
         {
-         "dates": "20.oct",
+         "dates": "13.oct-20.oct",
          "room": "Aula 1.A.07 INF"
         },
         {
@@ -567,8 +563,12 @@
        "type": null,
        "slots": [
         {
-         "dates": "03.dic-10.dic",
+         "dates": "03.dic",
          "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula -1.A.08 INF"
         }
        ]
       },
@@ -580,8 +580,25 @@
        "type": null,
        "slots": [
         {
-         "dates": "03.dic-10.dic",
+         "dates": "03.dic",
          "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula -1.A.08 INF"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.08 INF",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "Aula -1.A.08 INF"
         }
        ]
       },
@@ -593,7 +610,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "16.oct",
+         "dates": "11.dic",
          "room": "Aula -1.A.08 INF"
         }
        ]

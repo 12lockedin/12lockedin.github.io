@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Formación del Profesorado. Especialidad Filosofía",
  "year": "2026",
- "generatedAt": "2026-10-05T12:11:41Z",
+ "generatedAt": "2026-10-12T12:42:37Z",
  "subjects": [
   {
    "code": "20918",
@@ -416,7 +416,7 @@
          "room": "Aula 20.0.C01"
         },
         {
-         "dates": "07.abr-12.may",
+         "dates": "31.mar-12.may",
          "room": "Aula 20.0.C01"
         }
        ]

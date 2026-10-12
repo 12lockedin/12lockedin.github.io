@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Programa Académico de Ingeniería de Telecomunicación vía Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-10-05T12:09:01Z",
+ "generatedAt": "2026-10-12T12:39:51Z",
  "subjects": [
   {
    "code": "15364",
@@ -459,23 +459,6 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 4.0.E03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "11.sep-02.oct",
-         "room": "Aula 4.0.E03"
-        },
-        {
-         "dates": "16.oct-11.dic",
-         "room": "Aula 4.0.E03"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "12:30",
-       "end": "14:00",
        "room": "LAB 1.1.F34",
        "type": null,
        "slots": [
@@ -486,6 +469,23 @@
         {
          "dates": "13.nov-20.nov",
          "room": "LAB 1.1.F34"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 4.0.E03"
         }
        ]
       }
@@ -675,12 +675,12 @@
        "day": 3,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula INF 7.0.J02 DUAL+ TEL",
+       "room": "Aula 4.1.D01",
        "type": null,
        "slots": [
         {
-         "dates": "03.dic",
-         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.1.D01"
         }
        ]
       },
@@ -688,12 +688,12 @@
        "day": 3,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 4.1.D01",
+       "room": "Aula INF 7.0.J02 DUAL+ TEL",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 4.1.D01"
+         "dates": "03.dic",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
         }
        ]
       },
@@ -1042,12 +1042,12 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 7.0.J06",
+       "room": "Aula 4.0.E06",
        "type": null,
        "slots": [
         {
-         "dates": "15.oct",
-         "room": "Aula 7.0.J06"
+         "dates": "10.sep-10.dic",
+         "room": "Aula 4.0.E06"
         }
        ]
       },
@@ -1055,12 +1055,12 @@
        "day": 3,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 4.0.E06",
+       "room": "Aula 7.0.J06",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 4.0.E06"
+         "dates": "15.oct",
+         "room": "Aula 7.0.J06"
         }
        ]
       }
@@ -1368,7 +1368,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "16.oct",
+         "dates": "18.sep-25.sep",
          "room": "Aula 4.1.E04"
         }
        ]
@@ -1492,6 +1492,19 @@
        "day": 3,
        "start": "17:15",
        "end": "18:45",
+       "room": "Aula 4.1.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.nov",
+         "room": "Aula 4.1.D03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
        "room": "Aula 4.2.E04",
        "type": null,
        "slots": [
@@ -1506,19 +1519,6 @@
         {
          "dates": "22.oct-10.dic",
          "room": "Aula 4.2.E04"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 4.1.D03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "05.nov",
-         "room": "Aula 4.1.D03"
         }
        ]
       }
@@ -1664,19 +1664,6 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 4.2.E05"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 2.3.D01",
-       "type": null,
-       "slots": [
-        {
-         "dates": "20.oct",
-         "room": "Aula 2.3.D01"
         }
        ]
       },

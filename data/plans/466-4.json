@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Master in Business Administration (MBA)",
  "year": "2026",
- "generatedAt": "2026-10-05T11:49:48Z",
+ "generatedAt": "2026-10-12T12:20:08Z",
  "subjects": [
   {
    "code": "18933",
@@ -35,7 +35,15 @@
          "room": "Aula 1.A.07 INF"
         },
         {
-         "dates": "02.oct-13.nov",
+         "dates": "02.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula -1.A.04"
+        },
+        {
+         "dates": "16.oct-13.nov",
          "room": "Aula -1.A.05"
         }
        ]
@@ -60,7 +68,15 @@
          "room": "Aula 1.A.07 INF"
         },
         {
-         "dates": "02.oct-13.nov",
+         "dates": "02.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "09.oct",
+         "room": "Aula -1.A.04"
+        },
+        {
+         "dates": "16.oct-13.nov",
          "room": "Aula -1.A.05"
         }
        ]
@@ -366,7 +382,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-11.nov",
+         "dates": "09.sep-30.sep",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "14.oct-18.nov",
          "room": "Aula -1.A.05"
         }
        ]
@@ -379,7 +399,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-11.nov",
+         "dates": "09.sep-30.sep",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "14.oct-18.nov",
          "room": "Aula -1.A.05"
         }
        ]
@@ -508,11 +532,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.oct",
+         "dates": "02.oct-09.oct",
          "room": "Aula -1.A.04"
         },
         {
-         "dates": "09.oct-23.oct",
+         "dates": "16.oct-23.oct",
          "room": "Aula -1.A.05"
         },
         {
@@ -529,11 +553,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.oct",
+         "dates": "02.oct-09.oct",
          "room": "Aula -1.A.04"
         },
         {
-         "dates": "09.oct-23.oct",
+         "dates": "16.oct-23.oct",
          "room": "Aula -1.A.05"
         },
         {

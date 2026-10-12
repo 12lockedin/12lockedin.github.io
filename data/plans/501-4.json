@@ -1,0 +1,729 @@
+{
+ "plan": 501,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Derecho Penal y Procesal Penal Online",
+ "year": "2026",
+ "generatedAt": "2026-10-12T12:44:34Z",
+ "subjects": [
+  {
+   "code": "17211",
+   "name": "Aspectos prácticos de la justicia criminal",
+   "course": 1,
+   "term": 0,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17205",
+   "name": "Crimen Organizado",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17206",
+   "name": "Derecho Penal Internacional",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-29.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17207",
+   "name": "Derechos Fundamentales y Derecho Penal",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-29.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17201",
+   "name": "Estado de derecho y justicia penal",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.sep-15.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.sep",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17208",
+   "name": "Estudios Avanzados en Penología y Derecho Penitenciario",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov-10.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17204",
+   "name": "Estudios avanzados en teoría jurídica del delito",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.oct-27.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.oct",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17210",
+   "name": "Justicia penal y personas jurídicas",
+   "course": 1,
+   "term": 1,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov-24.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.nov",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17217",
+   "name": "Cibercrimen",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.may-11.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17212",
+   "name": "Criminalística",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.abr-27.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "29.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17214",
+   "name": "Derecho penal de la empresa y los negocios",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.abr-05.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17202",
+   "name": "Estudios avanzados en materia probatoria",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.mar-09.mar",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.mar",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17203",
+   "name": "Jurisdicción y cooperación internacional",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.mar",
+         "room": "Aula Virtual"
+        },
+        {
+         "dates": "30.mar",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "01.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17213",
+   "name": "Justicia Restaurativa",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17216",
+   "name": "Protección penal y procesal de la mujer",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.may-19.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.may",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17227",
+   "name": "Responsabilidad Civil y Consecuencias Civiles del Delito",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.abr-13.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17215",
+   "name": "Respuesta del derecho penal a la corrupción",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.may-02.jun",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.jun",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "17209",
+   "name": "Sistema de Justicia Juvenil",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.abr-21.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula Virtual",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.abr",
+         "room": "Aula Virtual"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
