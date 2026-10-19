@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ciencias Políticas y Sociología",
  "year": "2026",
- "generatedAt": "2026-10-12T12:07:34Z",
+ "generatedAt": "2026-10-19T10:02:56Z",
  "subjects": [
   {
    "code": "14087",
@@ -369,6 +369,46 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 5.1.01 BIS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "20263",
+   "name": "DESAFÍOS DEMOGRÁFICOS CONTEMPORÁNEO, 2º,1 er C",
+   "course": 3,
+   "term": 1,
+   "groups": [
+    {
+     "id": "86",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 2,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 4.1.03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 4.1.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 5.1.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "11.sep-11.dic",
+         "room": "Aula 5.1.02"
         }
        ]
       }

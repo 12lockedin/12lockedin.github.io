@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-10-12T11:57:36Z",
+ "generatedAt": "2026-10-19T09:52:48Z",
  "subjects": [
   {
    "code": "17053",
@@ -178,7 +178,15 @@
          "room": "Aula -1.A.06"
         },
         {
-         "dates": "17.sep-17.dic",
+         "dates": "17.sep-05.nov",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "12.nov-19.nov",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "26.nov-17.dic",
          "room": "Aula -1.A.05"
         }
        ]
@@ -708,6 +716,19 @@
          "room": "Aula 0.A.06"
         }
        ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 0.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 0.A.06"
+        }
+       ]
       }
      ]
     }
@@ -814,6 +835,32 @@
      "sessions": [
       {
        "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.0.E01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 4.0.E01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 1,
        "start": "17:15",
        "end": "18:45",
        "room": "Aula 4.0.E01",
@@ -822,19 +869,6 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 4.0.E01"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "Aula 4.0.E05",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "17.nov",
-         "room": "Aula 4.0.E05"
         }
        ]
       },
@@ -852,6 +886,19 @@
         {
          "dates": "10.nov",
          "room": "Aula 4.1.E04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.0.E05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 4.0.E05"
         }
        ]
       },
@@ -876,15 +923,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "01.oct",
-         "room": "Aula 4.1.E05"
-        },
-        {
-         "dates": "15.oct",
-         "room": "Aula 4.1.E05"
-        },
-        {
-         "dates": "12.nov",
+         "dates": "08.oct",
          "room": "Aula 4.1.E05"
         }
        ]
@@ -897,7 +936,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.oct",
+         "dates": "01.oct",
+         "room": "Aula 4.1.E05"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula 4.1.E05"
+        },
+        {
+         "dates": "12.nov",
          "room": "Aula 4.1.E05"
         }
        ]
@@ -1019,6 +1066,19 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 4.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.0.E06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 4.0.E06"
         }
        ]
       },

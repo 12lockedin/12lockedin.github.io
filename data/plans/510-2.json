@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Programa Académico de Ingeniería Industrial vía Grado en Ingeniería en Tecnologías Industriales",
  "year": "2026",
- "generatedAt": "2026-10-12T12:26:08Z",
+ "generatedAt": "2026-10-19T10:21:49Z",
  "subjects": [
   {
    "code": "15489",
@@ -39,23 +39,6 @@
         {
          "dates": "09.sep-09.dic",
          "room": "Aula 1.0.B02"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "Aula 1.0.C02",
-       "type": null,
-       "slots": [
-        {
-         "dates": "16.oct-23.oct",
-         "room": "Aula 1.0.C02"
-        },
-        {
-         "dates": "20.nov-27.nov",
-         "room": "Aula 1.0.C02"
         }
        ]
       }
@@ -99,6 +82,19 @@
        "day": 2,
        "start": "19:00",
        "end": "20:30",
+       "room": "Aula 1.0.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.0.B01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
        "room": "Aula 2.3.B04",
        "type": null,
        "slots": [
@@ -109,19 +105,6 @@
         {
          "dates": "09.dic",
          "room": "Aula 2.3.B04"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "Aula 1.0.B01",
-       "type": null,
-       "slots": [
-        {
-         "dates": "09.sep-09.dic",
-         "room": "Aula 1.0.B01"
         }
        ]
       },
@@ -162,6 +145,19 @@
         {
          "dates": "24.nov",
          "room": "Aula 2.3.D03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.2.E05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "28.oct",
+         "room": "Aula 4.2.E05"
         }
        ]
       },
@@ -517,6 +513,19 @@
      "id": "1031",
      "kind": "reducido",
      "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.A06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 2.3.A06"
+        }
+       ]
+      },
       {
        "day": 1,
        "start": "15:30",
@@ -1848,8 +1857,12 @@
        "type": null,
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep-21.oct",
          "room": "Aula 1.0.C01"
+        },
+        {
+         "dates": "28.oct-09.dic",
+         "room": "Aula 4.2.E04"
         }
        ]
       },
@@ -2771,19 +2784,6 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "LAB 4.S.B01 (Fisica)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.nov",
-         "room": "LAB 4.S.B01 (Fisica)"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 1.0.B03",
        "type": null,
        "slots": [
@@ -2794,6 +2794,19 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 1.0.B03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "LAB 4.S.B01 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "LAB 4.S.B01 (Fisica)"
         }
        ]
       },
@@ -3400,12 +3413,12 @@
        "day": 3,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.3.A04",
+       "room": "Aula INF 2.2.C.04 DUAL",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 2.3.A04"
+         "dates": "08.oct",
+         "room": "Aula INF 2.2.C.04 DUAL"
         }
        ]
       },
@@ -3413,12 +3426,12 @@
        "day": 3,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula INF 2.2.C.04 DUAL",
+       "room": "Aula 2.3.A04",
        "type": null,
        "slots": [
         {
-         "dates": "08.oct",
-         "room": "Aula INF 2.2.C.04 DUAL"
+         "dates": "10.sep-10.dic",
+         "room": "Aula 2.3.A04"
         }
        ]
       },
@@ -3445,6 +3458,19 @@
      "id": "38",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.1.J03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "Aula 7.1.J03"
+        }
+       ]
+      },
       {
        "day": 0,
        "start": "15:30",
@@ -3867,6 +3893,32 @@
      "kind": "reducido",
      "sessions": [
       {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.3.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 2.3.D01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "Aula 2.3.D01"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "12:30",
        "end": "14:00",
@@ -3874,7 +3926,15 @@
        "type": null,
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep-21.oct",
+         "room": "Aula 1.0.C02"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 2.3.C03"
+        },
+        {
+         "dates": "04.nov-09.dic",
          "room": "Aula 1.0.C02"
         }
        ]
@@ -3892,6 +3952,19 @@
         },
         {
          "dates": "16.oct-11.dic",
+         "room": "Aula 2.3.D01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct-23.oct",
          "room": "Aula 2.3.D01"
         }
        ]
@@ -3984,6 +4057,19 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
+       "room": "Aula 2.3.C02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula 2.3.C02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
        "room": "Aula 1.0.B01",
        "type": null,
        "slots": [
@@ -4002,19 +4088,6 @@
         {
          "dates": "24.nov",
          "room": "Aula 1.0.B01"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 2.3.C02",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.oct",
-         "room": "Aula 2.3.C02"
         }
        ]
       },
@@ -4084,12 +4157,12 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.0.C01",
+       "room": "Aula 7.0.J06",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 1.0.C01"
+         "dates": "22.oct",
+         "room": "Aula 7.0.J06"
         }
        ]
       },
@@ -4097,12 +4170,12 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 7.0.J06",
+       "room": "Aula 1.0.C01",
        "type": null,
        "slots": [
         {
-         "dates": "22.oct",
-         "room": "Aula 7.0.J06"
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.C01"
         }
        ]
       }
@@ -4473,6 +4546,19 @@
          "room": "Aula 1.0.F03"
         }
        ]
+      },
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 1.0.F03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 1.0.F03"
+        }
+       ]
       }
      ]
     },
@@ -4605,6 +4691,10 @@
        "slots": [
         {
          "dates": "24.sep-01.oct",
+         "room": "Aula 1.0.F02"
+        },
+        {
+         "dates": "22.oct",
          "room": "Aula 1.0.F02"
         }
        ]
@@ -5178,6 +5268,19 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 2.3.D02",
        "type": null,
        "slots": [
@@ -5188,19 +5291,6 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 2.3.D02"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 7.0.J06",
-       "type": null,
-       "slots": [
-        {
-         "dates": "16.oct",
-         "room": "Aula 7.0.J06"
         }
        ]
       }
@@ -5218,8 +5308,20 @@
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-22.oct",
          "room": "Aula 2.3.A03"
+        },
+        {
+         "dates": "29.oct",
+         "room": "Aula 2.3.B04"
+        },
+        {
+         "dates": "05.nov-03.dic",
+         "room": "Aula 2.3.A03"
+        },
+        {
+         "dates": "10.dic",
+         "room": "Aula 2.3.B04"
         }
        ]
       },
@@ -6131,6 +6233,19 @@
       },
       {
        "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 1.0.F02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula 1.0.F02"
+        }
+       ]
+      },
+      {
+       "day": 1,
        "start": "17:15",
        "end": "18:45",
        "room": "Aula 1.0.F02",
@@ -6190,6 +6305,19 @@
         {
          "dates": "03.dic",
          "room": "LAB 1.1.T07 (Ing.Termica)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 1.0.F02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 1.0.F02"
         }
        ]
       },
@@ -6714,19 +6842,6 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 2.3.C02",
-       "type": null,
-       "slots": [
-        {
-         "dates": "15.dic",
-         "room": "Aula 2.3.C02"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "12:30",
-       "end": "14:00",
        "room": "LAB 1.1.N03 (Mecanica)",
        "type": null,
        "slots": [
@@ -6745,6 +6860,19 @@
         {
          "dates": "01.dic",
          "room": "Aula INF 1.2.G.01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.C02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.3.C02"
         }
        ]
       },
@@ -6914,6 +7042,19 @@
       },
       {
        "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 7.1.J03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula 7.1.J03"
+        }
+       ]
+      },
+      {
+       "day": 1,
        "start": "15:30",
        "end": "17:00",
        "room": "Aula INF 1.2.G.02",
@@ -6977,6 +7118,10 @@
         {
          "dates": "29.oct",
          "room": "Aula 2.3.B05"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aula 7.1.J03"
         }
        ]
       },
@@ -7002,6 +7147,19 @@
         {
          "dates": "03.dic",
          "room": "Aula INF 1.2.G.01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.J02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula 7.1.J02"
         }
        ]
       },
@@ -7075,19 +7233,6 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 2.3.B04",
-       "type": null,
-       "slots": [
-        {
-         "dates": "15.dic",
-         "room": "Aula 2.3.B04"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula INF 1.2.G.02",
        "type": null,
        "slots": [
@@ -7098,6 +7243,19 @@
         {
          "dates": "01.dic",
          "room": "Aula INF 1.2.G.02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.3.B04"
         }
        ]
       },
@@ -7317,12 +7475,12 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 1.1.G01",
+       "room": "Aula 4.0.E03",
        "type": null,
        "slots": [
         {
-         "dates": "09.sep-09.dic",
-         "room": "Aula 1.1.G01"
+         "dates": "21.oct",
+         "room": "Aula 4.0.E03"
         }
        ]
       },
@@ -7330,12 +7488,12 @@
        "day": 2,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 4.0.E03",
+       "room": "Aula 1.1.G01",
        "type": null,
        "slots": [
         {
-         "dates": "21.oct",
-         "room": "Aula 4.0.E03"
+         "dates": "09.sep-09.dic",
+         "room": "Aula 1.1.G01"
         }
        ]
       },
@@ -7409,12 +7567,12 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.3.D01",
+       "room": "Aula 1.1.G01",
        "type": null,
        "slots": [
         {
-         "dates": "20.oct",
-         "room": "Aula 2.3.D01"
+         "dates": "08.sep-01.dic",
+         "room": "Aula 1.1.G01"
         }
        ]
       },
@@ -7422,12 +7580,12 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 1.1.G01",
+       "room": "Aula 2.3.D01",
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
-         "room": "Aula 1.1.G01"
+         "dates": "20.oct",
+         "room": "Aula 2.3.D01"
         }
        ]
       },
@@ -7709,6 +7867,19 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aulas INF 4.S.D.01, INF 4.S.D.02 y INF 4.S.D.03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aulas INF 4.S.D.01, INF 4.S.D.02 y INF 4.S.D.03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 1.0.C01",
        "type": null,
        "slots": [
@@ -7719,19 +7890,6 @@
         {
          "dates": "18.nov",
          "room": "Aula 7.2.J01"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aulas INF 4.S.D.01, INF 4.S.D.02 y INF 4.S.D.03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "21.oct",
-         "room": "Aulas INF 4.S.D.01, INF 4.S.D.02 y INF 4.S.D.03"
         }
        ]
       },
@@ -7843,27 +8001,6 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 7.1.J08",
-       "type": null,
-       "slots": [
-        {
-         "dates": "08.sep-29.sep",
-         "room": "Aula 7.1.J08"
-        },
-        {
-         "dates": "13.oct-10.nov",
-         "room": "Aula 7.1.J08"
-        },
-        {
-         "dates": "24.nov-01.dic",
-         "room": "Aula 7.1.J08"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "10:45",
-       "end": "12:15",
        "room": "Aulas LAB 1.1.N02 (Mecánica), LAB 1.1.N03 (Mecanica) y LAB 1.1.N04 (Mecánica)",
        "type": null,
        "slots": [
@@ -7879,18 +8016,22 @@
       },
       {
        "day": 1,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 4.0.D01",
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.1.J08",
        "type": null,
        "slots": [
         {
-         "dates": "06.oct",
-         "room": "Aula 4.0.D01"
+         "dates": "08.sep-29.sep",
+         "room": "Aula 7.1.J08"
         },
         {
-         "dates": "17.nov",
-         "room": "Aula 7.2.J03"
+         "dates": "13.oct-10.nov",
+         "room": "Aula 7.1.J08"
+        },
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 7.1.J08"
         }
        ]
       },
@@ -7912,15 +8053,19 @@
        ]
       },
       {
-       "day": 3,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 2.3.B02",
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 4.0.D01",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 2.3.B02"
+         "dates": "06.oct",
+         "room": "Aula 4.0.D01"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 7.2.J03"
         }
        ]
       },
@@ -7934,6 +8079,19 @@
         {
          "dates": "10.dic",
          "room": "Aula 2.3.D05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.B02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 2.3.B02"
         }
        ]
       }
@@ -7960,23 +8118,6 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aulas LAB 1.1.N02 (Mecánica), LAB 1.1.N03 (Mecanica) y LAB 1.1.N04 (Mecánica)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "07.oct",
-         "room": "Aulas LAB 1.1.N02 (Mecánica), LAB 1.1.N03 (Mecanica) y LAB 1.1.N04 (Mecánica)"
-        },
-        {
-         "dates": "18.nov",
-         "room": "Aulas LAB 1.1.N02 (Mecánica), LAB 1.1.N03 (Mecanica) y LAB 1.1.N04 (Mecánica)"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "17:15",
-       "end": "18:45",
        "room": "Aula 1.0.C01",
        "type": null,
        "slots": [
@@ -7991,6 +8132,23 @@
         {
          "dates": "25.nov-09.dic",
          "room": "Aula 1.0.C01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aulas LAB 1.1.N02 (Mecánica), LAB 1.1.N03 (Mecanica) y LAB 1.1.N04 (Mecánica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aulas LAB 1.1.N02 (Mecánica), LAB 1.1.N03 (Mecanica) y LAB 1.1.N04 (Mecánica)"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aulas LAB 1.1.N02 (Mecánica), LAB 1.1.N03 (Mecanica) y LAB 1.1.N04 (Mecánica)"
         }
        ]
       },
@@ -8054,6 +8212,19 @@
         },
         {
          "dates": "16.oct-11.dic",
+         "room": "Aula 1.1.G01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.1.G01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
          "room": "Aula 1.1.G01"
         }
        ]
@@ -8795,6 +8966,19 @@
        ]
       },
       {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 7.0.J04 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "20.oct",
+         "room": "Aula INF 7.0.J04 DUAL"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "09:00",
        "end": "10:30",
@@ -8834,14 +9018,31 @@
       },
       {
        "day": 2,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula 2.3.B04",
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 2.2.C.03 DUAL",
        "type": null,
        "slots": [
         {
-         "dates": "04.nov",
-         "room": "Aula 2.3.B04"
+         "dates": "21.oct",
+         "room": "Aula INF 2.2.C.03 DUAL"
+        },
+        {
+         "dates": "25.nov",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 1.2.G.03 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.nov",
+         "room": "Aula INF 1.2.G.03 DUAL"
         }
        ]
       },
@@ -8872,6 +9073,19 @@
         {
          "dates": "13.nov",
          "room": "LAB 1.1.T06 (Fluidos)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aulas 2.3.C01 y 2.3.D05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aulas 2.3.C01 y 2.3.D05"
         }
        ]
       },
@@ -8912,15 +9126,28 @@
        ]
       },
       {
-       "day": 2,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula 2.3.B05",
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula INF 1.2.G.03 DUAL",
        "type": null,
        "slots": [
         {
-         "dates": "04.nov",
-         "room": "Aula 2.3.B05"
+         "dates": "20.oct",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula INF 1.2.G.03 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "Aula INF 1.2.G.03 DUAL"
         }
        ]
       },
@@ -8934,6 +9161,19 @@
         {
          "dates": "09.dic",
          "room": "Aula 2.3.A06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula INF 7.0.J05 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula INF 7.0.J05 DUAL"
         }
        ]
       },
@@ -9004,6 +9244,19 @@
          "room": "LAB 1.1.T06 (Fluidos)"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aulas 2.3.A01 y 2.3.C02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aulas 2.3.A01 y 2.3.C02"
+        }
+       ]
       }
      ]
     },
@@ -9025,19 +9278,6 @@
         {
          "dates": "10.nov-01.dic",
          "room": "Aula 1.0.B02"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula 2.3.C01",
-       "type": null,
-       "slots": [
-        {
-         "dates": "04.nov",
-         "room": "Aula 2.3.C01"
         }
        ]
       },
@@ -9098,6 +9338,19 @@
         {
          "dates": "27.nov",
          "room": "Aula INF 1.2.G.02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.C04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 2.3.C04"
         }
        ]
       },
@@ -9189,19 +9442,6 @@
        ]
       },
       {
-       "day": 2,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula 2.3.C02",
-       "type": null,
-       "slots": [
-        {
-         "dates": "04.nov",
-         "room": "Aula 2.3.C02"
-        }
-       ]
-      },
-      {
        "day": 3,
        "start": "12:30",
        "end": "14:00",
@@ -9241,6 +9481,19 @@
         {
          "dates": "27.nov",
          "room": "Aula INF 1.2.G.01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 2.3.D01"
         }
        ]
       },
@@ -9323,22 +9576,22 @@
        ]
       },
       {
-       "day": 2,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula 2.3.C03",
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB 1.1.T06 (Fluidos)",
        "type": null,
        "slots": [
         {
-         "dates": "04.nov",
-         "room": "Aula 2.3.C03"
+         "dates": "19.nov",
+         "room": "LAB 1.1.T06 (Fluidos)"
         }
        ]
       },
       {
        "day": 3,
-       "start": "10:45",
-       "end": "12:15",
+       "start": "12:30",
+       "end": "14:00",
        "room": "LAB 1.1.T06 (Fluidos)",
        "type": null,
        "slots": [
@@ -9363,19 +9616,6 @@
       },
       {
        "day": 3,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "LAB 1.1.T06 (Fluidos)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "19.nov",
-         "room": "LAB 1.1.T06 (Fluidos)"
-        }
-       ]
-      },
-      {
-       "day": 3,
        "start": "17:15",
        "end": "18:45",
        "room": "Aula 1.0.F01",
@@ -9384,6 +9624,19 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 1.0.F01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.D02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 2.3.D02"
         }
        ]
       }
@@ -9424,19 +9677,6 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 1.1.G01"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula 2.3.C04",
-       "type": null,
-       "slots": [
-        {
-         "dates": "04.nov",
-         "room": "Aula 2.3.C04"
         }
        ]
       },
@@ -9513,6 +9753,19 @@
         {
          "dates": "11.dic",
          "room": "Aula 2.3.D03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 2.3.B04"
         }
        ]
       },
@@ -9600,15 +9853,15 @@
        ]
       },
       {
-       "day": 2,
+       "day": 4,
        "start": "14:00",
        "end": "15:30",
-       "room": "Aulas 2.3.D01 y 2.3.D02",
+       "room": "Aula 2.3.B05",
        "type": null,
        "slots": [
         {
-         "dates": "04.nov",
-         "room": "Aulas 2.3.D01 y 2.3.D02"
+         "dates": "06.nov",
+         "room": "Aula 2.3.B05"
         }
        ]
       },

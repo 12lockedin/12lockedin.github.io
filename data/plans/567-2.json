@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Matemáticas y Computación",
  "year": "2026",
- "generatedAt": "2026-10-12T12:34:54Z",
+ "generatedAt": "2026-10-19T10:30:34Z",
  "subjects": [
   {
    "code": "19893",
@@ -100,6 +100,19 @@
      "id": "407",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 3,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 1.0.F01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 1.0.F01"
+        }
+       ]
+      },
       {
        "day": 4,
        "start": "14:00",
@@ -742,24 +755,8 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "27.oct",
-         "room": "Aula 4.0.D01"
-        },
-        {
-         "dates": "03.nov",
-         "room": "Aula 2.3.D03"
-        },
-        {
-         "dates": "10.nov",
-         "room": "Aula 7.1.J05"
-        },
-        {
          "dates": "17.nov",
-         "room": "Aula 2.3.D03"
-        },
-        {
-         "dates": "01.dic",
-         "room": "Aula 2.3.D03"
+         "room": "Aula 4.0.D01"
         }
        ]
       },
@@ -900,19 +897,6 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.3.B03",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "04.nov",
-         "room": "Aula 2.3.B03"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "17:15",
-       "end": "18:45",
        "room": "Aula INF 2.2.C.04 DUAL",
        "type": "Obligatoria",
        "slots": [
@@ -924,13 +908,34 @@
       },
       {
        "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.B03",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 2.3.B03"
+        }
+       ]
+      },
+      {
+       "day": 2,
        "start": "19:00",
        "end": "20:30",
        "room": "Aula 2.3.A01",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep-07.oct",
+         "room": "Aula 2.3.A01"
+        },
+        {
+         "dates": "14.oct",
+         "room": "Aula 2.3.C04"
+        },
+        {
+         "dates": "21.oct-09.dic",
          "room": "Aula 2.3.A01"
         }
        ]
@@ -1123,33 +1128,6 @@
    ]
   },
   {
-   "code": "18268",
-   "name": "INTELIGENCIA ARTIFICIAL",
-   "course": 2,
-   "term": 1,
-   "groups": [
-    {
-     "id": "141",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 2.3.D04",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 2.3.D04"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "20562",
    "name": "PRINCIPIOS DE ANÁLISIS MATEMÁTICO",
    "course": 2,
@@ -1163,12 +1141,12 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.3.D01",
+       "room": "Aula 2.3.A03",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "13.oct",
-         "room": "Aula 2.3.D01"
+         "dates": "08.sep-29.sep",
+         "room": "Aula 2.3.A03"
         }
        ]
       },
@@ -1176,12 +1154,12 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.3.A03",
+       "room": "Aula 2.3.D01",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "08.sep-29.sep",
-         "room": "Aula 2.3.A03"
+         "dates": "13.oct",
+         "room": "Aula 2.3.D01"
         }
        ]
       },
@@ -1212,33 +1190,6 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 2.3.A05"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "18269",
-   "name": "PROBABILIDAD",
-   "course": 2,
-   "term": 1,
-   "groups": [
-    {
-     "id": "141",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 2.3.B02",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 2.3.B02"
         }
        ]
       }
@@ -1315,23 +1266,6 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.3.A01",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "11.sep-02.oct",
-         "room": "Aula 2.3.A01"
-        },
-        {
-         "dates": "16.oct-11.dic",
-         "room": "Aula 2.3.A01"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:30",
-       "end": "17:00",
        "room": "Aula INF 2.2.C.04 DUAL",
        "type": "Obligatoria",
        "slots": [
@@ -1350,6 +1284,23 @@
         {
          "dates": "11.dic",
          "room": "Aula INF 2.2.C.04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.3.A01"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 2.3.A01"
         }
        ]
       }
@@ -1733,60 +1684,6 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 2.3.A03"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "18279",
-   "name": "PROCESADORES DE LENGUAJES",
-   "course": 3,
-   "term": 1,
-   "groups": [
-    {
-     "id": "141",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 2.3.D02",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 2.3.D02"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "20564",
-   "name": "TEORÍA DE LA INFORMACIÓN",
-   "course": 3,
-   "term": 1,
-   "groups": [
-    {
-     "id": "141",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 2.3.B04",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 2.3.B04"
         }
        ]
       }

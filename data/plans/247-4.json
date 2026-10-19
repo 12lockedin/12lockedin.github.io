@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Prevención de Riesgos Laborales",
  "year": "2026",
- "generatedAt": "2026-10-12T11:58:06Z",
+ "generatedAt": "2026-10-19T09:53:19Z",
  "subjects": [
   {
    "code": "15673",
@@ -398,7 +398,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-08.oct",
+         "dates": "10.sep-24.sep",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "08.oct",
          "room": "Aula 0.A.02"
         }
        ]
@@ -411,7 +415,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-08.oct",
+         "dates": "10.sep-24.sep",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "08.oct",
          "room": "Aula 0.A.02"
         }
        ]
@@ -424,7 +432,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-08.oct",
+         "dates": "10.sep-24.sep",
+         "room": "Aula 0.A.02"
+        },
+        {
+         "dates": "08.oct",
          "room": "Aula 0.A.02"
         }
        ]

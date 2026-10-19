@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Aprendizaje Automático para la Salud",
  "year": "2026",
- "generatedAt": "2026-10-12T12:21:46Z",
+ "generatedAt": "2026-10-19T10:17:22Z",
  "subjects": [
   {
    "code": "19276",
@@ -36,16 +36,25 @@
        "day": 3,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aula 4.1.E03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 4.1.E03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 2.0.C03",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "10.sep-15.oct",
          "room": "Aula 2.0.C03"
-        },
-        {
-         "dates": "22.oct",
-         "room": "Aula 4.1.E03"
         },
         {
          "dates": "29.oct-17.dic",
@@ -149,6 +158,19 @@
       {
        "day": 2,
        "start": "10:45",
+       "end": "12:30",
+       "room": "Aula INF 7.0.J03 DUAL + TEL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "23.sep",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
        "end": "12:15",
        "room": "Aula 2.0.C03",
        "type": null,
@@ -160,19 +182,6 @@
         {
          "dates": "30.sep-16.dic",
          "room": "Aula 2.0.C03"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:30",
-       "room": "Aula INF 7.0.J03 DUAL + TEL",
-       "type": null,
-       "slots": [
-        {
-         "dates": "23.sep",
-         "room": "Aula INF 7.0.J03 DUAL + TEL"
         }
        ]
       }

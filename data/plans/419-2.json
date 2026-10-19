@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-10-12T12:11:11Z",
+ "generatedAt": "2026-10-19T10:06:34Z",
  "subjects": [
   {
    "code": "15541",
@@ -249,6 +249,19 @@
        "day": 0,
        "start": "19:00",
        "end": "20:30",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
        "room": "Aula 7.0.J01",
        "type": null,
        "slots": [
@@ -267,19 +280,6 @@
        ]
       },
       {
-       "day": 0,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "Aula 7.0.J06",
-       "type": null,
-       "slots": [
-        {
-         "dates": "14.dic",
-         "room": "Aula 7.0.J06"
-        }
-       ]
-      },
-      {
        "day": 1,
        "start": "17:15",
        "end": "18:45",
@@ -292,6 +292,32 @@
         },
         {
          "dates": "17.nov-01.dic",
+         "room": "LAB 4.S.B03 (Fisica)"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 4.S.B03 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "LAB 4.S.B03 (Fisica)"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "LAB 4.S.B03 (Fisica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "18.nov-02.dic",
          "room": "LAB 4.S.B03 (Fisica)"
         }
        ]
@@ -516,79 +542,6 @@
    ]
   },
   {
-   "code": "14157",
-   "name": "FISIOLOGÍA MÉDICA II, 3º,2ºC",
-   "course": 3,
-   "term": 1,
-   "groups": [
-    {
-     "id": "48",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 7.2.J03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 7.2.J03"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "15555",
-   "name": "FUNDAMENTOS DE INGENIERÍA DE TEJIDO, 3º,2ºC",
-   "course": 3,
-   "term": 1,
-   "groups": [
-    {
-     "id": "1048",
-     "kind": "reducido",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 7.1.J03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 7.1.J03"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "1049",
-     "kind": "reducido",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 7.2.J03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 7.2.J03"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "17881",
    "name": "HOJAS DE CÁLCULO. NIVEL AVANZADO, 3º,1 er C",
    "course": 3,
@@ -777,52 +730,6 @@
    ]
   },
   {
-   "code": "15553",
-   "name": "INTRODUCCIÓN A LOS BIOMATERIALES, 3º,2ºC",
-   "course": 3,
-   "term": 1,
-   "groups": [
-    {
-     "id": "48",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 7.1.J01",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 7.1.J01"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "49",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 7.2.J03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 7.2.J03"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "14155",
    "name": "TÉCNICAS DE BÚSQUEDA Y USO DE LA IN, 3º,1 er C",
    "course": 3,
@@ -1000,33 +907,6 @@
         {
          "dates": "11.dic",
          "room": "Aula INF 7.0.J03 DUAL + TEL"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "16432",
-   "name": "BIOÉTICA, 4º,2ºC",
-   "course": 4,
-   "term": 1,
-   "groups": [
-    {
-     "id": "48",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 7.2.J04",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 7.2.J04"
         }
        ]
       }

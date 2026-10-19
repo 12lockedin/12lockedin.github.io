@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Matemática Aplicada",
  "year": "2026",
- "generatedAt": "2026-10-12T12:31:20Z",
+ "generatedAt": "2026-10-19T10:26:54Z",
  "subjects": [
   {
    "code": "19893",
@@ -101,6 +101,19 @@
      "kind": "magistral",
      "sessions": [
       {
+       "day": 3,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 1.0.F01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.oct",
+         "room": "Aula 1.0.F01"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "14:00",
        "end": "15:30",
@@ -177,7 +190,15 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep-14.oct",
+         "room": "Aula 2.3.A01"
+        },
+        {
+         "dates": "21.oct",
+         "room": "Aula 4.2.E04"
+        },
+        {
+         "dates": "28.oct-09.dic",
          "room": "Aula 2.3.A01"
         }
        ]
@@ -371,19 +392,6 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 2.3.C04",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "07.sep-28.sep",
-         "room": "Aula 2.3.C04"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 1.0.F03",
        "type": "Básica",
        "slots": [
@@ -394,6 +402,19 @@
         {
          "dates": "16.nov",
          "room": "Aula 1.0.F03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.C04",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-28.sep",
+         "room": "Aula 2.3.C04"
         }
        ]
       },
@@ -679,19 +700,6 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.1.G02",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "05.oct",
-         "room": "Aula 1.1.G02"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 4.1.E04",
        "type": "Básica",
        "slots": [
@@ -706,6 +714,19 @@
         {
          "dates": "30.nov",
          "room": "Aula 7.1.J03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.1.G02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 1.1.G02"
         }
        ]
       },
@@ -882,19 +903,6 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 7.2.J05",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "07.oct-14.oct",
-         "room": "Aula 7.2.J05"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 2.3.A02",
        "type": "Obligatoria",
        "slots": [
@@ -909,6 +917,19 @@
         {
          "dates": "18.nov-25.nov",
          "room": "Aula 2.0.C15"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.2.J05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.oct-14.oct",
+         "room": "Aula 7.2.J05"
         }
        ]
       },
@@ -1068,33 +1089,6 @@
    ]
   },
   {
-   "code": "20139",
-   "name": "MODELIZACIÓN, 2º,2ºC",
-   "course": 2,
-   "term": 1,
-   "groups": [
-    {
-     "id": "151",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "Aula 2.3.A05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 2.3.A05"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "20136",
    "name": "TEORÍA DE LA MEDIDA Y APLICACIONES",
    "course": 2,
@@ -1148,60 +1142,6 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 2.3.A06"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "20140",
-   "name": "TERMODINÁMICA Y ELECTROMAGNETISMO",
-   "course": 2,
-   "term": 1,
-   "groups": [
-    {
-     "id": "151",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 2.3.C01",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 2.3.C01"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "20141",
-   "name": "VARIABLE COMPLEJA",
-   "course": 2,
-   "term": 1,
-   "groups": [
-    {
-     "id": "151",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 2.3.D05",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 2.3.D05"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Biomecánica y Dispositivos Médicos",
  "year": "2026",
- "generatedAt": "2026-10-12T12:30:27Z",
+ "generatedAt": "2026-10-19T10:26:02Z",
  "subjects": [
   {
    "code": "20077",
@@ -18,19 +18,6 @@
       {
        "day": 2,
        "start": "15:30",
-       "end": "18:45",
-       "room": "Aula 7.2.H03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "23.sep",
-         "room": "Aula 7.2.H03"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "15:30",
        "end": "17:00",
        "room": "Aula 7.2.H03",
        "type": "Máster oficial",
@@ -40,7 +27,28 @@
          "room": "Aula 7.2.H03"
         },
         {
-         "dates": "30.sep-16.dic",
+         "dates": "30.sep-28.oct",
+         "room": "Aula 7.2.H03"
+        },
+        {
+         "dates": "04.nov",
+         "room": "Aula 7.1.J01"
+        },
+        {
+         "dates": "11.nov-16.dic",
+         "room": "Aula 7.2.H03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "18:45",
+       "room": "Aula 7.2.H03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.sep",
          "room": "Aula 7.2.H03"
         }
        ]
@@ -78,19 +86,6 @@
       {
        "day": 0,
        "start": "15:30",
-       "end": "20:30",
-       "room": "Aula 7.2.H03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "28.sep-05.oct",
-         "room": "Aula 7.2.H03"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "15:30",
        "end": "18:45",
        "room": "Aula 7.2.H03",
        "type": "Máster oficial",
@@ -101,6 +96,19 @@
         },
         {
          "dates": "19.oct",
+         "room": "Aula 7.2.H03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "20:30",
+       "room": "Aula 7.2.H03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.sep-05.oct",
          "room": "Aula 7.2.H03"
         }
        ]
@@ -322,6 +330,31 @@
       {
        "day": 3,
        "start": "17:15",
+       "end": "20:30",
+       "room": "Aula 7.2.H03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.sep-17.sep",
+         "room": "Aula 7.2.H03"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula 7.2.H03"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula 7.2.H03"
+        },
+        {
+         "dates": "19.nov-17.dic",
+         "room": "Aula 7.2.H03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
        "end": "18:45",
        "room": "Aula 7.2.H03",
        "type": "Máster oficial",
@@ -350,31 +383,6 @@
       },
       {
        "day": 3,
-       "start": "17:15",
-       "end": "20:30",
-       "room": "Aula 7.2.H03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "10.sep-17.sep",
-         "room": "Aula 7.2.H03"
-        },
-        {
-         "dates": "01.oct",
-         "room": "Aula 7.2.H03"
-        },
-        {
-         "dates": "22.oct",
-         "room": "Aula 7.2.H03"
-        },
-        {
-         "dates": "19.nov-17.dic",
-         "room": "Aula 7.2.H03"
-        }
-       ]
-      },
-      {
-       "day": 3,
        "start": "19:00",
        "end": "20:30",
        "room": "Aula INF 1.2.G.01",
@@ -390,7 +398,7 @@
         },
         {
          "dates": "15.oct",
-         "room": "Aula 7.2.H03"
+         "room": "Aulas 7.2.H01 y 7.2.H03"
         },
         {
          "dates": "29.oct-05.nov",
@@ -399,6 +407,10 @@
         {
          "dates": "12.nov",
          "room": "Aula 7.2.H03"
+        },
+        {
+         "dates": "26.nov",
+         "room": "Aula 7.2.H01"
         }
        ]
       }

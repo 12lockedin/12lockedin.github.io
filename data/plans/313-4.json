@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Propiedad Intelectual",
  "year": "2026",
- "generatedAt": "2026-10-12T11:59:34Z",
+ "generatedAt": "2026-10-19T09:54:47Z",
  "subjects": [
   {
    "code": "12196",
@@ -17,13 +17,43 @@
      "sessions": [
       {
        "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
        "start": "16:00",
        "end": "17:30",
        "room": "Aula 2.A.05",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "22.sep-20.oct",
+         "dates": "22.sep-06.oct",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 2.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 2.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.oct",
          "room": "Aula 2.A.05"
         }
        ]
@@ -36,7 +66,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "22.sep-20.oct",
+         "dates": "22.sep-06.oct",
+         "room": "Aula 2.A.05"
+        },
+        {
+         "dates": "20.oct",
          "room": "Aula 2.A.05"
         }
        ]
@@ -971,12 +1005,12 @@
        "day": 4,
        "start": "16:00",
        "end": "17:30",
-       "room": "Aulas 2.A.03 y 2.A.05",
+       "room": "Aula 2.A.05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "15.ene-22.ene",
-         "room": "Aulas 2.A.03 y 2.A.05"
+         "room": "Aula 2.A.05"
         }
        ]
       },
@@ -984,12 +1018,12 @@
        "day": 4,
        "start": "18:00",
        "end": "19:30",
-       "room": "Aulas 2.A.03 y 2.A.05",
+       "room": "Aula 2.A.05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "15.ene-22.ene",
-         "room": "Aulas 2.A.03 y 2.A.05"
+         "room": "Aula 2.A.05"
         }
        ]
       }

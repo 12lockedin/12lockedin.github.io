@@ -4,8 +4,93 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-10-12T12:03:47Z",
+ "generatedAt": "2026-10-19T09:58:57Z",
  "subjects": [
+  {
+   "code": "20475",
+   "name": "CREACIÓN AUDIOVISUAL: SONIDO, 1º,1 er C",
+   "course": 2,
+   "term": 1,
+   "groups": [
+    {
+     "id": "51",
+     "kind": "magistral",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 17.1.01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aula 17.1.01"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 17.1.01"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aula 17.1.01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
+       "type": null,
+       "slots": [
+        {
+         "dates": "07.sep-05.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "09.nov-30.nov",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "14:00",
+       "end": "15:00",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.sep",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "28.sep",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "26.oct",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "09.nov",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        },
+        {
+         "dates": "23.nov",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
   {
    "code": "13501",
    "name": "PRINCIPIOS DE ECONOMÍA, 2º,1 er C",

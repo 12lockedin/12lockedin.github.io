@@ -4,116 +4,8 @@
  "type": "grado",
  "name": "Grado en Ciencias",
  "year": "2026",
- "generatedAt": "2026-10-12T12:18:19Z",
+ "generatedAt": "2026-10-19T10:13:55Z",
  "subjects": [
-  {
-   "code": "18694",
-   "name": "MECÁNICA Y TERMODINÁMICA",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "201",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 7.0.J01",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 7.0.J01"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "18695",
-   "name": "QUÍMICA ORGÁNICA",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "201",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 7.1.J06",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 7.1.J06"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "18696",
-   "name": "TÉCNICAS INFORMÁTICAS Y BBDD",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "201",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 7.1.J06",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 7.1.J06"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "18703",
-   "name": "ESTADÍSTICA",
-   "course": 2,
-   "term": 1,
-   "groups": [
-    {
-     "id": "201",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 7.1.J03",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 7.1.J03"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
   {
    "code": "18721",
    "name": "GESTIÓN Y EVALUACIÓN DE LA CIENCIA",
@@ -162,23 +54,6 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.3.A05",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "11.sep-02.oct",
-         "room": "Aula 2.3.A05"
-        },
-        {
-         "dates": "16.oct-11.dic",
-         "room": "Aula 2.3.A05"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:30",
-       "end": "17:00",
        "room": "Aula 4.2.E05",
        "type": "Obligatoria",
        "slots": [
@@ -205,6 +80,23 @@
         {
          "dates": "27.nov-04.dic",
          "room": "Aula 7.1.J07"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.3.A05"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 2.3.A05"
         }
        ]
       }

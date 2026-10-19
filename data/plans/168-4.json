@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencias Actuariales y Financieras",
  "year": "2026",
- "generatedAt": "2026-10-12T11:57:08Z",
+ "generatedAt": "2026-10-19T09:52:21Z",
  "subjects": [
   {
    "code": "14248",
@@ -148,7 +148,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-21.oct",
+         "dates": "09.sep-14.oct",
          "room": "Aula -1.A.04"
         },
         {
@@ -165,11 +165,37 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-21.oct",
+         "dates": "09.sep-14.oct",
          "room": "Aula -1.A.04"
         },
         {
          "dates": "04.nov-16.dic",
+         "room": "Aula -1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula -1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
          "room": "Aula -1.A.04"
         }
        ]
@@ -363,10 +389,6 @@
        "slots": [
         {
          "dates": "02.oct-09.oct",
-         "room": "Aula -1.A.04"
-        },
-        {
-         "dates": "13.nov",
          "room": "Aula -1.A.04"
         },
         {

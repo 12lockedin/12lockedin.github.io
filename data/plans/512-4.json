@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Acceso a las Profesiones de Abogacía y Procura - Edición Septiembre",
  "year": "2026",
- "generatedAt": "2026-10-12T12:26:46Z",
+ "generatedAt": "2026-10-19T10:22:28Z",
  "subjects": [
   {
    "code": "16283",
@@ -665,10 +665,6 @@
         {
          "dates": "14.sep-05.oct",
          "room": "Aula 1.A.02"
-        },
-        {
-         "dates": "19.oct",
-         "room": "Aula 1.A.02"
         }
        ]
       },
@@ -723,7 +719,7 @@
          "room": "Aula 1.A.02"
         },
         {
-         "dates": "16.oct",
+         "dates": "16.oct-23.oct",
          "room": "Aula 1.A.02"
         }
        ]
@@ -742,10 +738,6 @@
        "slots": [
         {
          "dates": "14.sep-05.oct",
-         "room": "Aula 1.A.03"
-        },
-        {
-         "dates": "19.oct",
          "room": "Aula 1.A.03"
         }
        ]
@@ -809,7 +801,7 @@
          "room": "Aula 1.A.03"
         },
         {
-         "dates": "16.oct",
+         "dates": "16.oct-23.oct",
          "room": "Aula 1.A.03"
         }
        ]

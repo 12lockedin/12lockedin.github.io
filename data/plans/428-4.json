@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas",
  "year": "2026",
- "generatedAt": "2026-10-12T12:11:46Z",
+ "generatedAt": "2026-10-19T10:07:11Z",
  "subjects": [
   {
    "code": "18113",
@@ -87,7 +87,15 @@
          "room": "Aula -1.A.06"
         },
         {
-         "dates": "17.sep-17.dic",
+         "dates": "17.sep-05.nov",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "12.nov-19.nov",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "26.nov-17.dic",
          "room": "Aula -1.A.05"
         }
        ]

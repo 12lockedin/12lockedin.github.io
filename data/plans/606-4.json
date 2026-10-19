@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Formación del Profesorado. Especialidad Tecnología",
  "year": "2026",
- "generatedAt": "2026-10-12T12:42:50Z",
+ "generatedAt": "2026-10-19T10:38:17Z",
  "subjects": [
   {
    "code": "20918",
@@ -65,7 +65,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "15.oct",
+         "dates": "15.oct-22.oct",
          "room": "Aula 1.2.G04"
         },
         {
@@ -281,6 +281,19 @@
         {
          "dates": "05.nov",
          "room": "Aula 7.1.J01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 1.2.G04"
         }
        ]
       }

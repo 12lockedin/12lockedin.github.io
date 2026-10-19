@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Matemática Aplicada y Computacional",
  "year": "2026",
- "generatedAt": "2026-10-12T12:19:20Z",
+ "generatedAt": "2026-10-19T10:14:58Z",
  "subjects": [
   {
    "code": "18768",
@@ -203,11 +203,28 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-20.oct",
+         "room": "Aula 2.0.C04"
+        },
+        {
+         "dates": "03.nov-01.dic",
          "room": "Aula 2.0.C04"
         },
         {
          "dates": "15.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:30",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct",
          "room": "Aula 2.0.C04"
         }
        ]
@@ -425,19 +442,6 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 2.0.C04",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "09.sep-16.dic",
-         "room": "Aula 2.0.C04"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:15",
        "room": "Aula INF 2.2.C.03 DUAL",
        "type": "Máster oficial",
        "slots": [
@@ -456,6 +460,19 @@
         {
          "dates": "16.dic",
          "room": "Aula INF 2.2.C.04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.sep-16.dic",
+         "room": "Aula 2.0.C04"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencia y Tecnología Aeroespaciales",
  "year": "2026",
- "generatedAt": "2026-10-12T12:40:52Z",
+ "generatedAt": "2026-10-19T10:36:17Z",
  "subjects": [
   {
    "code": "12435",
@@ -118,12 +118,12 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula INF 7.0.J05 DUAL",
+       "room": "Aula 7.1.J07",
        "type": null,
        "slots": [
         {
-         "dates": "14.oct",
-         "room": "Aula INF 7.0.J05 DUAL"
+         "dates": "16.sep-25.nov",
+         "room": "Aula 7.1.J07"
         }
        ]
       },
@@ -131,12 +131,12 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 7.1.J07",
+       "room": "Aula INF 7.0.J05 DUAL",
        "type": null,
        "slots": [
         {
-         "dates": "16.sep-25.nov",
-         "room": "Aula 7.1.J07"
+         "dates": "14.oct",
+         "room": "Aula INF 7.0.J05 DUAL"
         }
        ]
       },
@@ -221,23 +221,6 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
-       "room": "LAB 7.0.H03 (Aero)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "16.oct",
-         "room": "LAB 7.0.H03 (Aero)"
-        },
-        {
-         "dates": "30.oct",
-         "room": "LAB 7.0.H03 (Aero)"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:30",
-       "end": "17:00",
        "room": "Aula 7.2.H03",
        "type": null,
        "slots": [
@@ -248,6 +231,23 @@
         {
          "dates": "30.oct",
          "room": "Aula 7.2.H03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "30.oct",
+         "room": "LAB 7.0.H03 (Aero)"
         }
        ]
       },
@@ -1022,6 +1022,19 @@
       {
        "day": 0,
        "start": "09:00",
+       "end": "14:00",
+       "room": "Aula 7.2.H03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 7.2.H03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "09:00",
        "end": "10:30",
        "room": "Aula 1.2.G04",
        "type": "Máster oficial",
@@ -1037,19 +1050,6 @@
         {
          "dates": "09.nov-16.nov",
          "room": "Aula 1.2.G04"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "09:00",
-       "end": "14:00",
-       "room": "Aula 7.2.H03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "30.nov",
-         "room": "Aula 7.2.H03"
         }
        ]
       },
@@ -1075,6 +1075,19 @@
        "slots": [
         {
          "dates": "13.oct",
+         "room": "Aula 1.2.G04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 1.2.G04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
          "room": "Aula 1.2.G04"
         }
        ]
@@ -1113,19 +1126,6 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula * DOCENCIA EXTERNA LEGANES",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.oct",
-         "room": "Aula * DOCENCIA EXTERNA LEGANES"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "17:15",
-       "end": "18:45",
        "room": "Aula 7.1.J04",
        "type": null,
        "slots": [
@@ -1136,6 +1136,19 @@
         {
          "dates": "10.nov-24.nov",
          "room": "Aula 7.1.J04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula * DOCENCIA EXTERNA LEGANES",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula * DOCENCIA EXTERNA LEGANES"
         }
        ]
       },
@@ -1203,7 +1216,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "18.sep",
+         "dates": "06.nov",
          "room": "Aula 7.1.J05"
         }
        ]
@@ -1216,7 +1229,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "06.nov",
+         "dates": "18.sep",
          "room": "Aula 7.1.J05"
         }
        ]
@@ -1353,12 +1366,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 7.1.J05",
+       "room": "LAB 7.0.H01 (Aero)",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-03.dic",
-         "room": "Aula 7.1.J05"
+         "dates": "19.nov",
+         "room": "LAB 7.0.H01 (Aero)"
         }
        ]
       },
@@ -1366,12 +1379,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "LAB 7.0.H01 (Aero)",
+       "room": "Aula 7.1.J05",
        "type": null,
        "slots": [
         {
-         "dates": "19.nov",
-         "room": "LAB 7.0.H01 (Aero)"
+         "dates": "10.sep-03.dic",
+         "room": "Aula 7.1.J05"
         }
        ]
       },

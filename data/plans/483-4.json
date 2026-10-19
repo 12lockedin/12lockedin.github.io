@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Finanzas / Master in Finance",
  "year": "2026",
- "generatedAt": "2026-10-12T12:22:12Z",
+ "generatedAt": "2026-10-19T10:17:46Z",
  "subjects": [
   {
    "code": "19328",
@@ -228,6 +228,19 @@
         {
          "dates": "06.nov-11.dic",
          "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula -1.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.dic",
+         "room": "Aula -1.A.01"
         }
        ]
       }

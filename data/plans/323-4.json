@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Gestión Turística de Recursos Culturales y Naturales",
  "year": "2026",
- "generatedAt": "2026-10-12T12:00:23Z",
+ "generatedAt": "2026-10-19T09:55:35Z",
  "subjects": [
   {
    "code": "12350",
@@ -187,6 +187,19 @@
         {
          "dates": "08.sep-20.oct",
          "room": "Aula 18.0.A10"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:00",
+       "end": "17:00",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.oct",
+         "room": "* SIN AULA *"
         }
        ]
       }

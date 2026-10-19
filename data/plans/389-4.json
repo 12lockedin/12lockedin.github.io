@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Tributación",
  "year": "2026",
- "generatedAt": "2026-10-12T12:04:42Z",
+ "generatedAt": "2026-10-19T09:59:53Z",
  "subjects": [
   {
    "code": "14571",
@@ -434,19 +434,6 @@
        "day": 1,
        "start": "19:30",
        "end": "21:00",
-       "room": "Aula -1.A.01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "10.nov",
-         "room": "Aula -1.A.01"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "19:30",
-       "end": "21:00",
        "room": "Aula 2.A.03",
        "type": "Máster oficial",
        "slots": [
@@ -457,6 +444,19 @@
         {
          "dates": "03.nov-01.dic",
          "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula -1.A.01"
         }
        ]
       },

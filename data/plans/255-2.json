@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Telemática",
  "year": "2026",
- "generatedAt": "2026-10-12T11:58:16Z",
+ "generatedAt": "2026-10-19T09:53:30Z",
  "subjects": [
   {
    "code": "13426",
@@ -20,24 +20,24 @@
        "day": 1,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL",
+       "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL",
        "type": null,
        "slots": [
         {
          "dates": "20.oct",
-         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
+         "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
         },
         {
          "dates": "03.nov",
-         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
+         "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
         },
         {
          "dates": "17.nov",
-         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
+         "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
         },
         {
          "dates": "01.dic",
-         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
+         "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
         }
        ]
       },
@@ -103,34 +103,7 @@
         },
         {
          "dates": "10.dic",
-         "room": "Aulas LAB 4.1.B02 (Telematica), INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "13420",
-   "name": "PROC FORM APLIC TELEMÁTIC, 3º,2ºC",
-   "course": 3,
-   "term": 1,
-   "groups": [
-    {
-     "id": "71",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 4.2.E03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 4.2.E03"
+         "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J03 DUAL + TEL"
         }
        ]
       }
@@ -148,6 +121,27 @@
      "id": "71",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 4.1.B02 (Telematica)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "09.nov",
+         "room": "LAB 4.1.B02 (Telematica)"
+        },
+        {
+         "dates": "23.nov",
+         "room": "LAB 4.1.B02 (Telematica)"
+        }
+       ]
+      },
       {
        "day": 0,
        "start": "10:45",

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-10-12T12:39:03Z",
+ "generatedAt": "2026-10-19T10:34:27Z",
  "subjects": [
   {
    "code": "19408",
@@ -259,33 +259,6 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 2.3.B05"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "13154",
-   "name": "ESTADÍSTICA I, 1º,2ºC",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "801",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 2.3.C04",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 2.3.C04"
         }
        ]
       }
@@ -869,6 +842,19 @@
      "kind": "magistral",
      "sessions": [
       {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.3.D05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 2.3.D05"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "15:30",
        "end": "17:00",
@@ -1018,7 +1004,15 @@
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-15.oct",
+         "room": "Aula INF 2.2.C.03 DUAL"
+        },
+        {
+         "dates": "22.oct",
+         "room": "Aula 4.1.E01"
+        },
+        {
+         "dates": "29.oct-10.dic",
          "room": "Aula INF 2.2.C.03 DUAL"
         }
        ]
@@ -1180,33 +1174,6 @@
    ]
   },
   {
-   "code": "20604",
-   "name": "TÉCNICAS DE PROGRAMACIÓN, 1º,2ºC",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "83",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 2.3.C04",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 2.3.C04"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "13870",
    "name": "ÁLGEBRA LINEAL, 1º,1 er C",
    "course": 1,
@@ -1216,6 +1183,19 @@
      "id": "81",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 2.3.C01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 2.3.C01"
+        }
+       ]
+      },
       {
        "day": 1,
        "start": "10:45",
@@ -1241,7 +1221,15 @@
        "type": null,
        "slots": [
         {
-         "dates": "09.sep-09.dic",
+         "dates": "09.sep-21.oct",
+         "room": "Aula 2.3.D04"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 2.3.C03"
+        },
+        {
+         "dates": "04.nov-09.dic",
          "room": "Aula 2.3.D04"
         }
        ]
@@ -1256,6 +1244,19 @@
         {
          "dates": "10.sep-10.dic",
          "room": "Aula 2.3.C04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.C01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "20.nov",
+         "room": "Aula 2.3.C01"
         }
        ]
       }
@@ -1785,12 +1786,12 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula INF 2.2.C.04 DUAL",
+       "room": "Aula 7.1.J03",
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
-         "room": "Aula INF 2.2.C.04 DUAL"
+         "dates": "13.oct",
+         "room": "Aula 7.1.J03"
         }
        ]
       },
@@ -1798,12 +1799,12 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 7.1.J03",
+       "room": "Aula INF 2.2.C.04 DUAL",
        "type": null,
        "slots": [
         {
-         "dates": "13.oct",
-         "room": "Aula 7.1.J03"
+         "dates": "08.sep-01.dic",
+         "room": "Aula INF 2.2.C.04 DUAL"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencias Sociales/ Master in Social Sciences",
  "year": "2026",
- "generatedAt": "2026-10-12T12:21:59Z",
+ "generatedAt": "2026-10-19T10:17:35Z",
  "subjects": [
   {
    "code": "19301",
@@ -111,6 +111,19 @@
         {
          "dates": "10.sep-17.dic",
          "room": "Aula 18.1.A04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "18:00",
+       "room": "Aula 18.1.A02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.dic",
+         "room": "Aula 18.1.A02"
         }
        ]
       }

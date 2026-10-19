@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencia y Tecnología Informática",
  "year": "2026",
- "generatedAt": "2026-10-12T12:19:51Z",
+ "generatedAt": "2026-10-19T10:15:29Z",
  "subjects": [
   {
    "code": "18836",
@@ -54,6 +54,19 @@
      "sessions": [
       {
        "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.1.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 4.1.D03"
+        }
+       ]
+      },
+      {
+       "day": 2,
        "start": "10:45",
        "end": "12:15",
        "room": "Aula 4.1.E03",
@@ -74,6 +87,19 @@
         {
          "dates": "04.nov",
          "room": "Aula 4.1.E03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 4.1.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 4.1.E01"
         }
        ]
       },
@@ -392,18 +418,18 @@
      "id": "1",
      "sessions": [
       {
-       "day": 4,
-       "start": "15:30",
-       "end": "17:00",
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
        "room": "Aula 1.1.G03",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "16.oct-27.nov",
+         "dates": "20.oct-01.dic",
          "room": "Aula 1.1.G03"
         },
         {
-         "dates": "11.dic-18.dic",
+         "dates": "15.dic",
          "room": "Aula 1.1.G03"
         }
        ]

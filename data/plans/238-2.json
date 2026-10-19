@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-10-12T11:57:49Z",
+ "generatedAt": "2026-10-19T09:53:02Z",
  "subjects": [
   {
    "code": "16101",
@@ -411,6 +411,19 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aula 4.2.E05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 4.2.E05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
        "room": "LAB 4.0.B01A (Tª Señal)",
        "type": null,
        "slots": [
@@ -421,19 +434,6 @@
         {
          "dates": "01.dic",
          "room": "LAB 4.0.B01A (Tª Señal)"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 4.2.E05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "13.oct",
-         "room": "Aula 4.2.E05"
         }
        ]
       },
@@ -1094,33 +1094,6 @@
    ]
   },
   {
-   "code": "18466",
-   "name": "FUNDAMENTOS DE GESTIÓN EMPRESARIAL, 4º,2ºC",
-   "course": 4,
-   "term": 1,
-   "groups": [
-    {
-     "id": "91",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 4.1.E03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 4.1.E03"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "15392",
    "name": "FUNDAMENTOS DE SEGURIDAD EN COMUNIC, 4º,1 er C",
    "course": 4,
@@ -1436,6 +1409,19 @@
        ]
       },
       {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.1.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 4.1.E01"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "19:00",
        "end": "20:30",
@@ -1570,11 +1556,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "19.oct",
-         "room": "Aula 4.0.D01"
-        },
-        {
-         "dates": "23.nov-30.nov",
+         "dates": "16.nov",
          "room": "Aula 4.0.D01"
         }
        ]
