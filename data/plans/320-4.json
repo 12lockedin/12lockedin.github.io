@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Cine y Televisión",
  "year": "2026",
- "generatedAt": "2026-10-19T09:55:15Z",
+ "generatedAt": "2026-10-26T10:08:37Z",
  "subjects": [
   {
    "code": "12307",
@@ -492,7 +492,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "04.nov-16.dic",
+         "dates": "02.dic-16.dic",
          "room": "Aula -1.A.06"
         }
        ]
@@ -505,7 +505,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "04.nov-16.dic",
+         "dates": "02.dic-16.dic",
          "room": "Aula -1.A.06"
         }
        ]
@@ -556,6 +556,32 @@
          "room": "Aula -1.A.06"
         }
        ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.nov",
+         "room": "Aula -1.A.06"
+        }
+       ]
       }
      ]
     }
@@ -578,7 +604,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.nov-01.dic",
+         "dates": "24.nov-01.dic",
          "room": "Aula -1.A.06"
         },
         {
@@ -595,11 +621,45 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.nov-01.dic",
+         "dates": "24.nov-01.dic",
          "room": "Aula -1.A.06"
         },
         {
          "dates": "15.dic",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula -1.A.06"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula -1.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula -1.A.06"
+        },
+        {
+         "dates": "18.nov",
          "room": "Aula -1.A.06"
         }
        ]

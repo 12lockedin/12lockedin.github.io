@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Matemática Aplicada y Computacional",
  "year": "2026",
- "generatedAt": "2026-10-19T10:14:58Z",
+ "generatedAt": "2026-10-26T10:28:03Z",
  "subjects": [
   {
    "code": "18768",
@@ -155,6 +155,19 @@
          "room": "Aula 1.0.B01"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.0.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 1.0.B01"
+        }
+       ]
       }
      ]
     }
@@ -296,42 +309,16 @@
          "room": "Aula 2.0.C04"
         }
        ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "18776",
-   "name": "Perspectivas en Matemática Aplicada y Computacional",
-   "course": 1,
-   "term": 1,
-   "groups": [
-    {
-     "id": "1",
-     "sessions": [
-      {
-       "day": 3,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 2.0.C04",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "17.sep",
-         "room": "Aula 2.0.C04"
-        }
-       ]
       },
       {
        "day": 4,
-       "start": "12:30",
-       "end": "14:00",
+       "start": "09:00",
+       "end": "10:30",
        "room": "Aula 2.0.C04",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "18.sep",
+         "dates": "18.dic",
          "room": "Aula 2.0.C04"
         }
        ]
@@ -417,6 +404,19 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aula INF 1.2.G.03 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 2.0.C04",
        "type": "Máster oficial",
        "slots": [
@@ -450,11 +450,7 @@
          "room": "Aula INF 2.2.C.03 DUAL"
         },
         {
-         "dates": "28.oct",
-         "room": "Aula INF 2.2.C.03 DUAL"
-        },
-        {
-         "dates": "18.nov",
+         "dates": "25.nov",
          "room": "Aula INF 2.2.C.04 DUAL"
         },
         {

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-10-19T10:08:25Z",
+ "generatedAt": "2026-10-26T10:21:37Z",
  "subjects": [
   {
    "code": "19408",
@@ -1292,33 +1292,6 @@
    ]
   },
   {
-   "code": "13166",
-   "name": "ECONOMÍA FINANCIERA, 2º,2ºC (grupos 50,70 y 71) 09:00 a 10:30 25.ene: Aula 1.0.B05",
-   "course": 3,
-   "term": 1,
-   "groups": [
-    {
-     "id": "1",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 1.0.B05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 1.0.B05"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "13159",
    "name": "MACROECONOMÍA, 2º,1 er C (grupos 50,70 y 71) 12:30 a 14:00 07.sep-05.oct: Aula 1.0.B06 19.oct-26.oct: Aula 1.0.B06 09.nov-30.nov: Aula 1.0.B06",
    "course": 3,
@@ -1822,7 +1795,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "19.oct",
+         "dates": "19.oct-26.oct",
          "room": "Aula 1.0.A04"
         }
        ]

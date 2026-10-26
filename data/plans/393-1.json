@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Empresa y Tecnología",
  "year": "2026",
- "generatedAt": "2026-10-19T10:00:21Z",
+ "generatedAt": "2026-10-26T10:13:42Z",
  "subjects": [
   {
    "code": "13167",
@@ -197,7 +197,15 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-20.oct",
+         "room": "Aula 15.1.03"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aulas 10.2.4 y 15.1.03"
+        },
+        {
+         "dates": "03.nov-01.dic",
          "room": "Aula 15.1.03"
         }
        ]

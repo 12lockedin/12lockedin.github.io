@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Marketing - Presencial",
  "year": "2026",
- "generatedAt": "2026-10-19T09:54:13Z",
+ "generatedAt": "2026-10-26T10:07:34Z",
  "subjects": [
   {
    "code": "16226",
@@ -25,6 +25,10 @@
         {
          "dates": "08.sep-20.oct",
          "room": "Aula 2.A.03"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aulas 0.A.08 y 0.A.07"
         }
        ]
       },

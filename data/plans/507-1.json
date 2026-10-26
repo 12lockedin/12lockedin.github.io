@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Estudios Internacionales y Derecho",
  "year": "2026",
- "generatedAt": "2026-10-19T10:20:29Z",
+ "generatedAt": "2026-10-26T10:33:37Z",
  "subjects": [
   {
    "code": "19408",
@@ -760,7 +760,15 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-29.oct",
+         "room": "Aula 9.1.7"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aulas 9.1.7 y 9.2.3"
+        },
+        {
+         "dates": "12.nov-10.dic",
          "room": "Aula 9.1.7"
         }
        ]
@@ -779,7 +787,15 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-29.oct",
+         "room": "Aula 6.1.03"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aulas 6.1.03 y 9.2.3"
+        },
+        {
+         "dates": "12.nov-10.dic",
          "room": "Aula 6.1.03"
         }
        ]

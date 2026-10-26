@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-10-19T10:06:34Z",
+ "generatedAt": "2026-10-26T10:19:51Z",
  "subjects": [
   {
    "code": "15541",
@@ -176,6 +176,19 @@
        ]
       },
       {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.0.J01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "19:00",
        "end": "20:30",
@@ -293,6 +306,19 @@
         {
          "dates": "17.nov-01.dic",
          "room": "LAB 4.S.B03 (Fisica)"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula 7.0.J06"
         }
        ]
       },
@@ -858,7 +884,15 @@
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-27.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aulas INF 4.S.D.02, INF 4.S.D.03 y INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "10.nov-01.dic",
          "room": "Aula INF 7.0.J02 DUAL+ TEL"
         }
        ]

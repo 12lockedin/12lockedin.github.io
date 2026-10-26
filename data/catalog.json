@@ -1,7 +1,7 @@
 {
  "year": "2026",
- "generatedAt": "2026-10-19T09:52:08Z",
- "count": 216,
+ "generatedAt": "2026-10-26T10:05:29Z",
+ "count": 215,
  "programmes": [
   {
    "type": "grado",
@@ -1114,13 +1114,6 @@
    "plan": 553,
    "centro": 4,
    "name": "Máster Universitario en Dirección de Recursos Humanos - Master in Human Resources Management",
-   "campus": "Puerta de Toledo"
-  },
-  {
-   "type": "master",
-   "plan": 321,
-   "centro": 4,
-   "name": "Máster Universitario en Documental y Reportaje Periodístico Transmedia",
    "campus": "Puerta de Toledo"
   },
   {

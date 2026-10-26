@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Asesoramiento y Consultoría Jurídico Laboral",
  "year": "2026",
- "generatedAt": "2026-10-19T10:07:34Z",
+ "generatedAt": "2026-10-26T10:20:48Z",
  "subjects": [
   {
    "code": "12254",
@@ -527,13 +527,6 @@
    ]
   },
   {
-   "code": "12264",
-   "name": "Derecho Laboral del Empleo Público",
-   "course": 1,
-   "term": 2,
-   "groups": []
-  },
-  {
    "code": "18212",
    "name": "Derecho Laboral Transnacional",
    "course": 1,
@@ -847,13 +840,6 @@
      ]
     }
    ]
-  },
-  {
-   "code": "12265",
-   "name": "Previsión Social Complementaria",
-   "course": 1,
-   "term": 2,
-   "groups": []
   },
   {
    "code": "12256",

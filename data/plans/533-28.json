@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Doble Máster en Ingeniería de Telecomunicación y Aprendizaje Automático para la Salud",
  "year": "2026",
- "generatedAt": "2026-10-19T10:23:43Z",
+ "generatedAt": "2026-10-26T10:36:50Z",
  "subjects": [
   {
    "code": "19277",
@@ -74,6 +74,19 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aula 4.1.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 4.1.E03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 2.0.C03",
        "type": null,
        "slots": [
@@ -82,29 +95,12 @@
          "room": "Aula 2.0.C03"
         },
         {
-         "dates": "19.oct-26.oct",
+         "dates": "19.oct",
          "room": "Aula 2.0.C03"
         },
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 2.0.C03"
-        },
-        {
-         "dates": "14.dic",
-         "room": "Aula 2.0.C03"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:30",
-       "room": "Aula INF 7.0.J03 DUAL + TEL",
-       "type": null,
-       "slots": [
-        {
-         "dates": "23.sep",
-         "room": "Aula INF 7.0.J03 DUAL + TEL"
         }
        ]
       },
@@ -122,6 +118,19 @@
         {
          "dates": "30.sep-16.dic",
          "room": "Aula 2.0.C03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:30",
+       "room": "Aula INF 7.0.J03 DUAL + TEL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "23.sep",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
         }
        ]
       }

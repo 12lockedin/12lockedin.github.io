@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Industria Conectada 4.0",
  "year": "2026",
- "generatedAt": "2026-10-19T10:06:59Z",
+ "generatedAt": "2026-10-26T10:20:14Z",
  "subjects": [
   {
    "code": "18043",
@@ -749,19 +749,6 @@
       {
        "day": 4,
        "start": "09:00",
-       "end": "15:00",
-       "room": "LAB 1.0.B06 (Automatica)",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "06.nov-04.dic",
-         "room": "LAB 1.0.B06 (Automatica)"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "09:00",
        "end": "10:30",
        "room": "Aula 0.A.05",
        "type": "Máster oficial",
@@ -769,6 +756,19 @@
         {
          "dates": "18.dic",
          "room": "Aula 0.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "15:00",
+       "room": "LAB 1.0.B06 (Automatica)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "06.nov-04.dic",
+         "room": "LAB 1.0.B06 (Automatica)"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Master in Business Administration (MBA)",
  "year": "2026",
- "generatedAt": "2026-10-19T10:15:46Z",
+ "generatedAt": "2026-10-26T10:28:51Z",
  "subjects": [
   {
    "code": "18933",
@@ -102,12 +102,16 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "29.sep-20.oct",
+         "dates": "29.sep-13.oct",
          "room": "Aula -1.A.05"
         },
         {
          "dates": "27.oct-03.nov",
          "room": "Aula -1.A.08 INF"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula -1.A.05"
         },
         {
          "dates": "17.nov-01.dic",
@@ -127,12 +131,16 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "29.sep-20.oct",
+         "dates": "29.sep-13.oct",
          "room": "Aula -1.A.05"
         },
         {
          "dates": "27.oct-03.nov",
          "room": "Aula -1.A.08 INF"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula -1.A.05"
         },
         {
          "dates": "17.nov-01.dic",
@@ -422,6 +430,58 @@
      "id": "1",
      "sessions": [
       {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "13:45",
+       "end": "15:15",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:15",
+       "end": "17:00",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.nov",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "13:45",
        "end": "15:15",
@@ -429,7 +489,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.oct-03.dic",
+         "dates": "08.oct-15.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "29.oct-03.dic",
          "room": "Aula -1.A.05"
         },
         {
@@ -446,7 +510,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.oct-03.dic",
+         "dates": "08.oct-15.oct",
+         "room": "Aula -1.A.05"
+        },
+        {
+         "dates": "29.oct-03.dic",
          "room": "Aula -1.A.05"
         }
        ]

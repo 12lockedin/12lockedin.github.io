@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-10-19T10:33:38Z",
+ "generatedAt": "2026-10-26T10:46:45Z",
  "subjects": [
   {
    "code": "19408",
@@ -84,19 +84,6 @@
       {
        "day": 3,
        "start": "14:00",
-       "end": "18:15",
-       "room": "Aula INF-15.S.06",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "03.dic",
-         "room": "Aula INF-15.S.06"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "14:00",
        "end": "15:00",
        "room": "Aulas 17.1.02 y TALLERES LABORATORIOS",
        "type": "Básica",
@@ -133,6 +120,19 @@
       },
       {
        "day": 3,
+       "start": "14:00",
+       "end": "18:15",
+       "room": "Aula INF-15.S.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula INF-15.S.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
        "start": "15:00",
        "end": "16:30",
        "room": "Aulas 17.1.02 y TALLERES LABORATORIOS",
@@ -147,12 +147,12 @@
       {
        "day": 3,
        "start": "15:00",
-       "end": "18:15",
+       "end": "17:45",
        "room": "Aula INF-15.S.06",
        "type": "Básica",
        "slots": [
         {
-         "dates": "10.dic",
+         "dates": "19.nov",
          "room": "Aula INF-15.S.06"
         }
        ]
@@ -160,12 +160,12 @@
       {
        "day": 3,
        "start": "15:00",
-       "end": "17:45",
+       "end": "18:15",
        "room": "Aula INF-15.S.06",
        "type": "Básica",
        "slots": [
         {
-         "dates": "19.nov",
+         "dates": "10.dic",
          "room": "Aula INF-15.S.06"
         }
        ]
@@ -452,31 +452,6 @@
       {
        "day": 1,
        "start": "14:00",
-       "end": "18:15",
-       "room": "Aula LAB-17.1.12 Informática",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "13.oct",
-         "room": "Aula LAB-17.1.12 Informática"
-        },
-        {
-         "dates": "27.oct",
-         "room": "Aula LAB-17.1.12 Informática"
-        },
-        {
-         "dates": "10.nov",
-         "room": "Aula LAB-17.1.12 Informática"
-        },
-        {
-         "dates": "24.nov-01.dic",
-         "room": "Aula LAB-17.1.12 Informática"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "14:00",
        "end": "15:00",
        "room": "Aulas 17.1.02 y TALLERES LABORATORIOS",
        "type": "Básica",
@@ -504,6 +479,31 @@
         {
          "dates": "24.nov",
          "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "18:15",
+       "room": "Aula LAB-17.1.12 Informática",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula LAB-17.1.12 Informática"
+        },
+        {
+         "dates": "27.oct",
+         "room": "Aula LAB-17.1.12 Informática"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula LAB-17.1.12 Informática"
+        },
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula LAB-17.1.12 Informática"
         }
        ]
       },
@@ -592,19 +592,6 @@
       {
        "day": 2,
        "start": "15:00",
-       "end": "16:30",
-       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "09.sep-09.dic",
-         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "15:00",
        "end": "18:15",
        "room": "Aula LAB-17.1.12 Informática",
        "type": "Básica",
@@ -620,6 +607,19 @@
         {
          "dates": "25.nov-02.dic",
          "room": "Aula LAB-17.1.12 Informática"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
         }
        ]
       },

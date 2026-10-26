@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Doble Máster en Ingeniería de Telecomunicación y Métodos Analíticos para Datos Masivos: Big Data",
  "year": "2026",
- "generatedAt": "2026-10-19T10:24:29Z",
+ "generatedAt": "2026-10-26T10:37:38Z",
  "subjects": [
   {
    "code": "17234",
@@ -109,12 +109,12 @@
       {
        "day": 1,
        "start": "11:15",
-       "end": "12:15",
+       "end": "12:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-29.sep",
+         "dates": "06.oct-20.oct",
          "room": "Aula 0.A.09"
         }
        ]
@@ -122,12 +122,12 @@
       {
        "day": 1,
        "start": "11:15",
-       "end": "12:45",
+       "end": "12:15",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "06.oct-20.oct",
+         "dates": "08.sep-29.sep",
          "room": "Aula 0.A.09"
         }
        ]
@@ -372,12 +372,12 @@
       {
        "day": 3,
        "start": "11:15",
-       "end": "14:45",
+       "end": "12:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "12.nov-19.nov",
+         "dates": "05.nov",
          "room": "Aula 0.A.09"
         }
        ]
@@ -385,12 +385,12 @@
       {
        "day": 3,
        "start": "11:15",
-       "end": "12:45",
+       "end": "14:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "05.nov",
+         "dates": "12.nov-19.nov",
          "room": "Aula 0.A.09"
         }
        ]

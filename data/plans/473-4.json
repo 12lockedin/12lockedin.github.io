@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Desarrollo Sostenible y Gobernanza Global/ Global Sustainable Development and Global Governance",
  "year": "2026",
- "generatedAt": "2026-10-19T10:16:18Z",
+ "generatedAt": "2026-10-26T10:29:24Z",
  "subjects": [
   {
    "code": "19157",
@@ -1307,12 +1307,12 @@
        "day": 0,
        "start": "16:00",
        "end": "17:30",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "25.ene-01.mar",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1320,12 +1320,12 @@
        "day": 0,
        "start": "17:45",
        "end": "19:15",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "25.ene-01.mar",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       }
@@ -1346,12 +1346,12 @@
        "day": 1,
        "start": "16:00",
        "end": "17:30",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "26.ene-02.mar",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1359,12 +1359,12 @@
        "day": 1,
        "start": "17:45",
        "end": "19:15",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "26.ene-02.mar",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       }
@@ -1385,12 +1385,12 @@
        "day": 1,
        "start": "17:00",
        "end": "18:30",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "11.may",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1398,12 +1398,12 @@
        "day": 1,
        "start": "17:45",
        "end": "19:15",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "06.abr-04.may",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1411,12 +1411,12 @@
        "day": 1,
        "start": "18:30",
        "end": "20:00",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "11.may",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1424,12 +1424,12 @@
        "day": 1,
        "start": "19:30",
        "end": "20:00",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "06.abr-04.may",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       }
@@ -1450,12 +1450,12 @@
        "day": 3,
        "start": "16:00",
        "end": "17:30",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "15.abr-29.abr",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1463,12 +1463,12 @@
        "day": 3,
        "start": "17:45",
        "end": "19:15",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "15.abr-29.abr",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1476,16 +1476,16 @@
        "day": 4,
        "start": "16:00",
        "end": "17:30",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.abr",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         },
         {
          "dates": "07.may",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1493,16 +1493,16 @@
        "day": 4,
        "start": "17:45",
        "end": "19:15",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "09.abr",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         },
         {
          "dates": "07.may",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       }
@@ -1523,12 +1523,12 @@
        "day": 0,
        "start": "16:00",
        "end": "17:30",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "12.abr-10.may",
-         "room": "Aula 0.A.05"
+         "dates": "19.abr-10.may",
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1536,12 +1536,12 @@
        "day": 0,
        "start": "17:45",
        "end": "19:15",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "12.abr-10.may",
-         "room": "Aula 0.A.05"
+         "dates": "19.abr-10.may",
+         "room": "Aula 2.-1.A.01"
         }
        ]
       }
@@ -1562,12 +1562,12 @@
        "day": 2,
        "start": "16:00",
        "end": "17:30",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "27.ene-03.mar",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1575,12 +1575,12 @@
        "day": 2,
        "start": "17:45",
        "end": "19:15",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "27.ene-03.mar",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       }
@@ -1601,12 +1601,12 @@
        "day": 1,
        "start": "14:30",
        "end": "16:00",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "06.abr-04.may",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1614,12 +1614,12 @@
        "day": 1,
        "start": "16:00",
        "end": "17:30",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "06.abr-04.may",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       }
@@ -1640,12 +1640,12 @@
        "day": 2,
        "start": "16:00",
        "end": "17:30",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "07.abr-05.may",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1653,12 +1653,12 @@
        "day": 2,
        "start": "17:45",
        "end": "19:15",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "07.abr-05.may",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1666,12 +1666,12 @@
        "day": 4,
        "start": "16:00",
        "end": "17:30",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "29.ene-05.mar",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       },
@@ -1679,12 +1679,12 @@
        "day": 4,
        "start": "17:45",
        "end": "19:15",
-       "room": "Aula 0.A.05",
+       "room": "Aula 2.-1.A.01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "29.ene-05.mar",
-         "room": "Aula 0.A.05"
+         "room": "Aula 2.-1.A.01"
         }
        ]
       }

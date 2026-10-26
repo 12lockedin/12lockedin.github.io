@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas",
  "year": "2026",
- "generatedAt": "2026-10-19T10:07:11Z",
+ "generatedAt": "2026-10-26T10:20:26Z",
  "subjects": [
   {
    "code": "18113",
@@ -134,6 +134,32 @@
         },
         {
          "dates": "14.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "17.dic",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.oct",
          "room": "Aula -1.A.05"
         }
        ]
@@ -303,11 +329,7 @@
          "room": "Aula -1.A.05"
         },
         {
-         "dates": "07.oct-14.oct",
-         "room": "Aula -1.A.05"
-        },
-        {
-         "dates": "28.oct-16.dic",
+         "dates": "07.oct-16.dic",
          "room": "Aula -1.A.05"
         }
        ]
@@ -402,6 +424,32 @@
        "slots": [
         {
          "dates": "30.sep",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula -1.A.04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "29.oct",
+         "room": "Aula -1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "18.dic",
          "room": "Aula -1.A.05"
         }
        ]
@@ -510,6 +558,19 @@
      "id": "1",
      "sessions": [
       {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula -1.A.05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "18.mar",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "19:30",
        "end": "21:00",
@@ -517,7 +578,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "29.ene-19.mar",
+         "dates": "29.ene-12.mar",
          "room": "Aula -1.A.05"
         },
         {
@@ -533,13 +594,6 @@
      ]
     }
    ]
-  },
-  {
-   "code": "18122",
-   "name": "Encapsulado y ensamblaje de sistemas electrónicos para IoT",
-   "course": 1,
-   "term": 2,
-   "groups": []
   },
   {
    "code": "18123",

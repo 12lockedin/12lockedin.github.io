@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencia y Tecnología Informática",
  "year": "2026",
- "generatedAt": "2026-10-19T10:15:29Z",
+ "generatedAt": "2026-10-26T10:28:34Z",
  "subjects": [
   {
    "code": "18836",
@@ -155,6 +155,19 @@
         },
         {
          "dates": "16.oct-11.dic",
+         "room": "Aula 1.0.B01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 1.0.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "06.nov",
          "room": "Aula 1.0.B01"
         }
        ]
@@ -348,19 +361,6 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula INF 7.0.J04 DUAL",
-       "type": null,
-       "slots": [
-        {
-         "dates": "15.dic",
-         "room": "Aula INF 7.0.J04 DUAL"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "15:30",
-       "end": "17:00",
        "room": "Aula INF 7.0.J03 DUAL + TEL",
        "type": null,
        "slots": [
@@ -375,6 +375,19 @@
         {
          "dates": "10.nov-01.dic",
          "room": "Aula INF 7.0.J03 DUAL + TEL"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula INF 7.0.J04 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aula INF 7.0.J04 DUAL"
         }
        ]
       },
@@ -425,11 +438,24 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "20.oct-01.dic",
+         "dates": "27.oct-01.dic",
          "room": "Aula 1.1.G03"
         },
         {
          "dates": "15.dic",
+         "room": "Aula 1.1.G03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.1.G03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.oct",
          "room": "Aula 1.1.G03"
         }
        ]

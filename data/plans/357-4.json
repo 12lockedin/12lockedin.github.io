@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Herencia Cultural Hispánica",
  "year": "2026",
- "generatedAt": "2026-10-19T09:57:03Z",
+ "generatedAt": "2026-10-26T10:10:24Z",
  "subjects": [
   {
    "code": "17495",
@@ -277,6 +277,10 @@
        "slots": [
         {
          "dates": "16.oct-23.oct",
+         "room": "Aula 18.0.A07"
+        },
+        {
+         "dates": "06.nov",
          "room": "Aula 18.0.A07"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Economía de la Empresa y Finanzas/ Master in Business and Finance",
  "year": "2026",
- "generatedAt": "2026-10-19T09:57:43Z",
+ "generatedAt": "2026-10-26T10:11:03Z",
  "subjects": [
   {
    "code": "17190",
@@ -846,7 +846,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.nov-03.dic",
+         "dates": "05.nov-12.nov",
+         "room": "Aula 18.1.A11 (fijo en forma de U)"
+        },
+        {
+         "dates": "19.nov",
+         "room": "Aula 18.0.A02"
+        },
+        {
+         "dates": "26.nov-03.dic",
          "room": "Aula 18.1.A11 (fijo en forma de U)"
         },
         {
@@ -1006,13 +1014,6 @@
   {
    "code": "17167",
    "name": "Teoría de la Organización",
-   "course": 1,
-   "term": 2,
-   "groups": []
-  },
-  {
-   "code": "17175",
-   "name": "Valoración de Activos Dinámica",
    "course": 1,
    "term": 2,
    "groups": []

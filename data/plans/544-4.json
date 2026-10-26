@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Energías Renovables en Sistemas Térmicos",
  "year": "2026",
- "generatedAt": "2026-10-19T10:25:55Z",
+ "generatedAt": "2026-10-26T10:39:05Z",
  "subjects": [
   {
    "code": "20064",
@@ -257,6 +257,36 @@
         },
         {
          "dates": "14.dic",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 2.0.C05"
+        },
+        {
+         "dates": "09.nov-16.nov",
+         "room": "Aula 2.0.C05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 2.0.C05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov",
          "room": "Aula 2.0.C05"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Aeronáutica / Master in Aeronautical Engineering",
  "year": "2026",
- "generatedAt": "2026-10-19T09:56:15Z",
+ "generatedAt": "2026-10-26T10:09:36Z",
  "subjects": [
   {
    "code": "12435",
@@ -295,23 +295,6 @@
        "day": 4,
        "start": "09:00",
        "end": "10:30",
-       "room": "LAB 7.0.H03 (Aero)",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "16.oct",
-         "room": "LAB 7.0.H03 (Aero)"
-        },
-        {
-         "dates": "30.oct",
-         "room": "LAB 7.0.H03 (Aero)"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "09:00",
-       "end": "10:30",
        "room": "Aula 7.2.J02",
        "type": "Máster oficial",
        "slots": [
@@ -322,6 +305,23 @@
         {
          "dates": "30.oct",
          "room": "Aula 7.2.J02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "30.oct",
+         "room": "LAB 7.0.H03 (Aero)"
         }
        ]
       },
@@ -420,6 +420,19 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
+       "room": "Aula 7.2.H03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "12.nov",
+         "room": "Aula 7.2.H03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
        "room": "LAB 7.0.H03 (Aero)",
        "type": null,
        "slots": [
@@ -430,19 +443,6 @@
         {
          "dates": "12.nov",
          "room": "LAB 7.0.H03 (Aero)"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 7.2.H03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "12.nov",
-         "room": "Aula 7.2.H03"
         }
        ]
       },
@@ -484,23 +484,6 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
-       "room": "LAB 7.0.H03 (Aero)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "16.oct",
-         "room": "LAB 7.0.H03 (Aero)"
-        },
-        {
-         "dates": "30.oct",
-         "room": "LAB 7.0.H03 (Aero)"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:30",
-       "end": "17:00",
        "room": "Aula 7.2.H03",
        "type": null,
        "slots": [
@@ -511,6 +494,23 @@
         {
          "dates": "30.oct",
          "room": "Aula 7.2.H03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "LAB 7.0.H03 (Aero)",
+       "type": null,
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "LAB 7.0.H03 (Aero)"
+        },
+        {
+         "dates": "30.oct",
+         "room": "LAB 7.0.H03 (Aero)"
         }
        ]
       },
@@ -588,6 +588,19 @@
         {
          "dates": "15.sep",
          "room": "Aula 7.1.J04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.2.J03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 7.2.J03"
         }
        ]
       },
@@ -686,6 +699,19 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 7.1.J03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.2.J03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov",
+         "room": "Aula 7.2.J03"
         }
        ]
       },
@@ -813,6 +839,19 @@
        "day": 3,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aula 7.2.J03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aula 7.2.J03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula INF 7.0.J05 DUAL",
        "type": "Máster oficial",
        "slots": [
@@ -827,19 +866,6 @@
        ]
       },
       {
-       "day": 3,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 7.2.J03",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "08.oct",
-         "room": "Aula 7.2.J03"
-        }
-       ]
-      },
-      {
        "day": 4,
        "start": "09:00",
        "end": "10:30",
@@ -849,23 +875,6 @@
         {
          "dates": "13.nov-20.nov",
          "room": "Aula INF 7.0.J05 DUAL"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 7.2.J05",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "25.sep",
-         "room": "Aula 7.2.J05"
-        },
-        {
-         "dates": "20.nov-27.nov",
-         "room": "Aula 7.2.J05"
         }
        ]
       },
@@ -887,6 +896,23 @@
         {
          "dates": "13.nov",
          "room": "Aula INF 7.0.J05 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.2.J05",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep",
+         "room": "Aula 7.2.J05"
+        },
+        {
+         "dates": "20.nov-27.nov",
+         "room": "Aula 7.2.J05"
         }
        ]
       }
@@ -963,12 +989,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.3.B01",
+       "room": "Aula INF 7.0.J02 DUAL+ TEL",
        "type": null,
        "slots": [
         {
-         "dates": "08.oct",
-         "room": "Aula 2.3.B01"
+         "dates": "22.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
         }
        ]
       },
@@ -976,12 +1002,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula INF 7.0.J02 DUAL+ TEL",
+       "room": "Aula 2.3.B01",
        "type": null,
        "slots": [
         {
-         "dates": "22.oct",
-         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+         "dates": "08.oct",
+         "room": "Aula 2.3.B01"
         }
        ]
       },
@@ -1244,12 +1270,12 @@
        "day": 2,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 7.1.J03",
+       "room": "Aula 7.2.J04",
        "type": null,
        "slots": [
         {
-         "dates": "23.sep",
-         "room": "Aula 7.1.J03"
+         "dates": "14.oct",
+         "room": "Aula 7.2.J04"
         }
        ]
       },
@@ -1257,12 +1283,12 @@
        "day": 2,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 7.2.J04",
+       "room": "Aula 7.1.J03",
        "type": null,
        "slots": [
         {
-         "dates": "14.oct",
-         "room": "Aula 7.2.J04"
+         "dates": "23.sep",
+         "room": "Aula 7.1.J03"
         }
        ]
       },
@@ -1746,19 +1772,6 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula * DOCENCIA EXTERNA LEGANES",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "28.oct",
-         "room": "Aula * DOCENCIA EXTERNA LEGANES"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:15",
        "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
@@ -1769,6 +1782,19 @@
         {
          "dates": "04.nov-25.nov",
          "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula * DOCENCIA EXTERNA LEGANES",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "28.oct",
+         "room": "Aula * DOCENCIA EXTERNA LEGANES"
         }
        ]
       },
@@ -1863,19 +1889,6 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula * DOCENCIA EXTERNA LEGANES",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.oct",
-         "room": "Aula * DOCENCIA EXTERNA LEGANES"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "17:15",
-       "end": "18:45",
        "room": "Aula 7.1.J04",
        "type": null,
        "slots": [
@@ -1886,6 +1899,19 @@
         {
          "dates": "10.nov-24.nov",
          "room": "Aula 7.1.J04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula * DOCENCIA EXTERNA LEGANES",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula * DOCENCIA EXTERNA LEGANES"
         }
        ]
       },
@@ -2069,6 +2095,19 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aulas INF 7.0.J03 DUAL + TEL y INF 7.0.J04 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aulas INF 7.0.J03 DUAL + TEL y INF 7.0.J04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 7.1.J03",
        "type": "Máster oficial",
        "slots": [
@@ -2079,19 +2118,6 @@
         {
          "dates": "03.nov",
          "room": "Aula 7.1.J04"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aulas INF 7.0.J03 DUAL + TEL y INF 7.0.J04 DUAL",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "15.dic",
-         "room": "Aulas INF 7.0.J03 DUAL + TEL y INF 7.0.J04 DUAL"
         }
        ]
       },
@@ -2198,6 +2224,19 @@
        "day": 1,
        "start": "14:00",
        "end": "15:30",
+       "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J05 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "15.dic",
+         "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J05 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:30",
        "room": "Aula 7.2.J04",
        "type": null,
        "slots": [
@@ -2217,14 +2256,14 @@
       },
       {
        "day": 1,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J05 DUAL",
+       "start": "15:30",
+       "end": "17:00",
+       "room": "LAB 7.0.H01 (Aero)",
        "type": null,
        "slots": [
         {
-         "dates": "15.dic",
-         "room": "Aulas INF 7.0.J02 DUAL+ TEL y INF 7.0.J05 DUAL"
+         "dates": "17.nov",
+         "room": "LAB 7.0.H01 (Aero)"
         }
        ]
       },
@@ -2238,19 +2277,6 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 7.2.J04"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "LAB 7.0.H01 (Aero)",
-       "type": null,
-       "slots": [
-        {
-         "dates": "17.nov",
-         "room": "LAB 7.0.H01 (Aero)"
         }
        ]
       },
@@ -2300,12 +2326,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "LAB 7.0.H01 (Aero)",
+       "room": "Aula 7.1.J05",
        "type": null,
        "slots": [
         {
-         "dates": "19.nov",
-         "room": "LAB 7.0.H01 (Aero)"
+         "dates": "10.sep-03.dic",
+         "room": "Aula 7.1.J05"
         }
        ]
       },
@@ -2313,12 +2339,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 7.1.J05",
+       "room": "LAB 7.0.H01 (Aero)",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-03.dic",
-         "room": "Aula 7.1.J05"
+         "dates": "19.nov",
+         "room": "LAB 7.0.H01 (Aero)"
         }
        ]
       },

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Dirección de Empresas- Master in Management",
  "year": "2026",
- "generatedAt": "2026-10-19T10:02:43Z",
+ "generatedAt": "2026-10-26T10:16:01Z",
  "subjects": [
   {
    "code": "17858",
@@ -94,6 +94,32 @@
      "id": "1",
      "sessions": [
       {
+       "day": 1,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov-24.nov",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 0.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov-24.nov",
+         "room": "Aula 0.A.04"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "09:00",
        "end": "10:30",
@@ -101,7 +127,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-22.oct",
+         "dates": "10.sep-08.oct",
          "room": "Aula 0.A.04"
         },
         {
@@ -118,7 +144,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.sep-22.oct",
+         "dates": "10.sep-08.oct",
          "room": "Aula 0.A.04"
         },
         {
@@ -425,7 +451,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "15.dic",
+         "dates": "01.dic",
          "room": "Aula 0.A.04"
         }
        ]
@@ -438,7 +464,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "01.dic",
+         "dates": "15.dic",
          "room": "Aula 0.A.04"
         }
        ]

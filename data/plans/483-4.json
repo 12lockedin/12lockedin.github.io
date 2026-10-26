@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Finanzas / Master in Finance",
  "year": "2026",
- "generatedAt": "2026-10-19T10:17:46Z",
+ "generatedAt": "2026-10-26T10:30:52Z",
  "subjects": [
   {
    "code": "19328",
@@ -468,7 +468,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "22.sep-13.oct",
+         "dates": "22.sep-06.oct",
          "room": "Aula 1.A.07 INF"
         }
        ]
@@ -494,7 +494,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "24.sep-15.oct",
+         "dates": "24.sep-08.oct",
          "room": "Aula 1.A.07 INF"
         }
        ]
@@ -874,6 +874,10 @@
        "type": "Máster oficial",
        "slots": [
         {
+         "dates": "05.nov",
+         "room": "Aula 1.A.04"
+        },
+        {
          "dates": "17.dic",
          "room": "Aula 1.A.04"
         }
@@ -900,11 +904,24 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.nov-03.dic",
+         "dates": "12.nov-03.dic",
          "room": "Aula 1.A.04"
         },
         {
          "dates": "14.ene",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "11:45",
+       "end": "13:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov",
          "room": "Aula 1.A.04"
         }
        ]
@@ -942,10 +959,6 @@
        "room": "Aula 1.A.04",
        "type": "Máster oficial",
        "slots": [
-        {
-         "dates": "05.nov",
-         "room": "Aula 1.A.04"
-        },
         {
          "dates": "19.nov-03.dic",
          "room": "Aula 1.A.04"

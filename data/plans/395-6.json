@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-10-19T10:01:00Z",
+ "generatedAt": "2026-10-26T10:14:18Z",
  "subjects": [
   {
    "code": "19408",
@@ -440,33 +440,6 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 1.1.A21"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "13166",
-   "name": "ECONOMÍA FINANCIERA, 2º,2ºC (grupos 50,70 y 71) 09:00 a 10:30 25.ene: Aula 1.0.B05",
-   "course": 2,
-   "term": 1,
-   "groups": [
-    {
-     "id": "1",
-     "kind": "magistral",
-     "sessions": [
-      {
-       "day": 0,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 1.0.B05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "25.ene",
-         "room": "Aula 1.0.B05"
         }
        ]
       }
