@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Economía de la Empresa y Finanzas/ Master in Business and Finance",
  "year": "2026",
- "generatedAt": "2026-10-26T10:11:03Z",
+ "generatedAt": "2026-11-02T12:27:08Z",
  "subjects": [
   {
    "code": "17190",
@@ -96,6 +96,19 @@
      "id": "1",
      "sessions": [
       {
+       "day": 0,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.1.A10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov-16.nov",
+         "room": "Aula 18.1.A10"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "09:30",
        "end": "11:30",
@@ -103,7 +116,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "04.nov-16.dic",
+         "dates": "18.nov-16.dic",
          "room": "Aula 18.0.A01"
         }
        ]
@@ -154,6 +167,19 @@
       {
        "day": 4,
        "start": "09:30",
+       "end": "12:30",
+       "room": "Aula 18.0.A11",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.oct-09.oct",
+         "room": "Aula 18.0.A11"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:30",
        "end": "11:30",
        "room": "Aula 18.0.A11",
        "type": "Máster oficial",
@@ -164,19 +190,6 @@
         },
         {
          "dates": "16.oct-23.oct",
-         "room": "Aula 18.0.A11"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "09:30",
-       "end": "12:30",
-       "room": "Aula 18.0.A11",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "02.oct-09.oct",
          "room": "Aula 18.0.A11"
         }
        ]
@@ -584,19 +597,6 @@
        "day": 1,
        "start": "12:00",
        "end": "14:00",
-       "room": "Aula 18.0.A08",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "22.sep-06.oct",
-         "room": "Aula 18.0.A08"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "12:00",
-       "end": "14:00",
        "room": "Aula 18.0.A01",
        "type": "Máster oficial",
        "slots": [
@@ -607,6 +607,19 @@
         {
          "dates": "13.oct",
          "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.0.A08",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.sep-06.oct",
+         "room": "Aula 18.0.A08"
         }
        ]
       },
@@ -859,7 +872,7 @@
         },
         {
          "dates": "10.dic",
-         "room": "Aula 18.0.A11"
+         "room": "Aula 18.0.A01"
         },
         {
          "dates": "17.dic",

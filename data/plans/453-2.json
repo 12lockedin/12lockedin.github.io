@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ciencias",
  "year": "2026",
- "generatedAt": "2026-10-26T10:26:59Z",
+ "generatedAt": "2026-11-02T12:43:26Z",
  "subjects": [
   {
    "code": "18721",
@@ -16,6 +16,19 @@
      "id": "201",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.0.F01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.sep-10.dic",
+         "room": "Aula 1.0.F01"
+        }
+       ]
+      },
       {
        "day": 3,
        "start": "15:30",
@@ -34,36 +47,6 @@
         {
          "dates": "26.nov-03.dic",
          "room": "Aula 7.1.J01"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 1.0.F01",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "10.sep-10.dic",
-         "room": "Aula 1.0.F01"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 2.3.A05",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "11.sep-02.oct",
-         "room": "Aula 2.3.A05"
-        },
-        {
-         "dates": "16.oct-11.dic",
-         "room": "Aula 2.3.A05"
         }
        ]
       },
@@ -97,6 +80,23 @@
         {
          "dates": "27.nov-04.dic",
          "room": "Aula 7.1.J07"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.sep-02.oct",
+         "room": "Aula 2.3.A05"
+        },
+        {
+         "dates": "16.oct-11.dic",
+         "room": "Aula 2.3.A05"
         }
        ]
       }

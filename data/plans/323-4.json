@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Gestión Turística de Recursos Culturales y Naturales",
  "year": "2026",
- "generatedAt": "2026-10-26T10:08:57Z",
+ "generatedAt": "2026-11-02T12:24:58Z",
  "subjects": [
   {
    "code": "12350",
@@ -107,6 +107,19 @@
      "sessions": [
       {
        "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 18.0.A10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 18.0.A10"
+        }
+       ]
+      },
+      {
+       "day": 1,
        "start": "19:15",
        "end": "20:45",
        "room": "Aula 18.0.A10",
@@ -117,7 +130,11 @@
          "room": "Aula 18.0.A10"
         },
         {
-         "dates": "03.nov-01.dic",
+         "dates": "03.nov",
+         "room": "Aula 18.0.A10"
+        },
+        {
+         "dates": "17.nov-01.dic",
          "room": "Aula 18.0.A10"
         },
         {
@@ -304,6 +321,19 @@
      "sessions": [
       {
        "day": 0,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 18.0.A10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 18.0.A10"
+        }
+       ]
+      },
+      {
+       "day": 0,
        "start": "16:00",
        "end": "17:30",
        "room": "Aula 18.0.A10",
@@ -396,8 +426,25 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.nov-01.dic",
+         "dates": "03.nov-10.nov",
          "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:30",
+       "end": "17:30",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic",
+         "room": "* SIN AULA *"
         }
        ]
       },
@@ -411,6 +458,32 @@
         {
          "dates": "05.nov-10.dic",
          "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:30",
+       "end": "17:30",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "* SIN AULA *"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:00",
+       "end": "18:30",
+       "room": "Aula 18.0.A10",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula 18.0.A10"
         }
        ]
       }
@@ -435,12 +508,29 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.nov-01.dic",
+         "dates": "03.nov-10.nov",
+         "room": "Aula 18.0.A03"
+        },
+        {
+         "dates": "24.nov-01.dic",
          "room": "Aula 18.0.A03"
         },
         {
          "dates": "15.dic",
          "room": "Aula 18.0.A03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:30",
+       "end": "17:30",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic",
+         "room": "* SIN AULA *"
         }
        ]
       },
@@ -456,8 +546,25 @@
          "room": "Aula 18.0.A03"
         },
         {
+         "dates": "19.nov",
+         "room": "Aula 18.0.A06"
+        },
+        {
          "dates": "26.nov-10.dic",
          "room": "Aula 18.0.A03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:30",
+       "end": "17:30",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "* SIN AULA *"
         }
        ]
       }
@@ -576,8 +683,25 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.nov-01.dic",
+         "dates": "03.nov-10.nov",
          "room": "Aula 18.0.A02"
+        },
+        {
+         "dates": "24.nov-01.dic",
+         "room": "Aula 18.0.A02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:30",
+       "end": "17:30",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic",
+         "room": "* SIN AULA *"
         }
        ]
       },
@@ -591,6 +715,19 @@
         {
          "dates": "05.nov-10.dic",
          "room": "Aula 18.0.A02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:30",
+       "end": "17:30",
+       "room": "* SIN AULA *",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.dic",
+         "room": "* SIN AULA *"
         }
        ]
       }

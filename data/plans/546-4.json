@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Diseño Microelectrónico",
  "year": "2026",
- "generatedAt": "2026-10-26T10:39:22Z",
+ "generatedAt": "2026-11-02T12:56:17Z",
  "subjects": [
   {
    "code": "20087",
@@ -29,6 +29,10 @@
         {
          "dates": "06.oct-27.oct",
          "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "10.nov-17.nov",
+         "room": "Aula 2.3.A03B"
         }
        ]
       },
@@ -40,7 +44,11 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.nov-01.dic",
+         "dates": "03.nov",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "24.nov-01.dic",
          "room": "Aula 2.3.A03B"
         },
         {
@@ -61,7 +69,11 @@
          "room": "Aula 2.3.A03B"
         },
         {
-         "dates": "08.oct-17.dic",
+         "dates": "08.oct-29.oct",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "19.nov-17.dic",
          "room": "Aula 2.3.A03B"
         }
        ]
@@ -75,6 +87,10 @@
        "slots": [
         {
          "dates": "24.sep",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "05.nov-12.nov",
          "room": "Aula 2.3.A03B"
         }
        ]
@@ -280,11 +296,41 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.nov-01.dic",
+         "dates": "03.nov",
+         "room": "Aula 2.3.A03B"
+        },
+        {
+         "dates": "24.nov-01.dic",
          "room": "Aula 2.3.A03B"
         },
         {
          "dates": "15.dic",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov-17.nov",
+         "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.A03B",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.nov-12.nov",
          "room": "Aula 2.3.A03B"
         }
        ]
@@ -297,7 +343,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.nov-17.dic",
+         "dates": "19.nov-17.dic",
          "room": "Aula 2.3.A03B"
         }
        ]
@@ -400,6 +446,19 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
+       "room": "Aula 2.3.B01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 2.3.B01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
        "room": "Aula 2.3.A03B",
        "type": "Máster oficial",
        "slots": [
@@ -410,19 +469,6 @@
         {
          "dates": "28.oct-16.dic",
          "room": "Aula 2.3.A03B"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 2.3.B01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "21.oct",
-         "room": "Aula 2.3.B01"
         }
        ]
       }
@@ -494,6 +540,19 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
+       "room": "Aula 1.0.C01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 1.0.C01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
        "room": "Aula 2.3.A03B",
        "type": "Máster oficial",
        "slots": [
@@ -504,19 +563,6 @@
         {
          "dates": "23.oct-18.dic",
          "room": "Aula 2.3.A03B"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 1.0.C01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "16.oct",
-         "room": "Aula 1.0.C01"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-10-26T10:06:23Z",
+ "generatedAt": "2026-11-02T12:22:20Z",
  "subjects": [
   {
    "code": "16101",
@@ -49,7 +49,11 @@
          "room": "Aula 4.2.E04"
         },
         {
-         "dates": "04.nov-09.dic",
+         "dates": "04.nov",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "11.nov-09.dic",
          "room": "LAB 4.1.B01 (Telematica)"
         }
        ]
@@ -411,6 +415,19 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aula 4.2.E05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 4.2.E05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
        "room": "LAB 4.0.B01A (Tª Señal)",
        "type": null,
        "slots": [
@@ -421,19 +438,6 @@
         {
          "dates": "01.dic",
          "room": "LAB 4.0.B01A (Tª Señal)"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 4.2.E05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "13.oct",
-         "room": "Aula 4.2.E05"
         }
        ]
       },
@@ -531,13 +535,17 @@
       {
        "day": 3,
        "start": "10:45",
-       "end": "12:00",
-       "room": "Aula 4.1.D03",
+       "end": "12:15",
+       "room": "LAB 1.0.E01 (Electrónica)",
        "type": null,
        "slots": [
         {
-         "dates": "22.oct",
-         "room": "Aula 4.1.D03"
+         "dates": "01.oct",
+         "room": "LAB 1.0.E01 (Electrónica)"
+        },
+        {
+         "dates": "15.oct",
+         "room": "LAB 1.0.E01 (Electrónica)"
         }
        ]
       },
@@ -589,17 +597,13 @@
       {
        "day": 3,
        "start": "10:45",
-       "end": "12:15",
-       "room": "LAB 1.0.E01 (Electrónica)",
+       "end": "12:00",
+       "room": "Aula 4.1.D03",
        "type": null,
        "slots": [
         {
-         "dates": "01.oct",
-         "room": "LAB 1.0.E01 (Electrónica)"
-        },
-        {
-         "dates": "15.oct",
-         "room": "LAB 1.0.E01 (Electrónica)"
+         "dates": "22.oct",
+         "room": "Aula 4.1.D03"
         }
        ]
       },
@@ -802,6 +806,19 @@
       },
       {
        "day": 2,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula 4.0.D01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 4.0.D01"
+        }
+       ]
+      },
+      {
+       "day": 2,
        "start": "10:45",
        "end": "12:15",
        "room": "Aula 4.0.E01",
@@ -893,19 +910,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "15.sep",
-         "room": "Aula 4.0.E01"
-        },
-        {
-         "dates": "13.oct",
-         "room": "Aula 4.0.E01"
-        },
-        {
-         "dates": "20.oct",
-         "room": "Aula 4.0.E06"
-        },
-        {
-         "dates": "17.nov",
+         "dates": "29.sep",
          "room": "Aula 4.0.E01"
         }
        ]

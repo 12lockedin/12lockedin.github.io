@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ciencias Políticas y Sociología",
  "year": "2026",
- "generatedAt": "2026-10-26T10:46:55Z",
+ "generatedAt": "2026-11-02T13:04:18Z",
  "subjects": [
   {
    "code": "19408",
@@ -70,7 +70,7 @@
   },
   {
    "code": "14068",
-   "name": "ESTRUCTURA Y CAMBIO SOC",
+   "name": "ESTRUCTURA Y CAMBIO SOC, 1º,1 er C",
    "course": 1,
    "term": 1,
    "groups": [
@@ -110,7 +110,7 @@
        "start": "12:30",
        "end": "14:00",
        "room": "Aula 5.1.05",
-       "type": "Básica",
+       "type": null,
        "slots": [
         {
          "dates": "10.sep-10.dic",

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Doble Máster en Ingeniería Informática / e Inteligencia Artificial Aplicada",
  "year": "2026",
- "generatedAt": "2026-10-26T10:38:00Z",
+ "generatedAt": "2026-11-02T12:54:52Z",
  "subjects": [
   {
    "code": "19205",
@@ -382,7 +382,7 @@
      "sessions": [
       {
        "day": 0,
-       "start": "16:30",
+       "start": "16:00",
        "end": "17:30",
        "room": "Aula 0.A.08",
        "type": null,
@@ -399,7 +399,7 @@
       },
       {
        "day": 3,
-       "start": "16:30",
+       "start": "16:00",
        "end": "17:30",
        "room": "Aula 0.A.08",
        "type": null,

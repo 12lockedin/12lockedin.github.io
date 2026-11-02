@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Tecnologías e Ingeniería Cuánticas",
  "year": "2026",
- "generatedAt": "2026-10-26T10:30:02Z",
+ "generatedAt": "2026-11-02T12:46:32Z",
  "subjects": [
   {
    "code": "19598",
@@ -604,6 +604,19 @@
         },
         {
          "dates": "14.dic",
+         "room": "Aula 4.2.E02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 4.2.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov",
          "room": "Aula 4.2.E02"
         }
        ]

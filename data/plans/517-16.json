@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Neurociencia",
  "year": "2026",
- "generatedAt": "2026-10-26T10:35:58Z",
+ "generatedAt": "2026-11-02T12:52:43Z",
  "subjects": [
   {
    "code": "19760",
@@ -575,6 +575,19 @@
        "day": 2,
        "start": "09:00",
        "end": "13:00",
+       "room": "LAB-20.1.E01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "11.nov",
+         "room": "LAB-20.1.E01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "09:00",
+       "end": "13:00",
        "room": "LAB-20.1.A01",
        "type": "Obligatoria",
        "slots": [
@@ -585,19 +598,6 @@
         {
          "dates": "18.nov",
          "room": "LAB-20.1.A01"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "09:00",
-       "end": "13:00",
-       "room": "LAB-20.1.E01",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "11.nov",
-         "room": "LAB-20.1.E01"
         }
        ]
       },
@@ -649,19 +649,6 @@
        "day": 0,
        "start": "09:30",
        "end": "13:30",
-       "room": "Aula INF-15.S.04",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "23.nov",
-         "room": "Aula INF-15.S.04"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "09:30",
-       "end": "13:30",
        "room": "LAB-20.1.A01",
        "type": "Obligatoria",
        "slots": [
@@ -672,6 +659,19 @@
         {
          "dates": "09.nov-16.nov",
          "room": "LAB-20.1.A01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "09:30",
+       "end": "13:30",
+       "room": "Aula INF-15.S.04",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "23.nov",
+         "room": "Aula INF-15.S.04"
         }
        ]
       },
@@ -962,7 +962,7 @@
         },
         {
          "dates": "06.nov-27.nov",
-         "room": "Aula INF-15.S.04"
+         "room": "Aula 20.1.D02"
         }
        ]
       }

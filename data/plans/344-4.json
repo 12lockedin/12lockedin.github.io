@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Asesoría Jurídica de Empresas",
  "year": "2026",
- "generatedAt": "2026-10-26T10:09:45Z",
+ "generatedAt": "2026-11-02T12:25:48Z",
  "subjects": [
   {
    "code": "16820",
@@ -587,7 +587,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.nov-03.dic",
+         "dates": "05.nov-26.nov",
          "room": "Aula 1.A.03"
         }
        ]
@@ -745,7 +745,7 @@
         },
         {
          "dates": "09.dic-16.dic",
-         "room": "Aula -1.A.01"
+         "room": "Aula 1.A.03"
         }
        ]
       },
@@ -770,7 +770,7 @@
         },
         {
          "dates": "09.dic-16.dic",
-         "room": "Aula -1.A.01"
+         "room": "Aula 1.A.03"
         }
        ]
       },
@@ -923,7 +923,7 @@
          "room": "Aula 1.A.03"
         },
         {
-         "dates": "09.dic-16.dic",
+         "dates": "16.dic",
          "room": "Aula 1.A.03"
         }
        ]
@@ -936,7 +936,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "17.dic",
+         "dates": "03.dic-17.dic",
          "room": "Aula 1.A.03"
         }
        ]
@@ -1023,13 +1023,6 @@
   {
    "code": "19363",
    "name": "Operaciones de M&A: Fusiones y Adquisiciones",
-   "course": 1,
-   "term": 2,
-   "groups": []
-  },
-  {
-   "code": "16829",
-   "name": "Práctica Concursal Administrativa y Civil",
    "course": 1,
    "term": 2,
    "groups": []

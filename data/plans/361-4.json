@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencia e Ingeniería de Materiales",
  "year": "2026",
- "generatedAt": "2026-10-26T10:10:44Z",
+ "generatedAt": "2026-11-02T12:26:47Z",
  "subjects": [
   {
    "code": "17153",
@@ -66,6 +66,19 @@
     {
      "id": "1",
      "sessions": [
+      {
+       "day": 1,
+       "start": "13:30",
+       "end": "15:30",
+       "room": "Aula 4.1.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov",
+         "room": "Aula 4.1.E02"
+        }
+       ]
+      },
       {
        "day": 3,
        "start": "15:30",
@@ -139,19 +152,6 @@
        "day": 4,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula INF 4.S.D.02",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "25.sep-02.oct",
-         "room": "Aula INF 4.S.D.02"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "17:15",
-       "end": "18:45",
        "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
@@ -162,6 +162,19 @@
         {
          "dates": "16.oct-23.oct",
          "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula INF 4.S.D.02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.sep-02.oct",
+         "room": "Aula INF 4.S.D.02"
         }
        ]
       }
@@ -216,19 +229,6 @@
        "day": 3,
        "start": "17:15",
        "end": "18:45",
-       "room": "LAB 1.0.A01 (Materiales)",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "03.dic-10.dic",
-         "room": "LAB 1.0.A01 (Materiales)"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "17:15",
-       "end": "18:45",
        "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
@@ -243,6 +243,19 @@
         {
          "dates": "17.dic",
          "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "LAB 1.0.A01 (Materiales)",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic-10.dic",
+         "room": "LAB 1.0.A01 (Materiales)"
         }
        ]
       }
@@ -482,12 +495,12 @@
        "day": 0,
        "start": "17:15",
        "end": "18:45",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "25.ene-08.mar",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J05"
         }
        ]
       },
@@ -495,16 +508,16 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "28.ene-18.feb",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J05"
         },
         {
          "dates": "04.mar-11.mar",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J05"
         }
        ]
       }
@@ -553,12 +566,12 @@
        "day": 1,
        "start": "15:30",
        "end": "17:00",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "26.ene-09.mar",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J05"
         }
        ]
       },
@@ -566,12 +579,12 @@
        "day": 2,
        "start": "15:30",
        "end": "17:00",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "27.ene-10.mar",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J05"
         }
        ]
       },
@@ -579,12 +592,12 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "31.mar-12.may",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J05"
         }
        ]
       },
@@ -592,12 +605,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "01.abr-13.may",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J05"
         }
        ]
       }
@@ -670,12 +683,12 @@
        "day": 0,
        "start": "15:30",
        "end": "17:00",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "25.ene-08.mar",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J05"
         }
        ]
       },
@@ -683,12 +696,12 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "27.ene-10.mar",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J05"
         }
        ]
       },
@@ -696,12 +709,12 @@
        "day": 3,
        "start": "15:30",
        "end": "17:00",
-       "room": "* SIN AULA *",
+       "room": "Aula 7.2.J05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "25.feb",
-         "room": "* SIN AULA *"
+         "room": "Aula 7.2.J05"
         }
        ]
       }

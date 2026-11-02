@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Desarrollo Sostenible y Gobernanza Global/ Global Sustainable Development and Global Governance",
  "year": "2026",
- "generatedAt": "2026-10-26T10:29:24Z",
+ "generatedAt": "2026-11-02T12:45:52Z",
  "subjects": [
   {
    "code": "19157",
@@ -430,7 +430,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "16.nov-30.nov",
+         "dates": "23.nov-30.nov",
          "room": "Aula 1.A.13"
         },
         {
@@ -447,7 +447,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "16.nov-30.nov",
+         "dates": "23.nov-30.nov",
          "room": "Aula 1.A.13"
         },
         {
@@ -478,6 +478,32 @@
        "slots": [
         {
          "dates": "09.dic",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:30",
+       "end": "19:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.nov",
+         "room": "Aula 1.A.13"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:15",
+       "end": "21:00",
+       "room": "Aula 1.A.13",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.nov",
          "room": "Aula 1.A.13"
         }
        ]
@@ -842,71 +868,6 @@
    ]
   },
   {
-   "code": "19171",
-   "name": "Mercados de trabajo y trabajo sostenible",
-   "course": 2,
-   "term": 1,
-   "groups": [
-    {
-     "id": "1",
-     "sessions": [
-      {
-       "day": 1,
-       "start": "14:30",
-       "end": "16:00",
-       "room": "Aula 1.A.13",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "24.nov-01.dic",
-         "room": "Aula 1.A.13"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "16:00",
-       "end": "17:30",
-       "room": "Aula 1.A.13",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "24.nov-01.dic",
-         "room": "Aula 1.A.13"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "17:45",
-       "end": "19:15",
-       "room": "Aula 1.A.13",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "27.oct-17.nov",
-         "room": "Aula 1.A.13"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "19:30",
-       "end": "21:00",
-       "room": "Aula 1.A.13",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "27.oct-17.nov",
-         "room": "Aula 1.A.13"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "19155",
    "name": "Métodos en los Estudios de Sostenibilidad",
    "course": 1,
@@ -1128,8 +1089,8 @@
       },
       {
        "day": 2,
-       "start": "19:30",
-       "end": "21:00",
+       "start": "14:30",
+       "end": "16:00",
        "room": "Aula 1.A.13",
        "type": "Máster oficial",
        "slots": [
@@ -1186,7 +1147,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "06.nov-04.dic",
+         "dates": "30.oct-04.dic",
          "room": "Aula 1.A.13"
         }
        ]

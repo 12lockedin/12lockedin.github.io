@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Bibliotecas, Archivos y Continuidad Digital Online",
  "year": "2026",
- "generatedAt": "2026-10-26T10:32:18Z",
+ "generatedAt": "2026-11-02T12:48:53Z",
  "subjects": [
   {
    "code": "17880",
@@ -433,6 +433,19 @@
      "id": "1",
      "sessions": [
       {
+       "day": 2,
+       "start": "10:00",
+       "end": "11:00",
+       "room": "Aula Sala Polivalente 1.A.14",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.dic",
+         "room": "Aula Sala Polivalente 1.A.14"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "09:00",
        "end": "14:30",
@@ -466,10 +479,6 @@
         },
         {
          "dates": "20.nov",
-         "room": "Aula Sala Polivalente 1.A.14"
-        },
-        {
-         "dates": "11.dic",
          "room": "Aula Sala Polivalente 1.A.14"
         }
        ]
@@ -1104,74 +1113,6 @@
         },
         {
          "dates": "30.abr",
-         "room": "Aula Sala Polivalente 1.A.14"
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "17304",
-   "name": "Infraestructura de los servicios informáticos",
-   "course": 1,
-   "term": 2,
-   "groups": [
-    {
-     "id": "1",
-     "sessions": [
-      {
-       "day": 1,
-       "start": "15:30",
-       "end": "21:00",
-       "room": "Aula Virtual",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "06.abr",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "20.abr",
-         "room": "Aula Virtual"
-        },
-        {
-         "dates": "04.may",
-         "room": "Aula Virtual"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:00",
-       "end": "15:45",
-       "room": "Aula Sala Polivalente 1.A.14",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "02.abr",
-         "room": "Aula Sala Polivalente 1.A.14"
-        },
-        {
-         "dates": "16.abr",
-         "room": "Aula Sala Polivalente 1.A.14"
-        },
-        {
-         "dates": "30.abr",
-         "room": "Aula Sala Polivalente 1.A.14"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "16:00",
-       "end": "16:45",
-       "room": "Aula Sala Polivalente 1.A.14",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "21.may",
          "room": "Aula Sala Polivalente 1.A.14"
         }
        ]

@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Derecho y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-10-26T10:17:24Z",
+ "generatedAt": "2026-11-02T12:33:35Z",
  "subjects": [
   {
    "code": "19408",
@@ -1699,8 +1699,12 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "11.sep-11.dic",
+         "dates": "11.sep-23.oct",
          "room": "Aula 1.1.A10"
+        },
+        {
+         "dates": "30.oct-11.dic",
+         "room": "Aula 1.0.B03"
         }
        ]
       }
@@ -1718,8 +1722,12 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "11.sep-11.dic",
+         "dates": "11.sep-23.oct",
          "room": "Aula 1.1.A10"
+        },
+        {
+         "dates": "30.oct-11.dic",
+         "room": "Aula 1.1.B04"
         }
        ]
       }

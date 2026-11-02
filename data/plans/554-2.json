@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Matemática Aplicada",
  "year": "2026",
- "generatedAt": "2026-10-26T10:40:03Z",
+ "generatedAt": "2026-11-02T12:57:06Z",
  "subjects": [
   {
    "code": "19893",
@@ -726,6 +726,19 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aula 1.1.G02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 1.1.G02"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 4.1.E04",
        "type": "Básica",
        "slots": [
@@ -740,19 +753,6 @@
         {
          "dates": "30.nov",
          "room": "Aula 7.1.J03"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 1.1.G02",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "05.oct",
-         "room": "Aula 1.1.G02"
         }
        ]
       },
@@ -973,6 +973,19 @@
         {
          "dates": "10.dic",
          "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.D01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "30.oct",
+         "room": "Aula 2.3.D01"
         }
        ]
       },

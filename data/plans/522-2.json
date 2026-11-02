@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-10-26T10:36:35Z",
+ "generatedAt": "2026-11-02T12:53:24Z",
  "subjects": [
   {
    "code": "15526",
@@ -106,6 +106,19 @@
        "day": 0,
        "start": "09:00",
        "end": "10:30",
+       "room": "Aula 2.3.C04",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "30.nov",
+         "room": "Aula 2.3.C04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "09:00",
+       "end": "10:30",
        "room": "Aula 7.2.J01",
        "type": "Básica",
        "slots": [
@@ -120,19 +133,6 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 7.2.J01"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula 2.3.C04",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "30.nov",
-         "room": "Aula 2.3.C04"
         }
        ]
       },
@@ -937,11 +937,7 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "14.oct-21.oct",
-         "room": "LAB 1.0.G10 (Bioingeniería)"
-        },
-        {
-         "dates": "04.nov",
+         "dates": "28.oct",
          "room": "LAB 1.0.G10 (Bioingeniería)"
         }
        ]
@@ -999,6 +995,19 @@
         {
          "dates": "06.nov",
          "room": "LAB 1.0.G10 (Bioingeniería)"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.2.J01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "06.nov",
+         "room": "Aula 7.2.J01"
         }
        ]
       },
@@ -1689,6 +1698,19 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
+       "room": "Aula 7.0.J06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "13.oct",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
        "room": "Aula INF 7.0.J04 DUAL",
        "type": "Obligatoria",
        "slots": [
@@ -1703,19 +1725,6 @@
         {
          "dates": "10.nov-17.nov",
          "room": "Aula INF 7.0.J04 DUAL"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 7.0.J06",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "13.oct",
-         "room": "Aula 7.0.J06"
         }
        ]
       },
@@ -2345,19 +2354,6 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 7.0.J06",
-       "type": null,
-       "slots": [
-        {
-         "dates": "14.dic",
-         "room": "Aula 7.0.J06"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 7.0.J01",
        "type": null,
        "slots": [
@@ -2372,6 +2368,19 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.0.J06"
         }
        ]
       },

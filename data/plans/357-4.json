@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Herencia Cultural Hispánica",
  "year": "2026",
- "generatedAt": "2026-10-26T10:10:24Z",
+ "generatedAt": "2026-11-02T12:26:27Z",
  "subjects": [
   {
    "code": "17495",
@@ -123,6 +123,19 @@
     {
      "id": "1",
      "sessions": [
+      {
+       "day": 2,
+       "start": "15:30",
+       "end": "18:00",
+       "room": "Aula * DOCENCIA EXTERNA GETAFE",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "Aula * DOCENCIA EXTERNA GETAFE"
+        }
+       ]
+      },
       {
        "day": 3,
        "start": "09:00",

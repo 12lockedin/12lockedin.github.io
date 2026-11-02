@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas",
  "year": "2026",
- "generatedAt": "2026-10-26T10:20:26Z",
+ "generatedAt": "2026-11-02T12:36:38Z",
  "subjects": [
   {
    "code": "18113",
@@ -57,7 +57,20 @@
          "room": "Aula -1.A.06"
         },
         {
-         "dates": "18.sep-11.dic",
+         "dates": "18.sep-23.oct",
+         "room": "Aula -1.A.05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "30.oct-11.dic",
          "room": "Aula -1.A.05"
         }
        ]
@@ -416,6 +429,19 @@
        ]
       },
       {
+       "day": 0,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula -1.A.03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "19:30",
        "end": "21:00",
@@ -438,6 +464,10 @@
         {
          "dates": "29.oct",
          "room": "Aula -1.A.04"
+        },
+        {
+         "dates": "05.nov",
+         "room": "Aula -1.A.03"
         }
        ]
       },

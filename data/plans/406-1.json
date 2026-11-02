@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ciencias Políticas y Sociología",
  "year": "2026",
- "generatedAt": "2026-10-26T10:16:14Z",
+ "generatedAt": "2026-11-02T12:32:24Z",
  "subjects": [
   {
    "code": "14087",
@@ -784,7 +784,7 @@
   },
   {
    "code": "14095",
-   "name": "ANÁLISIS ELECTORAL",
+   "name": "ANÁLISIS ELECTORAL, 5º,1 er C",
    "course": 5,
    "term": 1,
    "groups": [
@@ -816,7 +816,7 @@
        "start": "16:15",
        "end": "17:45",
        "room": "Aula 5.1.05 BIS",
-       "type": "Obligatoria",
+       "type": null,
        "slots": [
         {
          "dates": "07.sep-05.oct",

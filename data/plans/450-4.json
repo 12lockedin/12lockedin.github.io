@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Derecho Penal y Procesal Penal - Presencial",
  "year": "2026",
- "generatedAt": "2026-10-26T10:26:28Z",
+ "generatedAt": "2026-11-02T12:42:54Z",
  "subjects": [
   {
    "code": "11999",
@@ -850,8 +850,8 @@
      "sessions": [
       {
        "day": 1,
-       "start": "16:00",
-       "end": "17:30",
+       "start": "15:00",
+       "end": "16:30",
        "room": "Aula 0.A.09",
        "type": "Máster oficial",
        "slots": [
@@ -863,8 +863,8 @@
       },
       {
        "day": 1,
-       "start": "17:45",
-       "end": "19:15",
+       "start": "16:45",
+       "end": "18:15",
        "room": "Aula 0.A.09",
        "type": "Máster oficial",
        "slots": [
@@ -876,8 +876,8 @@
       },
       {
        "day": 1,
-       "start": "19:30",
-       "end": "21:00",
+       "start": "18:30",
+       "end": "19:45",
        "room": "Aula 0.A.09",
        "type": "Máster oficial",
        "slots": [

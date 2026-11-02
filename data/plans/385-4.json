@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Análisis Político y Electoral",
  "year": "2026",
- "generatedAt": "2026-10-26T10:12:29Z",
+ "generatedAt": "2026-11-02T12:28:35Z",
  "subjects": [
   {
    "code": "17737",
@@ -245,6 +245,32 @@
      "sessions": [
       {
        "day": 0,
+       "start": "15:00",
+       "end": "16:15",
+       "room": "Aula 0.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula 0.A.06"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "16:30",
+       "end": "17:45",
+       "room": "Aula 0.A.06",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula 0.A.06"
+        }
+       ]
+      },
+      {
+       "day": 0,
        "start": "18:00",
        "end": "19:15",
        "room": "Aula 0.A.06",
@@ -318,7 +344,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.nov-12.nov",
+         "dates": "12.nov",
          "room": "Aula 0.A.06"
         }
        ]
@@ -331,7 +357,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.nov-12.nov",
+         "dates": "12.nov",
          "room": "Aula 0.A.06"
         }
        ]
@@ -348,7 +374,7 @@
          "room": "Aula 0.A.06"
         },
         {
-         "dates": "11.dic",
+         "dates": "06.nov",
          "room": "Aula 0.A.06"
         }
        ]
@@ -365,7 +391,7 @@
          "room": "Aula 0.A.06"
         },
         {
-         "dates": "11.dic",
+         "dates": "06.nov",
          "room": "Aula 0.A.06"
         }
        ]
