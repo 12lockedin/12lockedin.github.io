@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Marketing - Presencial",
  "year": "2026",
- "generatedAt": "2026-11-02T12:23:34Z",
+ "generatedAt": "2026-11-09T12:52:28Z",
  "subjects": [
   {
    "code": "16226",
@@ -1145,7 +1145,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "27.ene-10.mar",
+         "dates": "27.ene-03.mar",
          "room": "Aula 2.A.03"
         }
        ]
@@ -1158,8 +1158,34 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "27.ene-10.mar",
+         "dates": "27.ene-03.mar",
          "room": "Aula 2.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:00",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.mar",
+         "room": "Aula 2.A.04"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:00",
+       "end": "12:00",
+       "room": "Aula 2.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.mar",
+         "room": "Aula 2.A.04"
         }
        ]
       }

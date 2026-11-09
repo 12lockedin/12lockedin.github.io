@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Derecho",
  "year": "2026",
- "generatedAt": "2026-11-02T12:30:56Z",
+ "generatedAt": "2026-11-09T13:00:16Z",
  "subjects": [
   {
    "code": "13565",
@@ -35,7 +35,7 @@
   },
   {
    "code": "13564",
-   "name": "DERECHO ROMANO, 1º,1 er C (grupos 13,14 y 15) 16:15 a 17:45 08.sep-01.dic: Aula 10.2.10",
+   "name": "DERECHO ROMANO, 1º,1 er C",
    "course": 1,
    "term": 1,
    "groups": [
@@ -64,13 +64,26 @@
      "sessions": [
       {
        "day": 3,
+       "start": "14:30",
+       "end": "16:00",
+       "room": "Aula 6.1.06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "05.nov-10.dic",
+         "room": "Aula 6.1.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
        "start": "19:45",
        "end": "21:15",
        "room": "Aula 5.1.03",
        "type": null,
        "slots": [
         {
-         "dates": "10.sep-10.dic",
+         "dates": "10.sep-29.oct",
          "room": "Aula 5.1.03"
         }
        ]

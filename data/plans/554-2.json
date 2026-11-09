@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Matemática Aplicada",
  "year": "2026",
- "generatedAt": "2026-11-02T12:57:06Z",
+ "generatedAt": "2026-11-09T13:26:55Z",
  "subjects": [
   {
    "code": "19893",
@@ -81,6 +81,19 @@
      "id": "406",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.A03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula 2.3.A03"
+        }
+       ]
+      },
       {
        "day": 3,
        "start": "14:00",
@@ -224,7 +237,7 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "23.oct-06.nov",
+         "dates": "23.oct-13.nov",
          "room": "Aula 2.3.B03"
         }
        ]
@@ -418,6 +431,19 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aula 2.3.C04",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.sep-28.sep",
+         "room": "Aula 2.3.C04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 1.0.F03",
        "type": "Básica",
        "slots": [
@@ -428,19 +454,6 @@
         {
          "dates": "16.nov",
          "room": "Aula 1.0.F03"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 2.3.C04",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "07.sep-28.sep",
-         "room": "Aula 2.3.C04"
         }
        ]
       },
@@ -726,19 +739,6 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 1.1.G02",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "05.oct",
-         "room": "Aula 1.1.G02"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 4.1.E04",
        "type": "Básica",
        "slots": [
@@ -753,6 +753,19 @@
         {
          "dates": "30.nov",
          "room": "Aula 7.1.J03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 1.1.G02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "05.oct",
+         "room": "Aula 1.1.G02"
         }
        ]
       },
@@ -929,6 +942,19 @@
        "day": 2,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aula 7.2.J05",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "07.oct-14.oct",
+         "room": "Aula 7.2.J05"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 2.3.A02",
        "type": "Obligatoria",
        "slots": [
@@ -943,19 +969,6 @@
         {
          "dates": "18.nov-25.nov",
          "room": "Aula 2.0.C15"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 7.2.J05",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "07.oct-14.oct",
-         "room": "Aula 7.2.J05"
         }
        ]
       },
@@ -1041,6 +1054,19 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aula 2.3.A06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula 2.3.A06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
        "room": "LAB 4.S.B03 (Fisica)",
        "type": "Básica",
        "slots": [
@@ -1051,19 +1077,6 @@
         {
          "dates": "20.oct-17.nov",
          "room": "LAB 4.S.B03 (Fisica)"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "12:30",
-       "end": "14:00",
-       "room": "Aula 2.3.A06",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "22.sep",
-         "room": "Aula 2.3.A06"
         }
        ]
       },

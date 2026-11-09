@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Derecho de las Telecomunicaciones, Protección de Datos, Audiovisual y Sociedad de la Información",
  "year": "2026",
- "generatedAt": "2026-11-02T12:24:19Z",
+ "generatedAt": "2026-11-09T12:53:15Z",
  "subjects": [
   {
    "code": "20312",
@@ -263,7 +263,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "27.oct-10.nov",
+         "dates": "27.oct",
          "room": "Aula 1.A.04"
         }
        ]
@@ -276,20 +276,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "27.oct-10.nov",
-         "room": "Aula 1.A.04"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "19:30",
-       "end": "21:00",
-       "room": "Aula 1.A.04",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "03.nov-10.nov",
+         "dates": "27.oct",
          "room": "Aula 1.A.04"
         }
        ]
@@ -302,8 +289,12 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "21.oct-11.nov",
+         "dates": "21.oct-04.nov",
          "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "11.nov",
+         "room": "Aula Virtual"
         }
        ]
       },
@@ -315,8 +306,12 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "21.oct-11.nov",
+         "dates": "21.oct-04.nov",
          "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "11.nov",
+         "room": "Aula Virtual"
         }
        ]
       },
@@ -746,6 +741,10 @@
         {
          "dates": "06.oct-13.oct",
          "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -759,6 +758,10 @@
         {
          "dates": "06.oct-13.oct",
          "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "03.nov",
+         "room": "Aula 1.A.04"
         }
        ]
       },
@@ -771,6 +774,10 @@
        "slots": [
         {
          "dates": "13.oct",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "03.nov",
          "room": "Aula 1.A.04"
         }
        ]
@@ -1089,6 +1096,19 @@
       },
       {
        "day": 1,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
        "start": "17:45",
        "end": "19:15",
        "room": "Aula 1.A.04",
@@ -1096,6 +1116,10 @@
        "slots": [
         {
          "dates": "20.oct",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "10.nov",
          "room": "Aula 1.A.04"
         }
        ]
@@ -1109,6 +1133,10 @@
        "slots": [
         {
          "dates": "20.oct",
+         "room": "Aula 1.A.04"
+        },
+        {
+         "dates": "10.nov",
          "room": "Aula 1.A.04"
         }
        ]

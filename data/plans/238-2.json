@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-11-02T12:22:20Z",
+ "generatedAt": "2026-11-09T12:51:12Z",
  "subjects": [
   {
    "code": "16101",
@@ -535,6 +535,19 @@
       {
        "day": 3,
        "start": "10:45",
+       "end": "12:00",
+       "room": "Aula 4.1.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 4.1.D03"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
        "end": "12:15",
        "room": "LAB 1.0.E01 (Electrónica)",
        "type": null,
@@ -591,19 +604,6 @@
         {
          "dates": "10.dic",
          "room": "Aula 4.0.E01"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "10:45",
-       "end": "12:00",
-       "room": "Aula 4.1.D03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "22.oct",
-         "room": "Aula 4.1.D03"
         }
        ]
       },
@@ -910,21 +910,20 @@
        "type": null,
        "slots": [
         {
-         "dates": "29.sep",
+         "dates": "15.sep",
          "room": "Aula 4.0.E01"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 4.0.E03",
-       "type": null,
-       "slots": [
+        },
         {
-         "dates": "04.nov",
-         "room": "Aula 4.0.E03"
+         "dates": "13.oct",
+         "room": "Aula 4.0.E01"
+        },
+        {
+         "dates": "20.oct",
+         "room": "Aula 4.0.E06"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 4.0.E01"
         }
        ]
       },
@@ -942,6 +941,19 @@
         {
          "dates": "09.dic",
          "room": "Aula 4.2.E04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 4.0.E03"
         }
        ]
       },

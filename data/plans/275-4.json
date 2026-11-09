@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Máquinas y Transportes",
  "year": "2026",
- "generatedAt": "2026-11-02T12:23:03Z",
+ "generatedAt": "2026-11-09T12:51:56Z",
  "subjects": [
   {
    "code": "16091",
@@ -298,6 +298,19 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
+       "room": "Aula 1.0.B01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.nov",
+         "room": "Aula 1.0.B01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
        "room": "Aula 2.0.C15",
        "type": "Máster oficial",
        "slots": [
@@ -324,19 +337,6 @@
         {
          "dates": "18.nov-16.dic",
          "room": "Aula 2.0.C15"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 1.0.B01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "25.nov",
-         "room": "Aula 1.0.B01"
         }
        ]
       },

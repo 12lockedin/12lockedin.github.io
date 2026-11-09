@@ -1,7 +1,7 @@
 {
  "year": "2026",
- "generatedAt": "2026-11-02T12:21:25Z",
- "count": 215,
+ "generatedAt": "2026-11-09T12:50:16Z",
+ "count": 216,
  "programmes": [
   {
    "type": "grado",
@@ -62,6 +62,13 @@
   {
    "type": "grado",
    "plan": 574,
+   "centro": 1,
+   "name": "Doble Grado en Derecho y Ciencias Políticas",
+   "campus": "Getafe"
+  },
+  {
+   "type": "grado",
+   "plan": 175,
    "centro": 1,
    "name": "Doble Grado en Derecho y Ciencias Políticas",
    "campus": "Getafe"
@@ -363,7 +370,7 @@
   {
    "type": "grado",
    "plan": 596,
-   "centro": 3,
+   "centro": 17,
    "name": "Grado en Educación Primaria",
    "campus": "Getafe"
   },
@@ -1203,21 +1210,21 @@
   {
    "type": "master",
    "plan": 599,
-   "centro": 4,
+   "centro": 29,
    "name": "Máster Universitario en Formación del Profesorado. Especialidad Filosofía",
    "campus": "Getafe"
   },
   {
    "type": "master",
    "plan": 600,
-   "centro": 4,
+   "centro": 29,
    "name": "Máster Universitario en Formación del Profesorado. Especialidad Lengua Castellana y Literatura",
    "campus": "Getafe"
   },
   {
    "type": "master",
    "plan": 606,
-   "centro": 4,
+   "centro": 29,
    "name": "Máster Universitario en Formación del Profesorado. Especialidad Tecnología",
    "campus": "Leganés"
   },

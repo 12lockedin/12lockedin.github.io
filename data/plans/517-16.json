@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Neurociencia",
  "year": "2026",
- "generatedAt": "2026-11-02T12:52:43Z",
+ "generatedAt": "2026-11-09T13:22:38Z",
  "subjects": [
   {
    "code": "19760",
@@ -605,6 +605,19 @@
        "day": 3,
        "start": "09:00",
        "end": "13:00",
+       "room": "LAB-20.1.E01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "12.nov",
+         "room": "LAB-20.1.E01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "13:00",
        "room": "LAB-20.1.A01",
        "type": "Obligatoria",
        "slots": [
@@ -615,19 +628,6 @@
         {
          "dates": "19.nov",
          "room": "LAB-20.1.A01"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "09:00",
-       "end": "13:00",
-       "room": "LAB-20.1.E01",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "12.nov",
-         "room": "LAB-20.1.E01"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciberseguridad",
  "year": "2026",
- "generatedAt": "2026-11-02T12:25:09Z",
+ "generatedAt": "2026-11-09T12:54:05Z",
  "subjects": [
   {
    "code": "18222",
@@ -509,8 +509,16 @@
          "room": "Aula 0.A.04"
         },
         {
-         "dates": "03.nov-17.nov",
-         "room": "Aula 0.A.04"
+         "dates": "03.nov",
+         "room": "Aula 1.A.07 INF"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aulas 1.A.06 INF y 1.A.07 INF"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 0.A.07"
         },
         {
          "dates": "24.nov-01.dic",
@@ -539,14 +547,10 @@
         },
         {
          "dates": "10.nov",
-         "room": "Aulas 0.A.04, 1.A.06 INF y 1.A.07 INF"
+         "room": "Aula 0.A.04"
         },
         {
-         "dates": "17.nov",
-         "room": "Aulas 1.A.07 INF y 0.A.04"
-        },
-        {
-         "dates": "24.nov-01.dic",
+         "dates": "17.nov-01.dic",
          "room": "Aula 1.A.07 INF"
         },
         {

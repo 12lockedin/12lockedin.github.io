@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Doble Máster en Ingeniería de Telecomunicación y Aprendizaje Automático para la Salud",
  "year": "2026",
- "generatedAt": "2026-11-02T12:53:40Z",
+ "generatedAt": "2026-11-09T13:23:33Z",
  "subjects": [
   {
    "code": "19277",
@@ -74,6 +74,19 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aula 4.1.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 4.1.E03"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 2.0.C03",
        "type": null,
        "slots": [
@@ -92,15 +105,15 @@
        ]
       },
       {
-       "day": 0,
+       "day": 2,
        "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 4.1.E03",
+       "end": "12:30",
+       "room": "Aula INF 7.0.J03 DUAL + TEL",
        "type": null,
        "slots": [
         {
-         "dates": "26.oct",
-         "room": "Aula 4.1.E03"
+         "dates": "23.sep",
+         "room": "Aula INF 7.0.J03 DUAL + TEL"
         }
        ]
       },
@@ -120,30 +133,10 @@
          "room": "Aula 2.0.C03"
         }
        ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:30",
-       "room": "Aula INF 7.0.J03 DUAL + TEL",
-       "type": null,
-       "slots": [
-        {
-         "dates": "23.sep",
-         "room": "Aula INF 7.0.J03 DUAL + TEL"
-        }
-       ]
       }
      ]
     }
    ]
-  },
-  {
-   "code": "19281",
-   "name": "Computación Intensiva en Datos",
-   "course": 2,
-   "term": 1,
-   "groups": []
   },
   {
    "code": "14309",

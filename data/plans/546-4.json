@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería de Diseño Microelectrónico",
  "year": "2026",
- "generatedAt": "2026-11-02T12:56:17Z",
+ "generatedAt": "2026-11-09T13:26:10Z",
  "subjects": [
   {
    "code": "20087",
@@ -75,6 +75,19 @@
         {
          "dates": "19.nov-17.dic",
          "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 4.1.E04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "12.nov",
+         "room": "Aula 4.1.E04"
         }
        ]
       },
@@ -446,19 +459,6 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.3.B01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "21.oct",
-         "room": "Aula 2.3.B01"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "17:15",
-       "end": "18:45",
        "room": "Aula 2.3.A03B",
        "type": "Máster oficial",
        "slots": [
@@ -469,6 +469,19 @@
         {
          "dates": "28.oct-16.dic",
          "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.B01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "21.oct",
+         "room": "Aula 2.3.B01"
         }
        ]
       }
@@ -540,19 +553,6 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 1.0.C01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "16.oct",
-         "room": "Aula 1.0.C01"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:30",
-       "end": "17:00",
        "room": "Aula 2.3.A03B",
        "type": "Máster oficial",
        "slots": [
@@ -563,6 +563,19 @@
         {
          "dates": "23.oct-18.dic",
          "room": "Aula 2.3.A03B"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 1.0.C01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 1.0.C01"
         }
        ]
       }

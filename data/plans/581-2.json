@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-11-02T13:04:55Z",
+ "generatedAt": "2026-11-09T13:35:00Z",
  "subjects": [
   {
    "code": "19408",
@@ -437,15 +437,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "07.sep-05.oct",
-         "room": "Aula 2.3.A02"
-        },
-        {
-         "dates": "19.oct-26.oct",
-         "room": "Aula 2.3.A02"
-        },
-        {
-         "dates": "09.nov-30.nov",
+         "dates": "14.dic",
          "room": "Aula 2.3.A02"
         }
        ]
@@ -492,11 +484,7 @@
          "room": "LAB 4.S.B02 (Fisica)"
         },
         {
-         "dates": "04.nov-11.nov",
-         "room": "LAB 4.S.B02 (Fisica)"
-        },
-        {
-         "dates": "25.nov",
+         "dates": "04.nov-25.nov",
          "room": "LAB 4.S.B02 (Fisica)"
         }
        ]
@@ -859,6 +847,10 @@
         {
          "dates": "13.oct",
          "room": "Aula 2.3.D05"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula 2.3.D01"
         }
        ]
       },
@@ -948,12 +940,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 2.3.D01",
+       "room": "Aula INF 2.2.C.04 DUAL",
        "type": null,
        "slots": [
         {
-         "dates": "20.oct",
-         "room": "Aula 2.3.D01"
+         "dates": "01.dic",
+         "room": "Aula INF 2.2.C.04 DUAL"
         }
        ]
       },
@@ -961,12 +953,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula INF 2.2.C.04 DUAL",
+       "room": "Aula 2.3.D01",
        "type": null,
        "slots": [
         {
-         "dates": "01.dic",
-         "room": "Aula INF 2.2.C.04 DUAL"
+         "dates": "20.oct",
+         "room": "Aula 2.3.D01"
         }
        ]
       },
@@ -1859,7 +1851,15 @@
        "type": null,
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-03.nov",
+         "room": "Aula INF 2.2.C.04 DUAL"
+        },
+        {
+         "dates": "10.nov",
+         "room": "Aula 1.0.C01"
+        },
+        {
+         "dates": "17.nov-01.dic",
          "room": "Aula INF 2.2.C.04 DUAL"
         }
        ]
@@ -2288,6 +2288,19 @@
        "day": 4,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aula INF 7.0.J04 DUAL",
+       "type": null,
+       "slots": [
+        {
+         "dates": "27.nov",
+         "room": "Aula INF 7.0.J04 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 2.3.C03",
        "type": null,
        "slots": [
@@ -2302,19 +2315,6 @@
         {
          "dates": "16.oct-11.dic",
          "room": "Aula 2.3.C03"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula INF 7.0.J04 DUAL",
-       "type": null,
-       "slots": [
-        {
-         "dates": "27.nov",
-         "room": "Aula INF 7.0.J04 DUAL"
         }
        ]
       },

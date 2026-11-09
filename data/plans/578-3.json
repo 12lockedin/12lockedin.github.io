@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-11-02T13:04:08Z",
+ "generatedAt": "2026-11-09T13:34:08Z",
  "subjects": [
   {
    "code": "19408",
@@ -84,6 +84,19 @@
       {
        "day": 3,
        "start": "14:00",
+       "end": "18:15",
+       "room": "Aula INF-15.S.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula INF-15.S.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "14:00",
        "end": "15:00",
        "room": "Aulas 17.1.02 y TALLERES LABORATORIOS",
        "type": "Básica",
@@ -115,19 +128,6 @@
         {
          "dates": "10.dic",
          "room": "Aulas 17.1.02 y TALLERES LABORATORIOS"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "14:00",
-       "end": "18:15",
-       "room": "Aula INF-15.S.06",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "03.dic",
-         "room": "Aula INF-15.S.06"
         }
        ]
       },
@@ -269,23 +269,6 @@
       {
        "day": 0,
        "start": "14:00",
-       "end": "18:15",
-       "room": "Aula LAB-17.1.12 Informática",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "16.nov",
-         "room": "Aula LAB-17.1.12 Informática"
-        },
-        {
-         "dates": "30.nov",
-         "room": "Aula LAB-17.1.12 Informática"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "14:00",
        "end": "15:00",
        "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
        "type": "Básica",
@@ -313,6 +296,23 @@
         {
          "dates": "30.nov",
          "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "14:00",
+       "end": "18:15",
+       "room": "Aula LAB-17.1.12 Informática",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "16.nov",
+         "room": "Aula LAB-17.1.12 Informática"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula LAB-17.1.12 Informática"
         }
        ]
       },

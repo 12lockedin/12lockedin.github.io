@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Matemática Aplicada y Computacional",
  "year": "2026",
- "generatedAt": "2026-11-02T12:44:28Z",
+ "generatedAt": "2026-11-09T13:14:05Z",
  "subjects": [
   {
    "code": "18768",
@@ -147,11 +147,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "16.oct",
-         "room": "Aula 1.0.B01"
-        },
-        {
-         "dates": "11.dic",
+         "dates": "06.nov",
          "room": "Aula 1.0.B01"
         }
        ]
@@ -164,7 +160,11 @@
        "type": null,
        "slots": [
         {
-         "dates": "06.nov",
+         "dates": "16.oct",
+         "room": "Aula 1.0.B01"
+        },
+        {
+         "dates": "11.dic",
          "room": "Aula 1.0.B01"
         }
        ]
@@ -211,19 +211,6 @@
       {
        "day": 1,
        "start": "12:30",
-       "end": "14:30",
-       "room": "Aula 2.0.C04",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "27.oct",
-         "room": "Aula 2.0.C04"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "12:30",
        "end": "14:00",
        "room": "Aula 2.0.C04",
        "type": "Máster oficial",
@@ -238,6 +225,19 @@
         },
         {
          "dates": "15.dic",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:30",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct",
          "room": "Aula 2.0.C04"
         }
        ]
@@ -417,6 +417,19 @@
        "day": 0,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aula INF 1.2.G.03 DUAL",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "09.nov",
+         "room": "Aula INF 1.2.G.03 DUAL"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 2.0.C04",
        "type": "Máster oficial",
        "slots": [
@@ -435,19 +448,6 @@
         {
          "dates": "14.dic",
          "room": "Aula 2.0.C04"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula INF 1.2.G.03 DUAL",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "09.nov",
-         "room": "Aula INF 1.2.G.03 DUAL"
         }
        ]
       },

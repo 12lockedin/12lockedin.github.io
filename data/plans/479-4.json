@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Espacial",
  "year": "2026",
- "generatedAt": "2026-11-02T12:46:48Z",
+ "generatedAt": "2026-11-09T13:16:25Z",
  "subjects": [
   {
    "code": "19239",
@@ -1149,6 +1149,19 @@
        ]
       },
       {
+       "day": 0,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.2.H01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "01.feb-08.feb",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
        "day": 4,
        "start": "17:15",
        "end": "18:45",
@@ -1199,6 +1212,19 @@
          "room": "Aula 7.2.H01"
         }
        ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 7.2.H03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "05.feb-12.feb",
+         "room": "Aula 7.2.H03"
+        }
+       ]
       }
      ]
     }
@@ -1214,40 +1240,31 @@
      "id": "1",
      "sessions": [
       {
-       "day": 0,
-       "start": "19:00",
-       "end": "21:00",
+       "day": 1,
+       "start": "15:30",
+       "end": "17:00",
        "room": "Aula 7.2.H01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "12.abr-10.may",
+         "dates": "06.abr",
+         "room": "Aula 7.2.H01"
+        },
+        {
+         "dates": "04.may",
          "room": "Aula 7.2.H01"
         }
        ]
       },
       {
        "day": 1,
-       "start": "19:00",
-       "end": "21:00",
+       "start": "17:15",
+       "end": "20:30",
        "room": "Aula 7.2.H01",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "30.mar-11.may",
-         "room": "Aula 7.2.H01"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "19:00",
-       "end": "21:00",
-       "room": "Aula 7.2.H01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "09.abr",
          "room": "Aula 7.2.H01"
         }
        ]
@@ -1267,8 +1284,8 @@
      "sessions": [
       {
        "day": 3,
-       "start": "15:00",
-       "end": "17:00",
+       "start": "15:30",
+       "end": "18:45",
        "room": "Aula 7.2.H01",
        "type": "Máster oficial",
        "slots": [
@@ -1280,13 +1297,13 @@
       },
       {
        "day": 3,
-       "start": "17:00",
-       "end": "19:00",
+       "start": "19:00",
+       "end": "20:30",
        "room": "Aula 7.2.H01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "28.ene-11.mar",
+         "dates": "18.feb-25.feb",
          "room": "Aula 7.2.H01"
         }
        ]
@@ -1306,21 +1323,8 @@
      "sessions": [
       {
        "day": 1,
-       "start": "15:30",
-       "end": "17:00",
-       "room": "Aula 7.2.H01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "30.mar-11.may",
-         "room": "Aula 7.2.H01"
-        }
-       ]
-      },
-      {
-       "day": 1,
        "start": "17:15",
-       "end": "18:45",
+       "end": "20:30",
        "room": "Aula 7.2.H01",
        "type": "Máster oficial",
        "slots": [
@@ -1338,11 +1342,37 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "29.ene-19.mar",
+         "dates": "29.ene",
          "room": "Aula 7.2.H01"
         },
         {
+         "dates": "12.mar",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "18:45",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
          "dates": "02.abr-14.may",
+         "room": "Aula 7.2.H01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.2.H01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.abr-09.abr",
          "room": "Aula 7.2.H01"
         }
        ]
@@ -1362,21 +1392,25 @@
      "sessions": [
       {
        "day": 2,
-       "start": "17:00",
-       "end": "19:00",
+       "start": "15:30",
+       "end": "17:00",
        "room": "Aula 7.2.H01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "31.mar-12.may",
+         "dates": "14.abr",
+         "room": "Aula 7.2.H01"
+        },
+        {
+         "dates": "28.abr",
          "room": "Aula 7.2.H01"
         }
        ]
       },
       {
        "day": 2,
-       "start": "19:00",
-       "end": "21:00",
+       "start": "17:15",
+       "end": "20:30",
        "room": "Aula 7.2.H01",
        "type": "Máster oficial",
        "slots": [
@@ -1402,7 +1436,7 @@
       {
        "day": 2,
        "start": "15:30",
-       "end": "17:00",
+       "end": "18:45",
        "room": "Aula 7.2.H01",
        "type": null,
        "slots": [
@@ -1414,13 +1448,13 @@
       },
       {
        "day": 2,
-       "start": "17:15",
-       "end": "18:45",
+       "start": "19:00",
+       "end": "20:30",
        "room": "Aula 7.2.H01",
        "type": null,
        "slots": [
         {
-         "dates": "27.ene-10.mar",
+         "dates": "03.feb-10.feb",
          "room": "Aula 7.2.H01"
         }
        ]
@@ -1440,26 +1474,26 @@
      "sessions": [
       {
        "day": 0,
-       "start": "17:00",
-       "end": "19:00",
+       "start": "15:30",
+       "end": "17:00",
        "room": "Aula 7.2.H01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "12.abr-10.may",
+         "dates": "12.abr-03.may",
          "room": "Aula 7.2.H01"
         }
        ]
       },
       {
-       "day": 1,
-       "start": "17:00",
-       "end": "19:00",
+       "day": 0,
+       "start": "17:15",
+       "end": "20:30",
        "room": "Aula 7.2.H01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "30.mar-11.may",
+         "dates": "05.abr-10.may",
          "room": "Aula 7.2.H01"
         }
        ]
@@ -1478,40 +1512,31 @@
      "id": "1",
      "sessions": [
       {
-       "day": 2,
-       "start": "13:00",
+       "day": 3,
+       "start": "15:30",
        "end": "17:00",
        "room": "Aula 7.2.H01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "21.abr",
+         "dates": "08.abr",
+         "room": "Aula 7.2.H01"
+        },
+        {
+         "dates": "22.abr",
          "room": "Aula 7.2.H01"
         }
        ]
       },
       {
        "day": 3,
-       "start": "17:00",
-       "end": "19:00",
+       "start": "17:15",
+       "end": "20:30",
        "room": "Aula 7.2.H01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "01.abr-06.may",
-         "room": "Aula 7.2.H01"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "19:00",
-       "end": "21:00",
-       "room": "Aula 7.2.H01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "01.abr-06.may",
+         "dates": "01.abr-13.may",
          "room": "Aula 7.2.H01"
         }
        ]

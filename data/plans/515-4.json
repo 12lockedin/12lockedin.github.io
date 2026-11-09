@@ -1,0 +1,151 @@
+{
+ "plan": 515,
+ "centro": 4,
+ "type": "master",
+ "name": "Máster Universitario en Ciencias y Tecnologías Analíticas y Bioanalíticas",
+ "year": "2026",
+ "generatedAt": "2026-11-09T13:40:27Z",
+ "subjects": [
+  {
+   "code": "19720",
+   "name": "Análisis espectroscópico y electroquímico",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "19723",
+   "name": "Escuela de ciencias y tecnologías analíticas y bioanalíticas",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "19721",
+   "name": "Sensores y biosensores",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "19719",
+   "name": "Técnicas analíticas avanzadas de separación y espectrometría de masas",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "19722",
+   "name": "Tratamiento de datos y calidad en los laboratorios de análisis",
+   "course": 1,
+   "term": 1,
+   "groups": []
+  },
+  {
+   "code": "19726",
+   "name": "Análisis de biomoléculas y tecnologías ómicas",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19827",
+   "name": "Biofabricación y micro/nano (bio)-sensorización",
+   "course": 1,
+   "term": 2,
+   "groups": [
+    {
+     "id": "1",
+     "sessions": [
+      {
+       "day": 0,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "Aula 4.0.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "22.feb-08.mar",
+         "room": "Aula 4.0.E02"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "Aula 4.0.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "23.feb-09.mar",
+         "room": "Aula 4.0.E02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "Aula 4.0.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "24.feb-10.mar",
+         "room": "Aula 4.0.E02"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "Aula 4.0.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "25.feb-11.mar",
+         "room": "Aula 4.0.E02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:00",
+       "end": "19:00",
+       "room": "Aula 4.0.E02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "26.feb-12.mar",
+         "room": "Aula 4.0.E02"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "19828",
+   "name": "Nanomateriales y bioanálisis",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19725",
+   "name": "Técnicas avanzadas de preparación de muestra",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  },
+  {
+   "code": "19724",
+   "name": "Técnicas experimentales avanzadas en investigación científica",
+   "course": 1,
+   "term": 2,
+   "groups": []
+  }
+ ]
+}

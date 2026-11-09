@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Finanzas / Master in Finance",
  "year": "2026",
- "generatedAt": "2026-11-02T12:47:25Z",
+ "generatedAt": "2026-11-09T13:17:02Z",
  "subjects": [
   {
    "code": "19328",
@@ -148,7 +148,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "04.nov-02.dic",
+         "dates": "11.nov-02.dic",
          "room": "Aula 1.A.04"
         }
        ]
@@ -174,7 +174,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "04.nov-02.dic",
+         "dates": "11.nov-02.dic",
          "room": "Aula 1.A.04"
         }
        ]
@@ -744,6 +744,19 @@
       {
        "day": 0,
        "start": "11:00",
+       "end": "14:30",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "11.ene",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "11:00",
        "end": "12:45",
        "room": "Aula 1.A.04",
        "type": "Máster oficial",
@@ -754,19 +767,6 @@
         },
         {
          "dates": "14.dic",
-         "room": "Aula 1.A.04"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "11:00",
-       "end": "14:30",
-       "room": "Aula 1.A.04",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "11.ene",
          "room": "Aula 1.A.04"
         }
        ]
@@ -804,6 +804,19 @@
       {
        "day": 1,
        "start": "14:00",
+       "end": "16:00",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "14:00",
        "end": "15:45",
        "room": "Aula 1.A.04",
        "type": "Máster oficial",
@@ -824,6 +837,32 @@
         {
          "dates": "10.nov",
          "room": "Aula -1.A.01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "11:15",
+       "end": "12:45",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 1.A.04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "13:00",
+       "end": "14:45",
+       "room": "Aula 1.A.04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 1.A.04"
         }
        ]
       },

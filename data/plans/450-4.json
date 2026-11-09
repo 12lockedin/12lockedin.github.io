@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Derecho Penal y Procesal Penal - Presencial",
  "year": "2026",
- "generatedAt": "2026-11-02T12:42:54Z",
+ "generatedAt": "2026-11-09T13:12:27Z",
  "subjects": [
   {
    "code": "11999",
@@ -25,6 +25,36 @@
         {
          "dates": "20.oct",
          "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:45",
+       "end": "19:15",
+       "room": "Aula 0.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 0.A.09"
         }
        ]
       },
@@ -36,11 +66,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "04.nov",
-         "room": "Aula 0.A.09"
-        },
-        {
-         "dates": "25.nov",
+         "dates": "18.nov-25.nov",
          "room": "Aula 0.A.09"
         }
        ]
@@ -53,7 +79,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "11.nov",
+         "dates": "18.nov",
          "room": "Aula 0.A.09"
         }
        ]
@@ -67,6 +93,10 @@
        "slots": [
         {
          "dates": "14.oct",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "18.nov",
          "room": "Aula 0.A.09"
         }
        ]
@@ -83,7 +113,7 @@
          "room": "Aula 0.A.09"
         },
         {
-         "dates": "05.nov-12.nov",
+         "dates": "12.nov",
          "room": "Aula 0.A.09"
         }
        ]
@@ -161,7 +191,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "01.dic",
+         "dates": "15.dic",
          "room": "Aula 0.A.09"
         }
        ]
@@ -187,7 +217,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.dic-16.dic",
+         "dates": "16.dic",
          "room": "Aula 0.A.09"
         }
        ]
@@ -200,7 +230,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.dic",
+         "dates": "16.dic",
          "room": "Aula 0.A.09"
         }
        ]
@@ -226,7 +256,24 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "10.dic-17.dic",
+         "dates": "17.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "03.dic",
+         "room": "Aula 0.A.09"
+        },
+        {
+         "dates": "17.dic",
          "room": "Aula 0.A.09"
         }
        ]
@@ -646,19 +693,6 @@
        ]
       },
       {
-       "day": 2,
-       "start": "19:30",
-       "end": "21:00",
-       "room": "Aula 0.A.09",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "04.nov",
-         "room": "Aula 0.A.09"
-        }
-       ]
-      },
-      {
        "day": 3,
        "start": "16:00",
        "end": "17:30",
@@ -889,26 +923,13 @@
       },
       {
        "day": 2,
-       "start": "16:00",
-       "end": "17:30",
-       "room": "Aula 0.A.09",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "11.nov",
-         "room": "Aula 0.A.09"
-        }
-       ]
-      },
-      {
-       "day": 2,
        "start": "17:45",
        "end": "19:15",
        "room": "Aula 0.A.09",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "18.nov-25.nov",
+         "dates": "25.nov",
          "room": "Aula 0.A.09"
         }
        ]
@@ -921,7 +942,20 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "18.nov-25.nov",
+         "dates": "25.nov",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "16:00",
+       "end": "17:30",
+       "room": "Aula 0.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "19.nov",
          "room": "Aula 0.A.09"
         }
        ]
@@ -973,7 +1007,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "17.nov-01.dic",
+         "dates": "01.dic",
          "room": "Aula 0.A.09"
         }
        ]
@@ -986,7 +1020,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "17.nov-01.dic",
+         "dates": "01.dic",
          "room": "Aula 0.A.09"
         }
        ]
@@ -999,7 +1033,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "17.nov-24.nov",
+         "dates": "01.dic",
          "room": "Aula 0.A.09"
         }
        ]
@@ -1025,7 +1059,20 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "02.dic",
+         "dates": "02.dic-09.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.dic-09.dic",
          "room": "Aula 0.A.09"
         }
        ]
@@ -1051,7 +1098,20 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.dic",
+         "dates": "03.dic-10.dic",
+         "room": "Aula 0.A.09"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "19:30",
+       "end": "21:00",
+       "room": "Aula 0.A.09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "10.dic",
          "room": "Aula 0.A.09"
         }
        ]

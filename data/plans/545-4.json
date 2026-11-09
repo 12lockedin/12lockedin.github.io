@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Biomecánica y Dispositivos Médicos",
  "year": "2026",
- "generatedAt": "2026-11-02T12:56:06Z",
+ "generatedAt": "2026-11-09T13:26:00Z",
  "subjects": [
   {
    "code": "20077",
@@ -241,15 +241,15 @@
          "room": "Aula 7.2.H03"
         },
         {
-         "dates": "12.nov-19.nov",
+         "dates": "12.nov",
          "room": "Aula INF 4.S.D.02"
         },
         {
-         "dates": "26.nov",
+         "dates": "19.nov-03.dic",
          "room": "Aula 7.2.H03"
         },
         {
-         "dates": "03.dic-10.dic",
+         "dates": "10.dic",
          "room": "Aula INF 4.S.D.01"
         },
         {

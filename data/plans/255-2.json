@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Telemática",
  "year": "2026",
- "generatedAt": "2026-11-02T12:22:49Z",
+ "generatedAt": "2026-11-09T12:51:41Z",
  "subjects": [
   {
    "code": "13426",
@@ -278,19 +278,6 @@
       {
        "day": 3,
        "start": "10:45",
-       "end": "12:00",
-       "room": "Aula 4.1.D03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "22.oct",
-         "room": "Aula 4.1.D03"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "10:45",
        "end": "12:15",
        "room": "Aula 4.0.E01",
        "type": null,
@@ -330,6 +317,19 @@
         {
          "dates": "10.dic",
          "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:00",
+       "room": "Aula 4.1.D03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "22.oct",
+         "room": "Aula 4.1.D03"
         }
        ]
       },
@@ -714,6 +714,19 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
+       "room": "Aula 4.0.E03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "04.nov",
+         "room": "Aula 4.0.E03"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
        "room": "Aula 4.2.E05",
        "type": null,
        "slots": [
@@ -724,19 +737,6 @@
         {
          "dates": "09.dic",
          "room": "Aula 4.2.E04"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 4.0.E03",
-       "type": null,
-       "slots": [
-        {
-         "dates": "04.nov",
-         "room": "Aula 4.0.E03"
         }
        ]
       },
@@ -1257,7 +1257,7 @@
         },
         {
          "dates": "09.nov",
-         "room": "Aula INF 4.S.D.02"
+         "room": "Aulas INF 7.0.J03 DUAL + TEL y INF 7.0.J04 DUAL"
         }
        ]
       },
