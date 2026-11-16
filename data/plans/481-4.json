@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ciencias Sociales/ Master in Social Sciences",
  "year": "2026",
- "generatedAt": "2026-11-09T13:16:50Z",
+ "generatedAt": "2026-11-16T13:09:05Z",
  "subjects": [
   {
    "code": "19301",
@@ -330,18 +330,26 @@
      "sessions": [
       {
        "day": 0,
-       "start": "10:00",
-       "end": "13:00",
-       "room": "Aula 18.0.A03",
+       "start": "13:00",
+       "end": "16:00",
+       "room": "Aula 18.0.A06",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "25.ene-15.mar",
-         "room": "Aula 18.0.A03"
+         "dates": "25.ene-08.feb",
+         "room": "Aula 18.0.A06"
+        },
+        {
+         "dates": "15.feb",
+         "room": "Aula 18.0.A07"
+        },
+        {
+         "dates": "22.feb-15.mar",
+         "room": "Aula 18.0.A06"
         },
         {
          "dates": "05.abr-10.may",
-         "room": "Aula 18.0.A03"
+         "room": "Aula 18.0.A06"
         }
        ]
       }
@@ -432,6 +440,10 @@
         {
          "dates": "01.abr-29.abr",
          "room": "Aula 18.1.A04"
+        },
+        {
+         "dates": "13.may",
+         "room": "Aula 18.1.A04"
         }
        ]
       }
@@ -491,6 +503,10 @@
         },
         {
          "dates": "01.abr-29.abr",
+         "room": "Aula 18.1.A01"
+        },
+        {
+         "dates": "13.may",
          "room": "Aula 18.1.A01"
         }
        ]
@@ -580,7 +596,7 @@
          "room": "Aula 18.1.A01"
         },
         {
-         "dates": "02.abr-07.may",
+         "dates": "02.abr-14.may",
          "room": "Aula 18.1.A01"
         }
        ]
@@ -610,7 +626,7 @@
          "room": "Aula 18.1.A04"
         },
         {
-         "dates": "02.abr-07.may",
+         "dates": "02.abr-14.may",
          "room": "Aula 18.1.A04"
         }
        ]

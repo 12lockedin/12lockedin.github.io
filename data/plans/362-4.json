@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Economía de la Empresa y Finanzas/ Master in Business and Finance",
  "year": "2026",
- "generatedAt": "2026-11-09T12:56:08Z",
+ "generatedAt": "2026-11-16T12:48:43Z",
  "subjects": [
   {
    "code": "17190",
@@ -278,6 +278,19 @@
       {
        "day": 2,
        "start": "14:00",
+       "end": "16:00",
+       "room": "Aula 18.0.A02",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "16.dic",
+         "room": "Aula 18.0.A02"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:00",
        "end": "17:00",
        "room": "Aula 18.0.A06",
        "type": "Máster oficial",
@@ -289,19 +302,6 @@
         {
          "dates": "09.dic",
          "room": "Aula 18.0.A06"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "14:00",
-       "end": "16:00",
-       "room": "Aula 18.0.A02",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "16.dic",
-         "room": "Aula 18.0.A02"
         }
        ]
       }
@@ -542,6 +542,19 @@
      "id": "1",
      "sessions": [
       {
+       "day": 1,
+       "start": "15:00",
+       "end": "17:00",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "15:00",
        "end": "17:00",
@@ -549,7 +562,28 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "04.nov-16.dic",
+         "dates": "04.nov-11.nov",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "25.nov",
+         "room": "Aula 18.0.A01"
+        },
+        {
+         "dates": "09.dic-16.dic",
+         "room": "Aula 18.0.A01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "16:30",
+       "end": "18:30",
+       "room": "Aula 18.0.A01",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.dic",
          "room": "Aula 18.0.A01"
         }
        ]
@@ -562,11 +596,7 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "06.nov-27.nov",
-         "room": "Aula 18.0.A11"
-        },
-        {
-         "dates": "11.dic-18.dic",
+         "dates": "06.nov-18.dic",
          "room": "Aula 18.0.A11"
         }
        ]

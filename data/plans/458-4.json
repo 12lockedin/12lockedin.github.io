@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Matemática Aplicada y Computacional",
  "year": "2026",
- "generatedAt": "2026-11-09T13:14:05Z",
+ "generatedAt": "2026-11-16T13:06:23Z",
  "subjects": [
   {
    "code": "18768",
@@ -211,6 +211,19 @@
       {
        "day": 1,
        "start": "12:30",
+       "end": "14:30",
+       "room": "Aula 2.0.C04",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "27.oct",
+         "room": "Aula 2.0.C04"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
        "end": "14:00",
        "room": "Aula 2.0.C04",
        "type": "Máster oficial",
@@ -225,19 +238,6 @@
         },
         {
          "dates": "15.dic",
-         "room": "Aula 2.0.C04"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "12:30",
-       "end": "14:30",
-       "room": "Aula 2.0.C04",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "27.oct",
          "room": "Aula 2.0.C04"
         }
        ]

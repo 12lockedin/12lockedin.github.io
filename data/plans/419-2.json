@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Biomédica",
  "year": "2026",
- "generatedAt": "2026-11-09T13:05:36Z",
+ "generatedAt": "2026-11-16T12:58:02Z",
  "subjects": [
   {
    "code": "15541",
@@ -434,19 +434,6 @@
        "day": 0,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 7.0.J06",
-       "type": null,
-       "slots": [
-        {
-         "dates": "14.dic",
-         "room": "Aula 7.0.J06"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "12:30",
-       "end": "14:00",
        "room": "Aula 7.0.J01",
        "type": null,
        "slots": [
@@ -461,6 +448,19 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 7.0.J01"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.0.J06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.dic",
+         "room": "Aula 7.0.J06"
         }
        ]
       },

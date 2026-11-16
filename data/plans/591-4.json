@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Documental y Reportaje Transmedia",
  "year": "2026",
- "generatedAt": "2026-11-09T13:37:04Z",
+ "generatedAt": "2026-11-16T13:28:39Z",
  "subjects": [
   {
    "code": "20901",
@@ -23,7 +23,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "28.oct-25.nov",
+         "dates": "28.oct-11.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "25.nov",
          "room": "Aula 2.A.02"
         }
        ]
@@ -36,7 +44,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "28.oct-25.nov",
+         "dates": "28.oct-11.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "25.nov",
          "room": "Aula 2.A.02"
         }
        ]
@@ -49,7 +65,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "28.oct-25.nov",
+         "dates": "28.oct-11.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "25.nov",
          "room": "Aula 2.A.02"
         }
        ]
@@ -127,7 +151,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-10.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "24.nov-01.dic",
          "room": "Aula 2.A.02"
         },
         {
@@ -144,7 +176,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-10.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "24.nov-01.dic",
          "room": "Aula 2.A.02"
         },
         {
@@ -161,7 +201,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "08.sep-01.dic",
+         "dates": "08.sep-10.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "24.nov-01.dic",
          "room": "Aula 2.A.02"
         },
         {
@@ -319,7 +367,19 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "06.nov-18.dic",
+         "dates": "06.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "27.nov-18.dic",
          "room": "Aula 2.A.02"
         }
        ]
@@ -332,7 +392,19 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "06.nov-18.dic",
+         "dates": "06.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "27.nov-18.dic",
          "room": "Aula 2.A.02"
         }
        ]
@@ -345,7 +417,19 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "06.nov-18.dic",
+         "dates": "06.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "27.nov-18.dic",
          "room": "Aula 2.A.02"
         }
        ]
@@ -379,7 +463,11 @@
          "room": "Aula 2.A.02"
         },
         {
-         "dates": "16.nov-30.nov",
+         "dates": "16.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "23.nov-30.nov",
          "room": "Aula 2.A.02"
         },
         {
@@ -404,7 +492,11 @@
          "room": "Aula 2.A.02"
         },
         {
-         "dates": "16.nov-30.nov",
+         "dates": "16.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "23.nov-30.nov",
          "room": "Aula 2.A.02"
         },
         {
@@ -429,7 +521,11 @@
          "room": "Aula 2.A.02"
         },
         {
-         "dates": "16.nov-30.nov",
+         "dates": "16.nov",
+         "room": "Aula 2.A.06"
+        },
+        {
+         "dates": "23.nov-30.nov",
          "room": "Aula 2.A.02"
         },
         {

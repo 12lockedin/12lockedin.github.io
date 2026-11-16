@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-11-09T13:17:59Z",
+ "generatedAt": "2026-11-16T13:10:10Z",
  "subjects": [
   {
    "code": "13866",
@@ -887,19 +887,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "09.oct",
-         "room": "Aula 1.0.A06"
-        },
-        {
-         "dates": "23.oct",
-         "room": "Aula 1.0.A06"
-        },
-        {
-         "dates": "27.nov",
-         "room": "Aula 1.0.A06"
-        },
-        {
-         "dates": "11.dic",
+         "dates": "20.nov",
          "room": "Aula 1.0.A06"
         }
        ]

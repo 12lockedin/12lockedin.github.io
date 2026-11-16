@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Programa Académico de Ingeniería de Telecomunicación vía Grado en Ingeniería en Tecnologías de Telecomunicación",
  "year": "2026",
- "generatedAt": "2026-11-09T13:35:50Z",
+ "generatedAt": "2026-11-16T13:27:29Z",
  "subjects": [
   {
    "code": "15364",
@@ -141,7 +141,19 @@
        "type": null,
        "slots": [
         {
-         "dates": "03.dic",
+         "dates": "17.sep",
+         "room": "Aula 4.1.E04"
+        },
+        {
+         "dates": "01.oct",
+         "room": "Aula 4.1.E04"
+        },
+        {
+         "dates": "15.oct",
+         "room": "Aula 4.1.E04"
+        },
+        {
+         "dates": "29.oct",
          "room": "Aula 4.1.E04"
         }
        ]
@@ -315,27 +327,6 @@
        "day": 2,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula 4.0.E06",
-       "type": null,
-       "slots": [
-        {
-         "dates": "09.sep-21.oct",
-         "room": "Aula 4.0.E06"
-        },
-        {
-         "dates": "28.oct",
-         "room": "Aula 4.0.E03"
-        },
-        {
-         "dates": "04.nov-09.dic",
-         "room": "Aula 4.0.E06"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "10:45",
-       "end": "12:15",
        "room": "LAB 1.1.F34",
        "type": null,
        "slots": [
@@ -350,6 +341,27 @@
         {
          "dates": "11.nov-18.nov",
          "room": "LAB 1.1.F34"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 4.0.E06",
+       "type": null,
+       "slots": [
+        {
+         "dates": "09.sep-21.oct",
+         "room": "Aula 4.0.E06"
+        },
+        {
+         "dates": "28.oct",
+         "room": "Aula 4.0.E03"
+        },
+        {
+         "dates": "04.nov-09.dic",
+         "room": "Aula 4.0.E06"
         }
        ]
       },
@@ -769,23 +781,6 @@
        "day": 3,
        "start": "10:45",
        "end": "12:15",
-       "room": "Aula INF 4.S.D.02",
-       "type": null,
-       "slots": [
-        {
-         "dates": "08.oct",
-         "room": "Aula INF 4.S.D.02"
-        },
-        {
-         "dates": "12.nov",
-         "room": "Aula INF 4.S.D.02"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "10:45",
-       "end": "12:15",
        "room": "Aula INF 7.0.J02 DUAL+ TEL",
        "type": null,
        "slots": [
@@ -808,6 +803,23 @@
         {
          "dates": "26.nov",
          "room": "Aula INF 7.0.J03 DUAL + TEL"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula INF 4.S.D.02",
+       "type": null,
+       "slots": [
+        {
+         "dates": "08.oct",
+         "room": "Aula INF 4.S.D.02"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula INF 4.S.D.02"
         }
        ]
       },
@@ -996,12 +1008,12 @@
        "day": 3,
        "start": "14:00",
        "end": "15:30",
-       "room": "Aula 4.1.E06",
+       "room": "Aula 4.0.E05",
        "type": null,
        "slots": [
         {
-         "dates": "12.nov",
-         "room": "Aula 4.1.E06"
+         "dates": "15.oct",
+         "room": "Aula 4.0.E05"
         }
        ]
       },
@@ -1009,12 +1021,12 @@
        "day": 3,
        "start": "14:00",
        "end": "15:30",
-       "room": "Aula 4.0.E05",
+       "room": "Aula 4.1.E06",
        "type": null,
        "slots": [
         {
-         "dates": "15.oct",
-         "room": "Aula 4.0.E05"
+         "dates": "12.nov",
+         "room": "Aula 4.1.E06"
         }
        ]
       },
@@ -1144,7 +1156,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "04.nov",
+         "dates": "07.oct",
          "room": "LAB 4.1.B01 (Telematica)"
         }
        ]
@@ -1394,7 +1406,7 @@
        "type": null,
        "slots": [
         {
-         "dates": "16.oct",
+         "dates": "18.sep-25.sep",
          "room": "Aula 4.1.E04"
         }
        ]
@@ -1683,6 +1695,19 @@
        "day": 1,
        "start": "17:15",
        "end": "18:45",
+       "room": "Aula 2.3.A05",
+       "type": null,
+       "slots": [
+        {
+         "dates": "22.sep",
+         "room": "Aula 2.3.A05"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "17:15",
+       "end": "18:45",
        "room": "Aula 4.1.E05",
        "type": null,
        "slots": [
@@ -1701,19 +1726,6 @@
         {
          "dates": "01.dic",
          "room": "Aula 4.2.E08"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 2.3.A05",
-       "type": null,
-       "slots": [
-        {
-         "dates": "22.sep",
-         "room": "Aula 2.3.A05"
         }
        ]
       },

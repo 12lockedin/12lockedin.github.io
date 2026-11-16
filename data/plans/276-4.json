@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Energías Renovables en Sistemas Eléctricos",
  "year": "2026",
- "generatedAt": "2026-11-09T12:52:02Z",
+ "generatedAt": "2026-11-16T12:44:45Z",
  "subjects": [
   {
    "code": "19374",
@@ -100,6 +100,19 @@
        "slots": [
         {
          "dates": "09.sep-09.dic",
+         "room": "Aula -1.A.03"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "16:30",
+       "end": "19:30",
+       "room": "Aula -1.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "20.nov",
          "room": "Aula -1.A.03"
         }
        ]
@@ -458,12 +471,8 @@
          "room": "Aula -1.A.03"
         },
         {
-         "dates": "17.nov-24.nov",
+         "dates": "17.nov-01.dic",
          "room": "Aula -1.A.08 INF"
-        },
-        {
-         "dates": "01.dic",
-         "room": "Aula -1.A.03"
         },
         {
          "dates": "15.dic",
@@ -491,12 +500,8 @@
          "room": "Aula -1.A.03"
         },
         {
-         "dates": "17.nov-24.nov",
+         "dates": "17.nov-01.dic",
          "room": "Aula -1.A.08 INF"
-        },
-        {
-         "dates": "01.dic",
-         "room": "Aula -1.A.03"
         },
         {
          "dates": "15.dic",

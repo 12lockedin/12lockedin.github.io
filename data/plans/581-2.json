@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Ingeniería Informática y Administración de Empresas",
  "year": "2026",
- "generatedAt": "2026-11-09T13:35:00Z",
+ "generatedAt": "2026-11-16T13:26:39Z",
  "subjects": [
   {
    "code": "19408",
@@ -97,7 +97,15 @@
          "room": "Aula 2.3.B01"
         },
         {
-         "dates": "16.oct-11.dic",
+         "dates": "16.oct-13.nov",
+         "room": "Aula 2.3.B01"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 4.2.E04"
+        },
+        {
+         "dates": "27.nov-11.dic",
          "room": "Aula 2.3.B01"
         }
        ]
@@ -437,7 +445,15 @@
        "type": null,
        "slots": [
         {
-         "dates": "14.dic",
+         "dates": "07.sep-05.oct",
+         "room": "Aula 2.3.A02"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 2.3.A02"
+        },
+        {
+         "dates": "09.nov-30.nov",
          "room": "Aula 2.3.A02"
         }
        ]
@@ -940,12 +956,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula INF 2.2.C.04 DUAL",
+       "room": "Aula 2.3.D01",
        "type": null,
        "slots": [
         {
-         "dates": "01.dic",
-         "room": "Aula INF 2.2.C.04 DUAL"
+         "dates": "20.oct",
+         "room": "Aula 2.3.D01"
         }
        ]
       },
@@ -953,12 +969,12 @@
        "day": 1,
        "start": "09:00",
        "end": "10:30",
-       "room": "Aula 2.3.D01",
+       "room": "Aula INF 2.2.C.04 DUAL",
        "type": null,
        "slots": [
         {
-         "dates": "20.oct",
-         "room": "Aula 2.3.D01"
+         "dates": "01.dic",
+         "room": "Aula INF 2.2.C.04 DUAL"
         }
        ]
       },
@@ -985,6 +1001,19 @@
         {
          "dates": "09.sep-09.dic",
          "room": "Aula 2.3.C04"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula INF 4.S.D.01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "02.dic",
+         "room": "Aula INF 4.S.D.01"
         }
        ]
       },
@@ -1523,6 +1552,19 @@
      "kind": "magistral",
      "sessions": [
       {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 4.1.E01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 4.1.E01"
+        }
+       ]
+      },
+      {
        "day": 2,
        "start": "10:45",
        "end": "12:15",
@@ -1579,6 +1621,10 @@
         {
          "dates": "25.sep",
          "room": "Aula 2.3.C03"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 4.1.D03"
         }
        ]
       }
@@ -1675,6 +1721,19 @@
        ]
       },
       {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 2.3.C03",
+       "type": null,
+       "slots": [
+        {
+         "dates": "24.nov",
+         "room": "Aula 2.3.C03"
+        }
+       ]
+      },
+      {
        "day": 3,
        "start": "09:00",
        "end": "10:30",
@@ -1699,7 +1758,15 @@
          "room": "Aula INF 2.2.C.04 DUAL"
         },
         {
-         "dates": "16.oct-11.dic",
+         "dates": "16.oct-06.nov",
+         "room": "Aula INF 2.2.C.04 DUAL"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 7.1.J07"
+        },
+        {
+         "dates": "20.nov-11.dic",
          "room": "Aula INF 2.2.C.04 DUAL"
         }
        ]
@@ -1983,6 +2050,19 @@
         {
          "dates": "20.nov",
          "room": "Aula 4.1.E06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 2.3.B04",
+       "type": null,
+       "slots": [
+        {
+         "dates": "20.nov",
+         "room": "Aula 2.3.B04"
         }
        ]
       }
@@ -2405,10 +2485,6 @@
         {
          "dates": "06.nov",
          "room": "Aula 4.2.E04"
-        },
-        {
-         "dates": "13.nov",
-         "room": "Aula 4.0.E06"
         },
         {
          "dates": "20.nov",

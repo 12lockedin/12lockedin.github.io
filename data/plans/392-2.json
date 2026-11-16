@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ciencia e Ingeniería de Datos",
  "year": "2026",
- "generatedAt": "2026-11-09T12:58:56Z",
+ "generatedAt": "2026-11-16T12:51:20Z",
  "subjects": [
   {
    "code": "15364",
@@ -484,19 +484,6 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula 2.3.B01",
-       "type": null,
-       "slots": [
-        {
-         "dates": "14.oct",
-         "room": "Aula 2.3.B01"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "17:15",
-       "end": "18:45",
        "room": "Aula 4.0.E01",
        "type": null,
        "slots": [
@@ -515,6 +502,19 @@
         {
          "dates": "09.dic",
          "room": "Aula 4.0.E01"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.B01",
+       "type": null,
+       "slots": [
+        {
+         "dates": "14.oct",
+         "room": "Aula 2.3.B01"
         }
        ]
       },
@@ -1081,12 +1081,12 @@
        "day": 3,
        "start": "14:00",
        "end": "15:30",
-       "room": "Aula 4.1.E06",
+       "room": "Aula 4.0.E05",
        "type": null,
        "slots": [
         {
-         "dates": "12.nov",
-         "room": "Aula 4.1.E06"
+         "dates": "15.oct",
+         "room": "Aula 4.0.E05"
         }
        ]
       },
@@ -1094,12 +1094,12 @@
        "day": 3,
        "start": "14:00",
        "end": "15:30",
-       "room": "Aula 4.0.E05",
+       "room": "Aula 4.1.E06",
        "type": null,
        "slots": [
         {
-         "dates": "15.oct",
-         "room": "Aula 4.0.E05"
+         "dates": "12.nov",
+         "room": "Aula 4.1.E06"
         }
        ]
       },

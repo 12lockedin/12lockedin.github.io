@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-11-09T13:34:08Z",
+ "generatedAt": "2026-11-16T13:25:50Z",
  "subjects": [
   {
    "code": "19408",
@@ -134,6 +134,19 @@
       {
        "day": 3,
        "start": "15:00",
+       "end": "17:45",
+       "room": "Aula INF-15.S.06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "19.nov",
+         "room": "Aula INF-15.S.06"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "15:00",
        "end": "16:30",
        "room": "Aulas 17.1.02 y TALLERES LABORATORIOS",
        "type": "Básica",
@@ -153,19 +166,6 @@
        "slots": [
         {
          "dates": "10.dic",
-         "room": "Aula INF-15.S.06"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "15:00",
-       "end": "17:45",
-       "room": "Aula INF-15.S.06",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "19.nov",
          "room": "Aula INF-15.S.06"
         }
        ]
@@ -542,6 +542,19 @@
       {
        "day": 2,
        "start": "14:00",
+       "end": "15:30",
+       "room": "Aula LAB-17.1.12 Informática",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "07.oct",
+         "room": "Aula LAB-17.1.12 Informática"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "14:00",
        "end": "15:00",
        "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
        "type": "Básica",
@@ -578,32 +591,6 @@
       },
       {
        "day": 2,
-       "start": "14:00",
-       "end": "15:30",
-       "room": "Aula LAB-17.1.12 Informática",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "07.oct",
-         "room": "Aula LAB-17.1.12 Informática"
-        }
-       ]
-      },
-      {
-       "day": 2,
-       "start": "15:00",
-       "end": "16:30",
-       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "09.sep-09.dic",
-         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
-        }
-       ]
-      },
-      {
-       "day": 2,
        "start": "15:00",
        "end": "18:15",
        "room": "Aula LAB-17.1.12 Informática",
@@ -620,6 +607,19 @@
         {
          "dates": "25.nov-02.dic",
          "room": "Aula LAB-17.1.12 Informática"
+        }
+       ]
+      },
+      {
+       "day": 2,
+       "start": "15:00",
+       "end": "16:30",
+       "room": "Aulas 17.1.01 y TALLERES LABORATORIOS",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "09.sep-09.dic",
+         "room": "Aulas 17.1.01 y TALLERES LABORATORIOS"
         }
        ]
       },

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Mediación, Negociación y Resolución de Conflictos Online",
  "year": "2026",
- "generatedAt": "2026-11-09T13:18:53Z",
+ "generatedAt": "2026-11-16T13:11:04Z",
  "subjects": [
   {
    "code": "14298",
@@ -44,12 +44,12 @@
       {
        "day": 2,
        "start": "15:00",
-       "end": "17:00",
+       "end": "16:00",
        "room": "Aula Virtual",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "04.nov-18.nov",
+         "dates": "25.nov-02.dic",
          "room": "Aula Virtual"
         }
        ]
@@ -57,12 +57,12 @@
       {
        "day": 2,
        "start": "15:00",
-       "end": "16:00",
+       "end": "17:00",
        "room": "Aula Virtual",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "25.nov-02.dic",
+         "dates": "04.nov-18.nov",
          "room": "Aula Virtual"
         }
        ]
@@ -239,12 +239,12 @@
       {
        "day": 3,
        "start": "15:00",
-       "end": "18:00",
+       "end": "17:00",
        "room": "Aula Virtual",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "01.oct-08.oct",
+         "dates": "15.oct",
          "room": "Aula Virtual"
         }
        ]
@@ -252,12 +252,12 @@
       {
        "day": 3,
        "start": "15:00",
-       "end": "17:00",
+       "end": "18:00",
        "room": "Aula Virtual",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "15.oct",
+         "dates": "01.oct-08.oct",
          "room": "Aula Virtual"
         }
        ]
@@ -330,12 +330,12 @@
       {
        "day": 0,
        "start": "15:00",
-       "end": "17:30",
+       "end": "17:00",
        "room": "Aula Virtual",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "30.nov",
+         "dates": "23.nov",
          "room": "Aula Virtual"
         }
        ]
@@ -343,12 +343,12 @@
       {
        "day": 0,
        "start": "15:00",
-       "end": "17:00",
+       "end": "17:30",
        "room": "Aula Virtual",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "23.nov",
+         "dates": "30.nov",
          "room": "Aula Virtual"
         }
        ]
@@ -681,12 +681,12 @@
       {
        "day": 0,
        "start": "15:00",
-       "end": "17:00",
+       "end": "18:00",
        "room": "Aula Virtual",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "12.abr",
+         "dates": "19.abr",
          "room": "Aula Virtual"
         }
        ]
@@ -694,12 +694,12 @@
       {
        "day": 0,
        "start": "15:00",
-       "end": "18:00",
+       "end": "17:00",
        "room": "Aula Virtual",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "19.abr",
+         "dates": "12.abr",
          "room": "Aula Virtual"
         }
        ]

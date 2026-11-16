@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Responsabilidad Civil",
  "year": "2026",
- "generatedAt": "2026-11-09T12:56:35Z",
+ "generatedAt": "2026-11-16T12:49:08Z",
  "subjects": [
   {
    "code": "17379",
@@ -31,7 +31,11 @@
          "room": "Aula 2.A.02"
         },
         {
-         "dates": "16.nov-30.nov",
+         "dates": "16.nov",
+         "room": "Aula 1.A.05"
+        },
+        {
+         "dates": "23.nov-30.nov",
          "room": "Aula 2.A.02"
         }
        ]
@@ -52,7 +56,11 @@
          "room": "Aula 2.A.02"
         },
         {
-         "dates": "16.nov-30.nov",
+         "dates": "16.nov",
+         "room": "Aula 1.A.05"
+        },
+        {
+         "dates": "23.nov-30.nov",
          "room": "Aula 2.A.02"
         }
        ]
@@ -74,7 +82,7 @@
         },
         {
          "dates": "16.nov",
-         "room": "Aula 2.A.02"
+         "room": "Aula 1.A.05"
         },
         {
          "dates": "30.nov",
@@ -116,8 +124,12 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-18.nov",
+         "dates": "09.sep-11.nov",
          "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula 1.A.05"
         }
        ]
       },
@@ -129,8 +141,12 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "09.sep-18.nov",
+         "dates": "09.sep-11.nov",
          "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "18.nov",
+         "room": "Aula 1.A.05"
         }
        ]
       },
@@ -168,7 +184,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.nov-01.dic",
+         "dates": "03.nov-10.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 1.A.05"
+        },
+        {
+         "dates": "24.nov-01.dic",
          "room": "Aula 2.A.02"
         }
        ]
@@ -181,7 +205,15 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "03.nov-01.dic",
+         "dates": "03.nov-10.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "17.nov",
+         "room": "Aula 1.A.05"
+        },
+        {
+         "dates": "24.nov-01.dic",
          "room": "Aula 2.A.02"
         }
        ]
@@ -190,11 +222,15 @@
        "day": 1,
        "start": "19:00",
        "end": "20:30",
-       "room": "Aula 2.A.02",
+       "room": "Aula 1.A.05",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "17.nov-01.dic",
+         "dates": "17.nov",
+         "room": "Aula 1.A.05"
+        },
+        {
+         "dates": "24.nov-01.dic",
          "room": "Aula 2.A.02"
         }
        ]
@@ -337,7 +373,19 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "06.nov-27.nov",
+         "dates": "06.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 1.A.05"
+        },
+        {
+         "dates": "27.nov",
          "room": "Aula 2.A.02"
         }
        ]
@@ -350,7 +398,19 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "06.nov-27.nov",
+         "dates": "06.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "13.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "20.nov",
+         "room": "Aula 1.A.05"
+        },
+        {
+         "dates": "27.nov",
          "room": "Aula 2.A.02"
         }
        ]
@@ -462,7 +522,19 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.nov-26.nov",
+         "dates": "05.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "19.nov",
+         "room": "Aula 1.A.05"
+        },
+        {
+         "dates": "26.nov",
          "room": "Aula 2.A.02"
         }
        ]
@@ -475,7 +547,19 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.nov-26.nov",
+         "dates": "05.nov",
+         "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "19.nov",
+         "room": "Aula 1.A.05"
+        },
+        {
+         "dates": "26.nov",
          "room": "Aula 2.A.02"
         }
        ]
@@ -488,8 +572,16 @@
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "05.nov-19.nov",
+         "dates": "05.nov",
          "room": "Aula 2.A.02"
+        },
+        {
+         "dates": "12.nov",
+         "room": "Aula 0.A.10"
+        },
+        {
+         "dates": "19.nov",
+         "room": "Aula 1.A.05"
         }
        ]
       }

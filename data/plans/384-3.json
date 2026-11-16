@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Doble Grado en Periodismo y Comunicación Audiovisual",
  "year": "2026",
- "generatedAt": "2026-11-09T12:57:38Z",
+ "generatedAt": "2026-11-16T12:50:04Z",
  "subjects": [
   {
    "code": "20475",
@@ -1519,8 +1519,12 @@
          "room": "Aula 14.1.12"
         },
         {
-         "dates": "09.nov-30.nov",
+         "dates": "09.nov",
          "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "16.nov-30.nov",
+         "room": "Aula 17.1.03"
         }
        ]
       },
@@ -1536,8 +1540,12 @@
          "room": "Aula 14.1.5"
         },
         {
-         "dates": "15.sep-01.dic",
+         "dates": "15.sep-03.nov",
          "room": "Aula 14.1.12"
+        },
+        {
+         "dates": "10.nov-01.dic",
+         "room": "Aula 17.0.04"
         }
        ]
       }

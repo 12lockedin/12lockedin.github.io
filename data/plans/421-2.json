@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Ingeniería Aeroespacial",
  "year": "2026",
- "generatedAt": "2026-11-09T13:05:48Z",
+ "generatedAt": "2026-11-16T12:58:14Z",
  "subjects": [
   {
    "code": "15321",
@@ -236,8 +236,12 @@
          "room": "Aula 2.3.D01"
         },
         {
-         "dates": "03.nov-01.dic",
+         "dates": "03.nov-24.nov",
          "room": "Aula 7.1.J01"
+        },
+        {
+         "dates": "01.dic",
+         "room": "Aula 2.3.C04"
         }
        ]
       },
@@ -352,8 +356,12 @@
          "room": "Aula 7.1.J08"
         },
         {
-         "dates": "16.oct-11.dic",
+         "dates": "16.oct-04.dic",
          "room": "Aula 7.1.J08"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aulas 7.1.J08 y 7.2.J07"
         }
        ]
       }
@@ -363,6 +371,19 @@
      "id": "46",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 0,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula 7.2.J02",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "26.oct",
+         "room": "Aula 7.2.J02"
+        }
+       ]
+      },
       {
        "day": 0,
        "start": "10:45",
@@ -381,19 +402,6 @@
         {
          "dates": "09.nov-30.nov",
          "room": "Aula 7.2.J01"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula 7.2.J02",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "26.oct",
-         "room": "Aula 7.2.J02"
         }
        ]
       },
@@ -434,8 +442,12 @@
          "room": "Aula 7.2.J06"
         },
         {
-         "dates": "16.oct-11.dic",
+         "dates": "16.oct-04.dic",
          "room": "Aula 7.2.J06"
+        },
+        {
+         "dates": "11.dic",
+         "room": "Aulas 7.2.J06 y 7.2.J07"
         }
        ]
       }
@@ -1075,6 +1087,23 @@
         {
          "dates": "08.oct",
          "room": "Aula 7.1.J06"
+        },
+        {
+         "dates": "03.dic",
+         "room": "Aula 7.2.J02"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "17:15",
+       "end": "18:45",
+       "room": "Aula 2.3.C01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 2.3.C01"
         }
        ]
       },
@@ -1094,21 +1123,25 @@
          "room": "Aula 7.2.J01"
         },
         {
-         "dates": "20.nov-11.dic",
+         "dates": "20.nov-27.nov",
+         "room": "Aula 7.2.J01"
+        },
+        {
+         "dates": "11.dic",
          "room": "Aula 7.2.J01"
         }
        ]
       },
       {
        "day": 4,
-       "start": "17:15",
-       "end": "18:45",
-       "room": "Aula 2.3.C01",
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.2.J01",
        "type": "Básica",
        "slots": [
         {
-         "dates": "16.oct",
-         "room": "Aula 2.3.C01"
+         "dates": "23.oct-06.nov",
+         "room": "Aula 7.2.J01"
         }
        ]
       },
@@ -1136,19 +1169,6 @@
          "room": "Aula 7.0.J06"
         }
        ]
-      },
-      {
-       "day": 4,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "Aula 7.2.J01",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "23.oct-06.nov",
-         "room": "Aula 7.2.J01"
-        }
-       ]
       }
      ]
     },
@@ -1156,6 +1176,19 @@
      "id": "46",
      "kind": "magistral",
      "sessions": [
+      {
+       "day": 1,
+       "start": "14:00",
+       "end": "15:30",
+       "room": "Aula 7.0.J06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "10.nov",
+         "room": "Aula 7.0.J06"
+        }
+       ]
+      },
       {
        "day": 1,
        "start": "15:30",
@@ -1166,23 +1199,6 @@
         {
          "dates": "08.sep-01.dic",
          "room": "Aula 1.0.C02"
-        }
-       ]
-      },
-      {
-       "day": 1,
-       "start": "19:00",
-       "end": "20:30",
-       "room": "Aula 7.0.J06",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "15.sep-29.sep",
-         "room": "Aula 7.0.J06"
-        },
-        {
-         "dates": "13.oct",
-         "room": "Aula 7.0.J06"
         }
        ]
       },
@@ -1204,6 +1220,23 @@
         {
          "dates": "10.nov",
          "room": "Aula 7.2.J06"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "19:00",
+       "end": "20:30",
+       "room": "Aula 7.0.J06",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "15.sep-29.sep",
+         "room": "Aula 7.0.J06"
+        },
+        {
+         "dates": "13.oct",
+         "room": "Aula 7.0.J06"
         }
        ]
       },
@@ -1237,19 +1270,6 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula 2.3.C01",
-       "type": "Básica",
-       "slots": [
-        {
-         "dates": "16.oct",
-         "room": "Aula 2.3.C01"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "15:30",
-       "end": "17:00",
        "room": "Aula 7.2.J06",
        "type": "Básica",
        "slots": [
@@ -1258,8 +1278,25 @@
          "room": "Aula 7.2.J06"
         },
         {
-         "dates": "16.oct-11.dic",
+         "dates": "16.oct-06.nov",
          "room": "Aula 7.2.J06"
+        },
+        {
+         "dates": "20.nov-11.dic",
+         "room": "Aula 7.2.J06"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula 2.3.C01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "16.oct",
+         "room": "Aula 2.3.C01"
         }
        ]
       }
@@ -1505,7 +1542,15 @@
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "14.dic",
+         "dates": "07.sep-05.oct",
+         "room": "Aula 7.2.J06"
+        },
+        {
+         "dates": "19.oct-26.oct",
+         "room": "Aula 7.2.J06"
+        },
+        {
+         "dates": "09.nov-30.nov",
          "room": "Aula 7.2.J06"
         }
        ]
@@ -1919,12 +1964,12 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 4.2.E04",
+       "room": "Aula 7.1.J03",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "01.dic",
-         "room": "Aula 4.2.E04"
+         "dates": "29.sep",
+         "room": "Aula 7.1.J03"
         }
        ]
       },
@@ -1932,12 +1977,12 @@
        "day": 1,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 7.1.J03",
+       "room": "Aula 4.2.E04",
        "type": "Obligatoria",
        "slots": [
         {
-         "dates": "29.sep",
-         "room": "Aula 7.1.J03"
+         "dates": "01.dic",
+         "room": "Aula 4.2.E04"
         }
        ]
       },
@@ -1951,6 +1996,32 @@
         {
          "dates": "22.oct",
          "room": "Aula 2.3.D04"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.J01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.dic",
+         "room": "Aula 7.1.J01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:45",
+       "end": "12:15",
+       "room": "Aula INF 7.0.J02 DUAL+ TEL",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "02.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
         }
        ]
       },
@@ -1984,19 +2055,6 @@
         {
          "dates": "27.nov-11.dic",
          "room": "Aula 7.1.J04"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "10:45",
-       "end": "12:15",
-       "room": "Aula INF 7.0.J02 DUAL+ TEL",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "02.oct",
-         "room": "Aula INF 7.0.J02 DUAL+ TEL"
         }
        ]
       }
@@ -2082,12 +2140,38 @@
        "day": 3,
        "start": "12:30",
        "end": "14:00",
+       "room": "Aula 7.1.H01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "10.dic",
+         "room": "Aula 7.1.H01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "12:30",
+       "end": "14:00",
        "room": "Aula 2.3.D05",
        "type": "Obligatoria",
        "slots": [
         {
          "dates": "22.oct",
          "room": "Aula 2.3.D05"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "Aula INF 7.0.J02 DUAL+ TEL",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "02.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
         }
        ]
       },
@@ -2121,19 +2205,6 @@
         {
          "dates": "27.nov-11.dic",
          "room": "Aula 7.2.J04"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "09:00",
-       "end": "10:30",
-       "room": "Aula INF 7.0.J02 DUAL+ TEL",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "02.oct",
-         "room": "Aula INF 7.0.J02 DUAL+ TEL"
         }
        ]
       }
@@ -2182,6 +2253,19 @@
         {
          "dates": "10.nov",
          "room": "LAB 1.0.B.04 (Mec. Medios Con)"
+        }
+       ]
+      },
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:00",
+       "room": "Aula 7.1.J06",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "17.nov",
+         "room": "Aula 7.1.J06"
         }
        ]
       },
@@ -2414,19 +2498,6 @@
        "day": 4,
        "start": "09:00",
        "end": "10:30",
-       "room": "LAB 1.0.E01 (Electrónica)",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "18.sep",
-         "room": "LAB 1.0.E01 (Electrónica)"
-        }
-       ]
-      },
-      {
-       "day": 4,
-       "start": "09:00",
-       "end": "10:30",
        "room": "Aula 7.2.J01",
        "type": "Obligatoria",
        "slots": [
@@ -2461,6 +2532,19 @@
         {
          "dates": "11.dic",
          "room": "Aulas LAB 1.0.E01 (Electrónica) y 7.2.J01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "09:00",
+       "end": "10:30",
+       "room": "LAB 1.0.E01 (Electrónica)",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "18.sep",
+         "room": "LAB 1.0.E01 (Electrónica)"
         }
        ]
       }
@@ -2712,6 +2796,19 @@
        "day": 4,
        "start": "15:30",
        "end": "17:00",
+       "room": "Aula 7.1.J07",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "13.nov",
+         "room": "Aula 7.1.J07"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "15:30",
+       "end": "17:00",
        "room": "Aula 7.0.J06",
        "type": "Obligatoria",
        "slots": [
@@ -2735,23 +2832,6 @@
        "day": 0,
        "start": "15:30",
        "end": "17:00",
-       "room": "Aula INF 7.0.J02 DUAL+ TEL",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "21.sep",
-         "room": "Aula INF 7.0.J02 DUAL+ TEL"
-        },
-        {
-         "dates": "19.oct",
-         "room": "Aula INF 7.0.J02 DUAL+ TEL"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "15:30",
-       "end": "17:00",
        "room": "Aula 7.0.J06",
        "type": "Obligatoria",
        "slots": [
@@ -2762,6 +2842,23 @@
         {
          "dates": "23.nov",
          "room": "Aula 7.0.J06"
+        }
+       ]
+      },
+      {
+       "day": 0,
+       "start": "15:30",
+       "end": "17:00",
+       "room": "Aula INF 7.0.J02 DUAL+ TEL",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "21.sep",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
+        },
+        {
+         "dates": "19.oct",
+         "room": "Aula INF 7.0.J02 DUAL+ TEL"
         }
        ]
       },

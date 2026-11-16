@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Teoría y Crítica de la Cultura",
  "year": "2026",
- "generatedAt": "2026-11-09T12:55:15Z",
+ "generatedAt": "2026-11-16T12:47:52Z",
  "subjects": [
   {
    "code": "20292",
@@ -84,19 +84,6 @@
        "day": 0,
        "start": "12:00",
        "end": "14:00",
-       "room": "Aula 18.0.A01",
-       "type": "Máster oficial",
-       "slots": [
-        {
-         "dates": "21.sep",
-         "room": "Aula 18.0.A01"
-        }
-       ]
-      },
-      {
-       "day": 0,
-       "start": "12:00",
-       "end": "14:00",
        "room": "Aula 18.0.A09",
        "type": "Máster oficial",
        "slots": [
@@ -119,15 +106,15 @@
        ]
       },
       {
-       "day": 4,
-       "start": "10:00",
-       "end": "13:00",
-       "room": "Aula 18.0.A09",
+       "day": 0,
+       "start": "12:00",
+       "end": "14:00",
+       "room": "Aula 18.0.A01",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "13.nov",
-         "room": "Aula 18.0.A09"
+         "dates": "21.sep",
+         "room": "Aula 18.0.A01"
         }
        ]
       },
@@ -140,6 +127,19 @@
        "slots": [
         {
          "dates": "18.dic",
+         "room": "Aula 18.0.A09"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "10:00",
+       "end": "13:00",
+       "room": "Aula 18.0.A09",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "13.nov",
          "room": "Aula 18.0.A09"
         }
        ]
@@ -267,12 +267,12 @@
       {
        "day": 4,
        "start": "10:00",
-       "end": "13:30",
+       "end": "13:00",
        "room": "Aula 18.0.A09",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "18.dic",
+         "dates": "30.oct",
          "room": "Aula 18.0.A09"
         }
        ]
@@ -280,12 +280,12 @@
       {
        "day": 4,
        "start": "10:00",
-       "end": "13:00",
+       "end": "13:30",
        "room": "Aula 18.0.A09",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "30.oct",
+         "dates": "18.dic",
          "room": "Aula 18.0.A09"
         }
        ]
@@ -332,12 +332,12 @@
       {
        "day": 4,
        "start": "10:00",
-       "end": "13:30",
+       "end": "13:00",
        "room": "Aula 18.0.A09",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "18.dic",
+         "dates": "13.nov",
          "room": "Aula 18.0.A09"
         }
        ]
@@ -345,12 +345,12 @@
       {
        "day": 4,
        "start": "10:00",
-       "end": "13:00",
+       "end": "13:30",
        "room": "Aula 18.0.A09",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "13.nov",
+         "dates": "18.dic",
          "room": "Aula 18.0.A09"
         }
        ]
@@ -828,12 +828,12 @@
       {
        "day": 4,
        "start": "10:00",
-       "end": "13:30",
+       "end": "13:00",
        "room": "Aula 18.0.A09",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "14.may",
+         "dates": "23.abr",
          "room": "Aula 18.0.A09"
         }
        ]
@@ -841,12 +841,12 @@
       {
        "day": 4,
        "start": "10:00",
-       "end": "13:00",
+       "end": "13:30",
        "room": "Aula 18.0.A09",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "23.abr",
+         "dates": "14.may",
          "room": "Aula 18.0.A09"
         }
        ]

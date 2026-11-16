@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Electrificación del Transporte",
  "year": "2026",
- "generatedAt": "2026-11-09T13:36:37Z",
+ "generatedAt": "2026-11-16T13:28:14Z",
  "subjects": [
   {
    "code": "20856",
@@ -39,8 +39,12 @@
          "room": "Aula 4.2.E02"
         },
         {
-         "dates": "04.nov-11.nov",
+         "dates": "04.nov",
          "room": "Aulas Aula Multimedia 3.S1.19 y 4.1.E02"
+        },
+        {
+         "dates": "11.nov",
+         "room": "Aula 4.1.E02"
         },
         {
          "dates": "18.nov-16.dic",
@@ -98,7 +102,11 @@
          "room": "Aula 4.2.E02"
         },
         {
-         "dates": "04.nov-11.nov",
+         "dates": "04.nov",
+         "room": "Aula 4.1.E02"
+        },
+        {
+         "dates": "11.nov",
          "room": "Aulas Aula Multimedia 3.S1.19 y 4.1.E02"
         },
         {
@@ -241,12 +249,12 @@
        "day": 2,
        "start": "17:15",
        "end": "18:45",
-       "room": "Aula Aula Multimedia 3.S1.19",
+       "room": "Aula 4.1.E02",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "16.dic",
-         "room": "Aula Aula Multimedia 3.S1.19"
+         "room": "Aula 4.1.E02"
         }
        ]
       }

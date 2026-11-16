@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Marketing - Presencial",
  "year": "2026",
- "generatedAt": "2026-11-09T12:52:28Z",
+ "generatedAt": "2026-11-16T12:45:09Z",
  "subjects": [
   {
    "code": "16226",
@@ -552,16 +552,16 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 2.A.03",
+       "room": "Aula 2.A.05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "13.nov",
-         "room": "Aula 2.A.03"
+         "room": "Aula 2.A.05"
         },
         {
          "dates": "18.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 2.A.05"
         }
        ]
       },
@@ -569,16 +569,16 @@
        "day": 4,
        "start": "14:00",
        "end": "15:30",
-       "room": "Aula 2.A.03",
+       "room": "Aula 2.A.05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "13.nov",
-         "room": "Aula 2.A.03"
+         "room": "Aula 2.A.05"
         },
         {
          "dates": "18.dic",
-         "room": "Aula 2.A.03"
+         "room": "Aula 2.A.05"
         }
        ]
       }
@@ -677,12 +677,12 @@
        "day": 0,
        "start": "14:00",
        "end": "15:30",
-       "room": "Aula 2.A.04",
+       "room": "Aula 2.A.05",
        "type": "Máster oficial",
        "slots": [
         {
          "dates": "16.nov",
-         "room": "Aula 2.A.04"
+         "room": "Aula 2.A.05"
         }
        ]
       },
@@ -690,20 +690,12 @@
        "day": 4,
        "start": "12:30",
        "end": "14:00",
-       "room": "Aula 2.A.05",
+       "room": "Aula 2.A.03",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "13.nov",
-         "room": "Aula 2.A.05"
-        },
-        {
-         "dates": "20.nov-11.dic",
+         "dates": "13.nov-18.dic",
          "room": "Aula 2.A.03"
-        },
-        {
-         "dates": "18.dic",
-         "room": "Aula 2.A.05"
         }
        ]
       },
@@ -711,20 +703,12 @@
        "day": 4,
        "start": "14:00",
        "end": "15:30",
-       "room": "Aula 2.A.05",
+       "room": "Aula 2.A.03",
        "type": "Máster oficial",
        "slots": [
         {
-         "dates": "13.nov",
-         "room": "Aula 2.A.05"
-        },
-        {
-         "dates": "20.nov-11.dic",
+         "dates": "13.nov-18.dic",
          "room": "Aula 2.A.03"
-        },
-        {
-         "dates": "18.dic",
-         "room": "Aula 2.A.05"
         }
        ]
       }
@@ -1026,6 +1010,19 @@
     {
      "id": "1",
      "sessions": [
+      {
+       "day": 1,
+       "start": "12:30",
+       "end": "14:30",
+       "room": "Aula 2.A.03",
+       "type": "Máster oficial",
+       "slots": [
+        {
+         "dates": "02.feb",
+         "room": "Aula 2.A.03"
+        }
+       ]
+      },
       {
        "day": 3,
        "start": "09:00",

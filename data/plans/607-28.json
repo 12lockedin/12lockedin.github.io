@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Máster Universitario en Ingeniería Informática",
  "year": "2026",
- "generatedAt": "2026-11-09T13:38:43Z",
+ "generatedAt": "2026-11-16T13:30:47Z",
  "subjects": [
   {
    "code": "18647",
@@ -461,6 +461,10 @@
         {
          "dates": "28.sep",
          "room": "Aula 4.0.E06"
+        },
+        {
+         "dates": "30.nov",
+         "room": "Aula 4.0.E06"
         }
        ]
       },
@@ -501,7 +505,7 @@
          "room": "Aula 4.0.E05"
         },
         {
-         "dates": "24.nov-01.dic",
+         "dates": "24.nov",
          "room": "Aula 4.0.E05"
         }
        ]

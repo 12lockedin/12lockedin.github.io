@@ -4,7 +4,7 @@
  "type": "grado",
  "name": "Grado en Neurociencia",
  "year": "2026",
- "generatedAt": "2026-11-09T13:22:38Z",
+ "generatedAt": "2026-11-16T13:14:48Z",
  "subjects": [
   {
    "code": "19760",
@@ -110,7 +110,15 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "28.oct-25.nov",
+         "dates": "28.oct-04.nov",
+         "room": "LAB-20.1.A01"
+        },
+        {
+         "dates": "18.nov",
+         "room": "LAB-20.1.A01"
+        },
+        {
+         "dates": "09.dic",
          "room": "LAB-20.1.A01"
         }
        ]
@@ -136,7 +144,11 @@
        "type": "Básica",
        "slots": [
         {
-         "dates": "29.oct-26.nov",
+         "dates": "29.oct-19.nov",
+         "room": "LAB-20.1.A01"
+        },
+        {
+         "dates": "10.dic",
          "room": "LAB-20.1.A01"
         }
        ]
@@ -151,6 +163,19 @@
         {
          "dates": "30.oct",
          "room": "Aula 20.1.D01"
+        }
+       ]
+      },
+      {
+       "day": 4,
+       "start": "11:00",
+       "end": "15:00",
+       "room": "LAB-20.1.A01",
+       "type": "Básica",
+       "slots": [
+        {
+         "dates": "20.nov",
+         "room": "LAB-20.1.A01"
         }
        ]
       },
@@ -605,19 +630,6 @@
        "day": 3,
        "start": "09:00",
        "end": "13:00",
-       "room": "LAB-20.1.E01",
-       "type": "Obligatoria",
-       "slots": [
-        {
-         "dates": "12.nov",
-         "room": "LAB-20.1.E01"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "09:00",
-       "end": "13:00",
        "room": "LAB-20.1.A01",
        "type": "Obligatoria",
        "slots": [
@@ -628,6 +640,19 @@
         {
          "dates": "19.nov",
          "room": "LAB-20.1.A01"
+        }
+       ]
+      },
+      {
+       "day": 3,
+       "start": "09:00",
+       "end": "13:00",
+       "room": "LAB-20.1.E01",
+       "type": "Obligatoria",
+       "slots": [
+        {
+         "dates": "12.nov",
+         "room": "LAB-20.1.E01"
         }
        ]
       }

@@ -4,7 +4,7 @@
  "type": "master",
  "name": "Doble Máster en Ingeniería Informática y Métodos Analíticos para Datos Masivos: Big Data",
  "year": "2026",
- "generatedAt": "2026-11-09T13:25:38Z",
+ "generatedAt": "2026-11-16T13:17:42Z",
  "subjects": [
   {
    "code": "17234",
@@ -238,25 +238,12 @@
       {
        "day": 3,
        "start": "11:15",
-       "end": "14:45",
-       "room": "Aula 0.A.09",
-       "type": null,
-       "slots": [
-        {
-         "dates": "12.nov-19.nov",
-         "room": "Aula 0.A.09"
-        }
-       ]
-      },
-      {
-       "day": 3,
-       "start": "11:15",
        "end": "12:45",
        "room": "Aula 0.A.09",
        "type": null,
        "slots": [
         {
-         "dates": "05.nov",
+         "dates": "05.nov-19.nov",
          "room": "Aula 0.A.09"
         }
        ]
